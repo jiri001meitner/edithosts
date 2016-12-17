@@ -2,7 +2,7 @@
 
 # Stažení pro kontrolu aktualizace
 
-cd /tmp
+cd /tmp || exit
 git clone  https://github.com/jiri001meitner/edithosts.git
 
 # Ověření, zdali-je potřeba aktualizovat
@@ -12,7 +12,7 @@ versionnew=$(head -n 1 /tmp/edithosts/version)
 
 echo "edithosts:Nainstalovaná verze je $versionold, nová verze je $versionnew.".
 
-	if [ $versionnew != $versionold ] ; then
+	if [ $"versionnew" != $"versionold" ] ; then
 
 echo "edithosts:Proběhne aktualizace programu."
 
