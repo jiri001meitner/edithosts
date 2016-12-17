@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 11 Dec 2016 19:30 UTC
+# Last modified: 17 Dec 2016 20:20 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 9/12/2016
+# Last change: 16/12/2016
 # List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 # GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 # License: CC-BY-SA v4.0
@@ -169,6 +169,7 @@ msFilterList
 -d lui-magazine.cz /images/banners/nove/brand/
 -d lupa.cz /please/showit/*.js
 -d lupa.cz one2n1*.js
+# /(?:\blupa\.cz\/)(?:[\w+,]{400,}$)/$script
 -d luxusnirekreacnidomy.cz /adds/
 -d majnuj.cz /wp-content/uploads/*/ulozto_button.png
 -d mamincinyrecepty.cz /images/banner
@@ -291,7 +292,8 @@ msFilterList
 # extra.cz a onetv.cz
 -d extra.cz /js/fuckadblock.js
 -d extra.cz banner*.js
-# /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^\/]{300,}$)/$script
+# /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:.{40,48}$)/$script
+# /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:.{400,}$)/$script
 # games.tiscali.cz
 -d games.tiscali.cz /js/*Ad*.js
 -d games.tiscali.cz /js/*BBID*.js
@@ -312,14 +314,19 @@ msFilterList
 -d games.tiscali.cz ?typkodu=*.js
 -d games.tiscali.cz ?2.0.200*.js
 -d games.tiscali.cz sklik*.js
+-d games.tiscali.cz ;click=*.js
+-d games.tiscali.cz ad.js
 # ||games.tiscali.cz/*/$image,~third-party
 +d games.tiscali.cz /img/
 +d foto.games.tiscali.cz
-# /\bgames\.tiscali\.cz\/[\w+-]{60,83}$/$script
+# /\bgames\.tiscali\.cz\/[\w+-]{43,83}$/$script
+# /(?:\bgames\.tiscali\.cz\/)(?:.{80,100}$)/$script
 # /(?:\bgames\.tiscali\.cz\/)(?:[\w+/.]{500,}$)/$script
 # idnes.cz (starsi blokovani zakomentovano, pravdepodobne jiz neni potreba)
 -d idnes.cz /please/showit/*.js
-# /(?:\bidnes\.cz\/)(?:[^\/]{300,}$)/$script
+# /(?=.*(?:\/\*)+.*$)(?:\bidnes.cz\/)(?:.{120,}$)/$script
+# /(?:\bidnes\.cz\/)(?:.{250,}$)/$script
+# /(?:\bidnes\.cz\/)(?:.{40,48}$)/$script
 # ||idnes.cz$script,~third-party
 # @@||servix.idnes.cz/media$script,~third-party
 # @@||mapy.idnes.cz$script,~third-party
@@ -366,7 +373,10 @@ msFilterList
 -d zive.cz /_rev2015/js/*?bn=*.js
 -d zive.cz sklik*.js
 -d zive.cz JSAdserving*.js
-# /(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\breflex\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[\w-;+.]{400,}$)/$script
+# /(?=.*(?:\/\*)+.*$)(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:.{400,}$)/$script
+# /(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^\/]{400,}$)/$script
+# /(?:\breflex\.cz\/)(?:.{400,}$)/$script
+# /(?:\breflex\.cz\/)(?:.{40,48}$)/$script
 #
 # ---------- Slovak 1st party blocking rules ----------#
 #
@@ -636,6 +646,7 @@ msFilterList
 +d topserialy.sk fuck-adblock*.js
 # @@||topserialy.sk$generichide
 +d topserialy.sk /js/adsbygoogle.js
+# @@||h.imedia.cz^$domain=seznam.cz
 +d i0.cz /js/advert.
 +d i0.cz .js
 -d echo24.cz /templateAssets/js/inlog.js
@@ -7533,6 +7544,8 @@ msFilterList
 # /BlockerBanner/*$xmlhttprequest
 - /Disable%2BAdblock.
 - /fuckadb.js
+- /fuckadblock.js
+- /fuckadblock/*.js
 - /fuckingadblockplus.
 - /ibd-block-adblocker/
 - /no-adblock/
@@ -12149,6 +12162,7 @@ msFilterList
 -d yuarth.com
 -d yucce.com
 -d yumenetworks.com
+-d yunshipei.com
 -d yupfiles.club
 -d yupfiles.net
 -d yupfiles.org
@@ -12292,12 +12306,14 @@ msFilterList
 -d antrtrtyzkhw.com
 -d anyuwksovtwv.com
 -d aominpzhzhwj.com
+-d aomvdhxvblfp.com
 -d aoqviogrwckf.com
 -d apgjczhgjrka.com
 -d aqlvpnfxrkyf.com
 -d aragvjeosjdx.com
 -d aryufuxbmwnb.com
 -d asqamasz.com
+-d atcyboopajyp.com
 -d avrdpbiwvwyt.com
 -d avzkjvbaxgqk.com
 -d awfjqdhcuftd.com
@@ -12343,6 +12359,7 @@ msFilterList
 -d bxoixzbtllwx.com
 -d bzjtjfjteazqzmukjwhyzsaqdtouiopcmtmgdiytfdzboxdann.com
 -d cbwrwcjdctrj.com
+-d cbxqceuuwnaz.com
 -d cbxtnudkklwh.com
 -d ccbaobjyprxh.com
 -d ccdkyvyw.com
@@ -12355,6 +12372,7 @@ msFilterList
 -d cewdbisyrzdv.com
 -d cfsdtzggpcmr.com
 -d cgmkpdqjnedb.com
+-d chvjfriqlvnt.com
 -d chxfeymgmwbo.com
 -d cihnrhqwbcsq.com
 -d cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
@@ -12389,6 +12407,7 @@ msFilterList
 -d dacqmkmsjajm.com
 -d daxzupqivdoj.com
 -d dbjcbnlwchgu.com
+-d dbtaclpoahri.com
 -d dbwawnzkjniz.com
 -d dcgbswcvywyl.com
 -d dcneohtx.com
@@ -12402,13 +12421,16 @@ msFilterList
 -d djntmaplqzbi.com
 -d djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 -d dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
+-d dmbjbgiifpfo.com
 -d dmdcpvgu.com
+-d dmojscqlwewu.com
 -d dmwubqhtuvls.com
 -d dmyypseympjf.com
 -d dnxpseduuehm.com
 -d dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 -d dobjgpqzygow.com
 -d dohhehsgnxfl.com
+-d dovltuzibsfs.com
 -d dpallyihgtgu.com
 -d dppcevxbshdl.com
 -d drtqfejznjnl.com
@@ -12452,6 +12474,7 @@ msFilterList
 -d eslydbnukkme.com
 -d esnirgskobfj.com
 -d evhvoeqfrlsb.com
+-d ezbtpdjeimlv.com
 -d ezuosstmbcle.com
 -d farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
 -d fbbjlubvwmwd.com
@@ -12482,7 +12505,9 @@ msFilterList
 -d frddujheozns.com
 -d frdhsmerubfg.com
 -d frlvfzybstsa.com
+-d fuurqgbfhvqx.com
 -d fvbeyduylvgy.com
+-d fxjgprpozntk.com
 -d fxjyultd.com
 -d fxrgikipxnlq.com
 -d fxtgrttlarkl.com
@@ -12514,7 +12539,9 @@ msFilterList
 -d gqthfroeirol.com
 -d gqulrzprheth.com
 -d grceweaxhbpvclyxhwuozrbtvqzjgbnzklvxdezzficwjnmfil.com
+-d grfqrhqlzvjl.com
 -d gtaouarrwypu.com
+-d gtevyaeeiged.com
 -d gtmonytxxglu.com
 -d gtqfsxrrerzu.com
 -d gubdadtxwqow.com
@@ -12526,6 +12553,7 @@ msFilterList
 -d gxvbogvbcivs.com
 -d gyinmxpztbgf.com
 -d gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com
+-d gzkoehgbpozz.com
 -d gzmofmqddajr.com
 -d hafbezbemwwd.com
 -d haqlmmii.com
@@ -12591,12 +12619,15 @@ msFilterList
 -d ilsivrexvpyv.com
 -d imbbjywwahev.com
 -d imgoatxhxior.com
+-d imqkdsdgfygm.com
 -d imrwxmau.com
 -d imyqdbxq.com
+-d insbrvwfrcgb.com
 -d ioatyggwaypq.com
 -d iohaqrkjddeq.com
 -d ioighavxylne.com
 -d ionbpysfukdh.com
+-d iqmjedevvojm.com
 -d iqrqmhrfkyuu.com
 -d irjaeupzarkvwmxonaeslgicvjvgdruvdywmdvuaoyfsjgdzhk.com
 -d irxpndjg.com
@@ -12674,6 +12705,7 @@ msFilterList
 -d kthdreplfmil.com
 -d ktjqfqadgmxh.com
 -d kurtgcwrdakv.com
+-d kvpofpkxmlpb.com
 -d kwgpddeduvje.com
 -d kwipnlppnybc.com
 -d kxdprqrrfhhn.com
@@ -12728,6 +12760,7 @@ msFilterList
 -d mepchnbjsrik.com
 -d mflkgrgxadij.com
 -d mfmikwfdopmiusbveskwmouxvafvzurvklwyfamxlddexgrtci.com
+-d mftbfgcusnzl.com
 -d mgrxsztbcfeg.com
 -d mhrfhwlqsnzf.com
 -d miadbbnreara.com
@@ -12790,6 +12823,7 @@ msFilterList
 -d nrgpugas.com
 -d nryvxfosuiju.com
 -d nsazelqlavtc.com
+-d ntnlawgchgds.com
 -d nuayfpthqlkq.com
 -d nubtjnopbjup.com
 -d nunsbvlzuhyi.com
@@ -12816,6 +12850,7 @@ msFilterList
 -d ophpbseelohv.com
 -d opyisszzoyhc.com
 -d oqmjxcqgdghq.com
+-d ormnduxoewtl.com
 -d orszajhynaqr.com
 -d osbblnlmwzcr.com
 -d oslzqjnh.com
@@ -12895,6 +12930,7 @@ msFilterList
 -d qotwtnckqrke.com
 -d qpiyjprptazz.com
 -d qqapezviufsh.com
+-d qqylzyrqnewl.com
 -d qrozsnmc.com
 -d qtjafpcpmcri.com
 -d qtsmzrnccnwz.com
@@ -12911,8 +12947,10 @@ msFilterList
 -d rbppnzuxoatx.com
 -d rbrbvedkazkr.com
 -d rbsfglbipyfs.com
+-d rbvfibdsouqz.com
 -d rbyjirwjbibz.com
 -d rcjthosmxldl.com
+-d rdikvendxamg.com
 -d rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
 -d reebinbxhlva.com
 -d rffqzbqqmuhaomjpwatukocrykmesssfdhpjuoptovsthbsswd.com
@@ -12988,6 +13026,7 @@ msFilterList
 -d tabeduhsdhlkalelecelxbcwvsfyspwictbszchbbratpojhlb.com
 -d tailpdulprkp.com
 -d tamqqjgbvbps.com
+-d taodggarfrmd.com
 -d tapihmxemcksuvleuzpodsdfubceomxfqayamnsoswxzkijjmw.com
 -d taqyljgaqsaz.com
 -d tawgiuioeaovaozwassucoydtrsellartytpikvcjpuwpagwfv.com
@@ -13014,6 +13053,7 @@ msFilterList
 -d toyhxqjgqcjo.com
 -d tpvprtdclnym.com
 -d trqbzsxnzxmf.com
+-d tskctmvpwjdb.com
 -d tsuitufixxlf.com
 -d tswhwnkcjvxf.com
 -d tujbidamlfrn.com
@@ -13036,6 +13076,7 @@ msFilterList
 -d uerladwdpkge.com
 -d ufmnicckqyru.com
 -d ugxyemavfvlolypdqcksmqzorlphjycckszifyknwlfcvxxihx.com
+-d uhfqrxwlnszw.com
 -d uilknldyynwm.com
 -d ujdctbsbbimb.com
 -d ujocmihdknwj.com
@@ -13059,6 +13100,7 @@ msFilterList
 -d uzesptwcwwmt.com
 -d uzqtaxiorsev.com
 -d uzreuvnlizlz.com
+-d vamuglchdpte.com
 -d vaoajrwmjzxp.com
 -d vbupfouyymse.com
 -d vbuqjdyrsrvi.com
@@ -13094,6 +13136,7 @@ msFilterList
 -d vulexmouotod.com
 -d vunwzlxfsogj.com
 -d vwugfpktabed.com
+-d vxbtrsqjnjpq.com
 -d vxlpefsjnmws.com
 -d vxqhchlyijwu.com
 -d vxuhavco.com
@@ -13166,6 +13209,7 @@ msFilterList
 -d xhqilhfrfkoecllmthusrpycaogrfivehyymyqkpmxbtomexwl.com
 -d xhwtilplkmvbxumaxwmpaqexnwxypcyndhjokwqkxcwbbsclqh.com
 -d xirtesuryeqk.com
+-d xjompsubsozc.com
 -d xjsqhlfscjxo.com
 -d xmmnwyxkfcavuqhsoxfrjplodnhzaafbpsojnqjeoofyqallmf.com
 -d xpkhmrdqhiux.com
@@ -15234,7 +15278,7 @@ msFilterList
 -d amazonaws.com /widgets.youcompare.com.au/
 -d amazonaws.com /youpop/
 # ||amazonaws.com^$script,domain=forbes.com|globes.co.il|mp3goo.com|streamplay.to|uplod.ws|usersfiles.com
-# ||amazonaws.com^$third-party,xmlhttprequest,domain=bdupload.info|bigfile.to|frendz4m.com|fullstuff.co|imgchili.net|mirrorcreator.com|nachostime.net|sadeempc.com|thevideobee.to|uplod.ws|vidshare.us|watchers.to|yourvideohost.com
+# ||amazonaws.com^$third-party,xmlhttprequest,domain=bdupload.info|bigfile.to|cu.cc|frendz4m.com|fullstuff.co|imgchili.net|mirrorcreator.com|nachostime.net|sadeempc.com|thevideobee.to|uplod.ws|vidshare.us|watchers.to|yourvideohost.com
 -d analytics.disneyinternational.com
 # ||ancestrydata.com/widget.html?$domain=findagrave.com
 -d angelbc.com /clients/*/banners/
@@ -15468,6 +15512,7 @@ msFilterList
 -d cnhionline.com /rtj_ad.jpg
 -d cnnewmedia.co.uk /locker/
 -d code.popup2m.com
+-d codeartlove.com /clients/
 # ||colmwynne.com^$image,third-party
 -d colorlabsproject.com /banner_
 # ||complexmedianetwork.com/cdn/agenda.complex.com/$domain=~complex.com
@@ -16608,6 +16653,7 @@ msFilterList
 -d tcmwebcorp.com /dtm/tc_global_dtm_delivery.js
 -d techbargains.com /inc_iframe_deals_feed.cfm?
 -d techbargains.com /scripts/banner.js
+-d techkeels.com /creatives/
 -d tedswoodworking.com /images/banners/
 -d textlinks.com /images/banners/
 -d thaiforlove.com /userfiles/affb-
@@ -17728,6 +17774,7 @@ msFilterList
 -d ad.search.ch
 -d ad.services.distractify.com
 -d ad.xmovies8.tv
+-d adaderana.lk /banners/
 -d adamvstheman.com /wp-content/uploads/*/AVTM_banner.jpg
 -d adcitrus.com
 -d addirector.vindicosuite.com
@@ -17915,6 +17962,7 @@ msFilterList
 -d ask.com /fifdart?
 -d askandyaboutclothes.com /images/
 -d askbobrankin.com /awpopup*.js
+# ||assets.stuff.co.nz^$subdocument
 -d astalavista.com /avtng/
 -d astalavista.com /sponsor-
 -d astronomy.com /sitefiles/overlays/overlaygenerator.aspx?
@@ -20813,15 +20861,6 @@ msFilterList
 -d streams.tv /js/pu.js
 -d streams.tv /js/slidingbanner.js
 -d student-jobs.co.uk /banner.
--d stuff.co.nz /1319769787/395/5871395.jpg
--d stuff.co.nz /1361239022/107/8323107.jpg
--d stuff.co.nz /clientdev/production/iframes/
--d stuff.co.nz /files/NZBoatM4Gwidget.html
--d stuff.co.nz /stuff/*banner
--d stuff.co.nz /stuff/misc/flying-flowers/
--d stuff.co.nz /stuff/tom/mags-widget/
--d stuff.co.nz /stuff/widgets/lifedirect/
--d stuff.co.nz /stuff-bayleys/
 # ||stuff.priceme.co.nz^$domain=stuff.co.nz
 -d stuff.tv /client/skinning/
 -d stv.tv /img/player/stvplayer-sponsorstrip-
@@ -21743,6 +21782,7 @@ msFilterList
 -d zawya.com /ads/
 -d zawya.com /brands/
 -d zbc.co.zw /banners/
+-d zdnet.com /medusa/
 -d zeetvusa.com /images/CARIBBEN.jpg
 -d zeetvusa.com /images/hightlow.jpg
 -d zeetvusa.com /images/SevaWeb.gif
@@ -21782,8 +21822,8 @@ msFilterList
 # |http://$script,third-party,xmlhttprequest,domain=veekyforums.com
 # ||veekyforums.com^$subdocument,~third-party
 # projectwatchseries.com
-+d ajax.googleapis.com .js
-+d cdnjs.cloudflare.com .js
+# @@||ajax.googleapis.com^$script,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
+# @@||cdnjs.cloudflare.com^$script,domain=domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
 # |http://$script,third-party,xmlhttprequest,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
 # |https://$script,third-party,xmlhttprequest,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
 # urlcash.net
@@ -21793,9 +21833,9 @@ msFilterList
 # |http://$script,third-party,xmlhttprequest,domain=yibada.com
 # |https://$script,third-party,xmlhttprequest,domain=yibada.com
 # thebarchive.com
-# @@||ajax.googleapis.com^$script,domain=thebarchive.com
-# |http://$script,third-party,xmlhttprequest,domain=thebarchive.com
-# |https://$script,third-party,xmlhttprequest,domain=thebarchive.com
+# @@||ajax.googleapis.com^$script,domain=4archive.org|cu.cc|randomarchive.com|thebarchive.com
+# |http://$script,third-party,xmlhttprequest,domain=4archive.org|cu.cc|randomarchive.com|thebarchive.com
+# |https://$script,third-party,xmlhttprequest,domain=4archive.org|cu.cc|randomarchive.com|thebarchive.com
 # watchtheofficeonline.com
 # @@||ajax.googleapis.com^$script,domain=watchtheofficeonline.com
 # @@||chatango.com^$script,domain=watchtheofficeonline.com
@@ -22766,10 +22806,11 @@ msFilterList
 # *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt ***
 # .link/$popup,domain=bigfile.to
 # /sendspace-pop.$popup,domain=sendspace.com
+# :text^$popup,domain=zippyshare.com
 # ^utm_source=$popup,domain=exashare.com|sex.com|thepiratebay.am|thepiratebay.gd|thepiratebay.la|thepiratebay.mn|thepiratebay.vg
 # |data^$popup,domain=gorillavid.in|nowvideo.to|zippyshare.com
 # |http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|eztv.ag|fastspics.net|filepost.com|filmovizija.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|openload.co|pic2pic.site|pixsense.net|pornparadise.org|projectfreetv.at|promptfile.com|thevideo.me|twer.info|uptobox.com|uptostream.com|vid.ag|vidspot.net|vidzi.tv|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
-# |https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|thevideo.me|uptobox.com|uptostream.com|yts.ag
+# |https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|imgbox.com|thevideo.me|uptobox.com|uptostream.com|yts.ag
 # ||104.198.221.99^$popup
 # ||104.239.139.5/display/$popup
 # ||130.211.198.219^$popup
@@ -24625,6 +24666,7 @@ msFilterList
 +d cyberpower.advizia.com /scripts/adv.js
 +d cydiaupdates.net /CydiaUpdates.com_600x80.png
 # @@||d1sp6mwzi1jpx1.cloudfront.net^*/advertisement_min.js$domain=reelkandi.com
+# @@||d2nlytvx51ywh9.cloudfront.net/m$image,domain=primewire.ag
 +d d3con.org /data1/
 # @@||d3iuob6xw3k667.cloudfront.net^*.com/ad/$xmlhttprequest,domain=lucidchart.com|lucidpress.com
 # @@||d3pkae9owd2lcf.cloudfront.net/mb102.js$domain=wowhead.com
@@ -24903,9 +24945,9 @@ msFilterList
 +d goember.com /ad/*.xml?
 +d goodeed.com /donation/pr/*/makegoodeed
 +d goodyhoo.com /banners/
-# @@||google.*/s?*&q=$~third-party,xmlhttprequest,domain=domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es
-# @@||google.*/search?sclient=*&q=$~third-party,xmlhttprequest,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es
-# @@||google.*/webpagethumbnail?*&query=$script,~third-party,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es
+# @@||google.*/s?*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se
+# @@||google.*/search?sclient=*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se
+# @@||google.*/webpagethumbnail?*&query=$script,~third-party,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se
 +d google.com /_/apps-static/*/socialads/
 # @@||google.com/_static/images/*/ads.png$~third-party
 # @@||google.com/ads/search/module/ads/*/search.js$domain=about.com|armstrongmywire.com|atlanticbb.net|bestbuy.com|bresnan.net|broadstripe.net|buckeyecablesystem.net|cableone.net|centurylink.net|charter.net|cincinnatibell.net|dish.net|ehow.com|forbbbs.org|forbes.com|hargray.net|hawaiiantel.net|hickorytech.net|homeaway.co.uk|knology.net|livestrong.com|mediacomtoday.com|midco.net|mybendbroadband.com|mybrctv.com|mycenturylink.com|myconsolidated.net|myepb.net|mygrande.net|mygvtc.com|myhughesnet.com|myritter.com|northstate.net|nwcable.net|query.nytimes.com|rentals.com|search.rr.com|searchresults.verizon.com|suddenlink.net|surewest.com|synacor.net|tds.net|toshiba.com|trustedreviews.com|truvista.net|windstream.net|windstreambusiness.net|wowway.net|zoover.co.uk|zoover.com
@@ -24932,6 +24974,7 @@ msFilterList
 # @@||googlesyndication.com/simgad/7375390051936080329|$image,domain=wsj.com
 # @@||googlesyndication.com/simgad/781098143614816132|$image,domain=wsj.com
 # @@||googlesyndication.com/simgad/781301171516911047|$image,domain=wsj.com
+# @@||googletagservices.com/dcm/dcmads.js$domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
 # @@||gopjn.com/b/$image,domain=deliverydeals.co.uk
 # @@||gorillanation.com/storage/lightbox_code/static/companion_ads.js$domain=comingsoon.net|gamerevolution.com|sohh.com
 +d gotoassist.com /images/ad/
@@ -25415,7 +25458,6 @@ msFilterList
 # @@||photobucket.com/pbkt/hserver/$object-subrequest,domain=photobucket.com
 # @@||photofunia.com/effects/$~third-party
 # @@||picmonkey.com/facebook-canvas/?ads$domain=apps.facebook.com
-+d picplzthumbs.com /upload/img/ad/
 +d piercesnorthsidemarket.com /ads/
 +d ping.indieclicktv.com /www/delivery/ajs.php?zoneid
 +d pinkbike.org .swf?ad=0&
@@ -25752,7 +25794,7 @@ msFilterList
 # @@||trafficvance.com^*/socket.io/$domain=propelmedia.com
 +d traktorpool.de /scripts/advert/
 +d traktorpool.de /advert.
-# @@||translate.google.*/translate_*&q=$~third-party,xmlhttprequest,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es
+# @@||translate.google.*/translate_*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se
 +d translate.google.com /translate/static/*-ads/
 +d traumagame.com /trauma_data/ads/ad2.jpg
 # @@||travelocity.com/event.ng/*click$domain=travelocity.com
@@ -26550,6 +26592,7 @@ msFilterList
 # @@||googlesyndication.com/pagead/osd.js$domain=allmusic.com|hulkusc.com|sc2casts.com
 +d gorillavid.in /script/ad.js
 +d gorillavid.in
++d graphiq.com /sites/*ad*.js
 +d grouchyaccessoryrockefeller.com /ads.js
 # @@||gscontxt.net/main/channels-jsonp.cgi?$domain=9news.com.au
 +d gsmarena.com
@@ -27047,6 +27090,7 @@ msFilterList
 +d showsport-tv.com /adv*.js
 +d showsport-tv.com
 +d siamfishing.com /advert.js
+# @@||silenston.com^$domain=wired.com
 +d sitepoint.com /ad-server.js
 # @@||sixpool.me^$image,domain=majorleaguegaming.com
 +d sizedrive.com
@@ -27742,8 +27786,6 @@ msFilterList
 +d arnhemland-safaris.com /images/*_480_80_
 +d artserieshotels.com.au /images/*_460_60.
 +d assets.vice.com _120x60.jpg
-+d assets1.plinxmedia.net _300x250.
-+d assets2.plinxmedia.net _300x250.
 # @@||bettermarks.com/media$~third-party
 # @@||bexio.com/files/content/*160x600.$domain=bexio.com
 +d bizquest.com _img/_franchise/*_120x60.
@@ -28099,6 +28141,7 @@ msFilterList
 +d phncdn.com /underscore-*.js
 # @@||phncdn.com/videos/$media,object,object-subrequest,other,domain=pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 # @@||phncdn.com/vortex-simple-*.js|$script,domain=redtube.com
++d phncdn.com /vortex.modern.js*.js
 +d phncdn.com /www-static/*/autocomplete.*.js
 +d phncdn.com /www-static/*/gif-view-functions.js*.js
 +d phncdn.com /www-static/*/gif-view.js*.js
@@ -28249,7 +28292,7 @@ msFilterList
 +d pornhublive.com /blacklabel/bl.client.min.js*.js
 # @@||public.tube8.phncdn.com^$media,other,domain=tube8.com
 # @@||public.youporn.phncdn.com^$media,object-subrequest,other,domain=youporn.com|youporngay.com
-# @@||rdtcdn.com^$image,media,other,domain=redtube.com
+# @@||rdtcdn.com^$image,media,other,domain=redtube.com|redtube.com.br
 +d redtube.com.br /_Incapsula_Resource?
 # @@||redtube.com.br/images/$image,domain=redtube.com.br
 +d redtube.com /_Incapsula_Resource?
@@ -28295,7 +28338,7 @@ msFilterList
 +d redtube.com /watched/
 +d redtube.com /media/videos/
 # @@||redtubefiles.com^$image,media,object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-# @@||rncdn3.com^$media,object-subrequest,other,domain=pornhub.com|youporn.com|youporngay.com
+# @@||rncdn3.com^$media,object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|youporn.com|youporngay.com
 # @@||s7.addthis.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # @@||spankwire.phncdn.com^$image,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # @@||static.tube8.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
