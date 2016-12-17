@@ -8,7 +8,7 @@ echo "edithosts:Already installed"
 echo "edithosts:Installing..."
 
 ## backup /etc/hosts
-cd edithosts
+cd edithosts || exit
 sudo mkdir /etc/hosts.d/ -m 644
 echo "edithosts:Backup /etc/hosts"
 sudo cp /etc/hosts /etc/hosts.d/hosts.bak
@@ -28,7 +28,7 @@ sudo cp uninstall.sh /opt/edithosts/uninstall.sh
 sudo cp licence /opt/edithosts/licence
 sudo cp temporarilydisableblocking.sh /opt/edithosts/temporarilydisableblocking.sh && sudo ln -s /opt/edithosts/temporarilydisableblocking.sh /usr/sbin/temporarilydisableblocking
 sudo cp refreshblocking.sh /opt/edithosts/refreshblocking.sh && sudo ln -s /opt/edithosts/refreshblocking.sh /usr/sbin/refreshblocking
-sudo gzip -c man/cs/man1/edithosts.1 > man/cs/man1/edithosts.1.gz
+gzip -c man/cs/man1/edithosts.1 | sudo tee -a man/cs/man1/edithosts.1.gz > /dev/null
 sudo mv man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
 sudo chmod 755 /opt/edithosts -R
 
