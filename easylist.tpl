@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 08 Feb 2017 15:50 UTC
+# Last modified: 14 Feb 2017 08:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -1082,6 +1082,7 @@ msFilterList
 - .advertmarket.
 - .adwolf.
 - .ae/ads/
+- .am/adv/
 - .ar/ads/
 - .ashx?ad=
 - .ashx?AdID=
@@ -3768,7 +3769,7 @@ msFilterList
 - /adwrapper/
 - /adwrapperiframe.
 - /adwriter2.
-# /adx.$domain=~adx.uk.com
+# /adx.$domain=~adx.uk.com|~adx.wowfi.com
 - /adx/ads?
 - /adx/iframe.
 - /adx/mobile/
@@ -3862,6 +3863,7 @@ msFilterList
 - /affpic/
 - /afr.php?
 - /afr?auid=
+- /afs/ads/
 - /ahmestatic/ads/
 - /ajax-ad/
 - /ajax-advert-
@@ -10593,6 +10595,7 @@ msFilterList
 -d jdproject.net
 -d jeetyetmedia.com
 -d jemmgroup.com
+-d jewishcontentnetwork.com
 -d jf2mn2ms.club
 -d jfduv7.com
 -d jfx61qca.site
@@ -10653,6 +10656,7 @@ msFilterList
 -d kiosked.com
 -d kitnmedia.com
 -d kjgh5o.com
+-d kkddlt2f.site
 -d klikadvertising.com
 -d kliksaya.com
 -d klikvip.com
@@ -10736,6 +10740,7 @@ msFilterList
 -d linkoffers.net
 -d linkreferral.com
 -d links.io
+-d links2revenue.com
 -d linkshowoff.com
 -d linksmart.com
 -d linkstorm.net
@@ -10983,6 +10988,7 @@ msFilterList
 -d moregamers.com
 -d moreplayerz.com
 -d morgdm.ru
+-d moritava.com
 -d mosaicolor.website
 -d moselats.com
 -d mottnow.com
@@ -14068,6 +14074,7 @@ msFilterList
 -d shoapinh.com
 -d sightr.net
 -d simusangr.com
+-d smethgiar.com
 -d spamualfr.com
 -d speandorf.net
 -d spereminf.com
@@ -14104,6 +14111,7 @@ msFilterList
 -d virsualr.com
 -d vopdi.com
 -d vuadiolgy.net
+-d vualawilk.com
 -d waddr.com
 -d wensdteuy.com
 -d wolopiar.com
@@ -14139,7 +14147,6 @@ msFilterList
 # ||104.154.237.93^$popup
 # ||104.198.147.108^$popup
 # ||123vidz.com^$popup,third-party
-# ||130.211.198.219^$popup
 # ||130.211.230.53^$popup,third-party
 # ||1afcfcb2c.ninja^$popup,third-party
 # ||1phads.com^$popup,third-party
@@ -15970,7 +15977,6 @@ msFilterList
 -d banners.smarttweak.com
 -d banners.videosz.com
 -d banners.webmasterplan.com
--d bannersnack.com /iframe/
 -d bbcchannels.com /workspace/uploads/
 -d bc.coupons.com
 -d bc.vc /js/link-converter.js
@@ -16014,6 +16020,7 @@ msFilterList
 -d blocks.ginotrack.com
 -d blogatus.com /images/banner/
 -d bloodstock.uk.com /affiliates/
+-d bluehost-cdn.com /media/partner/images/
 -d bluepromocode.com /images/widgets/
 -d bluesattv.net /bluesat.swf
 -d bluesattv.net /bluesattvnet.gif
@@ -16325,6 +16332,7 @@ msFilterList
 -d disy2s34euyqm.cloudfront.net
 -d dizixdllzznrf.cloudfront.net
 -d djlf5xdlz7m8m.cloudfront.net
+-d djr4k68f8n55o.cloudfront.net
 -d dkd69bwkvrht1.cloudfront.net
 -d dkdwv3lcby5zi.cloudfront.net
 -d dl392qndlveq0.cloudfront.net
@@ -17051,7 +17059,6 @@ msFilterList
 -d pubexchange.com /modules/display/*.js
 -d public.porn.fr
 -d publicidees.com /banner.php
--d publicidees.com /showbanner.php
 -d pubs.hiddennetwork.com
 -d puntersparadise.com.au /banners/
 -d purevpn.com /affiliates/
@@ -17383,6 +17390,7 @@ msFilterList
 -d usersfiles.com /images/72890UF.png
 -d usfine.com /images/sty_img/usfine.gif
 -d ussearch.com /preview/banner/
+-d utility.rogersmedia.com
 -d valuechecker.co.uk /banners/
 -d vapeworld.com /banners/
 -d vaporizor.com /banners/
@@ -18254,9 +18262,9 @@ msFilterList
 # /wp-content/plugins/wbounce/*$script,domain=viralcraze.net
 # ?random=$script,domain=allmyvideos.net|mediafire.com|mooshare.biz|muchshare.net|tvmuse.com|tvmuse.eu|vidspot.net
 # ^guid=$script,domain=allmyvideos.net|mediafire.com|mooshare.biz|muchshare.net|tvmuse.com|tvmuse.eu|vidspot.net
-# |blob:$domain=1337x.to|1channel.biz|androidcentral.com|anime-joy.tv|auroravid.to|bitvid.sx|champion.gg|cloudtime.to|couch-tuner.me|couchtuner.ac|couchtuner.us|dailycaller.com|dreamfilm.se|episodetube.com|episodetube.net|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.date|extratorrent.works|extratorrentlive.com|extratorrentonline.com|filme-streamz.com|filmlinks4u.is|firstrowau.eu|firstrowus1.eu|fmovies.se|fmovies.to|homerun.re|imagefap.com|keepvid.com|kickass.cd|kino-streamz.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|livescience.com|movies4stream.com|mylivecricket.org|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.sx|nowvideo.to|olympicstreams.me|onwatchseries.to|openload.co|pcgames-download.net|phonearena.com|pocketnow.com|primewire.ag|primewire.is|primewire.to|primewire.unblockall.xyz|rinf.com|sgvideos.net|snowysmile.com|stream2watch.cc|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|thefreethoughtproject.com|thevideo.me|tomshardware.com|tv-series.me|veteranstoday.com|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|watch-series-tv.to|watch-series.ag|watch-tv-series.to|watchepisodes-tv.com|watchseries.ag|watchseries.li|watchseries.lt|watchseries.ph|watchseries.vc|watchseriesuk.ag|watchseriesuk.lt|watchtvseries.se|watchtvseries.unblocked.cat|watchtvseries.vc|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws
+# |blob:$domain=1337x.to|1channel.biz|androidcentral.com|anime-joy.tv|auroravid.to|bitvid.sx|champion.gg|cloudtime.to|couch-tuner.me|couchtuner.ac|couchtuner.us|dailycaller.com|dreamfilm.se|episodetube.com|episodetube.net|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.date|extratorrent.works|extratorrentlive.com|extratorrentonline.com|filme-streamz.com|filmlinks4u.is|firstrowau.eu|firstrowus1.eu|fmovies.se|fmovies.to|homerun.re|imagefap.com|israelnationalnews.com|jewsnews.co.il|keepvid.com|kickass.cd|kino-streamz.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|livescience.com|movies4stream.com|mylivecricket.org|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.li|nowvideo.sx|nowvideo.to|olympicstreams.me|onwatchseries.to|openload.co|pcgames-download.net|phonearena.com|pocketnow.com|primewire.ag|primewire.is|primewire.to|primewire.unblockall.xyz|rinf.com|sgvideos.net|snowysmile.com|stream2watch.cc|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|thefreethoughtproject.com|thevideo.me|tomshardware.com|tv-series.me|veteranstoday.com|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|watch-series-tv.to|watch-series.ag|watch-tv-series.to|watchepisodes-tv.com|watchseries.ag|watchseries.li|watchseries.lt|watchseries.ph|watchseries.vc|watchseriesuk.ag|watchseriesuk.lt|watchtvseries.se|watchtvseries.unblocked.cat|watchtvseries.vc|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws
 # |http:$subdocument,third-party,domain=2ad.in|ad2links.com|adfoc.us|adv.li|adyou.me|allmyvideos.net|amvtv.net|ay.gy|fuestfka.com|imgmega.com|j.gs|linkbucksmedia.com|mortastica.com|prodsetter-in.com|q.gs|sh.st|shr77.com|sonomerit.com|ssovgoxbvppy.net|streamcloud.eu|thevideo.me|twer.info|u.bb|uploaded.net|vidspot.net
-# |http:$third-party,xmlhttprequest,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123movieshd.net|animehaven.to|auroravid.to|ay8ou8ohth.com|bitvid.sx|clipconverter.cc|cloudtime.to|cmovieshd.com|divxme.com|downloadming.tv|fmovies.to|full-pcsoftware.com|halacima.net|hdmusic99.in|kannadamovies.biz|movdivx.com|nowvideo.sx|nowvideo.to|oogh8ot0el.com|otorrents.com|pocketnow.com|thepiratebay.cd|vidzi.tv|wholecloud.net
+# |http:$third-party,xmlhttprequest,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123movieshd.net|animehaven.to|auroravid.to|ay8ou8ohth.com|bitvid.sx|clipconverter.cc|cloudtime.to|cmovieshd.com|divxme.com|downloadming.tv|fmovies.to|full-pcsoftware.com|halacima.net|hdmusic99.in|kannadamovies.biz|movdivx.com|nowvideo.li|nowvideo.sx|nowvideo.to|oogh8ot0el.com|otorrents.com|pocketnow.com|thepiratebay.cd|vidzi.tv|wholecloud.net
 - http://creative.*/smart.js*.js
 # |http://go.$domain=nowvideo.sx
 -d j.gs /omnigy*.swf
@@ -18567,6 +18575,7 @@ msFilterList
 -d archeagedatabase.net /images/okaygoods.gif
 -d arenabg.com /banners/
 -d arenadb.net /banners/
+-d armenpress.am /static/add/
 -d armorgames.com /assets/*_skin_
 -d armorgames.com /backup_
 -d armorgames.com /banners/
@@ -18934,7 +18943,7 @@ msFilterList
 # ||cloudfront.net/hot/ars.dart/$domain=arstechnica.com
 # ||cloudfront.net/images/amazon/$domain=slader.com
 # ||cloudfront.net/pop?$domain=clipconverter.cc
-# ||cloudfront.net^$script,domain=4archive.org|4chanarchives.cu.cc|addic7ed.com|animeflv.net|animehaven.to|auroravid.to|bdupload.info|biology-online.org|bitvid.sx|chronos.to|cloudtime.to|coreimg.net|dailyuploads.net|divxatope.com|downloadming.io|downloadming.tv|extratorrent.cc|extremetech.com|eztv.ag|frendz4m.com|fullstuff.co|goodvideohost.com|imgchili.net|kannadamovies.biz|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|multiup.org|mystream.la|nachostime.net|nitroflare.com|noslocker.com|nowvideo.sx|nowvideo.to|omghype.com|onhax.me|openload.co|ouo.io|reevown.com|sadeempc.com|scambiofile.info|sparknotes.com|streamplay.to|thevideobee.to|tinypaste.me|torrentproject.se|tsumino.com|tubeoffline.com|tvlivenow.com|upload.so|uplod.ws|usersfiles.com|vidlox.tv|vidshare.us|vshare.eu|watchers.to|watchfomny.tv|wholecloud.net|world4ufree.be|yahmaib3ai.com|yourvideohost.com
+# ||cloudfront.net^$script,domain=4archive.org|4chanarchives.cu.cc|addic7ed.com|animeflv.net|animehaven.to|auroravid.to|bdupload.info|biology-online.org|bitvid.sx|chronos.to|cloudtime.to|coreimg.net|dailyuploads.net|divxatope.com|downloadming.io|downloadming.tv|extratorrent.cc|extremetech.com|eztv.ag|frendz4m.com|fullstuff.co|goodvideohost.com|imgchili.net|kannadamovies.biz|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|multiup.org|mystream.la|nachostime.net|nitroflare.com|noslocker.com|nowvideo.li|nowvideo.sx|nowvideo.to|omghype.com|onhax.me|openload.co|ouo.io|reevown.com|sadeempc.com|scambiofile.info|sparknotes.com|streamplay.to|thevideobee.to|tinypaste.me|torrentproject.se|tsumino.com|tubeoffline.com|tvlivenow.com|upload.so|uplod.ws|usersfiles.com|vidlox.tv|vidshare.us|vshare.eu|watchers.to|watchfomny.tv|wholecloud.net|world4ufree.be|yahmaib3ai.com|yourvideohost.com
 # ||cloudfront.net^*/shaadi.com/$domain=deccanchronicle.com
 # ||cloudfront.net^*ad$domain=fiaformulae.com
 # ||cloudfront.net^*banner$domain=fiaformulae.com
@@ -20572,6 +20581,7 @@ msFilterList
 -d myway.com /gca_iframe.html
 -d mywot.net /files/wotcert/vipre.png
 -d naij.com /branding/
+-d nairaland.com /contents/
 -d nairaland.com /moneyz/
 -d nairaland.com /tasteful/
 -d namepros.com /images/backers/
@@ -20704,7 +20714,6 @@ msFilterList
 -d novamov.com /images/download_video.jpg
 -d nowgoal.com /images/foreign/
 -d nowwatchtvlive.co /revenuehits.html
--d nowwatchtvlive.com /matomyads.php
 -d nowwatchtvlive.com /revenuehits.html
 -d ntdtv.com /adv/
 -d nu2.nu /sponsor/
@@ -20841,6 +20850,8 @@ msFilterList
 -d pbsrc.com /sponsor/
 -d pcadvisor.co.uk /graphics/sponsored/
 -d pcauthority.com.au /skins/
+-d pcgamesn.com /sites/default/files/SE4L.JPG
+-d pcgamesn.com /sites/default/files/Se4S.jpg
 -d pcmag.com /blogshome/logicbuy.js
 -d pcpro.co.uk /images/*_siteskin
 -d pcpro.co.uk /images/skins/
@@ -22671,8 +22682,6 @@ msFilterList
 # @@||maxcdn.bootstrapcdn.com^$script,domain=yibada.com
 # @@||platform.instagram.com^$script,domain=yibada.com
 # @@||platform.twitter.com^$script,domain=yibada.com
-# |http://$script,third-party,domain=yibada.com
-# |https://$script,third-party,domain=yibada.com
 # jkanime.net
 # @@||cdnjs.cloudflare.com^$script,domain=jkanime.net
 # @@||connect.facebook.net^$script,domain=jkanime.net
@@ -22956,6 +22965,7 @@ msFilterList
 # @@||ajax.googleapis.com^$script,domain=mediafire.com
 # @@||cdn.mxpnl.com^$script,domain=mediafire.com
 # @@||connect.facebook.net^$script,domain=mediafire.com
+# @@||mediafireuserupload.com^$xmlhttprequest,domain=mediafire.com
 # @@||solvemedia.com^$script,domain=mediafire.com
 # @@||translate.google.com^$script,domain=mediafire.com
 # |http://$script,third-party,xmlhttprequest,domain=mediafire.com
@@ -23011,7 +23021,6 @@ msFilterList
 # |https://$script,subdocument,third-party,domain=powvideo.net
 # animmex
 # @@|https://$image,script,third-party,domain=4553t5pugtt1qslvsnmpc0tpfz5fo.xyz
-# @@|https://$image,third-party,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
 # @@|https://*/mgid/$script,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
 # @@||adnetasia.com^$script,domain=4553t5pugtt1qslvsnmpc0tpfz5fo.xyz
 # @@||adtrackers.net^$script,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
@@ -23153,9 +23162,7 @@ msFilterList
 # @@||maxcdn.bootstrapcdn.com^$script,domain=onwatchseries.to|watch-series.to|watchseries.li
 # @@||platform.twitter.com^$script,domain=onwatchseries.to|watch-series.to|watchseries.li
 # |http://$other,script,third-party,xmlhttprequest,domain=onwatchseries.to|watch-series.to|watchseries.li
-# |http://$script,third-party,xmlhttprequest,domain=onwatchseries.to|watch-series.to|watchseries.li
 # |https://$other,script,third-party,xmlhttprequest,domain=onwatchseries.to|watch-series.to|watchseries.li
-# |https://$script,third-party,xmlhttprequest,domain=onwatchseries.to|watch-series.to|watchseries.li
 # briskfile.com
 # @@||ajax.googleapis.com^$script,domain=briskfile.com
 # @@||connect.facebook.net^$script,domain=briskfile.com
@@ -23258,7 +23265,6 @@ msFilterList
 # speedtest.net
 # @@||ads.ookla.com/www/test.js?$script,domain=speedtest.net
 # @@||api.mapbox.com^$script,domain=speedtest.net
-# @@||b.cdnst.net/dist/js/$script,domain=speedtest.net
 # @@||beta.speedtest.net^$script,xmlhttprequest,domain=speedtest.net
 # @@||cdnst.net^$script,domain=speedtest.net
 # @@||google.com/coop/$script,domain=speedtest.net
@@ -23313,7 +23319,6 @@ msFilterList
 # watchseries-online.nl
 # @@||watchseries-online.nl/app/wp-includes/js/$script,domain=watchseries-online.nl
 # @@||watchseries-online.nl/wp-content/$script,domain=watchseries-online.nl
-# @@||watchseries-online.nl/wp-content/plugins/wp-$script,domain=watchseries-online.nl
 # ||watchseries-online.nl^$script,domain=watchseries-online.nl
 # mashable.com
 # @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=mashable.com
@@ -23374,11 +23379,11 @@ msFilterList
 +d windsorstar.com
 # @@||yahoo.com/lib/metro/g/myy/advertisement_0.0.1.js$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
 # Yavli.com
-# /corfenvaldite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
-# /corfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
-# /fopfenvaldite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
-# /fopfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
-# /kodfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
+# /fopefieldlite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
+# /kopfenvaldite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
+# /kopfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
+# /poffenvaldite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
+# /poffeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
 # /surfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
 # /virefieldlite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
 # /wknotime/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bidnessetc.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|digitalmusicnews.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
@@ -23456,6 +23461,7 @@ msFilterList
 +d google.com /js/th/*.js
 +d google.com /jsapi*.js
 +d google.com /recaptcha/*.js
+# @@||google.com/uds/$script,third-party,domain=infowars.com
 # @@||googleapis.com^$script,third-party,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredpanda.com|breaking911.com|breathecast.com|bulletsfirst.net|businessfinancenews.com|buzzlamp.com|celebrity-gossip.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|dccrimestories.com|deneenborelli.com|dennismichaellynch.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|gamezone.com|gamingsofar.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|godlikeproductions.com|gopocalypse.org|gosocial.co|gossipgirl.com|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|healthstatus.com|hellou.co.uk|heroichollywood.com|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinopost.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|listverse.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|mobilelikez.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsninja2012.com|newsthump.com|oddee.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|rantlifestyle.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|rightwingnews.com|robotics.news|segmentnext.com|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|stevedeace.com|stupid.news|supercheats.com|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.comvcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|whatzbuzzing.com|winningdemocrats.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
 +d googlecommerce.com .js
 # @@||googletagservices.com/tag/js/gpt.js$script,third-party,domain=activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|askmefast.com|boredpanda.com|breathecast.com|bulletsfirst.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativetribune.com|conservativevideos.com|cowboybyte.com|crossmap.com|dailyheadlines.net|dailysurge.com|dccrimestories.com|digitaljournal.com|enstarz.com|gamezone.com|genfringe.com|girlsjustwannahaveguns.com|hellou.co.uk|heroichollywood.com|hngn.com|infowars.com|instigatornews.com|joeforamerica.com|kdramastars.com|kpopstarz.com|latinopost.com|latinpost.com|libertyunyielding.com|listverse.com|minutemennews.com|mobilelikez.com|musictimes.com|naturalblaze.com|naturalnews.com|natureworldnews.com|newser.com|oddee.com|parentherald.com|patriotoutdoornews.com|pitgrit.com|rantlifestyle.com|realfarmacy.com|realtytoday.com|redmaryland.com|rightwingnews.com|segmentnext.com|shark-tank.com|spectator.org|stevedeace.com|techtimes.com|theblacksphere.net|thefreethoughtproject.com|thegatewaypundit.com|themattwalshblog.com|thepoke.co.uk|universityherald.com|valuewalk.comvcpost.com|victoriajackson.com|viralnova.com|viralthread.com|woundedamericanwarrior.com
@@ -23504,7 +23510,6 @@ msFilterList
 +d s.reembed.com .js
 # @@||s7.addthis.com^$script,third-party,domain=100percentfedup.com|activistpost.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|askmefast.com|boredpanda.com|breathecast.com|bulletsfirst.net|chacha.com|christianpost.com|christiantoday.com|clashdaily.com|classicalite.com|comicallyincorrect.com|comicbookmovie.com|conservativebyte.com|conservativetribune.com|conservativevideos.com|coviral.com|cowboybyte.com|crossmap.com|dailyfeed.co.uk|dailyheadlines.net|dailysurge.com|dccrimestories.com|digitaljournal.com|eaglerising.com|enstarz.com|gamezone.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|gosocial.co|hellou.co.uk|heroichollywood.com|hngn.com|infowars.com|instigatornews.com|joeforamerica.com|kdramastars.com|kpopstarz.com|latinopost.com|latinpost.com|libertyunyielding.com|listverse.com|minutemennews.com|mobilelikez.com|musictimes.com|naturalblaze.com|naturalnews.com|natureworldnews.com|newser.com|oddee.com|parentherald.com|patriotoutdoornews.com|pitgrit.com|rantlifestyle.com|realfarmacy.com|redmaryland.com|segmentnext.com|shark-tank.com|spectator.org|stevedeace.com|supercheats.com|techtimes.com|theboredmind.com|thefreethoughtproject.com|thegatewaypundit.com|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|tinypic.com|traileraddict.com|universityherald.com|valuewalk.comvcpost.com|victoriajackson.com|viralnova.com|viralthread.com
 # @@||smimg.net^$image,domain=sportsmole.co.uk
-# @@||springboardplatform.com^$script,third-party,domain=universityherald.com
 +d static.cdn-ec.viddler.com .js
 # @@||static.eplayer.performgroup.com^$script,domain=sportsmole.co.uk
 # @@||static.mediabong.com^$script,third-party,domain=woundedamericanwarrior.com
@@ -23586,7 +23591,7 @@ msFilterList
 -d ytconv.net /site/adblock_detect
 # ||zapto.org^$script,domain=dsero.com|korean-candy.com|misheel.net|politicususa.com|techydoor.com|trutower.com
 # websocket-ads
-# $websocket,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123movieshd.net|anime-joy.tv|batmanstream.com|boards2go.com|boreburn.com|celebdirtylaundry.com|celebritymozo.com|cloudtime.to|collectivelyconscious.net|couch-tuner.me|couchtuner.ac|couchtuner.us|dailycaller.com|destructoid.com|dreamfilm.se|dumpaday.com|episodetube.com|episodetube.net|extratorrent.cc|fastpic.ru|filme-streamz.com|filmlinks4u.is|firstrowau.eu|firstrowus1.eu|flash-x.tv|flashsx.tv|flashx.me|flashx.run|flashx.tv|flashx1.tv|flashxx.tv|fmovies.se|fmovies.to|free-torrent.org|free-torrent.pw|free-torrents.org|free-torrents.pw|gamenguide.com|gofirstrow.eu|gorillavid.in|gsmarena.com|health-weekly.net|homerun.re|i4u.com|ifirstrow.eu|ifirstrowit.eu|imagefap.com|instanonymous.com|itechpost.com|izismile.com|keepvid.com|kino-streamz.com|lifehacklane.com|livecricketz.org|livescience.com|mobilenapps.com|mobipicker.com|movies4stream.com|mylivecricket.org|natureworldnews.com|navbug.com|ncscooper.com|newsarama.com|newseveryday.com|newtvworld.com|nowfeed2all.eu|nowvideo.sx|okceleb.com|olympicstreams.me|omgwhut.com|onwatchseries.to|openload.co|opensubtitles.org|parentherald.com|pcgames-download.net|pocketnow.com|pornhub.com|postimg.org|putlocker9.com|pwinsider.com|qaafa.com|rinf.com|sgvideos.net|shorte.st|snoopfeed.com|sportsmole.co.uk|stream-tv-series.net|stream-tv2.to|stream2watch.cc|streamazone.com|streamgaroo.com|streamin.to|strikeout.co|strikeout.me|strikeout.mobi|technobuffalo.com|thefreethoughtproject.com|thevideo.me|thinkinghumanity.com|todayshealth.buzz|tomsguide.com|tomshardware.co.uk|tomshardware.com|tomsitpro.com|toptenz.net|tribune.com.pk|tune.pk|tv-series.me|uberhavoc.com|universityherald.com|vcpost.com|vidmax.com|vidtodo.com|vidzi.tv|viewmixed.com|viid.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|viralands.com|watch-series.to|watchepisodes-tv.com|watchseries.li|webfirstrow.eu|wholecloud.net|whydontyoutrythis.com|wrestlinginc.com|wrestlingnews.co|xilfy.com|yourtailorednews.com|yourtango.com
+# $websocket,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123movieshd.net|anime-joy.tv|batmanstream.com|boards2go.com|boreburn.com|celebdirtylaundry.com|celebritymozo.com|cloudtime.to|collectivelyconscious.net|couch-tuner.me|couchtuner.ac|couchtuner.us|dailycaller.com|destructoid.com|dreamfilm.se|dumpaday.com|episodetube.com|episodetube.net|extratorrent.cc|fastpic.ru|filme-streamz.com|filmlinks4u.is|firstrowau.eu|firstrowus1.eu|flash-x.tv|flashsx.tv|flashx.me|flashx.run|flashx.tv|flashx1.tv|flashxx.tv|fmovies.se|fmovies.to|free-torrent.org|free-torrent.pw|free-torrents.org|free-torrents.pw|gamenguide.com|gofirstrow.eu|gorillavid.in|gsmarena.com|health-weekly.net|homerun.re|i4u.com|ifirstrow.eu|ifirstrowit.eu|imagefap.com|instanonymous.com|itechpost.com|izismile.com|jewsnews.co.il|keepvid.com|kino-streamz.com|lifehacklane.com|livecricketz.org|livescience.com|mobilenapps.com|mobipicker.com|movies4stream.com|mylivecricket.org|natureworldnews.com|navbug.com|ncscooper.com|newsarama.com|newseveryday.com|newtvworld.com|nowfeed2all.eu|nowvideo.sx|okceleb.com|olympicstreams.me|omgwhut.com|onwatchseries.to|openload.co|opensubtitles.org|parentherald.com|pcgames-download.net|pocketnow.com|pornhub.com|postimg.org|putlocker9.com|pwinsider.com|qaafa.com|rinf.com|sgvideos.net|shorte.st|snoopfeed.com|sportsmole.co.uk|stream-tv-series.net|stream-tv2.to|stream2watch.cc|streamazone.com|streamgaroo.com|streamin.to|strikeout.co|strikeout.me|strikeout.mobi|technobuffalo.com|thefreethoughtproject.com|thevideo.me|thinkinghumanity.com|todayshealth.buzz|tomsguide.com|tomshardware.co.uk|tomshardware.com|tomsitpro.com|toptenz.net|tribune.com.pk|tune.pk|tv-series.me|uberhavoc.com|universityherald.com|vcpost.com|vidmax.com|vidtodo.com|vidzi.tv|viewmixed.com|viid.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|viralands.com|watch-series.to|watchepisodes-tv.com|watchseries.li|webfirstrow.eu|wholecloud.net|whydontyoutrythis.com|wrestlinginc.com|wrestlingnews.co|xilfy.com|yourtailorednews.com|yourtango.com
 # Non-English (instead of whitelisting ads)
 -d anandabazar.com /js/anandabazar-bootstrap/custom.js
 -d livehindustan.com /js/BlockerScript.js
@@ -23599,7 +23604,7 @@ msFilterList
 # :text^$popup,domain=zippyshare.com
 # ^utm_source=$popup,domain=exashare.com|sex.com
 # |data^$popup,domain=gorillavid.in|nowvideo.to|zippyshare.com
-# |http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|eztv.ag|fastspics.net|filepost.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|openload.co|pic2pic.site|pixsense.net|pornparadise.org|projectfreetv.at|promptfile.com|sendvid.com|streamcloud.eu|streamin.to|thevideo.me|twer.info|uptobox.com|uptostream.com|vid.ag|vidabc.com|vidspot.net|vidzi.tv|vshare.eu|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
+# |http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|eztv.ag|fastspics.net|filepost.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|nowvideo.li|openload.co|pic2pic.site|pixsense.net|pornparadise.org|projectfreetv.at|promptfile.com|sendvid.com|streamcloud.eu|streamin.to|thevideo.me|twer.info|uptobox.com|uptostream.com|vid.ag|vidabc.com|vidspot.net|vidzi.tv|vshare.eu|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
 # |https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|imgbox.com|sendvid.com|thevideo.me|uptobox.com|uptostream.com|yts.ag
 # |javascript^$popup,domain=biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
 # ||104.198.221.99^$popup
@@ -24360,6 +24365,7 @@ msFilterList
 # ||pornerbros.com/rec/$subdocument
 -d pornfanplace.com /js/pops.
 -d pornfanplace.com /rec/
+-d porngals4.com /img/b/
 -d pornhub.com /catagories/costume/
 -d pornhub.com /channels/pay/
 -d pornhub.com /front/alternative/
@@ -25212,7 +25218,6 @@ msFilterList
 # @@||amazonaws.com/adplayer/player/newas3player.swf?$object,domain=india.com
 # @@||amazonaws.com/banners/$image,domain=livefromdarylshouse.com|pandasecurity.com
 # @@||amazonaws.com/bt-dashboard-logos/$domain=signal.co
-+d amazonaws.com /inject_ads/advertisement.js*.js
 # @@||amazonaws.com^$image,domain=daclips.in
 # @@||amazonaws.com^*/sponsorbanners/$image,domain=members.portalbuzz.com
 +d amctv.com /commons/advertisement/js/AdFrame.js
@@ -25341,6 +25346,7 @@ msFilterList
 +d boxedlynch.com /advertising-gallery.html
 # @@||bp.blogspot.com^$domain=adsense.googleblog.com
 +d brainient.com /crossdomain.xml
+# @@||brand-display.com/js/psf.js$domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
 # @@||brandverity.com/letter/complaint/prepare/$document,domain=brandverity.com
 # @@||brandverity.com/reports/$document,domain=brandverity.com
 +d brightcove.com bannerid
@@ -25574,7 +25580,6 @@ msFilterList
 # @@||doubleclick.net/adj/wiredcom.dart/*;sz=300x250;*;kw=top;$script,domain=wired.com
 # @@||doubleclick.net/adj/yorkshire.jp/main-section;*;sz=120x600,160x600$script,domain=yorkshirepost.co.uk
 # @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com|speedtest.net
-# @@||doubleclick.net/ddm/ad/*;sz=160x600;mtfIFPath=rich_media_gallery_public/doubleclick/$image,domain=speedtest.net
 # @@||doubleclick.net/ddm/clk/*://www.amazon.jobs/jobs/$subdocument,domain=glassdoor.com
 # @@||doubleclick.net/favicon.ico?$image,domain=grammarist.com
 # @@||doubleclick.net/instream/ad_status.js$domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
@@ -25725,6 +25730,7 @@ msFilterList
 +d g.doubleclick.net /crossdomain.xml
 # @@||g.doubleclick.net/gampad/ads?$object-subrequest,domain=majorleaguegaming.com|nfl.com|player.rogersradio.ca|twitch.tv|viki.com|volarvideo.com|worldstarhiphop.com
 # @@||g.doubleclick.net/gampad/ads?$script,domain=app.com|argusleader.com|autoguide.com|battlecreekenquirer.com|baxterbulletin.com|beqala.com|boatshop24.com|bodas.com.mx|bodas.net|bucyrustelegraphforum.com|burlingtonfreepress.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|chillicothegazette.com|cincinnati.com|clarionledger.com|coloradoan.com|computerworlduk.com|coshoctontribune.com|courier-journal.com|courierpostonline.com|dailyrecord.com|dailyworld.com|deadspin.com|defensenews.com|delawareonline.com|democratandchronicle.com|desmoinesregister.com|dnj.com|drupalcommerce.org|economist.com|escapegames.com|fdlreporter.com|flightcentre.co.uk|floridatoday.com|foxnews.com|freep.com|games.latimes.com|gawker.com|gizmodo.com|greatfallstribune.com|greenbaypressgazette.com|greenvilleonline.com|guampdn.com|gz.com|hattiesburgamerican.com|hometownlife.com|htrnews.com|indystar.com|investopedia.com|io9.com|ithacajournal.com|jacksonsun.com|jalopnik.com|jconline.com|jezebel.com|kbb.com|kotaku.com|lancastereaglegazette.com|lansingstatejournal.com|lifehacker.com|liverpoolfc.com|livescience.com|livingstondaily.com|lohud.com|mansfieldnewsjournal.com|mariages.net|marionstar.com|marshfieldnewsherald.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|montgomeryadvertiser.com|motorcycle.com|mycentraljersey.com|mydesert.com|mysoju.com|nauticexpo.com|nedbank.co.za|nedbankgreen.co.za|newarkadvocate.com|news-leader.com|news-press.com|newsleader.com|nonags.com|noodle.com|orbitz.com|pal-item.com|phoronix.com|podomatic.com|portclintonnewsherald.com|postcrescent.com|poughkeepsiejournal.com|press-citizen.com|pressconnects.com|qz.com|rgj.com|ripley.cl|sctimes.com|sheboyganpress.com|shreveporttimes.com|stargazette.com|statesmanjournal.com|stevenspointjournal.com|tallahassee.com|tennessean.com|theadvertiser.com|thedailyjournal.com|theleafchronicle.com|thenews-messenger.com|thenewsstar.com|thenorthwestern.com|thesimsresource.com|thespectrum.com|thestarpress.com|thetimesherald.com|thetowntalk.com|thoughtcatalog.com|ticketek.com.ar|urbandictionary.com|virginaustralia.com|visaliatimesdelta.com|volokh.com|vroomvroomvroom.com.au|wausaudailyherald.com|weddingspot.co.uk|wired.com|wisconsinrapidstribune.com|wlj.net|wsj.com|zanesvilletimesrecorder.com|zavvi.com|zillow.com|zui.com
+# @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=s4c.cymru
 # @@||g.doubleclick.net/gampad/ads?*^iu_parts=7372121%2CPTGBanner%2C$script,domain=pianobuyer.com
 # @@||g.doubleclick.net/gampad/ads?*www.forbes.com%2Ffdc%2Fwelcome_mjx.shtml$script,domain=forbes.com
 # @@||g.doubleclick.net/gampad/ads?adk$domain=rte.ie
@@ -27444,6 +27450,7 @@ msFilterList
 +d indiatimes.com
 # @@||infineoncorp.com^$domain=eventhubs.com
 # @@||info.tm^$script,domain=ilix.in|priva.us
++d infowars.com
 # @@||innovid.com/1x1.gif?$object-subrequest,domain=channel4.com
 # @@||innovid.com/iroll/config/*.xml?cb=[$object-subrequest,domain=channel4.com
 # @@||innovid.com^*/VPAIDIRollPackage.swf$object-subrequest,domain=channel4.com
@@ -27820,7 +27827,6 @@ msFilterList
 # @@||resources.infolinks.com/js/*/ice.js$domain=cyberdevilz.net
 # @@||resources.infolinks.com/js/infolinks_main.js$domain=cyberdevilz.net
 +d revclouds.com
-# @@||rezonence.com/Ads/*/AdCode.js$domain=cityam.com
 +d rincondelvago.com _adsense.js
 +d ringmycellphone.com
 # @@||rivcash.com/it/$script,domain=backin.net
@@ -28146,6 +28152,11 @@ msFilterList
 # @@||openload.io^$image,script,stylesheet,subdocument,domain=openload.io
 # @@||openload.tv^$image,domain=openload.io
 # @@||openload.tv^$script,domain=openload.co|openload.io
+# Google "Related Searches"
++d domains.googlesyndication.com /apps/domainpark/domainpark.cgi?*/channel=csa_use_rs/
+# @@||www.google.com/adsense/search/ads.js$domain=domains.googlesyndication.com
++d www.google.com /adsense/search/async-ads.js
++d www.google.com /afs/ads?*/channel=csa_use_rs/
 # Non-English
 # @@||247realmedia.com/RealMedia/ads/adstream_sx.ads/wm-desktop/home/$xmlhttprequest,domain=walmart.com.br
 # @@||2mdn.net/viewad/*.jpg|$domain=dafiti.cl|dafiti.com.ar|dafiti.com.br|dafiti.com.co|kbb.com
@@ -28274,13 +28285,14 @@ msFilterList
 +d fotolog.com /styles/flags/ad.gif
 +d fotosioon.com /wp-content/*/images/advert.gif
 # @@||freeride.se/img/admarket/$~third-party
-# @@||g.doubleclick.net/gampad/ads?$script,domain=concursovirtual.com.br
+# @@||g.doubleclick.net/gampad/ads?$script,domain=concursovirtual.com.br|payback.pl
 # @@||g.doubleclick.net/gampad/ads?*_Ligatus&$script,domain=lavozdegalicia.es
-# @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=concursovirtual.com.br|forum.kooora.com|lavozdegalicia.es|posta.com.tr|uol.com.br
+# @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=concursovirtual.com.br|forum.kooora.com|lavozdegalicia.es|payback.pl|posta.com.tr|uol.com.br
+# @@||g.doubleclick.net/pcs/click?$popup,domain=payback.pl
 # @@||googleads.g.doubleclick.net^$image,domain=loi1901.com
 # @@||googleadservices.com/pagead/conversion.js$domain=play.tv2.dk
 # @@||googlesyndication.com/pagead/imgad?id=$image,domain=concursovirtual.com.br
-# @@||googlesyndication.com/simgad/$image,domain=concursovirtual.com.br
+# @@||googlesyndication.com/simgad/$image,domain=concursovirtual.com.br|payback.pl
 # @@||gov.in/pdf/ADVERTISEMENT/$~third-party
 +d guloggratis.dk /modules/
 +d haberler.com /video-haber/adsense_news_politics.swf?
@@ -28339,6 +28351,7 @@ msFilterList
 +d openx.zomoto.nl /live/www/delivery/spcjs.php?id=
 # @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=concursovirtual.com.br|forum.kooora.com|lavozdegalicia.es|posta.com.tr|uol.com.br
 # @@||partners.10bet.com/processing/impressions.asp?$image,domain=betyper.com
+# @@||payback.pl/statics/common/js/dfp.js$domain=payback.pl
 +d peoplegreece.com /assets/js/adtech_res.js
 # @@||player.liquidplatform.com^$subdocument,domain=sbt.com.br
 +d player.terra.com &adunit=*.js
@@ -28762,7 +28775,6 @@ msFilterList
 +d boyzshop.com /images/affbanners/
 +d burningcamel.com /ads/banner.jpg
 # @@||cam4.*/ads/directory/$~third-party,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
-# @@||cdn-d-img.pornhub.com^$image,domain=pornhub.com
 # @@||cdn.delight-vr.com^$domain=xhamster.com
 # @@||cdn.trafficstars.com/sdk/v1/bi.js$domain=xhamster.com
 # @@||chaturbate.com/affiliates/$domain=noracam.com
@@ -28819,7 +28831,7 @@ msFilterList
 +d api.recaptcha.net .js
 # @@||apis.google.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 +d blog.tube8.com /wp-content/
-# @@||cdn-d-img.pornhub.com/m=$image,domain=pornhub.com|redtube.com|redtube.com.br
+# @@||cdn-*.pornhub.com^$image,domain=pornhub.com|redtube.com|redtube.com.br
 # @@||cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js$script,domain=tube8.com|tube8.es|tube8.fr
 # @@||cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js$script,domain=tube8.com|tube8.es|tube8.fr
 # @@||cdne-st.redtubefiles.com^$script,domain=redtube.com|redtube.com.br
@@ -28827,15 +28839,11 @@ msFilterList
 # @@||disqus.com/count.js$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # @@||disqus.com/embed.js$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # @@||disquscdn.com/count.js$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-# @@||extremetube.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # @@||feedback.pornhub.com^$xmlhttprequest,domain=feedback.pornhub.com
 +d google.com /recaptcha/
 # @@||gstatic.com/recaptcha/$domain=youporn.com
 +d gstatic.com /recaptcha/*.js
-# @@||image.tube8.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-# @@||image.youporn.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 +d img.pornhub.com /gif/*.gif
-# @@||keezmovies.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # @@||nsimg.net^$image,domain=pornhub.com
 +d phncdn.com /js/likeDislike/*.js
 +d phncdn.com /js/t8.util-min.js?*.js
@@ -29118,8 +29126,6 @@ msFilterList
 +d pornhub.com /emoticons/
 +d pornhubcommunity.com /cdn_files/images/
 +d pornhublive.com /blacklabel/bl.client.min.js*.js
-# @@||public.tube8.phncdn.com^$media,other,domain=tube8.com
-# @@||public.youporn.phncdn.com^$media,object-subrequest,other,domain=youporn.com|youporngay.com
 # @@||rdtcdn.com^$image,media,other,domain=redtube.com|redtube.com.br
 +d redtube.com.br /_Incapsula_Resource?
 # @@||redtube.com.br/images/$image,domain=redtube.com.br
@@ -29169,9 +29175,6 @@ msFilterList
 # @@||rncdn3.com^$media,object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|youporn.com|youporngay.com
 # @@||s7.addthis.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 +d services.pornhub.com
-# @@||spankwire.phncdn.com^$image,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-# @@||static.tube8.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-# @@||static.youporn.phncdn.com^$image,object-subrequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # @@||t8cdn.com^$image,media,domain=tube8.com
 # @@||thumbs-cdn.redtube.com^$image,domain=redtube.com|redtube.com.br
 +d tube8.com /_Incapsula_Resource?

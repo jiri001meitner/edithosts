@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St úno 8 16:55:35 CET 2017 ##################
+##### Aktualizováno: Út úno 14 09:53:54 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -903,6 +903,7 @@ msFilterList
 - .advertmarket.
 - .adwolf.
 - .ae/ads/
+- .am/adv/
 - .ar/ads/
 - .ashx?ad=
 - .ashx?AdID=
@@ -3599,6 +3600,7 @@ msFilterList
 - /affpic/
 - /afr.php?
 - /afr?auid=
+- /afs/ads/
 - /ahmestatic/ads/
 - /ajax-ad/
 - /ajax-advert-
@@ -10122,6 +10124,7 @@ msFilterList
 -d jdproject.net
 -d jeetyetmedia.com
 -d jemmgroup.com
+-d jewishcontentnetwork.com
 -d jf2mn2ms.club
 -d jfduv7.com
 -d jfx61qca.site
@@ -10182,6 +10185,7 @@ msFilterList
 -d kiosked.com
 -d kitnmedia.com
 -d kjgh5o.com
+-d kkddlt2f.site
 -d klikadvertising.com
 -d kliksaya.com
 -d klikvip.com
@@ -10264,6 +10268,7 @@ msFilterList
 -d linkoffers.net
 -d linkreferral.com
 -d links.io
+-d links2revenue.com
 -d linkshowoff.com
 -d linksmart.com
 -d linkstorm.net
@@ -10507,6 +10512,7 @@ msFilterList
 -d moregamers.com
 -d moreplayerz.com
 -d morgdm.ru
+-d moritava.com
 -d mosaicolor.website
 -d moselats.com
 -d mottnow.com
@@ -13573,6 +13579,7 @@ msFilterList
 -d shoapinh.com
 -d sightr.net
 -d simusangr.com
+-d smethgiar.com
 -d spamualfr.com
 -d speandorf.net
 -d spereminf.com
@@ -13609,6 +13616,7 @@ msFilterList
 -d virsualr.com
 -d vopdi.com
 -d vuadiolgy.net
+-d vualawilk.com
 -d waddr.com
 -d wensdteuy.com
 -d wolopiar.com
@@ -14801,7 +14809,6 @@ msFilterList
 -d banners.smarttweak.com
 -d banners.videosz.com
 -d banners.webmasterplan.com
--d bannersnack.com /iframe/
 -d bbcchannels.com /workspace/uploads/
 -d bc.coupons.com
 -d bc.vc /js/link-converter.js
@@ -14840,6 +14847,7 @@ msFilterList
 -d blocks.ginotrack.com
 -d blogatus.com /images/banner/
 -d bloodstock.uk.com /affiliates/
+-d bluehost-cdn.com /media/partner/images/
 -d bluepromocode.com /images/widgets/
 -d bluesattv.net /bluesat.swf
 -d bluesattv.net /bluesattvnet.gif
@@ -15132,6 +15140,7 @@ msFilterList
 -d disy2s34euyqm.cloudfront.net
 -d dizixdllzznrf.cloudfront.net
 -d djlf5xdlz7m8m.cloudfront.net
+-d djr4k68f8n55o.cloudfront.net
 -d dkd69bwkvrht1.cloudfront.net
 -d dkdwv3lcby5zi.cloudfront.net
 -d dl392qndlveq0.cloudfront.net
@@ -15784,7 +15793,6 @@ msFilterList
 -d pubexchange.com /modules/display/*.js
 -d public.porn.fr
 -d publicidees.com /banner.php
--d publicidees.com /showbanner.php
 -d pubs.hiddennetwork.com
 -d puntersparadise.com.au /banners/
 -d purevpn.com /affiliates/
@@ -16083,6 +16091,7 @@ msFilterList
 -d usersfiles.com /images/72890UF.png
 -d usfine.com /images/sty_img/usfine.gif
 -d ussearch.com /preview/banner/
+-d utility.rogersmedia.com
 -d valuechecker.co.uk /banners/
 -d vapeworld.com /banners/
 -d vaporizor.com /banners/
@@ -16897,6 +16906,7 @@ msFilterList
 -d archeagedatabase.net /images/okaygoods.gif
 -d arenabg.com /banners/
 -d arenadb.net /banners/
+-d armenpress.am /static/add/
 -d armorgames.com /assets/*_skin_
 -d armorgames.com /backup_
 -d armorgames.com /banners/
@@ -18734,6 +18744,7 @@ msFilterList
 -d myway.com /gca_iframe.html
 -d mywot.net /files/wotcert/vipre.png
 -d naij.com /branding/
+-d nairaland.com /contents/
 -d nairaland.com /moneyz/
 -d nairaland.com /tasteful/
 -d namepros.com /images/backers/
@@ -18850,7 +18861,6 @@ msFilterList
 -d novamov.com /images/download_video.jpg
 -d nowgoal.com /images/foreign/
 -d nowwatchtvlive.co /revenuehits.html
--d nowwatchtvlive.com /matomyads.php
 -d nowwatchtvlive.com /revenuehits.html
 -d ntdtv.com /adv/
 -d nu2.nu /sponsor/
@@ -18971,6 +18981,8 @@ msFilterList
 -d pbsrc.com /sponsor/
 -d pcadvisor.co.uk /graphics/sponsored/
 -d pcauthority.com.au /skins/
+-d pcgamesn.com /sites/default/files/SE4L.JPG
+-d pcgamesn.com /sites/default/files/Se4S.jpg
 -d pcmag.com /blogshome/logicbuy.js
 -d pcpro.co.uk /images/*_siteskin
 -d pcpro.co.uk /images/skins/
@@ -21203,6 +21215,7 @@ msFilterList
 -d pornerbros.com /p_bnrs/
 -d pornfanplace.com /js/pops.
 -d pornfanplace.com /rec/
+-d porngals4.com /img/b/
 -d pornhub.com /catagories/costume/
 -d pornhub.com /channels/pay/
 -d pornhub.com /front/alternative/
@@ -21704,7 +21717,6 @@ msFilterList
 +d alluc.ee /js/advertisement.js
 +d allulook4.com /min/?
 +d amazon-adsystem.com /widgets/q?
-+d amazonaws.com /inject_ads/advertisement.js*.js
 +d amctv.com /commons/advertisement/js/AdFrame.js
 +d andcorp.com.au .swf?clicktag=
 +d andohs.net /crossdomain.xml
@@ -23034,6 +23046,7 @@ msFilterList
 +d incredibox.com
 +d indianexpress.com ad*.js
 +d indiatimes.com
++d infowars.com
 +d inskinmedia.com /crossdomain.xml
 +d intoday.in /ads/
 +d intoday.in
@@ -23586,6 +23599,9 @@ msFilterList
 +d zoomin.tv /adhandler/amalia.adm?
 +d openload.co
 +d openload.io
++d domains.googlesyndication.com /apps/domainpark/domainpark.cgi?*/channel=csa_use_rs/
++d www.google.com /adsense/search/async-ads.js
++d www.google.com /afs/ads?*/channel=csa_use_rs/
 +d ad.e-kolay.net /ad.js
 +d ad.e-kolay.net /jquery-*-Medyanet.min.js
 +d ad.e-kolay.net /Medyanet.js
