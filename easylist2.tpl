@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út úno 21 10:18:22 CET 2017 ##################
+##### Aktualizováno: St úno 22 22:45:20 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -6523,6 +6523,7 @@ msFilterList
 - /www/deliverx/
 - /www/delivery/
 - /www/js/ad/
+- /wwwads.
 - /x5advcorner.
 - /xads.php
 - /xadvertisement.
@@ -8971,7 +8972,6 @@ msFilterList
 -d bostonwall.com
 -d boteko.work
 -d bounce.bar
--d bounceexchange.com
 -d boydadvertising.co.uk
 -d boylesportsreklame.com
 -d bpasyspro.com
@@ -11586,7 +11586,6 @@ msFilterList
 -d tmdn2015x9.com
 -d tmpopenclose.click
 -d tnyzin.ru
--d toast.com
 -d toboads.com
 -d todich.ru
 -d tokenads.com
@@ -20791,6 +20790,8 @@ msFilterList
 -d anandabazar.com /js/anandabazar-bootstrap/custom.js
 -d livehindustan.com /js/BlockerScript.js
 -d pub1.cope.es
++d spiegel.de
++d bento.de
 -d 213.174.140.38 /bftv/js/msn-
 -d 244pix.com /webop.jpg
 -d 24porn7.com /24roll.html
@@ -23921,6 +23922,7 @@ msFilterList
 +d dailymotion.com /advertise/
 +d adservicemedia.dk
 +d publisher.adservice.com
++d ads.memo2.nl
 +d ajax.googleapis.com /ajax/services/search/news?*-728x90&*.js
 +d anitasrecipes.com /Content/Images/*160x500
 +d arnhemland-safaris.com /images/*_480_80_
