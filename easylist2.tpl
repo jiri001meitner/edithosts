@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St úno 22 22:45:30 CET 2017 ##################
+##### Aktualizováno: Pá úno 24 21:13:10 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -2011,7 +2011,6 @@ msFilterList
 - /aderlee_ads.
 - /adError/
 - /adevent.
-- /adex.
 - /adEx_
 - /adexample?
 - /adexclude/
@@ -2723,6 +2722,7 @@ msFilterList
 - /ads/view.
 - /ads/views/
 - /ads/vip_
+- /ads/vmap/
 - /ads/web/
 - /ads/webplayer.
 - /ads/welcomescreen.
@@ -4940,6 +4940,7 @@ msFilterList
 - /inline_ad.
 - /inline_ad_
 - /inline_ads.
+- /InlineAds.
 - /inlineads/
 - /inlinetextads?
 - /inner-ads-
@@ -5274,6 +5275,7 @@ msFilterList
 - /n/adv_
 - /n4403ad.
 - /n_ads/
+- /na.ads.
 - /namediaad.
 - /nativead.
 - /nativead/
@@ -5327,6 +5329,7 @@ msFilterList
 - /nonrotatingads/
 - /noodleAdFramed.
 - /noticead.
+- /now/ads/
 - /nsfw/sponsors/
 - /nuggad.
 - /nuggad/
@@ -7277,6 +7280,7 @@ msFilterList
 - http://online.*/promoredirect?key=
 - http://ox-d.*/auid=
 - http://serve.*/promoload?
+- /ezoic/banger.js*.js
 - /ima3.js
 - /imasdk/
 - /_p4.php*.js
@@ -8708,6 +8712,7 @@ msFilterList
 -d amertazy.com
 -d amgdgt.com
 -d amp.rd.linksynergy.com
+-d amp.services
 -d ampxchange.com
 -d anastasiasaffiliate.com
 -d andbeyond.media
@@ -8829,7 +8834,6 @@ msFilterList
 -d bamboocast.com
 -d bamj630h.tech
 -d bananaflippy.com
--d bandelcot.com
 -d banner-clix.com
 -d banner-rotation.com
 -d bannerbank.ru
@@ -9195,7 +9199,6 @@ msFilterList
 -d coinsicmp.com
 -d cointraffic.in
 -d cointraffic.io
--d cold-cold-freezing.com
 -d collection-day.com
 -d collective-media.net
 -d colliersads.com
@@ -9393,8 +9396,6 @@ msFilterList
 -d disqusads.com
 -d distilled.ie
 -d districtm.ca
--d dit-dit-dot.com
--d ditwrite.com
 -d dj-updates.com
 -d dl-rms.com
 -d dltags.com
@@ -10637,7 +10638,6 @@ msFilterList
 -d netliker.com
 -d netloader.cc
 -d netpondads.com
--d netrosol.net
 -d netseer.com
 -d netshelter.net
 -d netsolads.com
@@ -10646,8 +10646,6 @@ msFilterList
 -d networld.hk
 -d networldmedia.net
 -d neudesicmediagroup.com
--d new-new-years.com
--d new17write.com
 -d newdosug.eu
 -d newgentraffic.com
 -d newideasdaily.com
@@ -10838,7 +10836,6 @@ msFilterList
 -d partycasino.com
 -d partypartners.com
 -d partypoker.com
--d parwrite.com
 -d pas-rahav.com
 -d passionfruitads.com
 -d passive-earner.com
@@ -11530,7 +11527,6 @@ msFilterList
 -d tec-tec-boom.com
 -d techclicks.net
 -d technoratimedia.com
--d tek-tek-trek.com
 -d telemetryverification.net
 -d telwrite.com
 -d tennerlist.com
@@ -11568,13 +11564,10 @@ msFilterList
 -d thoseads.com
 -d thoughtleadr.com
 -d thoughtsondance.info
--d tic-tic-bam.com
--d tic-tic-toc.com
 -d ticrite.com
 -d tidaltv.com
 -d tightexact.net
 -d tiller.co
--d tin-tin-win.com
 -d tinbuadserv.com
 -d tisadama.com
 -d tiser.com
@@ -11607,7 +11600,6 @@ msFilterList
 -d torerolumiere.net
 -d toroadvertising.com
 -d toroadvertisingmedia.com
--d torpsol.com
 -d torrida.net
 -d torrpedoads.net
 -d torvind.com
@@ -11699,7 +11691,6 @@ msFilterList
 -d tubemogul.com
 -d tubereplay.com
 -d tumri.net
--d tur-tur-key.com
 -d turboadv.com
 -d turbotraff.net
 -d turn.com
@@ -11768,7 +11759,6 @@ msFilterList
 -d v2cigs.com
 -d v2mlblack.biz
 -d v3g4s.com
--d vacwrite.com
 -d vadpay.com
 -d validclick.com
 -d valuead.com
@@ -11965,7 +11955,6 @@ msFilterList
 -d xfs5yhr1.com
 -d xgraph.net
 -d xjfjx8hw.com
--d xmas-xmas-wow.com
 -d xmasdom.com
 -d xmaswrite.com
 -d xmlconfig.ltassrv.com
@@ -12060,7 +12049,6 @@ msFilterList
 -d zferral.com
 -d zidae.com
 -d ziffdavis.com
--d zim-zim-zam.com
 -d zipropyl.com
 -d zjk24.com
 -d znaptag.com
@@ -12075,6 +12063,30 @@ msFilterList
 -d zxxds.net
 -d zyiis.net
 -d zypenetwork.com
+-d badtopwitch.work
+-d bandelcot.com
+-d belwrite.com
+-d cold-cold-freezing.com
+-d del-del-ete.com
+-d dit-dit-dot.com
+-d ditdotsol.com
+-d ditwrite.com
+-d erniphiq.com
+-d netrosol.net
+-d new-new-years.com
+-d new17write.com
+-d newsadst.com
+-d parwrite.com
+-d tek-tek-trek.com
+-d tic-tic-bam.com
+-d tic-tic-toc.com
+-d tin-tin-win.com
+-d tlootas.org
+-d tur-tur-key.com
+-d unoblotto.net
+-d vacwrite.com
+-d xmas-xmas-wow.com
+-d zim-zim-zam.com
 -d adbuddiz.com
 -d adcolony.com
 -d adiquity.com
@@ -12803,6 +12815,7 @@ msFilterList
 -d mpzuzvqyuvbh.com
 -d mqphkzwlartq.com
 -d mrfveznetjtp.com
+-d mrnbzzwjkusv.com
 -d mrqsuedzvrrt.com
 -d msrwoxdkffcl.com
 -d mszfmpseoqbu.com
@@ -13238,6 +13251,7 @@ msFilterList
 -d vhiaxerjzbqi.com
 -d vhwuphctrfil.com
 -d vivcdctagoij.com
+-d vivetivcuggz.com
 -d vizsvhgfkcli.com
 -d vjrpdagpjwyt.com
 -d vjzttumdetao.com
@@ -13652,7 +13666,6 @@ msFilterList
 -d nuaknamg.net
 -d nualoghy.com
 -d nuzilung.net
--d oaulpos.net
 -d ootloakr.com
 -d oplo.org
 -d opner.co
@@ -13663,19 +13676,23 @@ msFilterList
 -d picstunoar.com
 -d pikkr.net
 -d plex2.com
+-d poaulpos.net
 -d poaurtor.com
 -d polawrg.com
 -d polephen.com
 -d prfffc.info
 -d prndi.net
+-d puoplord.link
 -d puoplord.net
 -d q3sift.com
 -d qaulinf.com
 -d qewa33a.com
 -d quandrer.link
 -d qulifiad.com
+-d qwewas.info
 -d qzsccm.com
 -d r3seek.com
+-d rddywd.com
 -d rdige.com
 -d reaspans.com
 -d regersd.net
@@ -13719,6 +13736,7 @@ msFilterList
 -d thiscdn.com
 -d thrilamd.net
 -d thrutime.net
+-d tiawander.net
 -d tolosgrey.net
 -d topdi.net
 -d trinusuras.net
@@ -13752,6 +13770,7 @@ msFilterList
 -d xplrer.co
 -d xylopologyn.com
 -d yardr.net
+-d yavli.link
 -d yerstrd.net
 -d yobr.net
 -d yodr.net
@@ -14257,6 +14276,7 @@ msFilterList
 -d madbanner.com
 -d magical-sky.com
 -d mahnatka.ru
+-d makechatcash.com
 -d malakasonline.com
 -d mallcom.com
 -d mallorcash.com
@@ -23562,6 +23582,7 @@ msFilterList
 +d stickgames.com /ads.js
 +d stream2watch.me
 +d stream4free.eu
++d streamdefence.com .js*.js
 +d streamflix.ru
 +d streamin.to /adblock/advert.js
 +d streaming-hub.com
@@ -24398,6 +24419,8 @@ msFilterList
 +d desihoes.com /advertisement.js
 +d drtst.com /ads.js*.js
 +d drtuber.com
++d easylist.club /adconfig.js*.js
++d easylist.club /popunder2.js*.js
 +d exoclick.com /ad_track.js
 +d exoclick.com /invideo.js
 +d freeomovie.com
