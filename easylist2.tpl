@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne úno 26 17:53:46 CET 2017 ##################
+##### Aktualizováno: St bře 1 17:47:54 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -760,6 +760,7 @@ msFilterList
 - -content-ad.
 - -contest-ad.
 - -contrib-ads/
+- -core-ads.
 - -cpm-ad.
 - -cpm-ads.
 - -dfp-ads/
@@ -5745,6 +5746,7 @@ msFilterList
 - /resources/ad.
 - /resources/ads/
 - /resources/ads_
+- /responsive-ad.
 - /responsive-ads.
 - /responsive_ads.
 - /responsive_dfp.
@@ -6368,6 +6370,7 @@ msFilterList
 - /usernext.
 - /utep/ad/
 - /utep_ad.js
+- /v1/ads.
 - /v5/ads/
 - /v9/adv/
 - /vads/
@@ -7085,6 +7088,7 @@ msFilterList
 - _btnad_
 - _button_ad_
 - _buttonad.
+- _buzzAd_
 - _centre_ad.
 - _cgbanners.php?
 - _ChatAd_
@@ -10307,6 +10311,7 @@ msFilterList
 -d ligational.com
 -d lightad.co.kr
 -d linicom.co.il
+-d linicom.co.uk
 -d linkbuddies.com
 -d linkclicks.com
 -d linkelevator.com
@@ -10822,6 +10827,7 @@ msFilterList
 -d p2ads.com
 -d p7hwvdb4p.com
 -d paads.dk
+-d pacific-yield.com
 -d padsdelivery.com
 -d padstm.com
 -d pagefair.net
@@ -12096,6 +12102,7 @@ msFilterList
 -d tur-tur-key.com
 -d unoblotto.net
 -d vacwrite.com
+-d vip-vip-vup.com
 -d xmas-xmas-wow.com
 -d zim-zim-zam.com
 -d adbuddiz.com
@@ -13639,6 +13646,7 @@ msFilterList
 -d gruandors.net
 -d gualdoniye.com
 -d guaperty.net
+-d guiandr.com
 -d gusufrs.me
 -d hapnr.net
 -d havnr.com
@@ -15222,6 +15230,7 @@ msFilterList
 -d d2omcicc3a4zlg.cloudfront.net
 -d d2pgy8h4i30on1.cloudfront.net
 -d d2plxos94peuwp.cloudfront.net
+-d d2qz7ofajpstv5.cloudfront.net
 -d d2r359adnh3sfn.cloudfront.net
 -d d2s64zaa9ua7uv.cloudfront.net
 -d d2szg1g41jt3pq.cloudfront.net
@@ -15760,6 +15769,7 @@ msFilterList
 -d mediaplex.com /ad/js/
 -d mediaspanonline.com -Takeover-
 -d mediaspanonline.com -Takeover_
+-d medrx.telstra.com.au
 -d megalivestream.net /pub.js
 -d memepix.com /spark.php?
 -d meraad2.blogspot.com
@@ -16868,7 +16878,7 @@ msFilterList
 -d 560theanswer.com /upload/sponsor-
 -d 5min.com /banners/
 -d 5star-shareware.com /scripts/5starads.js
-- http://610kvnu.com*//sponsors/
+-d 610kvnu.com /sponsors/
 -d 64.245.1.134 /search/v2/jsp/pcwframe.jsp?provider=
 -d 6waves.com /aff.php?
 -d 810varsity.com /background-
@@ -21945,7 +21955,6 @@ msFilterList
 +d autotrader.co.uk _adverts/
 +d avclub.com /ads/av-video-ad/
 +d aviationclassifieds.com /adimg/
-+d aviationdocumentstorage.com /Av_Docs/CSS/ADS-1.css
 +d aviationexplorer.com /airline_aviation_ads/
 +d ay8ou8ohth.com /ads/pop-under.js*.js
 +d ay8ou8ohth.com /js/adpop.js*.js
@@ -22977,8 +22986,10 @@ msFilterList
 +d boxxod.net /advertisement.js
 +d brainyquote.com /ad*.js
 +d brassyobedientcotangent.com /ads.js
++d bsmotoring.com /adframe.js
 +d bulletproofserving.com /scripts/ads.js
 +d business-solutions.us
++d business-standard.com /include/_mod/site/adblocker/js/*.js
 +d calcularindemnizacion.es
 +d captchme.net /js/advertisement-min.js
 +d captchme.net /js/advertisement.js
@@ -23085,6 +23096,7 @@ msFilterList
 +d eskago.pl /html/js/ads-banner.js
 +d eskago.pl /html/js/adv.bbelements.js
 +d eskago.pl /html/js/advertisement.js
++d eteknix.com
 +d eu5.org /advert.js
 +d euroman.dk
 +d eventhubs.com .*.js
@@ -23846,6 +23858,7 @@ msFilterList
 +d autotube.cz /ui/player/ad.php?id=
 +d bancainternet.com.ar /eBanking/images/*-PUBLICIDAD.
 +d banki.ru /bitrix/*/advertising.block/
++d benchmarkhardware.com
 +d bhaskar.com /revenue/*.js
 +d bhaskar.com /ads/*.js
 +d biancolavoro.euspert.com /js/ad.js
