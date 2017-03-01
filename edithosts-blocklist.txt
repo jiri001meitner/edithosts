@@ -14,7 +14,6 @@
 0.0.0.0 live.rads.msn.com
 0.0.0.0 rt.quagodex.com
 0.0.0.0 sublimetext.com
-0.0.0.0	thumb-v-ec.xhcdn.com
 0.0.0.0 www.sublimetext.com
 0.0.0.0 youporn.quexotac.com
 0.0.0.0 yp.uxernab.com
