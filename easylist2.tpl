@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út bře 7 21:14:11 CET 2017 ##################
+##### Aktualizováno: Čt bře 9 20:25:44 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -11754,6 +11754,7 @@ msFilterList
 -d ujieva.com
 -d ukbanners.com
 -d ukulelead.com
+-d ulife17yeter.com
 -d ultimategracelessness.info
 -d umamdmo.com
 -d unanimis.co.uk
@@ -12165,6 +12166,7 @@ msFilterList
 -d ritzysponge.com
 -d roastedvoice.com
 -d spillvacation.com
+-d stormyshock.com
 -d adhood.com
 -d atresadvertising.com
 -d acamar.xyz
@@ -23215,7 +23217,6 @@ msFilterList
 +d games.washingtonpost.com /Scripts/*.js
 +d gamesgames.com /advertisement.js
 +d gameshark.com /images/ads/
-+d gameslivetv.com /js/advertisement.js
 +d gamespot.com /js/ads.js
 +d gametransfers.com
 +d gameurs.net
@@ -23667,6 +23668,7 @@ msFilterList
 +d sominaltvfilms.com
 +d songspk.guru
 +d sounddrain.net /advertisement.js
++d spanishdict.com
 +d sparkylinux.org /images/ad/
 +d spaste.com .js
 +d speakingtree.in
@@ -24038,6 +24040,7 @@ msFilterList
 +d ynet.co.il /ads.js
 +d ziarelive.ro /assets/js/advertisement.js
 +d fastly.net /ad/
++d fastly.net /js/*_ads.*.js
 +d www.facebook.com /ads/
 +d google.com /payments/*/adwords.
 +d www.google.com /adwords/
