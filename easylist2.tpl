@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt bře 9 22:23:12 CET 2017 ##################
+##### Aktualizováno: Pá bře 10 19:07:01 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -694,6 +694,7 @@ msFilterList
 - -ads/oas/
 - -ads/static-
 - -ads/video.
+- -ads/videoblaster/
 - -ads1.htm
 - -ads2.htm
 - -ads3.htm
@@ -1151,6 +1152,7 @@ msFilterList
 - /17/ads/
 - /1912/ads/
 - /1afr.php?
+- /2/ads/
 - /2010/ads/
 - /2010main/ad/
 - /2011/ads/
@@ -3072,6 +3074,7 @@ msFilterList
 - /adsource_
 - /adsoverlay_
 - /adsp/
+- /adspa.
 - /adspace.
 - /adspace/
 - /adspace1.
@@ -3082,6 +3085,7 @@ msFilterList
 - /adspan.
 - /adspeeler/
 - /adspending01.
+- /adspi.
 - /adsplay.
 - /Adsplex-
 - /AdsPlugin.
@@ -4031,6 +4035,7 @@ msFilterList
 - /clkads.
 - /cm/ads/
 - /CME-ad-
+- /cmg_ad.
 - /cmlink/ads-
 - /cms/ads/
 - /cms/js/ad_
@@ -5334,6 +5339,7 @@ msFilterList
 - /newsmaxadcontrol.
 - /newtopmsgad.
 - /nextad/
+- /nextdaymedia-ads/
 - /nflads.
 - /no_ads.
 - /nonrotatingads/
@@ -5675,9 +5681,12 @@ msFilterList
 - /PVButtonAd.
 - /qandaads/
 - /qd_ads/
+- /qj-ads.
 - /qpon_big_ad
 - /quadadvert.
+- /quads.
 - /questions/ads/
+- /quick-adsense-reloaded/
 - /quick_ads/
 - /quigo_ad
 - /qwa?
@@ -6734,6 +6743,7 @@ msFilterList
 - ?banner_id=
 - ?bannerid=
 - ?bannerXGroupId=
+- ?canp=adv_
 - ?category=ad&
 - ?dfpadname=
 - ?file=ads&
@@ -7316,6 +7326,7 @@ msFilterList
 - /cdn-cgi/pe/bag2?*.speednetwork1.com
 - /cdn-cgi/pe/bag2?*adsrvmedia
 - /cdn-cgi/pe/bag2?*adsrvmedia.net
+- /cdn-cgi/pe/bag2?r*.adglare.org
 - /cdn-cgi/pe/bag2?r*.adroll.com
 - /cdn-cgi/pe/bag2?r*.codeonclick.com
 - /cdn-cgi/pe/bag2?r*.qualitypublishers.com
@@ -7393,6 +7404,7 @@ msFilterList
 - /antiblock_script/
 - /blockblock/blockblock.jquery.js
 - /Disable%2BAdblock.
+- /disabled_adBlock.
 - /fuckadb.js
 - /fuckadblock.js
 - /fuckadblock/*.js
@@ -8247,6 +8259,7 @@ msFilterList
 -d adgitize.com
 -d adglamour.net
 -d adglare.net
+-d adglare.org
 -d adgoi.com
 -d adgoi.mobi
 -d adgorithms.com
@@ -8828,6 +8841,7 @@ msFilterList
 -d awaps.net
 -d awempire.com
 -d awltovhc.com
+-d aws-ajax.com
 -d awsmer.com
 -d awstaticdn.net
 -d awsurveys.com
@@ -9147,6 +9161,7 @@ msFilterList
 -d cleafs.com
 -d clear-request.com
 -d clente.com
+-d clevernt.com
 -d clevv.com
 -d click.scour.com
 -d click2jump.com
@@ -9704,6 +9719,7 @@ msFilterList
 -d fbsvu.com
 -d fearfulflag.com
 -d featence.com
+-d feature.fm
 -d featuredusers.com
 -d featurelink.com
 -d feed-ads.com
@@ -10105,6 +10121,7 @@ msFilterList
 -d innity.com
 -d innity.net
 -d innovid.com
+-d inplaybricks.com
 -d insightexpress.com
 -d insightexpressai.com
 -d insitepromotion.com
@@ -11014,6 +11031,7 @@ msFilterList
 -d pro-pro-go.com
 -d proadsdirect.com
 -d probannerswap.com
+-d probtn.com
 -d prod.untd.com
 -d proffigurufast.com
 -d profitpeelers.com
@@ -11118,7 +11136,6 @@ msFilterList
 -d raiggy.com
 -d rainbowtgx.com
 -d rainwealth.com
--d rampanel.com
 -d rapt.com
 -d rateaccept.net
 -d rawasy.com
@@ -12158,8 +12175,12 @@ msFilterList
 -d yieldmo.com
 -d brassrule.com
 -d breezybath.com
+-d chiefcurrent.com
+-d commandwalk.com
+-d commoncannon.com
 -d concernrain.com
 -d copyrightaccesscontrols.com
+-d crownclam.com
 -d fanaticalfly.com
 -d metapelite.com
 -d peacepowder.com
@@ -13780,6 +13801,7 @@ msFilterList
 -d reitb.com
 -d rfgre.info
 -d rheneyer.net
+-d rherser.com
 -d rhgersf.com
 -d rigistrar.net
 -d rlex.org
@@ -17629,6 +17651,7 @@ msFilterList
 -d dailypuppy.com /images/livestrong/ls_diet_120x90_1.gif
 -d dailysabah.com /banner/
 -d dailytimes.com.pk /banners/
+-d dailytrust.com.ng /Image/LATEST_COLEMANCABLE.gif
 -d dailytrust.info /images/banners/
 -d dailytrust.info /images/dangote.swf
 -d dailywritingtips.com /publisher2.gif
@@ -18404,6 +18427,8 @@ msFilterList
 -d infobetting.com /b/
 -d infobetting.com /bookmaker/
 -d infoq.com /banners/
+-d informationng.com -Leaderboard.
+-d informationng.com /300-x-250.
 -d informe.com /img/banner_
 -d informer.com /js/onexit*.js
 -d infosecisland.com /ajax/viewbanner/
@@ -20089,6 +20114,7 @@ msFilterList
 -d thinkingwithportals.com -skyscraper.swf
 -d thirdage.com _banner.php
 -d thisisanfield.com takeover
+-d thisisf1.com /special-offer.jpg
 -d thunder106.com //wp-content/banners/
 -d ticketnetwork.com /images/affiliates/
 -d tigerdroppings.com &adcode=
@@ -21437,6 +21463,7 @@ msFilterList
 -d porn-w.org /chili.php
 -d porn-w.org /images/chs.gif
 -d porn-w.org /images/cosy/
+-d porn-w.org /images/ls.gif
 -d porn-w.org /images/zevera.png
 -d porn.com /assets/partner_
 -d porn.com /js/pu.js
@@ -21997,6 +22024,7 @@ msFilterList
 +d auditude.com /crossdomain.xml
 +d auditude.com /AuditudeAdUnit.swf
 +d autogespot.info /upload/ads/
++d autotrader.ca /search/searchAdsIframe.aspx?
 +d autotrader.co.uk /lightbox/video?
 +d autotrader.co.uk /static/*/images/adv/icons.png
 +d autotrader.co.uk _adverts/
@@ -23034,6 +23062,7 @@ msFilterList
 +d boxxod.net /advertisement.js
 +d brainyquote.com /ad*.js
 +d brassyobedientcotangent.com /ads.js
++d broadwayworld.com
 +d bsmotoring.com /adframe.js
 +d bulletproofserving.com /scripts/ads.js
 +d business-solutions.us
@@ -23711,6 +23740,7 @@ msFilterList
 +d telegraph.co.uk /ads.js
 +d telemetryverification.net /crossdomain.xml
 +d television-envivo.com
++d the-dermatologist.com /ad_block_check/ad/*.js
 +d theatlantic.com
 +d theatlantic.com /adver*.js
 +d thecountrycaller.com /showads.php
