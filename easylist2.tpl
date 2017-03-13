@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá bře 10 19:07:01 CET 2017 ##################
+##### Aktualizováno: Po bře 13 10:50:10 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -659,6 +659,7 @@ msFilterList
 - -ad_injector/
 - -ad_leaderboard/
 - -adblack-
+- -adbox-
 - -adcentre.
 - -adchain.
 - -adhelper.
@@ -3083,6 +3084,7 @@ msFilterList
 - /adspace?
 - /adspacer.
 - /adspan.
+- /adspd.
 - /adspeeler/
 - /adspending01.
 - /adspi.
@@ -4357,6 +4359,7 @@ msFilterList
 - /embed/ads.
 - /embed_ad.
 - /emediatead.
+- /empty_ad_
 - /EmreAds.
 - /ems/ads.
 - /en/ads/
@@ -5261,6 +5264,7 @@ msFilterList
 - /momsads.
 - /moneyball/ads/
 - /MonsterAd-
+- /mp3-ad/
 - /mpads/
 - /mpu-dm.htm
 - /mpuad.
@@ -5768,6 +5772,7 @@ msFilterList
 - /restorationad-
 - /retrad.
 - /retrieve-ad.
+- /revboostprocdnadsprod.
 - /revealaads.
 - /revealaads/
 - /revealads.
@@ -8004,6 +8009,7 @@ msFilterList
 -d 188server.com
 -d 18clicks.com
 -d 194.71.107.25
+-d 1bx4t5c.com
 -d 1ccbt.com
 -d 1clickdownloads.com
 -d 1e0y.xyz
@@ -11495,6 +11501,7 @@ msFilterList
 -d stirshakead.com
 -d stocker.bonnint.net
 -d streamate.com
+-d streamdefence.com
 -d streamdownloadonline.com
 -d strikead.com
 -d struq.com
@@ -12122,6 +12129,7 @@ msFilterList
 -d ditdotsol.com
 -d ditwrite.com
 -d erniphiq.com
+-d givingsol.com
 -d la-la-sf.com
 -d netrosol.net
 -d new-new-years.com
@@ -12443,6 +12451,7 @@ msFilterList
 -d dxurtngzawwe.com
 -d dyazeqpeoykf.com
 -d dyunhvev.com
+-d dyzstwcqbgjk.com
 -d easnviytengk.com
 -d ebfjbrlcvjlv.com
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
@@ -12486,6 +12495,7 @@ msFilterList
 -d etggiddfdaqd.com
 -d evhvoeqfrlsb.com
 -d exnyzdboihvi.com
+-d eylyitpslpqu.com
 -d ezbtpdjeimlv.com
 -d ezuosstmbcle.com
 -d farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
@@ -12632,6 +12642,7 @@ msFilterList
 -d hpxxzfzdocinivvulcujuhypyrniicjfauortalmjerubjgaja.com
 -d hqaajpaedpux.com
 -d hqnyahlpmehp.com
+-d hrvxpinmdyjx.com
 -d hsvqfvjidloc.com
 -d htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
 -d hueenmivecmx.com
@@ -12738,6 +12749,7 @@ msFilterList
 -d jqmcbepfjgks.com
 -d jqqrcwwd.com
 -d jrmyhchnfawh.com
+-d jseewggtkfrs.com
 -d jshjrozmwmyj.com
 -d jtzlsdmbmfms.com
 -d juqmlmoclnhe.com
@@ -12911,6 +12923,7 @@ msFilterList
 -d mzbetmhucxih.com
 -d mzguykhxnuap.com
 -d mzkhhjueazkn.com
+-d nahvyfyfpffm.com
 -d nbbljlzbbpck.com
 -d nbkwnsonadrb.com
 -d nbrwtboukesx.com
@@ -13028,6 +13041,7 @@ msFilterList
 -d pjnrwznmzguc.com
 -d pkmzxzfazpst.com
 -d pkougirndckw.com
+-d pkoyiqjjxhsy.com
 -d pkqbgjuinhgpizxifssrtqsyxnzjxwozacnxsrxnvkrokysnhb.com
 -d plcsedkinoul.com
 -d plgdhrvzsvxp.com
@@ -18084,6 +18098,7 @@ msFilterList
 -d gallerynova.se /jquery.bpopup.min.js
 -d gallerysense.se /site/getBannerCode
 -d gamblinginsider.com /partner_events.php
+-d game-blog.to /layer*.js
 -d game1games.com /exchange/
 -d gameads.digyourowngrave.com
 -d gameawayscouponsstorage.blob.core.windows.net /images/greenmangaming/
@@ -20780,6 +20795,12 @@ msFilterList
 -d twoddl.link .js
 +d gelbooru.com /index.php?
 +d gelbooru.com /script/application.js*.js
++d depositfiles.com /get_file.php?
++d depositfiles.org /get_file.php?
++d dfiles.eu /get_file.php?
++d dfiles.ru /get_file.php?
++d static.depositfiles.com .js
++d static.dfiles.ru .js
 +d adf.ly /static/image/
 -d imgcandy.net /fad/*.js
 +d gorillavid.in /?
@@ -21838,6 +21859,7 @@ msFilterList
 +d imagefap.com /jscripts/thumbnail_change.js*.js
 +d imagefap.com /photo/*/?gid=
 +d imagefap.com /ubr_file_upload.js*.js
++d moviefap.com /js/swfobject.js*.js
 +d motherless.com /register/
 +d motherless.com /scripts/auth.min.js
 +d motherless.com /scripts/bots.min.js
@@ -22059,6 +22081,8 @@ msFilterList
 +d bluetree.co.uk /hji/advertising.
 +d bnbfinder.com /adv_getCity.php?
 +d boats.com /ad/
++d bodybuilding.com /ad-ops/prebid-adops-forums.js*.js
++d bodybuilding.com /ad-ops/prebid.js*.js
 +d bonappetit.com /ams/page-ads.js?
 +d bonappetit.com /cn.dart.js
 +d boreburn.com
@@ -22843,6 +22867,7 @@ msFilterList
 +d tvnz.co.nz /advertisement.js
 +d twinspires.com /php/
 +d twitvid.com /mediaplayer_*.swf?
++d twofactorauth.org /img/
 +d twogag.com /comics/
 +d ucaster.eu /static/scripts/adscript.js
 +d uillinois.edu /eas/
@@ -23145,7 +23170,7 @@ msFilterList
 +d divyabhaskar.co.in /ad*.js
 +d dksoftwares4u.blogspot.co.uk
 +d docpaste.com
-+d dogefaucet.com /advertisement.js
++d dogefaucet.com /ad*.js
 +d domain.com /ads.html
 +d dontdrinkandroot.net /js/adframe.js
 +d doodle.com /builtstatic/*/doodle/js/*.js
@@ -23342,11 +23367,13 @@ msFilterList
 +d iptvplaylists.com
 +d iridiumsergeiprogenitor.info .js
 +d iriptv.com /player/ads.js
++d israellycool.com
 +d itunesplusaacm4a.org
 +d jagranjosh.com /Resources/*.js
 +d jansatta.com ads_*.js
 +d javadecompilers.com
 +d jevvi.es /adblock/
++d jewishpress.com
 +d jiwangmovie.com
 +d jjcast.com
 +d jkanime.net /assets/js/advertisement.js
@@ -23882,7 +23909,7 @@ msFilterList
 +d wwe2day.tv
 +d www.vg.no
 +d xlocker.net
-+d xmovies8.org /ads_*.js
++d xmovies8.org /ads_
 +d xmovies8.org /js/showads.js
 +d xooimg.com /magesy/js-cdn/adblock.js
 +d xosp.org
@@ -24098,6 +24125,7 @@ msFilterList
 +d artserieshotels.com.au /images/*_460_60.
 +d assets.vice.com _120x60.jpg
 +d bizquest.com _img/_franchise/*_120x60.
++d breakingisraelnews.com /wp-content/uploads/*-300x250-
 +d canada.com /news/*-300-250.gif
 +d cbsistatic.com /img/*/300x250/
 +d cinemanow.com /images/banners/300x250/
@@ -24495,6 +24523,7 @@ msFilterList
 +d pornhub.com /emoticons/
 +d pornhubcommunity.com /cdn_files/images/
 +d pornhublive.com /blacklabel/bl.client.min.js*.js
++d pornmd.com /resources/js/search_widget.js*.js
 +d redtube.com.br /_Incapsula_Resource?
 +d redtube.com /_Incapsula_Resource?
 +d redtube.com /_thumbs/

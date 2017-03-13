@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 10 Mar 2017 18:00 UTC
+# Last modified: 13 Mar 2017 09:40 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -826,6 +826,7 @@ msFilterList
 - -ad_leaderboard/
 # -adap.$domain=~l-adap.org
 - -adblack-
+- -adbox-
 - -adcentre.
 - -adchain.
 - -adhelper.
@@ -3327,6 +3328,7 @@ msFilterList
 - /adspace?
 - /adspacer.
 - /adspan.
+- /adspd.
 - /adspeeler/
 - /adspending01.
 - /adspi.
@@ -4626,6 +4628,7 @@ msFilterList
 - /embed/ads.
 - /embed_ad.
 - /emediatead.
+- /empty_ad_
 - /EmreAds.
 - /ems/ads.
 - /en/ads/
@@ -5537,6 +5540,7 @@ msFilterList
 - /momsads.
 - /moneyball/ads/
 - /MonsterAd-
+- /mp3-ad/
 - /mpads/
 - /mpu-dm.htm
 - /mpuad.
@@ -6058,6 +6062,7 @@ msFilterList
 - /restorationad-
 - /retrad.
 - /retrieve-ad.
+- /revboostprocdnadsprod.
 - /revealaads.
 - /revealaads/
 - /revealads.
@@ -8455,6 +8460,7 @@ msFilterList
 -d 18clicks.com
 -d 194.71.107.25
 # ||199.102.225.178^$third-party,domain=~adsimilate.ip
+-d 1bx4t5c.com
 -d 1ccbt.com
 -d 1clickdownloads.com
 -d 1e0y.xyz
@@ -11986,6 +11992,7 @@ msFilterList
 -d stirshakead.com
 -d stocker.bonnint.net
 -d streamate.com
+-d streamdefence.com
 -d streamdownloadonline.com
 -d strikead.com
 -d struq.com
@@ -12621,6 +12628,7 @@ msFilterList
 -d ditdotsol.com
 -d ditwrite.com
 -d erniphiq.com
+-d givingsol.com
 -d la-la-sf.com
 -d netrosol.net
 -d new-new-years.com
@@ -12948,6 +12956,7 @@ msFilterList
 -d dxurtngzawwe.com
 -d dyazeqpeoykf.com
 -d dyunhvev.com
+-d dyzstwcqbgjk.com
 -d easnviytengk.com
 -d ebfjbrlcvjlv.com
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
@@ -12991,6 +13000,7 @@ msFilterList
 -d etggiddfdaqd.com
 -d evhvoeqfrlsb.com
 -d exnyzdboihvi.com
+-d eylyitpslpqu.com
 -d ezbtpdjeimlv.com
 -d ezuosstmbcle.com
 -d farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
@@ -13137,6 +13147,7 @@ msFilterList
 -d hpxxzfzdocinivvulcujuhypyrniicjfauortalmjerubjgaja.com
 -d hqaajpaedpux.com
 -d hqnyahlpmehp.com
+-d hrvxpinmdyjx.com
 -d hsvqfvjidloc.com
 -d htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
 -d hueenmivecmx.com
@@ -13243,6 +13254,7 @@ msFilterList
 -d jqmcbepfjgks.com
 -d jqqrcwwd.com
 -d jrmyhchnfawh.com
+-d jseewggtkfrs.com
 -d jshjrozmwmyj.com
 -d jtzlsdmbmfms.com
 -d juqmlmoclnhe.com
@@ -13416,6 +13428,7 @@ msFilterList
 -d mzbetmhucxih.com
 -d mzguykhxnuap.com
 -d mzkhhjueazkn.com
+-d nahvyfyfpffm.com
 -d nbbljlzbbpck.com
 -d nbkwnsonadrb.com
 -d nbrwtboukesx.com
@@ -13533,6 +13546,7 @@ msFilterList
 -d pjnrwznmzguc.com
 -d pkmzxzfazpst.com
 -d pkougirndckw.com
+-d pkoyiqjjxhsy.com
 -d pkqbgjuinhgpizxifssrtqsyxnzjxwozacnxsrxnvkrokysnhb.com
 -d plcsedkinoul.com
 -d plgdhrvzsvxp.com
@@ -15925,6 +15939,7 @@ msFilterList
 # ||chtic.net^$popup,third-party
 # ||connexionsafe.com^$popup
 # ||cstraffic.com^$popup
+# ||datoporn.com^$popup,third-party
 # ||doublegear.com^$popup,third-party
 # ||dverser.ru^$popup,third-party
 # ||easysexdate.com^$popup
@@ -18567,7 +18582,7 @@ msFilterList
 # /wp-content/plugins/wbounce/*$script,domain=viralcraze.net
 # ?random=$script,domain=allmyvideos.net|mediafire.com|mooshare.biz|muchshare.net|tvmuse.com|tvmuse.eu|vidspot.net
 # ^guid=$script,domain=allmyvideos.net|mediafire.com|mooshare.biz|muchshare.net|tvmuse.com|tvmuse.eu|vidspot.net
-# |blob:$domain=1337x.to|1channel.biz|ancient-origins.net|androidcentral.com|anime-joy.tv|auroravid.to|bitvid.sx|champion.gg|closerweekly.com|cloudtime.to|connectedly.com|couch-tuner.at|couch-tuner.me|couchtuner.ac|couchtuner.us|crackberry.com|dailycaller.com|destructoid.com|dreamfilm.se|episodetube.com|episodetube.net|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.date|extratorrent.works|extratorrentlive.com|extratorrentonline.com|filme-streamz.com|filmlinks4u.is|firstforwomen.com|firstrowau.eu|firstrowus1.eu|fmovies.se|fmovies.to|fullmatchesandshows.com|homerun.re|imagefap.com|imore.com|investopedia.com|israelnationalnews.com|jewsnews.co.il|keepvid.com|kickass.cd|kino-streamz.com|kiplinger.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|livescience.com|lolcounter.com|mashable.com|merriam-webster.com|movies4stream.com|mylivecricket.org|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.li|nowvideo.sx|nowvideo.to|olympicstreams.me|onwatchseries.to|openload.co|pcgamer.com|pcgames-download.net|phonearena.com|pocketnow.com|primewire.ag|primewire.is|primewire.to|primewire.unblockall.xyz|rinf.com|roadracerunner.com|sgvideos.net|skidrowcrack.com|snowysmile.com|stream2watch.cc|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|thefreethoughtproject.com|thevideo.me|tomsguide.com|tomshardware.co.uk|tomshardware.com|trifind.com|tv-series.me|veteranstoday.com|vidlox.tv|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|vrheads.com|watch-series-tv.to|watch-series.ag|watch-tv-series.to|watchepisodes-tv.com|watchseries.ag|watchseries.li|watchseries.lt|watchseries.ph|watchseries.vc|watchseriesuk.ag|watchseriesuk.lt|watchtvseries.se|watchtvseries.unblocked.cat|watchtvseries.vc|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws|xda-developers.com
+# |blob:$domain=1337x.to|1channel.biz|ancient-origins.net|androidcentral.com|anime-joy.tv|auroravid.to|bitvid.sx|breakingisraelnews.com|champion.gg|closerweekly.com|cloudtime.to|connectedly.com|couch-tuner.at|couch-tuner.me|couchtuner.ac|couchtuner.us|crackberry.com|dailycaller.com|destructoid.com|dreamfilm.se|episodetube.com|episodetube.net|etmirror.com|etproxy.com|extra.to|extratorrent.cc|extratorrent.date|extratorrent.works|extratorrentlive.com|extratorrentonline.com|filme-streamz.com|filmlinks4u.is|firstforwomen.com|firstrowau.eu|firstrowus1.eu|fmovies.se|fmovies.to|fullmatchesandshows.com|homerun.re|imagefap.com|imore.com|investopedia.com|israelnationalnews.com|jerusalemonline.com|jewsnews.co.il|keepvid.com|kickass.cd|kino-streamz.com|kiplinger.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|livescience.com|lolcounter.com|mashable.com|merriam-webster.com|movies4stream.com|mylivecricket.org|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.li|nowvideo.sx|nowvideo.to|olympicstreams.me|onwatchseries.to|openload.co|pcgamer.com|pcgames-download.net|phonearena.com|pocketnow.com|primewire.ag|primewire.is|primewire.to|primewire.unblockall.xyz|rinf.com|roadracerunner.com|sgvideos.net|skidrowcrack.com|snowysmile.com|stream2watch.cc|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|thefreethoughtproject.com|thevideo.me|tomsguide.com|tomshardware.co.uk|tomshardware.com|trifind.com|tv-series.me|veteranstoday.com|vidlox.tv|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|vrheads.com|watch-series-tv.to|watch-series.ag|watch-tv-series.to|watchepisodes-tv.com|watchseries.ag|watchseries.li|watchseries.lt|watchseries.ph|watchseries.vc|watchseriesuk.ag|watchseriesuk.lt|watchtvseries.se|watchtvseries.unblocked.cat|watchtvseries.vc|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws|xda-developers.com
 # |http:$subdocument,third-party,domain=2ad.in|ad2links.com|adfoc.us|adv.li|adyou.me|allmyvideos.net|amvtv.net|ay.gy|fuestfka.com|imgmega.com|j.gs|linkbucksmedia.com|mortastica.com|prodsetter-in.com|q.gs|sh.st|shr77.com|sonomerit.com|ssovgoxbvppy.net|streamcloud.eu|thevideo.me|twer.info|u.bb|uploaded.net|vidspot.net
 # |http:$third-party,xmlhttprequest,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123moviesfree.com|123movieshd.net|animehaven.to|auroravid.to|ay8ou8ohth.com|bitvid.sx|clipconverter.cc|cloudtime.to|cmovieshd.com|divxme.com|downloadming.tv|fmovies.to|full-pcsoftware.com|halacima.net|hdmusic99.in|hdtv-rls.com|kannadamovies.biz|movdivx.com|nowvideo.li|nowvideo.sx|nowvideo.to|oogh8ot0el.com|otorrents.com|pocketnow.com|putlockertv.is|thepiratebay.cd|vidzi.tv|wholecloud.net
 - http://creative.*/smart.js*.js
@@ -18903,7 +18918,7 @@ msFilterList
 -d ask.com /fifdart?
 -d askandyaboutclothes.com /images/
 -d askbobrankin.com /awpopup*.js
-# ||assets.stuff.co.nz^$subdocument
+# ||assets.stuff.co.nz^*/widget/$subdocument
 -d astalavista.com /avtng/
 -d astalavista.com /sponsor-
 -d astronomy.com /sitefiles/overlays/overlaygenerator.aspx?
@@ -19896,6 +19911,7 @@ msFilterList
 -d gallerynova.se /jquery.bpopup.min.js
 -d gallerysense.se /site/getBannerCode
 -d gamblinginsider.com /partner_events.php
+-d game-blog.to /layer*.js
 -d game1games.com /exchange/
 -d gameads.digyourowngrave.com
 -d gameawayscouponsstorage.blob.core.windows.net /images/greenmangaming/
@@ -22786,6 +22802,10 @@ msFilterList
 -d zorrovpn.com /static/img/promo/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
+# wholecloud.net
+# @@||ajax.googleapis.com^$script,domain=wholecloud.net
+# |http://$script,third-party,xmlhttprequest,domain=wholecloud.net
+# |https://$script,third-party,xmlhttprequest,domain=wholecloud.net
 # movdivx.com
 +d movdivx.com /cgi-bin/upload.cgi?
 # |http://$script,third-party,xmlhttprequest,domain=movdivx.com
@@ -23197,10 +23217,16 @@ msFilterList
 # |https://$script,third-party,xmlhttprequest,domain=putlocker.is|putlocker.live|putlocker9.co|putlockers.ch
 # Depositfiles/Dfiles
 # @@||api.solvemedia.com^$third-party,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
++d depositfiles.com /get_file.php?
++d depositfiles.org /get_file.php?
++d dfiles.eu /get_file.php?
++d dfiles.ru /get_file.php?
 # @@||google.com/js/bg/$script,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
-# @@||static.depositfiles.com^$script,domain=depositfiles.org|dfiles.eu|dfiles.ru
-# |http://$script,xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
-# |https://$script,xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
+# @@||google.com/recaptcha/$subdocument,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
++d static.depositfiles.com .js
++d static.dfiles.ru .js
+# |http://$script,subdocument,xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
+# |https://$script,subdocument,xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 # Adreclaim
 # @@||ajax.googleapis.com^$script,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.com|travelerstoday.com|universityherald.com|wrestlinginc.com
 # @@||cdnjs.cloudflare.com^$script,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.com|travelerstoday.com|universityherald.com
@@ -25200,8 +25226,15 @@ msFilterList
 -d yumymilf.com /banners/
 -d yuvutu.com /banners/
 -d zazzybabes.com /misc/virtuagirl-skin.js
+# zone-anime.net
+# @@||connect.facebook.net^$script,domain=zone-anime.net
+# @@||disqus.com^$script,domain=zone-anime.net
+# |http://$script,third-party,xmlhttprequest,domain=zone-anime.net
+# |https://$script,third-party,xmlhttprequest,domain=zone-anime.net
 # xmoviesforyou.com
-# |http://$script,third-party,xmlhttprequest,domain=xmoviesforyou.com
+# @@||datoporn.com^$script,domain=29443kmq.video
+# https://$script,third-party,xmlhttprequest,domain=29443kmq.video
+# |http://$script,third-party,xmlhttprequest,domain=29443kmq.video|xmoviesforyou.com
 # |https://$script,third-party,xmlhttprequest,domain=xmoviesforyou.com
 # rule34hentai.net
 +d rule34hentai.net /data/cache/*.js
@@ -25253,6 +25286,7 @@ msFilterList
 +d imagefap.com /jscripts/thumbnail_change.js*.js
 +d imagefap.com /photo/*/?gid=
 +d imagefap.com /ubr_file_upload.js*.js
++d moviefap.com /js/swfobject.js*.js
 # |http://$script,xmlhttprequest,domain=imagefap.com
 # |https://$script,xmlhttprequest,domain=imagefap.com
 # hotpornfile.org
@@ -25829,6 +25863,8 @@ msFilterList
 +d bluetree.co.uk /hji/advertising.
 +d bnbfinder.com /adv_getCity.php?
 +d boats.com /ad/
++d bodybuilding.com /ad-ops/prebid-adops-forums.js*.js
++d bodybuilding.com /ad-ops/prebid.js*.js
 +d bonappetit.com /ams/page-ads.js?
 +d bonappetit.com /cn.dart.js
 # @@||boracay.mobi/boracay/imageAds/$image,domain=boracay.tel
@@ -26385,7 +26421,7 @@ msFilterList
 +d imasdk.googleapis.com /flash/core/3.*/adsapi.swf
 +d imasdk.googleapis.com /flash/sdkloader/adsapi_3.swf
 +d imasdk.googleapis.com /js/core/bridge*.html
-# @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=allcatvideos.com|audiomack.com|bloomberg.com|cbc.ca|cnet.com|complex.com|gamejolt.com|news.sky.com|play.ludigames.com|player.performgroup.com|rumble.com|snopes.com|theverge.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com
+# @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=allcatvideos.com|audiomack.com|bloomberg.com|cbc.ca|cbssports.com|cnet.com|complex.com|gamejolt.com|news.sky.com|play.ludigames.com|player.performgroup.com|rumble.com|snopes.com|theverge.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com
 # @@||img-cdn.mediaplex.com^$image,domain=betfair.com
 # @@||img.brickscout.com^$domain=brickscout.com
 # @@||img.espngp.com/ads/$image,domain=espnf1.com
@@ -27172,6 +27208,7 @@ msFilterList
 +d tvnz.co.nz /advertisement.js
 +d twinspires.com /php/
 +d twitvid.com /mediaplayer_*.swf?
++d twofactorauth.org /img/
 +d twogag.com /comics/
 # @@||u.openx.net/v/1.0/sc?$object-subrequest,domain=motogp.com
 +d ucaster.eu /static/scripts/adscript.js
@@ -27695,7 +27732,7 @@ msFilterList
 # @@||dnswatch.info^$script,domain=dnswatch.info
 +d docpaste.com
 # @@||dogecoinpuddle.com^$script,domain=dogecoinpuddle.com
-+d dogefaucet.com /advertisement.js
++d dogefaucet.com /ad*.js
 # @@||dollarade.com/overlay_gateway.php?oid=$script,domain=dubs.me|filestore123.info|myfilestore.com|portable77download.blogspot.com
 +d domain.com /ads.html
 +d dontdrinkandroot.net /js/adframe.js
@@ -27974,12 +28011,14 @@ msFilterList
 +d iptvplaylists.com
 +d iridiumsergeiprogenitor.info .js
 +d iriptv.com /player/ads.js
++d israellycool.com
 +d itunesplusaacm4a.org
 +d jagranjosh.com /Resources/*.js
 +d jansatta.com ads_*.js
 +d javadecompilers.com
 # @@||jb51.net^$script,domain=lg-firmware-rom.com
 +d jevvi.es /adblock/
++d jewishpress.com
 +d jiwangmovie.com
 +d jjcast.com
 +d jkanime.net /assets/js/advertisement.js
@@ -28642,7 +28681,7 @@ msFilterList
 +d wwe2day.tv
 +d www.vg.no
 +d xlocker.net
-+d xmovies8.org /ads_*.js
++d xmovies8.org /ads_
 +d xmovies8.org /js/showads.js
 +d xooimg.com /magesy/js-cdn/adblock.js
 +d xosp.org
@@ -29165,6 +29204,7 @@ msFilterList
 # @@||bettermarks.com/static/media$~third-party
 # @@||bexio.com/files/content/*160x600.$domain=bexio.com
 +d bizquest.com _img/_franchise/*_120x60.
++d breakingisraelnews.com /wp-content/uploads/*-300x250-
 +d canada.com /news/*-300-250.gif
 +d cbsistatic.com /img/*/300x250/
 +d cinemanow.com /images/banners/300x250/
@@ -29321,7 +29361,7 @@ msFilterList
 # @@||adv.alsscan.com^$image,stylesheet,domain=alscash.com
 # @@||anyporn.com*/images/$image,~third-party,domain=anyporn.com
 # @@||as.sexad.net/as/r?d=preroll-mov-$object-subrequest,domain=youjizz.com
-# @@||bambergerkennanchitinous.com^$script,domain=eegay.com|teenhdporn.xyz
+# @@||bambergerkennanchitinous.com^$script,domain=eegay.com|teenhdporn.xyz|xmoviesforyou.com
 # @@||boyzshop.com/affimages/$~third-party
 +d boyzshop.com /images/affbanners/
 +d burningcamel.com /ads/banner.jpg
@@ -29678,6 +29718,7 @@ msFilterList
 +d pornhub.com /emoticons/
 +d pornhubcommunity.com /cdn_files/images/
 +d pornhublive.com /blacklabel/bl.client.min.js*.js
++d pornmd.com /resources/js/search_widget.js*.js
 # @@||rdtcdn.com^$image,media,other,domain=redtube.com|redtube.com.br
 +d redtube.com.br /_Incapsula_Resource?
 # @@||redtube.com.br/images/$image,domain=redtube.com.br
