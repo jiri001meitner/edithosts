@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po bře 13 23:21:50 CET 2017 ##################
+##### Aktualizováno: Po bře 13 23:39:22 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -24219,6 +24219,7 @@ msFilterList
 +d ads.thrillsaffiliates.com /redirect.aspx?
 +d ads.toplayaffiliates.com /redirect.aspx?
 +d ads.twitter.com
++d ads.yakocasinoaffiliates.com /redirect.aspx?pid=*&bid=
 +d adsrv.eacdn.com /C.ashx?btag=a_
 +d adsrv.eacdn.com /wl/clk?btag=a_
 +d adv.blogupp.com

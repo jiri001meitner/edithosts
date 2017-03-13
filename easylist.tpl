@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 13 Mar 2017 22:10 UTC
+# Last modified: 13 Mar 2017 22:30 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -29337,6 +29337,7 @@ msFilterList
 +d ads.toplayaffiliates.com /redirect.aspx?
 +d ads.twitter.com
 # @@||ads.williamhillcasino.com/redirect.aspx?*=internal&$popup,domain=williamhillcasino.com
++d ads.yakocasinoaffiliates.com /redirect.aspx?pid=*&bid=
 # @@||adserving.unibet.com/redirect.aspx?pid=$popup,domain=betwonga.com
 +d adsrv.eacdn.com /C.ashx?btag=a_
 +d adsrv.eacdn.com /wl/clk?btag=a_
