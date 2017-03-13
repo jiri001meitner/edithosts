@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po bře 13 10:55:09 CET 2017 ##################
+##### Aktualizováno: Po bře 13 23:20:21 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -3087,6 +3087,7 @@ msFilterList
 - /adspd.
 - /adspeeler/
 - /adspending01.
+- /adspf.
 - /adspi.
 - /adsplay.
 - /Adsplex-
@@ -5354,6 +5355,7 @@ msFilterList
 - /nuggad/
 - /nymag_ads.
 - /nymag_ads_
+- /nzmeads/
 - /o2ad.
 - /o2contentad.
 - /oas-config.
@@ -5395,6 +5397,7 @@ msFilterList
 - /onead_
 - /onecam4ads.
 - /onesheet-ad-
+- /online-ad_
 - /online/ads/
 - /online_ads/
 - /onlineads/
@@ -12190,6 +12193,7 @@ msFilterList
 -d copyrightaccesscontrols.com
 -d crownclam.com
 -d fanaticalfly.com
+-d matchcows.com
 -d metapelite.com
 -d peacepowder.com
 -d ritzysponge.com
@@ -15240,6 +15244,7 @@ msFilterList
 -d creatives.inmotionhosting.com
 -d creatives.summitconnect.co.uk
 -d crowdsavings.com /r/banner/
+-d cruiseline.com /widgets/
 -d cruisesalefinder.co.nz /affiliates.html
 -d crunchyroll.com /awidget/
 -d cstv.com /sponsors/
@@ -20795,11 +20800,16 @@ msFilterList
 -d twoddl.link .js
 +d gelbooru.com /index.php?
 +d gelbooru.com /script/application.js*.js
-+d depositfiles.com /get_file.php?
-+d depositfiles.org /get_file.php?
++d depositfiles.com /get_file.php
++d depositfiles.com /js/*.js
++d depositfiles.org /get_file.php
 +d dfiles.eu /get_file.php?
-+d dfiles.ru /get_file.php?
++d dfiles.eu /js/*.js
++d dfiles.ru /get_file.php
++d dfiles.ru /js/*.js
 +d static.depositfiles.com .js
++d static.depositfiles.org .js
++d static.dfiles.eu .js
 +d static.dfiles.ru .js
 +d adf.ly /static/image/
 -d imgcandy.net /fad/*.js
@@ -21997,6 +22007,8 @@ msFilterList
 +d affiliate.kickapps.com /service/
 +d affiliate.skiamade.com
 +d affiliates.hihostels.com /search-box?
++d affiliates.kindredplc.com /newsignup/signup.html?
++d affiliates.kindredplc.com /registration2/login.aspx
 +d affiliates.unpakt.com /widget/
 +d affiliates.unpakt.com /widget_loader/widget_loader.js
 +d africam.com /adimages/
