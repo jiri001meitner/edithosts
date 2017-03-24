@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út bře 21 23:18:52 CET 2017 ##################
+##### Aktualizováno: Pá bře 24 12:03:00 CET 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10820,6 +10820,7 @@ msFilterList
 -d onads.com
 -d onclasrv.com
 -d onclickads.net
+-d onclkds.com
 -d onedmp.com
 -d onenetworkdirect.com
 -d onenetworkdirect.net
@@ -13836,6 +13837,7 @@ msFilterList
 -d guaperty.net
 -d guiandr.com
 -d gusufrs.me
+-d h456u54f.net
 -d hapnr.net
 -d havnr.com
 -d heizuanubr.net
@@ -21058,7 +21060,7 @@ msFilterList
 +d s.reembed.com .js
 +d static.cdn-ec.viddler.com .js
 +d static.reembed.com .js
-+d syndication.twimg.com /widgets/*.js
++d syndication.twimg.com .js
 +d thegatewaypundit.com /wp-content/uploads/submit_tip.png
 +d thegatewaypundit.com /wp-includes/images/rss.png
 +d twimg.com
