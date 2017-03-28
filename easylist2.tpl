@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po bře 27 23:37:03 CEST 2017 ##################
+##### Aktualizováno: Út bře 28 11:35:57 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9069,6 +9069,7 @@ msFilterList
 -d bridgetrack.com
 -d brighteroption.com
 -d brightshare.com
+-d britiesee.info
 -d broadstreetads.com
 -d brokeloy.com
 -d browsersfeedback.com
@@ -12230,6 +12231,7 @@ msFilterList
 -d wapdollar.in
 -d waptrick.com
 -d yieldmo.com
+-d actuallysheep.com
 -d beamkite.com
 -d brassrule.com
 -d breezybath.com
@@ -13847,6 +13849,7 @@ msFilterList
 -d fuandarst.com
 -d genegd.com
 -d gerengd.link
+-d gertgh.com
 -d gghfncd.net
 -d gruadhc.com
 -d gruanchd.link
