@@ -2,9 +2,9 @@
 
 [Buy me a coffee](http://l.meitner.cz/paypal-edithosts)[![Buy me a coffee](https://farm8.staticflickr.com/7637/16935062915_a9ca9ab564_m.jpg)](http://l.meitner.cz/paypal-edithosts)
 
-#[English]	(http://edithosts.meitner.cz/en)
+#[English](http://edithosts.meitner.cz/en)
 
-#[Czech]	(http://edithosts.meitner.cz/)
+#[Czech](http://edithosts.meitner.cz/)
 
 ##O projektu
 
