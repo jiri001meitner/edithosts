@@ -2,11 +2,11 @@
 
 [Buy me a coffee](http://l.meitner.cz/paypal-edithosts)[![Buy me a coffee](https://farm8.staticflickr.com/7637/16935062915_a9ca9ab564_m.jpg)](http://l.meitner.cz/paypal-edithosts)
 
-#[English](http://edithosts.meitner.cz/en)
+# [English](http://edithosts.meitner.cz/en)
 
-#[Czech](http://edithosts.meitner.cz/)
+# [Czech](http://edithosts.meitner.cz/)
 
-##O projektu
+## O projektu
 
 Zde bych Vás rád seznámil s projektem Edithosts na blokování reklamy a malware webů na systému GNU/Linux.
 
@@ -24,31 +24,31 @@ Celý program je v složen z jednoduchých bashových scriptů, takže je pro u�
 
 ***
 
-##Instalace:
+## Instalace:
 
 	cd /tmp
 	git clone https://github.com/jiri001meitner/edithosts.git
 	edithosts/install.sh
 
-##Odinstalace:
+## Odinstalace:
 
 	/opt/edithosts/uninstall.sh
 
-###Ruční úprava souboru /etc/hosts
+### Ruční úprava souboru /etc/hosts
 
 	/opt/edithosts/edithosts.sh
 
 >(Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru). Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
 
 ***
-##Popis
+## Popis
 
 >edithosts je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux.
 
 >Program se sám aktualizuje a uživatel se nemusí o nic starat.
 
 
-###Příklad použití
+### Příklad použití
 
 	/opt/edithosts/uninstall.sh
 >slouží k odinstalaci programu a vrácení všech nastavení
@@ -75,12 +75,12 @@ Celý program je v složen z jednoduchých bashových scriptů, takže je pro u�
 	temporarilydisableblocking
 >slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.
 
-###Zobrazení nápovědy
+### Zobrazení nápovědy
 
 	man edithosts
 >slouží pro zobrazení nápovědy v terminálu
 
-###Příspěvek na vývoj
+### Příspěvek na vývoj
 Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
 
 [PayPal účet či platební karta online](http://l.meitner.cz/paypal-edithosts)
