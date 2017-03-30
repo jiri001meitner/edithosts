@@ -37,13 +37,13 @@ Celý program je v složen z jednoduchých bashových scriptů, takže je pro u�
 ### Ruční úprava souboru /etc/hosts
 
 	/opt/edithosts/edithosts.sh
-
->(Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru). Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
+>(Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru).
+Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
 
 ***
 ## Popis
 
->edithosts je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux.
+>Edithosts je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux.
 
 >Program se sám aktualizuje a uživatel se nemusí o nic starat.
 
@@ -51,34 +51,34 @@ Celý program je v složen z jednoduchých bashových scriptů, takže je pro u�
 ### Příklad použití
 
 	/opt/edithosts/uninstall.sh
->slouží k odinstalaci programu a vrácení všech nastavení
+>Slouží k odinstalaci programu a vrácení všech nastavení.
 
 	/opt/edithosts/autoupdate.sh
->slouží ke kontrole aktualizací programu a k následné aktualizaci
+>Slouží ke kontrole aktualizací programu a k následné aktualizaci.
 
 	/etc/cron.monthly/updateprogramuedithosts
->je shodné s výše uvedeným autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci
+>Je shodné s výše uvedeným autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci.
 
 	/opt/edithosts/cron.weekly-edithosts
->slouží k aktualizaci černé listiny
+>Slouží k aktualizaci černé listiny.
 
 	/etc/cron.weekly/edithosts
->je shodné s výše uvedeným cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.
+>Je shodné s výše uvedeným cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.
 
 	/opt/edithosts/edithosts.sh
->slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.
+>Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.
 
 	/opt/edithosts/gethosts.sh
->slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.
+>Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.
 
 	/opt/edithosts/temporarilydisableblocking.sh
 	temporarilydisableblocking
->slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.
+>Slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut.
 
 ### Zobrazení nápovědy
 
 	man edithosts
->slouží pro zobrazení nápovědy v terminálu
+>Slouží pro zobrazení nápovědy v terminálu.
 
 ### Příspěvek na vývoj
 Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
@@ -91,4 +91,3 @@ Pokud jste spokojení, budu rád za jakýkoliv příspěvek.
 >mBank: 670100-2201542227/6210
 
 >Bitcoiny: 1L8dtEf1EZU1A6mjkaCf78q2mHE4JVuBLP
-
