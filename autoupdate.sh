@@ -3,7 +3,7 @@
 # Stažení pro kontrolu aktualizace
 
 cd /tmp
-git clone  https://github.com/jiri001meitner/edithosts.git
+git clone  https://github.com/jiri001meitner/edithosts.git /tmp/edithosts/
 
 # Ověření, zdali-je potřeba aktualizovat
 

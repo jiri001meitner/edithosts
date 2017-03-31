@@ -17,26 +17,29 @@ sudo cp /etc/hosts /etc/hosts.d/hosts.conf
 
 ## installing in to /opt/edithosts
 sudo mkdir /opt/edithosts/
-sudo cp autoupdate.sh /opt/edithosts/autoupdate.sh
-sudo cp update.sh /opt/edithosts/update.sh
-sudo cp install.sh /opt/edithosts/install.sh
-sudo cp version /opt/edithosts/version
-sudo cp edithosts.sh /opt/edithosts/edithosts.sh && sudo ln -s /opt/edithosts/edithosts.sh /usr/sbin/edithosts
-sudo cp gethosts.sh /opt/edithosts/gethosts.sh && sudo ln -s /opt/edithosts/gethosts.sh /usr/sbin/gethosts
-sudo cp cron.weekly-edithosts /opt/edithosts/
-sudo cp uninstall.sh /opt/edithosts/uninstall.sh
-sudo cp licence /opt/edithosts/licence
-sudo cp temporarilydisableblocking.sh /opt/edithosts/temporarilydisableblocking.sh && sudo ln -s /opt/edithosts/temporarilydisableblocking.sh /usr/sbin/temporarilydisableblocking
-sudo cp refreshblocking.sh /opt/edithosts/refreshblocking.sh && sudo ln -s /opt/edithosts/refreshblocking.sh /usr/sbin/refreshblocking
+sudo cp /tmp/edithosts/autoupdate.sh /opt/edithosts/autoupdate.sh
+sudo cp /tmp/edithosts/update.sh /opt/edithosts/update.sh
+sudo cp /tmp/edithosts/install.sh /opt/edithosts/install.sh
+sudo cp /tmp/edithosts/version /opt/edithosts/version
+sudo cp /tmp/edithosts/edithosts.sh /opt/edithosts/edithosts.sh && sudo ln -s /opt/edithosts/edithosts.sh /usr/sbin/edithosts
+sudo cp /tmp/edithosts/gethosts.sh /opt/edithosts/gethosts.sh && sudo ln -s /opt/edithosts/gethosts.sh /usr/sbin/gethosts
+
+sudo cp /tmp/edithosts/cron_edithosts_upgrade /opt/edithosts/edithosts_upgrade
+sudo cp /tmp/edithosts/cron_edithosts_update_blocklist /opt/edithosts/edithosts_update_blocklist
+
+sudo cp /tmp/edithosts/uninstall.sh /opt/edithosts/uninstall.sh
+sudo cp /tmp/edithosts/licence /opt/edithosts/licence
+
+sudo cp /tmp/edithosts/temporarilydisableblocking.sh /opt/edithosts/temporarilydisableblocking.sh && sudo ln -s /opt/edithosts/temporarilydisableblocking.sh /usr/sbin/temporarilydisableblocking
+sudo cp /tmp/edithosts/refreshblocking.sh /opt/edithosts/refreshblocking.sh && sudo ln -s /opt/edithosts/refreshblocking.sh /usr/sbin/refreshblocking
 sudo gzip -c man/cs/man1/edithosts.1 > man/cs/man1/edithosts.1.gz
-sudo mv man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
-sudo chmod 755 /opt/edithosts -R
+
+sudo mv /tmp/edithosts/man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
+sudo chmod 755 /opt/edithosts/ -R
 
 ## periodic updates
-sudo cp cron.monthly-edithosts /etc/cron.monthly/edithosts
-sudo cp cron.weekly-edithosts /etc/cron.weekly/edithosts
-sudo chmod 755 /etc/cron.weekly/edithosts
-sudo chmod 755 /etc/cron.monthly/edithosts
+sudo ln -s /opt/edithosts/edithosts_upgrade /etc/cron.monthly/edithosts_upgrade
+sudo ln -s /opt/edithosts/edithosts_update_blocklist /etc/cron.daily/edithosts_update_blocklist
 
 echo "edithosts:Installing OK, Do not edit /etc/hosts file directly, but only through the command: edithosts."
 echo -e "edithosts:To uninstall a rollback, use the command:\n/opt/edithosts/uninstall.sh"
