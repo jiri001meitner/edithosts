@@ -14,7 +14,7 @@ sudo mv -f /tmp/edithosts/licence /opt/edithosts/licence
 
 sudo mv -f /tmp/edithosts/temporarilydisableblocking.sh /opt/edithosts/temporarilydisableblocking.sh && sudo ln -s /opt/edithosts/temporarilydisableblocking.sh /usr/sbin/temporarilydisableblocking
 sudo mv -f /tmp/edithosts/refreshblocking.sh /opt/edithosts/refreshblocking.sh && sudo ln -s /opt/edithosts/refreshblocking.sh /usr/sbin/refreshblocking
-sudo gzip -c man/cs/man1/edithosts.1 > man/cs/man1/edithosts.1.gz
+sudo gzip /tmp/edithosts/man/cs/man1/edithosts.1
 
 sudo mv -f /tmp/edithosts/man/cs/man1/edithosts.1.gz /usr/share/man/cs/man1/edithosts.1.gz
 

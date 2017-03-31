@@ -1,7 +1,8 @@
-.TH edithosts 1 "2016-09-05"
+.TH edithosts 1 "2017-03-31"
 
 .SH NAME
-edithosts\- edithosts je prostředek pro blokování reklam a nebezpečných webů
+edithosts\
+- edithosts je prostředek pro blokování reklam a nebezpečných webů
 
 .SH SYNOPSIS
 .B edithosts
@@ -13,61 +14,44 @@ odinstalace:
 
 ruční zápisy do souboru /etc/hosts:
 
-	/opt/edithosts/edithosts.sh
+	edithosts
 
 (Slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru). Přímá editace souboru /etc/hosts se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
 
 
 .SH DESCRIPTION
 .I edithosts
-je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux.
+	
+	je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux.
 
 .PP
 Program se sám aktualizuje a uživatel se nemusí o nic starat.
 
 .SH EXAMPLE
-.TP
-.BR /opt/edithosts/uninstall.sh - slouží k odinstalaci programu a vrácení všech nastavení
+.TP 
+.BR
+/opt/edithosts/uninstall.sh
+	slouží k odinstalaci programu a vrácení všech nastavení
 
-.TP
-.BR /opt/edithosts/autoupdate.sh slouží ke kontrole aktualizací programu a k následné aktualizaci
+.TP 
+.BR
+/opt/edithosts/autoupdate.sh
+		slouží ke kontrole aktualizací programu a k následné aktualizaci
 
-.TP
-.BR /etc/cron.monthly/updateprogramuedithosts
-	spouští autoupdate.sh a slouží k periodické měsíční kontrole aktualizací programu a k následné aktualizaci
+.TP 
+.BR
+/opt/edithosts/edithosts.sh
+		slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.
 
-.TP
-.BR /opt/edithosts/cron.weekly-edithosts
-	slouží k automatické týdení aktualizaci černé listiny
-
-.TP
-.BR /etc/cron.weekly/edithosts
-	je symbolickým odkazem na cron.weekly-edithosts a slouží k týdenní automatické aktualizaci černé listiny.
-
-.TP
-.BR /opt/edithosts/edithosts.sh
-	slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.
-
-.TP
-.BR /opt/edithosts/gethosts.sh
-	slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.
-
-.TP
-.BR gethosts
-	shodné s /opt/edithosts/gethosts.sh slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu.
-
-.TP
-.BR /opt/edithosts/temporarilydisableblocking.sh
-	slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut. Dočasnou deaktivaci můžete provést i napsáním prostého příkazu temporarilydisableblocking do terminálu.
-
-.TP
-.BR temporarilydisableblocking
-	slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut. Dočasnou deaktivaci můžete provést i napsáním prostého příkazu temporarilydisableblocking do terminálu. Trvalé blokování je možné také - stačí po zadání příkazu temporarilydisableblocking a potvrzením přes klávesu Enter stornovat reaktivaci blokování stisknutím Ctrlc+C (^C).
+.TP 
+.BR
+temporarilydisableblocking
+		slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut. Dočasnou deaktivaci můžete provést i napsáním prostého příkazu temporarilydisableblocking do terminálu. Trvalé blokování je možné také - stačí po zadání příkazu temporarilydisableblocking a potvrzením přes klávesu Enter stornovat reaktivaci blokování stisknutím Ctrlc+C (^C).
 	
 .TP	
-.BR /opt/edithosts/refreshblocking.sh
-	slouží pro znovuaktivaci deaktivovaného blokování.
+.BR
+/opt/edithosts/refreshblocking.sh
+		slouží pro znovuaktivaci deaktivovaného blokování.
 
 .SH AUTHORS
 Jiří Meitner <jiri@meitner.cz>
-
