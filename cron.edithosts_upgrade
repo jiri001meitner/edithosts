@@ -1,2 +1,0 @@
-#!/bin/sh
-/opt/edithosts/autoupdate.sh || exit 0
