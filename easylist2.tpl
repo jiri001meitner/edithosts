@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út bře 28 11:43:51 CEST 2017 ##################
+##### Aktualizováno: Pá bře 31 15:25:59 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1061,6 +1061,7 @@ msFilterList
 - .net/pfadj/
 - .net/pops.js
 - .net/vghd_
+- .ng/ads/
 - .nl/ad2/
 - .nl/ads/
 - .no/ads/
@@ -2297,6 +2298,7 @@ msFilterList
 - /adonly468.
 - /adops.
 - /adops/
+- /adopspush-
 - /adoptimised.
 - /AdOptimizer.
 - /adoptionicon.
@@ -2671,6 +2673,7 @@ msFilterList
 - /ads/popup_
 - /ads/post-
 - /ads/postscribe.
+- /ads/prebid/
 - /ads/prebid_
 - /ads/preloader/
 - /ads/preroll-
@@ -3406,6 +3409,7 @@ msFilterList
 - /advert8.
 - /advert?
 - /advert_
+- /AdvertAssets/
 - /advertbanner.
 - /advertbanner2.
 - /advertbox.
@@ -4128,6 +4132,7 @@ msFilterList
 - /contextualad.
 - /contpop.js
 - /contribute_ad.
+- /controller.ad.
 - /controller/ads/
 - /controllerimg/adv/
 - /convertjsontoad.
@@ -5035,6 +5040,7 @@ msFilterList
 - /javascript/oas?
 - /javascripts/ads.
 - /javascripts/ads/
+- /Javascripts/SBA-
 - /jcorner.php?partner=
 - /jitads.
 - /jivoxadplayer.
@@ -5123,6 +5129,7 @@ msFilterList
 - /leadads/
 - /leader_ad.
 - /leaderad.
+- /Leaderboard-Ads-
 - /leaderboard-advert.
 - /leaderboard_ad/
 - /leaderboard_adv/
@@ -5699,6 +5706,7 @@ msFilterList
 - /publicidad/
 - /publicidade.
 - /publicidade/
+- /publisher.ad.
 - /pubmatic_
 - /pubs_aff.asp?
 - /puff_ad?
@@ -6173,6 +6181,7 @@ msFilterList
 - /standard_ads.
 - /static-ad-
 - /static.ad.
+- /static.ads.
 - /static/ad-
 - /static/ad/
 - /static/ad_
@@ -8336,6 +8345,7 @@ msFilterList
 -d adjal.com
 -d adjector.com
 -d adjourne.com
+-d adjs.net
 -d adjug.com
 -d adjuggler.com
 -d adjuggler.net
@@ -8749,6 +8759,7 @@ msFilterList
 -d ajansreklam.net
 -d ajillionmax.com
 -d akamhd.com
+-d akavita.com
 -d albopa.work
 -d alchemysocial.com
 -d alfynetwork.com
@@ -9653,6 +9664,7 @@ msFilterList
 -d eboundservices.com
 -d ebuzzing.com
 -d ebz.io
+-d eclick.vn
 -d ecpmrocks.com
 -d ecto-ecto-uno.com
 -d edgeads.org
@@ -10332,6 +10344,7 @@ msFilterList
 -d kr3vinsx.com
 -d kromeleta.ru
 -d kumpulblogger.com
+-d kutlvuitevgw.com
 -d kzkjewg7.stream
 -d l3op.info
 -d ladbrokesaffiliates.com.au
@@ -11166,6 +11179,7 @@ msFilterList
 -d questionmarket.com
 -d questus.com
 -d quickcash500.com
+-d quicktask.xyz
 -d quideo.men
 -d quinstreet.com
 -d qwobl.net
@@ -12171,6 +12185,7 @@ msFilterList
 -d badtopwitch.work
 -d bandelcot.com
 -d belwrite.com
+-d centwrite.com
 -d cold-cold-freezing.com
 -d del-del-ete.com
 -d dit-dit-dot.com
@@ -12231,6 +12246,7 @@ msFilterList
 -d wapdollar.in
 -d waptrick.com
 -d yieldmo.com
+-d acrididae.com
 -d actuallysheep.com
 -d beamkite.com
 -d brassrule.com
@@ -12661,6 +12677,7 @@ msFilterList
 -d grceweaxhbpvclyxhwuozrbtvqzjgbnzklvxdezzficwjnmfil.com
 -d grfqrhqlzvjl.com
 -d gtaouarrwypu.com
+-d gtbfhyprjhqz.com
 -d gtevyaeeiged.com
 -d gtmonytxxglu.com
 -d gtqfsxrrerzu.com
@@ -12964,6 +12981,7 @@ msFilterList
 -d mflkgrgxadij.com
 -d mfmikwfdopmiusbveskwmouxvafvzurvklwyfamxlddexgrtci.com
 -d mftbfgcusnzl.com
+-d mfuebmooizdr.com
 -d mgrxsztbcfeg.com
 -d mhghzpotwnoh.com
 -d mhrfhwlqsnzf.com
@@ -13213,6 +13231,7 @@ msFilterList
 -d qqapezviufsh.com
 -d qqvatwaqtzgp.com
 -d qqylzyrqnewl.com
+-d qregqtqtuisj.com
 -d qrozsnmc.com
 -d qtjafpcpmcri.com
 -d qtsmzrnccnwz.com
@@ -13595,6 +13614,7 @@ msFilterList
 -d xhdzcofomosh.com
 -d xhojlvfznietogsusdiflwvxpkfhixbgdxcnsdshxwdlnhtlih.com
 -d xhqilhfrfkoecllmthusrpycaogrfivehyymyqkpmxbtomexwl.com
+-d xhvhisywkvha.com
 -d xhwtilplkmvbxumaxwmpaqexnwxypcyndhjokwqkxcwbbsclqh.com
 -d ximeldnjuusl.com
 -d xirtesuryeqk.com
@@ -13822,6 +13842,7 @@ msFilterList
 -d elepheny.com
 -d entru.co
 -d ergers.net
+-d erht5jhy.com
 -d ershgrst.com
 -d erwgerwt.com
 -d esults.net
@@ -15795,6 +15816,7 @@ msFilterList
 -d hosting.conduit.com
 -d hostinger.nl /banners/
 -d hostmonster.com /src/js/izahariev/
+-d hotcoursesabroad.com /widget-
 -d hotelsbycity.com /bannermtg.php?
 -d hotelscombined.com /SearchBox/
 -d hoteltravel.com /partner/
@@ -17524,7 +17546,6 @@ msFilterList
 -d btdigg.org /images/btguard
 -d btkitty.com /static/images/880X60.gif
 -d btkitty.org /static/images/880X60.gif
--d bugout.news /SBA-
 -d bundesliga.com /_partner/
 -d busiweek.com /banners/
 -d buy-n-shoot.com /images/banners/banner-
@@ -17685,7 +17706,6 @@ msFilterList
 -d coinurl.com /get.php?
 -d coinurl.com /nbottom.php?
 -d coinwarz.com /content/images/genesis-mining-eth-takeover-
--d collapse.news /SBA-
 -d collarme.com /anv/
 -d collarme.com /zone_alt.asp
 -d collector.viki.io
@@ -18063,6 +18083,7 @@ msFilterList
 -d extremeoverclocking.com /template_images/it120x240.gif
 -d ezmoviestv.com /ad-for-ezmovies.png
 -d eztv.ag /js/openback*.js
+-d f1i.com /pubs/
 -d f1today.net /sponsors/
 -d faadooengineers.com /ads/
 -d facenfacts.com /ads/
@@ -18085,7 +18106,6 @@ msFilterList
 -d feedsportal.com /creative/
 -d feedsportal.com /videoserve/
 -d feiwei.tv /sandbox.html
--d fetch.news /SBA-
 -d fever.fm /campaigns/
 -d fever.fm /sposor-
 -d ffiles.com /counters.js
@@ -18167,7 +18187,6 @@ msFilterList
 -d foodingredientsfirst.com /content/banners/
 -d foodingredientsfirst.com /content/flash_loaders/loadlargetile.swf
 -d foodingredientsfirst.com /content/flash_loaders/loadskyscraper.swf
--d foodsupply.news /SBA-
 -d football-italia.net /imgs/moveyourmouse.gif
 -d footballshirtculture.com /images/e12b.jpg
 -d footballtradedirectory.com banner
@@ -18293,7 +18312,6 @@ msFilterList
 -d gbrej.com /c/
 -d gcnlive.com /assets/sponsors/
 -d gcnlive.com /assets/sponsorsPlayer/
--d gear.news /SBA-
 -d geckoforums.net /banners/
 -d geeklab.info /billy.png
 - http://gelbooru.com*/frontend*.js
@@ -18387,7 +18405,6 @@ msFilterList
 -d gulfnews.com /channelSponsorImage/
 -d gumtree.com /dart_wrapper_
 -d gunfreezone.net _ad.jpg
--d guns.news /SBA-
 -d guns.ru /banner/
 -d guns.ru /banners/
 -d gurgle.com /modules/mod_m10banners/
@@ -18634,7 +18651,6 @@ msFilterList
 -d international.to /link_unit.html
 -d internationalmeetingsreview.com //uploads/banner/
 -d intoday.in /btstryad.html
--d iodine.news /SBA-
 -d ip-adress.com /i/ewa/
 -d ip-adress.com /superb/
 -d ipaddress.com /banner/
@@ -18979,7 +18995,6 @@ msFilterList
 -d marijuanapolitics.com /wp-content/uploads/*/icbc1.png
 -d marijuanapolitics.com /wp-content/uploads/*/icbc2.png
 -d marineterms.com /images/banners/
--d marketcrash.news /SBA-
 -d marketingpilgrim.com /wp-content/uploads/*/trackur.com-
 -d marketingsolutions.yahoo.com
 -d marketingupdate.co.za /temp/banner_
@@ -19163,6 +19178,7 @@ msFilterList
 -d mygaming.co.za /news/wp-content/wallpapers/
 -d mygaming.co.za /partners/
 -d myiplayer.eu /ad
+-d mymusic.com.ng /images/supportedby
 -d mypbrand.com /wp-content/uploads/*banner
 -d mypremium.tv /bpad.htm
 -d myproperty.co.za /banners/
@@ -19179,9 +19195,7 @@ msFilterList
 -d myway.com /gca_iframe.html
 -d mywot.net /files/wotcert/vipre.png
 -d naij.com /branding/
--d nairaland.com /contents/
--d nairaland.com /moneyz/
--d nairaland.com /tasteful/
+-d nairaland.com /importantfiles/
 -d namepros.com /images/backers/
 -d narrative.ly /ads/
 -d nation.co.ke _bg.png
@@ -19253,7 +19267,6 @@ msFilterList
 -d newsonjapan.com /images/banners/
 -d newsonjapan.com /banner/
 -d newsreview.com /images/promo.gif
--d newstarget.com /Javascripts/SBA-
 -d newstrackindia.com /images/hairfallguru728x90.jpg
 -d newsudanvision.com /images/banners/
 -d newsudanvision.com /images/Carjunctionadvert.gif
@@ -19384,7 +19397,6 @@ msFilterList
 -d oteupload.com /images/iLivid-download-
 -d ouo.io /js/pop.
 -d ourmanga.com /funklicks
--d outbreak.news /SBA-
 -d outlookindia.com /image/banner_
 -d outlookmoney.com /sharekhan_ad.jpg
 -d overclock3d.net /img/pcp.jpg
@@ -19690,7 +19702,6 @@ msFilterList
 -d releaselog.net /468.htm
 -d releaselog.net /uploads2/656d7eca2b5dd8f0fbd4196e4d0a2b40.jpg
 -d relink.us /js/ibunkerslide.js
--d remedies.news /SBA-
 -d replacementdocs.com /popup.js
 -d residentadvisor.net /images/banner/
 -d retrevo.com /m/google?q=
@@ -20068,7 +20079,6 @@ msFilterList
 -d surfmusic.de /anz
 -d surfmusic.de /banner
 -d surfthechannel.com /promo/
--d survival.news /SBA-
 -d survivalblog.com /marketplace/
 -d swagmp3.com /cdn-cgi/pe/
 -d swampbuggy.com /media/images/banners/
@@ -20091,7 +20101,6 @@ msFilterList
 -d talkers.com /imagebase/
 -d talkers.com /images/banners/
 -d talkgold.com /bans/
--d talknetwork.com /SBA-
 -d talkphotography.co.uk /images/externallogos/banners/
 -d talkradioeurope.com /images/banners/
 -d talkradioeurope.net /images/banners/
@@ -20926,29 +20935,6 @@ msFilterList
 +d cdndoge.xyz /video-download/js/dropdown.js
 +d cdndoge.xyz /video-download/js/event.js
 +d cdndoge.xyz /video-download/js/waves.js
-+d ajax.googleapis.com /script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com
-+d blastingnews.com /js/blasting-fb.js*.js
-+d blastingnews.com /js/blasting-follow.js*.js
-+d blastingnews.com /js/blasting-generic.js*.js
-+d blastingnews.com /js/blasting-modal-functions.js*.js
-+d blastingnews.com /js/blasting-registration.js*.js
-+d blastingnews.com /js/blasting-share-news.js*.js
-+d blastingnews.com /js/bootstrap.min.js*.js
-+d blastingnews.com /js/cookie-enabler.js*.js
-+d blastingnews.com /js/defer-js-load.js*.js
-+d blastingnews.com /js/generic.js*.js
-+d blastingnews.com /js/jwplayer-*/jwplayer.js*.js
-+d blastingnews.com /js/jwplayer-*/polyfills.vttrenderer.js*.js
-+d blastingnews.com /js/jwplayer-*/provider.html5.js*.js
-+d blastingnews.com /js/jwplayer/jwplayer.js*.js
-+d blastingnews.com /js/normalize.js*.js
-+d blastingnews.com /js/polling.js*.js
-+d blastingnews.com /js/social.js*.js
-+d blastingnews.com /js/social_v4.js*.js
-+d blastingnews.com /js/swordfish/_compiled.min.js*.js
-+d blastingnews.com /js/waypoints.min.js*.js
-+d blastingnews.com /library/blastingnews/js/*.js
-+d blastingnews.com /library/blastingnews/notifiche/js/*.js
 +d thebarchive.com /_/api/
 +d thebarchive.com /foolfuuka/components/highlightjs/highlight.pack.js
 +d thebarchive.com /foolfuuka/foolz/*/board.js
