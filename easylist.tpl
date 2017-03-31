@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 31 Mar 2017 13:20 UTC
+# Last modified: 31 Mar 2017 20:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -9758,6 +9758,7 @@ msFilterList
 -d coinsicmp.com
 -d cointraffic.in
 -d cointraffic.io
+-d coinzilla.io
 -d collection-day.com
 -d collective-media.net
 -d colliersads.com
@@ -19898,6 +19899,7 @@ msFilterList
 -d f1i.com /pubs/
 -d f1today.net /sponsors/
 -d faadooengineers.com /ads/
+# ||facebook.com/video/instream_video/$xmlhttprequest,domain=facebook.com
 # ||facebook.net^*/AudienceNetworkVPAID.$domain=dailymotion.com
 -d facenfacts.com /ads/
 # ||fakku.net/static/seele-$subdocument
@@ -20222,6 +20224,7 @@ msFilterList
 -d gowilkes.com /other/
 -d gp3series.com /Partners/
 -d gq.co.za /sitetakeover/
+-d gr8.cc /addons/banners/
 # ||grabone.co.nz^$subdocument,domain=nzherald.co.nz
 # ||grammar-monster.com/scripts/$subdocument
 -d grapevine.is /media/flash/*.swf

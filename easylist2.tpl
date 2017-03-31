@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá bře 31 15:28:04 CEST 2017 ##################
+##### Aktualizováno: Pá bře 31 22:52:12 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9285,6 +9285,7 @@ msFilterList
 -d coinsicmp.com
 -d cointraffic.in
 -d cointraffic.io
+-d coinzilla.io
 -d collection-day.com
 -d collective-media.net
 -d colliersads.com
@@ -18384,6 +18385,7 @@ msFilterList
 -d gowilkes.com /other/
 -d gp3series.com /Partners/
 -d gq.co.za /sitetakeover/
+-d gr8.cc /addons/banners/
 -d grapevine.is /media/flash/*.swf
 -d graphic.com.gh /images/banners/
 -d greatandhra.com /images/*_ga_
