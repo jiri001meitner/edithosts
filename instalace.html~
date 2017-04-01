@@ -72,7 +72,7 @@
    <!-- cztittle+h2↑ --> 
    
    <!-- czmenu↓ -->
-        <div class="container">   
+        <div style="display:block;" class="container">   
 <nav class="nav" role="navigation"><p>
       <a href="index" class="btn" tabindex="1">O EditHosts</a>
       <a href="instalace" class="btn" tabindex="2">Instalace</a>
