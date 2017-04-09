@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St dub 5 13:49:01 CEST 2017 ##################
+##### Aktualizováno: Ne dub 9 23:28:53 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -11974,6 +11974,7 @@ msFilterList
 -d vuiads.de
 -d vuiads.info
 -d vuiads.net
+-d vupulse.com
 -d w00tads.com
 -d w00tmedia.net
 -d w3bnr.in
@@ -12209,6 +12210,7 @@ msFilterList
 -d givingsol.com
 -d glo-glo-oom.com
 -d hash-hash-tag.com
+-d havenwrite.com
 -d la-la-moon.com
 -d la-la-sf.com
 -d netrosol.net
@@ -13565,6 +13567,7 @@ msFilterList
 -d vhatpbmitwcn.com
 -d vhctcywajcwv.com
 -d vhiaxerjzbqi.com
+-d vhpqxkhvjgwx.com
 -d vhwuphctrfil.com
 -d vivcdctagoij.com
 -d vivetivcuggz.com
@@ -13797,6 +13800,7 @@ msFilterList
 -d zftgljkhrdze.com
 -d zgalejbegahc.com
 -d zgdejlhmzjrd.com
+-d zhabyesrdnvn.com
 -d zhdmplptugiu.com
 -d zhkziiaajuad.com
 -d ziuxkdcgsjhq.com
@@ -14096,6 +14100,7 @@ msFilterList
 -d thiscdn.com
 -d thrilamd.net
 -d thrutime.net
+-d thsdfrgr.com
 -d tiawander.net
 -d tolosgrey.net
 -d topdi.net
@@ -21019,6 +21024,10 @@ msFilterList
 -d zorrovpn.com /static/img/promo/
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
++d imagebam.com /JS/imagebam.js*.js
++d imagebam.com /JS/jquery.1.5.js*.js
++d imagebam.com /JS/plupload.full.min.new.js*.js
++d imagebam.com /JS/pupload_anon.js*.js
 +d movdivx.com /cgi-bin/upload.cgi?
 +d watchers.to /pop.js*.js
 +d cdndoge.xyz /common/js/cookie.js
@@ -23499,6 +23508,7 @@ msFilterList
 +d fastcontentdelivery.com /ad*.js*.js
 +d fcportables.com
 +d ffiles.com /images/mmfiles_
++d file-upload.com
 +d filechoco.com
 +d filecom.net /advertisement.js
 +d fileice.net /js/advertisement.js
@@ -23614,6 +23624,7 @@ msFilterList
 +d hypable.com /advertisement.js*.js
 +d hypixel.net
 +d ibmmainframeforum.com
++d ibtimes.co.uk
 +d iconizer.net /js/adframe.js
 +d idevnote.com
 +d idg.com.au /adblock/*.js
@@ -24232,6 +24243,7 @@ msFilterList
 +d adocean.pl /crossdomain.xml
 +d adocean.pl /aocodetype=
 +d adpriv.nikkei.com /bservers/AAMALL/*/acc_random=*.js
++d ads.dainikbhaskar.com /AdTech/*.js
 +d ads.hosting.vcmedia.vn /crossdomain.xml
 +d ads.hosting.vcmedia.vn /jinfo.ashx?
 +d ads.nicovideo.jp /assets/js/ads-*.js
@@ -24256,7 +24268,6 @@ msFilterList
 +d banki.ru /bitrix/*/advertising.block/
 +d benchmarkhardware.com
 +d bhaskar.com /revenue/*.js
-+d bhaskar.com /ads/*.js
 +d biancolavoro.euspert.com /js/ad.js
 +d blocket.se /newad.js
 +d bmwoglasnik.si /images/ads/
