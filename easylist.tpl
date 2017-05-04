@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 03 May 2017 22:20 UTC
+# Last modified: 04 May 2017 18:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -6889,6 +6889,8 @@ msFilterList
 - /wire/ads/
 - /wired/ads/
 - /wix-ad.
+- /wixads.
+- /wixads/
 - /wlbetathome/bannerflow/
 - /wmads.
 - /wordpress-ads-plug-in/
@@ -11443,6 +11445,7 @@ msFilterList
 -d osiaffiliate.com
 -d oskale.ru
 -d ospreymedialp.com
+-d osuq4jc.com
 -d othersonline.com
 -d ourunlimitedleads.com
 -d ov8pc.tv
@@ -12096,6 +12099,7 @@ msFilterList
 -d sprintrade.com
 -d sproose.com
 -d sq2trk2.com
+-d sqweb.com
 -d srtk.net
 -d srv.yavli.com
 -d srx.com.sg
@@ -13011,6 +13015,7 @@ msFilterList
 -d bhjhijisulwl.com
 -d bhmqoolzgxnp.com
 -d bhyqllgtzjee.com
+-d bijfzvbtwhvf.com
 -d bircgizd.com
 -d bjkfmvhygpub.com
 -d bjpktmjdxqpl.com
@@ -13173,6 +13178,7 @@ msFilterList
 -d dyjifezeyagm.com
 -d dyunhvev.com
 -d dyzstwcqbgjk.com
+-d eaidabmuxbqy.com
 -d easnviytengk.com
 -d ebfjbrlcvjlv.com
 -d ebyakgowemds.com
@@ -13217,6 +13223,7 @@ msFilterList
 -d eslgydoqbedo.com
 -d eslydbnukkme.com
 -d esnirgskobfj.com
+-d espnrlezwzvd.com
 -d etbrjgpsadke.com
 -d etggiddfdaqd.com
 -d evhvoeqfrlsb.com
@@ -13277,6 +13284,7 @@ msFilterList
 -d ftytssqazcqx.com
 -d fuurqgbfhvqx.com
 -d fvbeyduylvgy.com
+-d fvwcwbdrprdt.com
 -d fwcrhzvfxoyi.com
 -d fxjgprpozntk.com
 -d fxjyultd.com
@@ -13759,6 +13767,7 @@ msFilterList
 -d ndemlviibdyc.com
 -d ndgmwuxzxppa.com
 -d ndkvzncsuxgx.com
+-d ndpegjgxzbbv.com
 -d ndxidnvvyvwx.com
 -d nedmppiilnld.com
 -d nefczemmdcqi.com
@@ -13802,6 +13811,7 @@ msFilterList
 -d nucqkjkvppgs.com
 -d nunsbvlzuhyi.com
 -d nvajxoahenwe.com
+-d nvmjtxnlcdqo.com
 -d nwfdrxktftep.com
 -d nwirvhxxcsft.com
 -d nxcxithvcoeh.com
@@ -22321,6 +22331,7 @@ msFilterList
 # ||spa.dictionary.com^$object
 -d space.com /promo/
 # ||spaceweather.com/abdfeeter/$image
+# ||spade.twitch.tv^$websocket
 -d spartoo.eu /footer_tag_iframe_
 # ||spcontentcdn.net^$domain=sporcle.com
 # ||speedtest.net/flash/59rvvrpc-$object-subrequest
@@ -23360,6 +23371,9 @@ msFilterList
 -d zshares.net /fm.html
 -d zurrieqfc.com /images/banners/
 -d zws.avvo.com
+# unblocked.kim
+# |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=unblocked.kim
+# |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=unblocked.kim
 # up-4ever.com
 # @@||ajax.googleapis.com^$script,domain=up-4ever.com
 # @@||connect.facebook.net^$script,domain=up-4ever.com
