@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /sandbox
+Disallow: /un
+Disallow: /privat
+
+Allow: /
+
+Sitemap: http://edithosts.meitner.cz/sitemap.xml

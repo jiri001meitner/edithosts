@@ -4,202 +4,118 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="author" content="Jiří Meitner" >
-    	<!-- Google Authorship and Publisher Markup↓ -->
+    <meta name="author" content="Jiří Meitner">
+    <meta name="google-site-verification" content="GGf04FMTHt3L54TAqocdDopPOvo93aSSHzGdicgRtz8" />
+    	<!-- Google Authorship and Publisher Markup -->
 		<link rel="author" href="https://plus.google.com/+JiříMeitner/posts"/>
 		<link rel="author" href="https://plus.google.com/+MeitnerCz/posts">
 		<link rel="publisher" href="https://plus.google.com/+JiříMeitner/posts">
-		<link rel="publisher" href="https://plus.google.com/+MeitnerCz/posts/">
+    		<link rel="publisher" href="https://plus.google.com/+MeitnerCz/posts/">
 		<link rel="me" href="https://plus.google.com/+JiříMeitner/about" />
 		<link rel="me" href="https://plus.google.com/+MeitnerCz/about" />
-      <!-- Google Authorship and Publisher Markup↑ -->
-    <meta name="description" content="Edithosts slouží pro blokování reklamy a malware webů na Linuxu.">
-    <meta name="keywords" content="Edithosts,Linux,bezpečnost,reklama,antimalware,security">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+        <!-- Google Authorship and Publisher Markup -->
+    <meta name="description" content="EditHosts is the best hosts file editor and tool for blocking ads and malware domains designed for Linux operating system.">
+    <meta name="keywords" content="EditHosts,Linux,antimalware,security,hosts file,editor,ads,adblocking,advert">
     <!-- open graph+facebook admin↓ -->
     <meta property="og:title" content="EditHosts" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="http://l.meitner.cz/eh2.png" >
-    <meta property="og:description" content="Edithosts slouží pro blokování reklamy a malware webů na Linuxu." />
-    <meta property="og:locale" content="cs_CZ" />
+    <meta property="og:description" content="EditHosts is the best hosts file editor for blocking ads and malware domains designed for Linux operating system." />
+    <meta property="og:locale" content="en" />
     <meta property="og:site_name" content="EditHosts" />
     <meta property="og:latitude" content="50.0626875"/>
     <meta property="og:longitude" content="14.4463600"/>
-    <meta property="og:street-address" content="Družstevní 1376/3" />
+    <meta property="og:street-address" content="Druzstevni 1376/3" />
     <meta property="og:locality" content="Praha 4–Nusle" />
     <meta property="og:postal-code" content="140 00" />
-    <meta property="og:country-name" content="Česká republika" />
+    <meta property="og:country-name" content="Czech Republic" /> 
     <meta property="fb:page_id" content="1567189916857947">
     <meta property="fb:admins" content="1257777335">
+    <meta name="apple-mobile-web-app-title" content="EditHosts" />
+    <meta name="robots" content="index, follow">
     <!--microdata↓-->
 	<meta itemprop="name" content="EditHosts: blokujte reklamy a malware na Linuxu efektivněji">
 	<meta itemprop="description" content="Pomocí nástroje Edithosts blokujte reklamy a malware již na systémové úrovni. Zažijte opravdu rychlý internet bez nežádoucích reklam a ochraňte svůj počítač před malwarem.">
 	<meta itemprop="image" content="http://l.meitner.cz/eh.png">
     <!--microdata↑-->
-    
-    <meta name="apple-mobile-web-app-title" content="EditHosts" />
-    <meta name="robots" content="index, follow">
-<link rel="home" href="http://edithosts.meitner.cz" title="Home page" /> 
-<link rel="canonical" href="http://edithosts.meitner.cz/navod" />
-<link rel=“profile“ href=“http://gmpg.org/xfn/11″ />
+<link rel="home" href="http://edithosts.meitner.cz/en/" title="Home page" /> 
+<link rel="canonical" href="http://edithosts.meitner.cz/en/donate" />
 <link rel="apple-touch-icon" href="http://l.meitner.cz/eh2.png" />    
 <link rel="shortcut icon" href="http://l.meitner.cz/eh2.png" />
 <link href="http://l.meitner.cz/eh2.png" rel="image_src"> 
 <link href='http://l.meitner.cz/eh.png' rel='icon' type='image/x-icon'/>
-<link rel="previewimage" href="http://l.meitner.cz/eh-previewimage.png" /> <!-- ← naruší validitu, ale je užitečný, měl by mít rozměry min 100 × 75 px a poměr stran 4:3-->
 <link rel="alternate" type="application/rss+xml" title="Meitner.cz" href="http://www.meitner.cz/rss.xml" />
 <style media="screen">body{margin:0;padding:0;background-color:#444;color:#eaeaea;font-size:100%;line-height:1.5;font-family:Monaco,"Bitstream Vera Sans Mono","Lucida Console",Terminal,monospace}.katalogy{display:none;}@media (min-width:1024px){.container{width:100%;max-width:700px;margin:0 auto}.btn{background:#556b2f;background-image:-webkit-linear-gradient(top,#556b2f,#696969);background-image:-moz-linear-gradient(top,#556b2f,#696969);background-image:-ms-linear-gradient(top,#556b2f,#696969);background-image:-o-linear-gradient(top,#556b2f,#696969);background-image:linear-gradient(to bottom,#556b2f,#696969);-webkit-border-radius:28;-moz-border-radius:28;border-radius:50px;text-shadow:1px 1px 3px #666;-webkit-box-shadow:0 1px 3px #666;-moz-box-shadow:0 1px 3px #666;box-shadow:0 1px 3px #666;font-family:Helvetica,Arial,sans-serif;color:#fff;font-size:110%;padding:12px 22px;border:2px solid #030003;text-decoration:none;line-height:1.5}.btn:hover{background:#696969;background-image:-webkit-linear-gradient(top,#696969,#556b2f);background-image:-moz-linear-gradient(top,#696969,#556b2f);background-image:-ms-linear-gradient(top,#696969,#556b2f);background-image:-o-linear-gradient(top,#696969,#556b2f);background-image:linear-gradient(to bottom,#696969,#556b2f);font-size:130%;text-decoration:none}.btn2{display:none}}@media (max-width:1023px){.container{width:100%;max-width:700px;margin:0 auto}.btn{background-color:#222;color:#fff;text-shadow:0 0 5px rgba(104,182,255,.5);font-size:110%;text-decoration:none;text-overflow:ellipsis;overflow:hidden;white-space:nowrap}.btn:hover{font-size:130%}.btn2{display:none}}@media (max-width:800px){.container{width:100%;max-width:650px;margin:0 auto}.btn,.btn2{background-color:#222;color:#fff;text-shadow:0 0 5px rgba(104,182,255,.5);font-size:110%;text-decoration:none;text-overflow:ellipsis;overflow:hidden;white-space:nowrap}.btn2:hover,.btn:hover{font-size:130%}.nav a{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;display:block;padding:1em;text-decoration:none}.nav,.nav li,.navmenu{list-style-type:none;margin:0;padding:0}.nav li{box-sizing:border-box;width:20%;display:inline-block;border-left:.25em solid #fff;margin-left:-4px}}@media (max-width:699px){.container{width:100%;max-width:500px;margin:0 auto}.btn,.btn2{background-color:#222;color:#fff;text-shadow:0 0 5px rgba(104,182,255,.5);font-size:110%;text-decoration:none;text-overflow:ellipsis;overflow:hidden;white-space:nowrap}.btn2:hover,.btn:hover{font-size:120%}.nav a{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;display:block;padding:1em;text-decoration:none}.nav,.nav li,.navmenu{list-style-type:none;margin:0;padding:0}.nav li{box-sizing:border-box;width:20%;display:inline-block;border-left:.25em solid #fff;margin-left:-4px}}@media (max-width:400px){.container{width:100%;max-width:350px;margin:0 auto}.btn,.btn2{background-color:#222;color:#fff;text-shadow:0 0 5px rgba(104,182,255,.5);font-size:105%;text-decoration:none;text-overflow:ellipsis;overflow:hidden;white-space:nowrap}.nav a{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;display:block;padding:1em;text-decoration:none}.nav,.nav li,.navmenu{list-style-type:none;margin:0;padding:0}.nav li{box-sizing:border-box;width:20%;display:inline-block;border-left:.25em solid #fff;margin-left:-4px}}@media (max-width:300px){.container{width:100%;max-width:250px;margin:0 auto}.btn,.btn2{background-color:#222;color:#fff;text-shadow:0 0 5px rgba(104,182,255,.5);font-size:105%;text-decoration:none;text-overflow:ellipsis;overflow:hidden;white-space:nowrap}.nav a{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;display:block;padding:1em;text-decoration:none}.nav,.nav li,.navmenu{list-style-type:none;margin:0;padding:0}.nav li{box-sizing:border-box;width:20%;display:inline-block;border-left:.25em solid #fff;margin-left:-4px}}@media (max-width:250px){.container{width:100%;max-width:200px;margin:0 auto}.btn,.btn2{background-color:#222;color:#fff;text-shadow:0 0 5px rgba(104,182,255,.5);font-size:105%;text-decoration:none}.nav a{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;display:block;padding:1em;text-decoration:none}.nav,.nav li,.navmenu{list-style-type:none;margin:0;padding:0}.nav li{box-sizing:border-box;width:20%;display:inline-block;border-left:.25em solid #fff;margin-left:-4px}}section{display:block;margin:0 0 2px}header{background:rgba(0,0,0,.1);width:100%;border-bottom:1px dashed #b5e853;padding:2px 0;margin:0 0 4px;text-align:justify}header h1{font-size:175%;line-height:1.5;font-weight:700;color:#b5e853;text-shadow:0 1px 1px rgba(0,0,0,.1),0 0 5px rgba(181,232,83,.1),0 0 10px rgba(181,232,83,.1)}header h2{font-size:120%;font-weight:300;color:olive;letter-spacing:-.12em}#main_content{width:100%}img,section img{max-width:100%;height:auto;box-sizing:border-box}h1,h2,h3,h4,h5,h6{font-weight:400;font-family:Monaco,"Bitstream Vera Sans Mono","Lucida Console",Terminal,monospace;color:#b5e853;letter-spacing:-.03em;text-shadow:0 1px 1px rgba(0,0,0,.1),0 0 5px rgba(181,232,83,.1),0 0 10px rgba(181,232,83,.1)}#main_content h1{font-size:175%;margin:0 0 5px}#main_content h2{font-size:120%;margin:0 0 5px}#main_content h3{font-size:115%;margin:0 0 5px}#main_content h4{font-size:110%;margin:0 0 5px}#main_content h5{font-size:105%;margin:0 0 5px}#main_content h6{font-size:103%;margin:0 0 5px}p{text-align:justify}dt{font-style:italic;font-weight:700;text-align:justify}li{line-height:2;text-align:justify;font-size:107%}ul li{list-style:none;text-align:justify}ul li:first-letter{text-transform:capitalize;text-align:justify}ul li:before{content:">>";font-size:107%;color:#b5e853;margin-left:-37px;margin-right:21px;line-height:2}blockquote{color:#aaa;padding-left:10px;border-left:1px dotted #666;text-align:justify}pre{background:rgba(0,0,0,.9);border:1px solid rgba(255,255,255,.15);padding:10px;font-size:100%;color:#b5e853;border-radius:2px;overflow:auto;overflow-y:hidden}table{width:100%;margin:0 0 20px}th{text-align:left;border-bottom:1px dashed #b5e853;padding:5px 10px}td{padding:5px 10px}hr{height:0;border:0;border-bottom:1px dashed #b5e853;color:#ff0}a{color:#ff0;text-shadow:0 0 5px rgba(104,182,255,.5);text-decoration:none}a:hover{color:#0f0;text-shadow:0 0 5px rgba(104,182,255,.5)}a:active{color:#AAA;text-shadow:0 0 5px rgba(104,182,255,.5)}.email,.url,.vcard{text-decoration:none;text-align:justify;color:#eaeaea;font-size:108%;text-shadow:0 0 5px rgba(104,182,255,.5);letter-spacing:-.1em}.adr:hover,.category:hover,.email:hover,.hosts:hover,.tel:hover,.url:hover{color:#6495ed}.urlang{text-decoration:none;text-align:justify;color:#DD4B39;font-size:108%;text-shadow:0 0 5px rgba(104,182,255,.5);letter-spacing:-.1em}.urlang:hover{color:#6495ed;font-size:110%;letter-spacing:-.1em}.bank,.shareon{text-decoration:none;text-align:justify;color:#eaeaea;font-size:108%;text-shadow:0 0 5px rgba(104,182,255,.5)}.bank:hover{background-color:#222}.paypal:hover{background-color:#eaeaea}.googleplus{text-decoration:none;text-align:justify;background-color:#DD4B39;color:#fff;font-size:108%;letter-spacing:-.14em}.facebook{text-decoration:none;text-align:justify;background-color:#4B67A1;color:#fff;font-size:108%;letter-spacing:-.14em}.twitter{text-decoration:none;text-align:justify;background-color:#00ACEE;color:#fff;font-size:108%;letter-spacing:-.14em}.googleplus:hover{text-decoration:none;text-align:justify;background-color:#fff;color:#DD4B39;font-size:125%;letter-spacing:-.1em}.facebook:hover{text-decoration:none;text-align:justify;background-color:#fff;color:#4B67A1;font-size:125%;letter-spacing:-.1em}.twitter:hover{text-decoration:none;text-align:justify;background-color:#fff;color:#00ACEE;font-size:125%;letter-spacing:-.1em}.cf:after,.cf:before{content:"";display:table}.cf:after{clear:both}.hidden{display:none}
 </style><style media="print">@page{size:A4;margin:0}@media print{body,html{width:210mm;height:297mm}.btn,.btn2,.facebook,.googleplus,.hidden,.shareon,.twitter{display:none}body{margin:0;padding:0;background-color:transparent;color:#444;font-size:100%;line-height:1.5;font-family:Monaco,"Bitstream Vera Sans Mono","Lucida Console",Terminal,monospace}}
 </style>
- <!-- výše uvedené stejné na všech stránkách -->
+<!-- výše uvedené stejné na všech en stránkách -->    
     <!-- hreflang↓ -->
-    <link rel="alternate" href="http://edithosts.meitner.cz/en/manual" hreflang="en" />
-    <link rel="alternate" href="http://edithosts.meitner.cz/navod" hreflang="cs" />
+    <link rel="alternate" href="http://edithosts.meitner.cz/en/donate" hreflang="en" />
+    <link rel="alternate" href="http://edithosts.meitner.cz/prispevek" hreflang="cs" />
     <!-- hreflang↑ -->
-    <!-- cztittle+h2↓ --> 
-    <title>Návod</title>
+    <!-- entittle+h2↓ -->  
+  <title>EditHosts is the best hostsfile editor and adblocker for Linux</title>
   </head>
   <body>
     <header>
-      <div class="container">
+        <div class="container">
         <h1 class="hidden">EditHosts</h1>
-        <a href="http://edithosts.meitner.cz"><img src="//farm9.staticflickr.com/8662/16363128967_1a6be57260_o.png" alt="EditHosts"></a>
+        <a href="http://edithosts.meitner.cz/en/"><img src="//farm9.staticflickr.com/8662/16363128967_1a6be57260_o.png" alt="EditHosts"></a>
         
-        
-        <h2>
-        EditHosts je program pro blokování reklam, zvýšení bezpečnosti a ochranu soukromí pro operační systémy Linux (jako je Ubuntu, Kubuntu, Xubuntu, Lubuntu, Debian, nebo Linux Mint)
-	</h2>
+        <h2>EditHosts is a tool for blocking ads, increased security and privacy protection for the Linux operating systems (like Ubuntu, Kubuntu, Xubuntu, Lubuntu, Debian, or Linux Mint)</h2>
         </div>
-   <!-- cztittle+h2↑ --> 
-   
-   <!-- czmenu↓ -->
+   <!-- entittle+h2↑ --> 
+            <!-- enmenu↓ -->
         <div class="container">   
 <nav class="nav" role="navigation"><p>
-      <a href="index" class="btn" tabindex="1">O EditHosts</a>
-      <a href="instalace" class="btn" tabindex="2">Instalace</a>
-      <a href="navod" class="btn" tabindex="3">Návod</a>
-      <a href="prispevek" class="btn" tabindex="4">Přispějte</a>
-      <a href="kontakt" class="btn" tabindex="5">Kontakt</a>
+      <a href="index" class="btn" tabindex="1">Home</a>
+      <a href="install" class="btn" tabindex="2">Installation</a>
+      <a href="manual" class="btn" tabindex="3">Handbook</a>
+      <a href="donate" class="btn" tabindex="4">Donate</a>
+      <a href="contact" class="btn" tabindex="5">Contact</a>
 </p></nav>
 	</div>
-   <!-- czmenu↑ -->
+            <!-- enmenu↑ -->
 
   <!-- Sdílení+↓ -->      
   <div class="container"><p>
-  <span class="shareon">Sdílejte na:&nbsp;<a href="https://plus.google.com/share?url=http://edithosts.meitner.cz/"><span class="googleplus" tabindex="6">&nbsp;&nbsp;Google+&nbsp;&nbsp;</span></a>&nbsp;
-  <a href="https://www.facebook.com/sharer.php?u=http://edithosts.meitner.cz/"><span class="facebook" tabindex="7">&nbsp;&nbsp;Facebook&nbsp;&nbsp;</span></a>&nbsp;
-  <a href="https://twitter.com/share?text=Text&amp;url=http://edithosts.meitner.cz/"><span class="twitter" tabindex="8">&nbsp;&nbsp;Twitter&nbsp;&nbsp;</span></a>
-  &nbsp;Díky.&nbsp;</span></p></div>
+  <span class="shareon">Share on:&nbsp;<a href="https://plus.google.com/share?url=http://edithosts.meitner.cz/en/"><span class="googleplus" tabindex="6">&nbsp;&nbsp;Google+&nbsp;&nbsp;</span></a>&nbsp;
+  <a href="https://www.facebook.com/sharer.php?u=http://edithosts.meitner.cz/en/"><span class="facebook" tabindex="7">&nbsp;&nbsp;Facebook&nbsp;&nbsp;</span></a>&nbsp;
+  <a href="https://twitter.com/share?text=Text&amp;url=http://edithosts.meitner.cz/en/"><span class="twitter" tabindex="8">&nbsp;&nbsp;Twitter&nbsp;&nbsp;</span></a>
+  &nbsp;Thanks.&nbsp;</span></p></div>
    <!-- Sdílení+↑ -->
          
     </header>
 
-<div class="container">
-<article>
-<h3>
-<a id="man_edithosts" class="anchor" href="#man_edithosts" aria-hidden="true"><span class="octicon octicon-link"></span></a>Manuál</h3>
-<time datetime="2015-03-10">aktualizováno 10. března 2015</time>
 
-<p>Předpokládejme, že máte operační systém Linux, máte nainstalovaný git, jste superuživatel root nebo máte právo používat příkaz sudo.
-<p>Edithosts nemůžete v žádném případě používat na systému Windows (ne, opravdu ani na Windows XP, Windows Vista, Windows 7, Window 8, Windows 9, Windows 10, Windows 11, Windows 12, ani na jakékoliv superbudoucí verzi Woken, snad jen kdyby společnost Microsoft začala své nové produkty dělat na linuxovém základě).</p>
+<div class="container"> 
+<section id="main_content"> 
+<h3>Contribution to development</h3>
 
-<div>
-<h4>Instalace:</h4>
 
-<pre><code>cd /tmp
-git clone https://github.com/jiri001meitner/edithosts.git
-edithosts/install.sh</code></pre>
-<blockquote>
-  Slouží k instalaci programu a zálohování aktuálního nastavení v /etc/hosts.
-</blockquote>
-</div>
+<p><a href="http://l.meitner.cz/paypal-edithosts" title="Paypal or credit card contribution"><em>Paypal or credit card contribution</em></a></p>
 
-<div>  
-<h4>Odinstalace:</h4>
+<p><a href="http://l.meitner.cz/paypal-edithosts"><img class="paypal" src="http://goo.gl/4cpbVw" alt="Paypal"></a></p>
 
-<pre><code>/opt/edithosts/uninstall.sh</code></pre>
-<blockquote>
-  Slouží k odinstalaci programu a vrácení všech nastavení.
-</blockquote>
-</div>
-
-<p>S instalací a odinstalací si většina uživatelů vystačí.</p>
-
-<div>
-<h3>Pro pokročilejší</h3>
-
-<pre><code>/opt/edithosts/temporarilydisableblocking.sh</code></pre>
-nebo
-<pre><code>temporarilydisableblocking</code></pre>
-
-<blockquote>
-  Slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut (pokud vám nastavená doba nevyhovuje, můžete jí změnit v souboru <span>/opt/edithosts/temporarilydisableblocking.sh</span>.
-  Když vám nejede nějaký web, tak takhle můžete ověřit, zdali není na černé listině.
-Pokud zmáčknete v terminálu Ctrl+C (^C), tak Edithosts zůstane zablokovaný tak dlouho, dokud ho ručně neprobudíte přes příkaz <span>refreshblocking</span>.
-</blockquote>
-</div>
-
-<div>
-<pre><code>/opt/edithosts/refreshblocking.sh</code></pre>
-nebo
-<pre><code>refreshblocking</code></pre>
-
-<blockquote>
-  Slouží pro ruční aktivaci blokování, pokud jste deaktivovali prostřednictvím <span>temporarilydisableblocking</span>.
-</blockquote>
-</div>
-
-<div>
-<h4>Ruční úprava souboru /etc/hosts</h4>
-
-<pre><code>/opt/edithosts/edithosts.sh</code></pre>
-nebo stačí zadat do terminálu pouze
-<pre><code>edithosts</code></pre>
-
-<blockquote>
-  Slouží pro editaci uživatelské části <span>/etc/hosts</span> (části bez černé listiny, ta je oddělená) ve vašem oblíbeném editoru. 
-  Přímá editace souboru /etc/hosts jiným způsobem - například přes <span>sudo nano /etc/hosts</span> se nedoporučuje, protože při aktualizaci by došlo k vymazání změn.
-</blockquote>
-</div>
-
-<div>
-<h4>Další příkazy, info o souborech</h4>
-
-<pre><code>/etc/cron.monthly/updateprogramuedithosts</code></pre>
-<blockquote>
-  Je symbolickým odkazem k <span>/opt/edithosts/autoupdate.sh</span> a slouží k automatické měsíční aktualizaci programu.
-</blockquote>
-</div>
-
-<div>
-<pre><code>/etc/cron.weekly/edithosts</code></pre>
-<blockquote>
-  Je symbolickým odkazem k <span>/opt/edithosts/cron.weekly-edithosts</span> a slouží k týdenní automatické aktualizaci černé listiny.
-</blockquote>
-</div>
-
-<div>
-<pre><code>/opt/edithosts/gethosts.sh</code></pre>
-nebo v terminálu postačí pouze zadat
-<pre><code>gethosts</code></pre>
-<blockquote>
-  Slouží pro ruční aktualizaci černé listiny a sloučení s uživatelsky editovatelnou částí, tento script je spouštěn ostatními částmi prorgamu, ručně ho není potřeba spouštět.
-  Můžete ho ale spustit, pokud nechcete čekat automatickou synchronizaci <span>blacklist</span>u.
-</blockquote>
-</div>
-
-<div>
-<pre><code>man edithosts</code></pre>
-<blockquote>
-  Slouží pro zobrazení nápovědy.
-</blockquote>
-</div>
-
-</article>
+<!-- DonateBitpayEN↓ --> 
+  <form action="https://bitpay.com/checkout" method="post" >
+    <input type="hidden" name="action" value="checkout" />
+    <input type="hidden" name="posData" value="" />
+    <input type="hidden" name="data" value="5ajVzg8QEcThsnoTa5xiuRD/6LrbTYBCwApwB/KxHO/5GBbPMl8HNsfjMJgZ3Y7wnEqtxMF6XNvO2aQ0hXfuFd1aCdE00quF5UhNExiKrUXS+BIAD5QmxhsRA4MvXq9EbwKJ45SkZYYz7KNelbhzWVRszT7GVqlZufqPOfcGeDm8KPTScrpeS4qsnCvGBu+O+O58pXWBg+mpU4ECU/dcmTW/liPsgdlNQXEpZBBLZMwwzkwio8b3q46XHJsqyQGMCC6M/1KTgWQkKmeKig5uM0N6+Odji11UV+eFceOReAA=" />
+    <input type="image" src="https://bitpay.com/img/donate-md.png" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+  </form>
+<!-- DonateBitpayEN↑ -->  
+<!-- CoinBase↓ -->
+<p><a href="https://www.coinbase.com/EditHosts"><img class="paypal" src="https://www.coinbase.com/assets/logos/logo@2x-7ffa54971ee4e28c3330f1ffa4ce76e8.png" alt="Coinbase"></a></p>
+<!-- CoinBase↑ -->  
+ </section> 
 <div class="container"><p>
-<a rel="alternate" href="en/manual" hreflang="en"><span class="urlang">This website in English language</span></a>
+<a rel="alternate" href="../prispevek" hreflang="cs"><span class="urlang">This website in Czech language</span></a>
 </p></div>
 </div> 
 
+ 
 <!-- spodek -->
 <div>
 <!-- reklama -->
@@ -207,35 +123,34 @@ nebo v terminálu postačí pouze zadat
 <a href="http://www.jewish-eshop.cz/action/Affiliate/setAccess/?partnerId=8&amp;bannerId=13" rel="nofollow"><img src="//farm9.staticflickr.com/8640/16722263401_a413e7a27b_o.gif" alt="I recommend jewish-eshop.cz" rel="nofollow"/></a>
 </p></div>
 <!-- reklama -->
-<!-- czmenu2:mobile-visible↓ -->
-<div class="container">
-      <nav class="nav" role="navigation"><h4 class="hidden">Navigation</h4>
-        <a href="index" class="btn2" tabindex="9">O EditHosts</a>
-        <a href="instalace" class="btn2" tabindex="10">Instalace</a>
-        <a href="navod" class="btn2" tabindex="11">Návod</a>
-        <a href="prispevek" class="btn2" tabindex="12">Dobrovolný příspěvek</a>
-        <a href="kontakt" class="btn2" tabindex="13">Kontakt</a>
-      </nav>
-</div>
-<!-- czmenu2:mobile-visible↑ -->
+<!-- enmenu2:mobile-visible↓ -->
+        <div class="container">   
+	   <nav class="nav" role="navigation"><h4 class="hidden">Navigation</h4>
+      		<a href="index" class="btn2" tabindex="9">Home</a>
+	      	<a href="install" class="btn2" tabindex="10">Installation</a>
+	      	<a href="manual" class="btn2" tabindex="11">Handbook</a>
+	      	<a href="donate" class="btn2" tabindex="12">Donate</a>
+	      	<a href="contact" class="btn2" tabindex="13">Contact</a>
+	   </nav>
+	</div>
+<!-- enmenu2:mobile-visible↑ -->
 <div class="container">
     <nav>
-      <h5 id="odkazyhdr">Kam dál?</h5>
+      <h5 id="odkazyhdr">Where to go next? (czech resources)</h5>
       <ul id="odkazymenu">
-        <li><a href="http://jiri.meitner.cz/" tabindex="15">Meitner.cz</a></li>
-        <li><a href="http://jiri.meitner.cz/2014/08/odvirovani-pc-nebo-notebooku-praha-4.html" tabindex="16">Odvirování</a></li>
-        <li><a href="http://jiri.meitner.cz/2014/05/Instalace-a-konfigurace-linuxu-se-zaskolenim-v-Praze.html" tabindex="17">Instalace Linuxu</a></li>
-        <li><a href="http://jiri.meitner.cz/2014/07/ze-stareho-pc-nadupane-delo.html" tabindex="18">Zrychlení počítače</a></li>
+        <li><a href="http://www.meitner.cz/index.html" tabindex="15">Meitner.cz</a></li>
+        <li><a href="http://www.meitner.cz/2014/08/odvirovani-pc-nebo-notebooku-praha-4.html" tabindex="16">Odvirování</a></li>
+        <li><a href="http://www.meitner.cz/2014/05/Instalace-a-konfigurace-linuxu-se-zaskolenim-v-Praze.html" tabindex="17">Instalace Linuxu</a></li>
+        <li><a href="http://www.meitner.cz/2014/07/ze-stareho-pc-nadupane-delo.html" tabindex="18">Zrychlení počítače</a></li>
         <li><a href="http://galerie.meitner.cz" tabindex="19">Galerie Meitner</a></li>
         <li><a href="http://www.centruminvestic.cz" tabindex="20">Centrum Investic</a></li>
-        <li><a href="http://www.jewish-eshop.cz/action/Affiliate/setAccess/?partnerId=8&amp;linkId=2" rel="nofollow" tabindex="21">Doporučuji <span class="url">JEWISH E-SHOP</span></a></li>
-        <li><a href="http://nevolejte.cz/?2944" rel="nofollow" tabindex="22">Doporučuji <span class="url">Nevolejte.cz</span> - blokování otravných hovorů</a></li>
+        <li><a href="http://www.jewish-eshop.cz/action/Affiliate/setAccess/?partnerId=8&amp;linkId=2" rel="nofollow" tabindex="20">I recommend <span class="url">JEWISH E-SHOP</span></a></li>
       </ul>
     </nav>
   </div>
   <footer class="container">
-	<p>©<a rel="me" href="https://plus.google.com/+JiříMeitner/">Jiří Meitner</a> a <a rel="me" href="http://webarna.eu">Webarna.eu</a></p>
-	<p>Staňte se fanouškem na <a rel="publisher" href="https://www.facebook.com/edithosts" class="facebook">Facebooku</a> a soutěžte o zajímavé ceny, jako například vytvoření Vašich webových stránek zdarma.</p>
+	<p>©<a rel="me" href="https://plus.google.com/+JiříMeitner/">Jiří Meitner</a> and <a href="http://www.webarna.eu">Webarna.eu</a></p>
+	<p>Become a fan on <a rel="publisher" href="https://www.facebook.com/edithosts" class="facebook">Facebook</a> and win exciting prizes.</p>
   </footer>
 <script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
