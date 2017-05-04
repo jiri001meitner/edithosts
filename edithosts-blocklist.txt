@@ -17,3 +17,4 @@
 0.0.0.0 www.sublimetext.com
 0.0.0.0 youporn.quexotac.com
 0.0.0.0 yp.uxernab.com
+0.0.0.0	i0.cz
