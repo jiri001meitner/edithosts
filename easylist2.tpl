@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út kvě 9 10:34:39 CEST 2017 ##################
+##### Aktualizováno: St kvě 10 10:48:35 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12596,6 +12596,7 @@ msFilterList
 -d cpamnizzierk.com
 -d cphxwpicozlatvnsospudjhswfxwmykgbihjzvckxvtxzfsgtx.com
 -d crkgtnad.com
+-d croxdfrdjfnt.com
 -d csbsyukodmga.com
 -d cscactmkbfvn.com
 -d csmqorveetie.com
@@ -13515,6 +13516,7 @@ msFilterList
 -d qoiowocphgjm.com
 -d qolnnepubuyz.com
 -d qotwtnckqrke.com
+-d qoxsriddwmqx.com
 -d qpcyafunjtir.com
 -d qpiyjprptazz.com
 -d qqapezviufsh.com
@@ -13535,6 +13537,7 @@ msFilterList
 -d qwrkigqtgygc.com
 -d qxnniyuuaxhv.com
 -d qxxyzmukttyp.com
+-d qyvpgddwqynp.com
 -d qzcpotzdkfyn.com
 -d qzxtbsnaebfw.com
 -d rbdmtydtobai.com
@@ -13993,6 +13996,7 @@ msFilterList
 -d xkwnadxakuqc.com
 -d xkygmtrrjalx.com
 -d xmmnwyxkfcavuqhsoxfrjplodnhzaafbpsojnqjeoofyqallmf.com
+-d xnuuzwthzaol.com
 -d xoqwirroygxv.com
 -d xpkhmrdqhiux.com
 -d xpnttdct.com
@@ -14367,6 +14371,7 @@ msFilterList
 -d qulifiad.com
 -d qwemfst.com
 -d qwewas.info
+-d qwewdw.net
 -d qwrfpgf.com
 -d qzsccm.com
 -d r3seek.com
