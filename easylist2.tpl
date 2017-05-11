@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt kvě 11 11:59:29 CEST 2017 ##################
+##### Aktualizováno: Čt kvě 11 15:08:59 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12522,6 +12522,7 @@ msFilterList
 -d bjkfmvhygpub.com
 -d bjpktmjdxqpl.com
 -d bjzcyqezwksznxxhscsfcogugkyiupgjhikadadgoiruasxpxo.com
+-d bkgesylgvrgf.com
 -d bkmmlcbertdbselmdxpzcuyuilaolxqfhtyukmjkklxphbwsae.com
 -d bkmtspywevsk.com
 -d blprkaomvazv.com
@@ -12722,6 +12723,7 @@ msFilterList
 -d emirdzzvhviv.com
 -d emrumkgmdmdq.com
 -d enfhddbnariw.com
+-d enhwftpkwvnb.com
 -d eniaypwywduf.com
 -d eovkzcueutgf.com
 -d epernepojkle.com
@@ -13320,6 +13322,7 @@ msFilterList
 -d nguooqblyjrz.com
 -d nheanvabodkw.com
 -d nifyalnngdhb.com
+-d njcdmsgjbbbz.com
 -d njjybqyiuotl.com
 -d nkkreqvurtoh.com
 -d nklivofyjkbt.com
@@ -13546,6 +13549,7 @@ msFilterList
 -d qtsmzrnccnwz.com
 -d quaizzywzluk.com
 -d qudpdpkxffzt.com
+-d qveuxmbhbhmg.com
 -d qvsbroqoaggw.com
 -d qwbnzilogwdc.com
 -d qwhkndqqxxbq.com
