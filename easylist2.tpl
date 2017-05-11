@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St kvě 10 10:48:35 CEST 2017 ##################
+##### Aktualizováno: Čt kvě 11 11:56:03 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -9223,6 +9223,7 @@ msFilterList
 -d cdntrip.com
 -d centralnervous.net
 -d cerotop.com
+-d cfasync.ml
 -d cfasync.tk
 -d cgecwm.org
 -d chango.com
@@ -12457,6 +12458,7 @@ msFilterList
 -d amqtbshegbqg.com
 -d anasjdzutdmv.com
 -d anluecyopslm.com
+-d anoufpjmkled.com
 -d antrtrtyzkhw.com
 -d anypbbervqig.com
 -d anyuwksovtwv.com
@@ -12475,6 +12477,7 @@ msFilterList
 -d asqamasz.com
 -d atcyboopajyp.com
 -d autkmgrbdlbj.com
+-d avdfcctzwfdk.com
 -d avrdpbiwvwyt.com
 -d avzkjvbaxgqk.com
 -d awfjqdhcuftd.com
@@ -12581,6 +12584,7 @@ msFilterList
 -d cjvgnswapbqo.com
 -d cjxdbmxtnqmy.com
 -d cjxkzkzmdomd.com
+-d ckqkwhampiyb.com
 -d ckryzlnafwyd.com
 -d ckwpsghi.com
 -d cmdjujqlfbts.com
@@ -12747,6 +12751,7 @@ msFilterList
 -d facsowlaufzk.com
 -d farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
 -d fbbjlubvwmwd.com
+-d fcjhxlybaiab.com
 -d fcjnqpkrdglw.com
 -d fdepobamndfn.com
 -d fdogfuqpgeub.com
@@ -12789,6 +12794,7 @@ msFilterList
 -d frlvfzybstsa.com
 -d frlzxwxictmg.com
 -d fsddidfmmzvw.com
+-d ftgfmbxqkjda.com
 -d ftjrekbpjkwe.com
 -d ftvkgkkmthed.com
 -d ftytssqazcqx.com
@@ -12902,7 +12908,9 @@ msFilterList
 -d hlotiwnz.com
 -d hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com
 -d hnoajsaivjsg.com
+-d hnqnftzzytjl.com
 -d hntpbpeiuajc.com
+-d howjkpaynzwf.com
 -d hpdmnmehzcor.com
 -d hpkwirncwvxo.com
 -d hplgpoicsnea.com
@@ -12923,6 +12931,7 @@ msFilterList
 -d hvfzacisynoq.com
 -d hvfzshrpfueb.com
 -d hvukouhckryjudrawwylpboxdsonxhacpodmxvbonqipalsprb.com
+-d hwsbehjaxebh.com
 -d hwvwuoxsosfp.com
 -d hxbvbmxv.com
 -d hxkanryhktub.com
@@ -13000,6 +13009,7 @@ msFilterList
 -d iydghotpzofn.com
 -d izhvnderudte.com
 -d iziwhlafxitn.com
+-d izixtxrvogaq.com
 -d iznhvszyizwd.com
 -d iztsbnkxphnj.com
 -d izwsvyqv.com
@@ -13296,6 +13306,7 @@ msFilterList
 -d ndkvzncsuxgx.com
 -d ndndptjtonhh.com
 -d ndpegjgxzbbv.com
+-d ndtlcaudedxz.com
 -d ndxidnvvyvwx.com
 -d nedmppiilnld.com
 -d nefczemmdcqi.com
@@ -13391,6 +13402,7 @@ msFilterList
 -d oouggjayokzx.com
 -d ooyhetoodapmrjvffzpmjdqubnpevefsofghrfsvixxcbwtmrj.com
 -d ophpbseelohv.com
+-d oppcgcqytazs.com
 -d opyisszzoyhc.com
 -d oqmjxcqgdghq.com
 -d ormnduxoewtl.com
@@ -13406,11 +13418,13 @@ msFilterList
 -d ovfbwavekglf.com
 -d ovgzbnjj.com
 -d ovoczhahelca.com
+-d ovrdkhamiljt.com
 -d ovzmelkxgtgf.com
 -d owihjchxgydd.com
 -d owlmjcogunzx.com
 -d owodfrquhqui.com
 -d owqobhxvaack.com
+-d owrqvyeyrzhy.com
 -d owwewfaxvpch.com
 -d oyrgxjuvsedi.com
 -d oytrrdlrovcn.com
@@ -13483,6 +13497,7 @@ msFilterList
 -d pzcpotzdkfyn.com
 -d pzgchrjikhfyueumavkqiccvsdqhdjpljgwhbcobsnjrjfidpq.com
 -d pzkpyzgqvofi.com
+-d qadtkdlqlemf.com
 -d qajaohrcbpkd.com
 -d qarqyhfwient.com
 -d qazzzxwynmot.com
@@ -13503,6 +13518,7 @@ msFilterList
 -d qiqrguvdhcux.com
 -d qiremmtynkae.com
 -d qixlpaaeaspr.com
+-d qjmearsroiyn.com
 -d qjskosdsxanp.com
 -d qklhtphiphni.com
 -d qkpwdakgxynv.com
@@ -13872,6 +13888,7 @@ msFilterList
 -d vunwzlxfsogj.com
 -d vuysooqimdbt.com
 -d vwugfpktabed.com
+-d vwxskpufgwww.com
 -d vxbtrsqjnjpq.com
 -d vxlpefsjnmws.com
 -d vxqhchlyijwu.com
@@ -24165,8 +24182,8 @@ msFilterList
 +d megahd.me /advertisement.js
 +d megavideodownloader.com /adframe.js
 +d megawypas.pl /includes/adframe.js
-+d menshealth.com /sites/*-ad*.js
 +d menshealth.com
++d menshealth.com ad*.js
 +d mensxp.com
 +d mexashare.com
 +d mgcash.com /common/adblock.js
@@ -24358,7 +24375,7 @@ msFilterList
 +d rtube.de
 +d runners.es /advertisement.js
 +d runnersworld.com
-+d runnersworld.com /z-ads.js
++d runnersworld.com ad*.js
 +d saavn.com /ads/search_config_ad.php?
 +d salefiles.com
 +d samaup.com
