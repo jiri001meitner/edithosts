@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt kvě 11 17:29:19 CEST 2017 ##################
+##### Aktualizováno: Pá kvě 12 17:02:16 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -11222,6 +11222,7 @@ msFilterList
 -d purpleflag.net
 -d puserving.com
 -d push2check.com
+-d putrr2.com
 -d puttme.ga
 -d pwrads.net
 -d pxl2015x1.com
@@ -12582,6 +12583,7 @@ msFilterList
 -d cihnrhqwbcsq.com
 -d cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
 -d cjnoeafncyzb.com
+-d cjnwobsladbq.com
 -d cjvgnswapbqo.com
 -d cjxdbmxtnqmy.com
 -d cjxkzkzmdomd.com
@@ -12652,6 +12654,7 @@ msFilterList
 -d dmojscqlwewu.com
 -d dmwubqhtuvls.com
 -d dmyypseympjf.com
+-d dnqejgrbtlxe.com
 -d dnxpseduuehm.com
 -d dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 -d dobjgpqzygow.com
@@ -12857,6 +12860,7 @@ msFilterList
 -d gsiqerorqkxu.com
 -d gtaouarrwypu.com
 -d gtbfhyprjhqz.com
+-d gtcpsbvtwaqw.com
 -d gtevyaeeiged.com
 -d gtmonytxxglu.com
 -d gtqfsxrrerzu.com
@@ -12888,6 +12892,7 @@ msFilterList
 -d hbzzkwsuaooc.com
 -d hcggkyhzxzsv.com
 -d hcyxksgsxnzb.com
+-d hdwlzheftpin.com
 -d heefwozhlxgz.com
 -d heracgjcuqmk.com
 -d hevdxhsfbwud.com
@@ -12908,6 +12913,7 @@ msFilterList
 -d hkoxlirf.com
 -d hlekbinpgsuk.com
 -d hlotiwnz.com
+-d hmcjupvbxxyx.com
 -d hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com
 -d hnoajsaivjsg.com
 -d hnqnftzzytjl.com
@@ -12937,6 +12943,7 @@ msFilterList
 -d hwvwuoxsosfp.com
 -d hxbvbmxv.com
 -d hxkanryhktub.com
+-d hxlojjtpqtlk.com
 -d hxuvwqsecumg.com
 -d hytkatubjuln.com
 -d hyubowucvkch.com
@@ -12988,6 +12995,7 @@ msFilterList
 -d ionbpysfukdh.com
 -d iqmjedevvojm.com
 -d iqrqmhrfkyuu.com
+-d irbkobqlrbtt.com
 -d irjaeupzarkvwmxonaeslgicvjvgdruvdywmdvuaoyfsjgdzhk.com
 -d irrttzthsxot.com
 -d irxpndjg.com
@@ -13028,6 +13036,7 @@ msFilterList
 -d jcctggmdccmt.com
 -d jcnoeyqsdfrc.com
 -d jdlnquri.com
+-d jertwakjcaym.com
 -d jeyoxmhhnofdhaalzlfbrsfmezfxqxgwqjkxthzptjdizuyojh.com
 -d jfaqiomgvajb.com
 -d jffwwuyychxw.com
@@ -13089,6 +13098,7 @@ msFilterList
 -d kbrwlgzazfnv.com
 -d kbsceyleonkq.com
 -d kceikbfhsnet.com
+-d kdaskxrcgxhp.com
 -d kdvcvkwwtbwn.com
 -d kecldktirqzk.com
 -d keellcvwpzgj.com
@@ -13134,6 +13144,7 @@ msFilterList
 -d kurtgcwrdakv.com
 -d kutlvuitevgw.com
 -d kvpofpkxmlpb.com
+-d kvrozyibdkkt.com
 -d kvsyksorguja.com
 -d kvvvdfimdxnu.com
 -d kvzvtiswjroe.com
@@ -13301,6 +13312,7 @@ msFilterList
 -d nbkwnsonadrb.com
 -d nbmffortfyyg.com
 -d nbrwtboukesx.com
+-d nbzionsmbgrt.com
 -d ncdxfwxijazn.com
 -d ncspvnslmmbv.com
 -d ndemlviibdyc.com
@@ -13386,6 +13398,7 @@ msFilterList
 -d oguorftbvegb.com
 -d ohecnqpldvuw.com
 -d oiffrtkdgoef.com
+-d oipsyfnmrwir.com
 -d oiramtfxzqfc.com
 -d ojngisbfwwyp.com
 -d okasfshomqmg.com
@@ -13706,6 +13719,7 @@ msFilterList
 -d taqyljgaqsaz.com
 -d tawgiuioeaovaozwassucoydtrsellartytpikvcjpuwpagwfv.com
 -d tazvowjqekha.com
+-d tcdikyjqdmsb.com
 -d tcgojxmwkkgm.com
 -d tedlrouwixqq.com
 -d tevrhhgzzutw.com
@@ -13787,6 +13801,7 @@ msFilterList
 -d ugxyemavfvlolypdqcksmqzorlphjycckszifyknwlfcvxxihx.com
 -d uhfqrxwlnszw.com
 -d uilknldyynwm.com
+-d uipjeyipoumf.com
 -d ujdctbsbbimb.com
 -d ujocmihdknwj.com
 -d ujqafhcsrhyz.com
@@ -18573,6 +18588,8 @@ msFilterList
 -d fiberupload.org /300en.png
 -d fightersonlymag.com /images/banners/
 -d fijitimes.com /images/bspxchange.gif
+-d file-upload.net /include/mitte.php
+-d file-upload.net /include/rechts.php
 -d file.org /fo/scripts/download_helpopt.js
 -d file.org /images/promo/
 -d file2hd.com /sweet.jpg
@@ -19707,7 +19724,6 @@ msFilterList
 -d newburytoday.co.uk -WillisAinsworth1.gif
 -d newipnow.com /ad-js.php
 -d newoxfordreview.org /banners/ad-
--d newpct.com /soporte/
 -d news-leader.com /banner.js
 -d news-record.com /app/deal/
 -d news.am /pic/bnr/
@@ -23016,7 +23032,6 @@ msFilterList
 +d gamehouse.com /adiframe/preroll-ad/
 +d gameitnow.com /ads/gameadvertentie.php?
 +d gameitnow.com /ads/google_loader.swf
-+d gamer-network.net /plugins/*.js
 +d games.cnn.com /ad/
 +d games.washingtonpost.com /games/
 +d gamesgames.com /vda/friendly-iframe.html?videoPreroll300x250

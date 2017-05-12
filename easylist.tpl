@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 11 May 2017 15:20 UTC
+# Last modified: 12 May 2017 15:00 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -11727,6 +11727,7 @@ msFilterList
 -d purpleflag.net
 -d puserving.com
 -d push2check.com
+-d putrr2.com
 -d puttme.ga
 -d pwrads.net
 -d pxl2015x1.com
@@ -13101,6 +13102,7 @@ msFilterList
 -d cihnrhqwbcsq.com
 -d cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
 -d cjnoeafncyzb.com
+-d cjnwobsladbq.com
 -d cjvgnswapbqo.com
 -d cjxdbmxtnqmy.com
 -d cjxkzkzmdomd.com
@@ -13171,6 +13173,7 @@ msFilterList
 -d dmojscqlwewu.com
 -d dmwubqhtuvls.com
 -d dmyypseympjf.com
+-d dnqejgrbtlxe.com
 -d dnxpseduuehm.com
 -d dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 -d dobjgpqzygow.com
@@ -13376,6 +13379,7 @@ msFilterList
 -d gsiqerorqkxu.com
 -d gtaouarrwypu.com
 -d gtbfhyprjhqz.com
+-d gtcpsbvtwaqw.com
 -d gtevyaeeiged.com
 -d gtmonytxxglu.com
 -d gtqfsxrrerzu.com
@@ -13407,6 +13411,7 @@ msFilterList
 -d hbzzkwsuaooc.com
 -d hcggkyhzxzsv.com
 -d hcyxksgsxnzb.com
+-d hdwlzheftpin.com
 -d heefwozhlxgz.com
 -d heracgjcuqmk.com
 -d hevdxhsfbwud.com
@@ -13427,6 +13432,7 @@ msFilterList
 -d hkoxlirf.com
 -d hlekbinpgsuk.com
 -d hlotiwnz.com
+-d hmcjupvbxxyx.com
 -d hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com
 -d hnoajsaivjsg.com
 -d hnqnftzzytjl.com
@@ -13456,6 +13462,7 @@ msFilterList
 -d hwvwuoxsosfp.com
 -d hxbvbmxv.com
 -d hxkanryhktub.com
+-d hxlojjtpqtlk.com
 -d hxuvwqsecumg.com
 -d hytkatubjuln.com
 -d hyubowucvkch.com
@@ -13507,6 +13514,7 @@ msFilterList
 -d ionbpysfukdh.com
 -d iqmjedevvojm.com
 -d iqrqmhrfkyuu.com
+-d irbkobqlrbtt.com
 -d irjaeupzarkvwmxonaeslgicvjvgdruvdywmdvuaoyfsjgdzhk.com
 -d irrttzthsxot.com
 -d irxpndjg.com
@@ -13547,6 +13555,7 @@ msFilterList
 -d jcctggmdccmt.com
 -d jcnoeyqsdfrc.com
 -d jdlnquri.com
+-d jertwakjcaym.com
 -d jeyoxmhhnofdhaalzlfbrsfmezfxqxgwqjkxthzptjdizuyojh.com
 -d jfaqiomgvajb.com
 -d jffwwuyychxw.com
@@ -13608,6 +13617,7 @@ msFilterList
 -d kbrwlgzazfnv.com
 -d kbsceyleonkq.com
 -d kceikbfhsnet.com
+-d kdaskxrcgxhp.com
 -d kdvcvkwwtbwn.com
 -d kecldktirqzk.com
 -d keellcvwpzgj.com
@@ -13653,6 +13663,7 @@ msFilterList
 -d kurtgcwrdakv.com
 -d kutlvuitevgw.com
 -d kvpofpkxmlpb.com
+-d kvrozyibdkkt.com
 -d kvsyksorguja.com
 -d kvvvdfimdxnu.com
 -d kvzvtiswjroe.com
@@ -13820,6 +13831,7 @@ msFilterList
 -d nbkwnsonadrb.com
 -d nbmffortfyyg.com
 -d nbrwtboukesx.com
+-d nbzionsmbgrt.com
 -d ncdxfwxijazn.com
 -d ncspvnslmmbv.com
 -d ndemlviibdyc.com
@@ -13905,6 +13917,7 @@ msFilterList
 -d oguorftbvegb.com
 -d ohecnqpldvuw.com
 -d oiffrtkdgoef.com
+-d oipsyfnmrwir.com
 -d oiramtfxzqfc.com
 -d ojngisbfwwyp.com
 -d okasfshomqmg.com
@@ -14225,6 +14238,7 @@ msFilterList
 -d taqyljgaqsaz.com
 -d tawgiuioeaovaozwassucoydtrsellartytpikvcjpuwpagwfv.com
 -d tazvowjqekha.com
+-d tcdikyjqdmsb.com
 -d tcgojxmwkkgm.com
 -d tedlrouwixqq.com
 -d tevrhhgzzutw.com
@@ -14306,6 +14320,7 @@ msFilterList
 -d ugxyemavfvlolypdqcksmqzorlphjycckszifyknwlfcvxxihx.com
 -d uhfqrxwlnszw.com
 -d uilknldyynwm.com
+-d uipjeyipoumf.com
 -d ujdctbsbbimb.com
 -d ujocmihdknwj.com
 -d ujqafhcsrhyz.com
@@ -19924,7 +19939,7 @@ msFilterList
 # ||cloudfront.net/hot/ars.dart/$domain=arstechnica.com
 # ||cloudfront.net/images/amazon/$domain=slader.com
 # ||cloudfront.net/pop?$domain=clipconverter.cc
-# ||cloudfront.net^$script,domain=300mbfilms.co|4archive.org|4chanarchives.cu.cc|addic7ed.com|animeflv.net|animehaven.to|auroravid.to|bdupload.info|beinsport-streaming.com|biology-online.org|bitvid.sx|chronos.to|cloudtime.to|coreimg.net|crackingpatching.com|dailyuploads.net|divxatope.com|downloadming.io|downloadming.tv|extratorrent.cc|extremetech.com|eztv.ag|file-upload.com|frendz4m.com|fulldowngames.biz|fullstuff.co|goodvideohost.com|hon3yhd.com|imgchili.net|kannadamovies.biz|letwatch.to|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|multiup.org|mystream.la|nachostime.net|nitroflare.com|noslocker.com|nowvideo.li|nowvideo.sx|nowvideo.to|omghype.com|onhax.me|openload.co|otorrents.com|ouo.io|reevown.com|sadeempc.com|scambiofile.info|sceper.ws|shink.in|sparknotes.com|streamplay.to|suprafiles.co|thecoolersoftwares.net|thevideobee.to|tinypaste.me|torlock.com|torrentfunk.com|torrentproject.se|tsumino.com|tubeoffline.com|tvlivenow.com|upload.so|uplod.ws|usersfiles.com|vidlox.tv|vidshare.us|vshare.eu|watchers.to|watchfomny.tv|wholecloud.net|world4ufree.be|yahmaib3ai.com|yourbittorrent.com|yourvideohost.com
+# ||cloudfront.net^$script,domain=300mbfilms.co|4archive.org|4chanarchives.cu.cc|addic7ed.com|animeflv.net|animehaven.to|auroravid.to|bdupload.info|beinsport-streaming.com|biology-online.org|bitvid.sx|chronos.to|cloudtime.to|coreimg.net|crackingpatching.com|dailyuploads.net|downloadming.io|downloadming.tv|extratorrent.cc|extremetech.com|eztv.ag|file-upload.com|frendz4m.com|fulldowngames.biz|fullstuff.co|goodvideohost.com|hon3yhd.com|imgchili.net|kannadamovies.biz|letwatch.to|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|multiup.org|mystream.la|nachostime.net|nitroflare.com|noslocker.com|nowvideo.li|nowvideo.sx|nowvideo.to|omghype.com|onhax.me|openload.co|otorrents.com|ouo.io|reevown.com|sadeempc.com|scambiofile.info|sceper.ws|shink.in|sparknotes.com|streamplay.to|suprafiles.co|thecoolersoftwares.net|thevideobee.to|tinypaste.me|torlock.com|torrentfunk.com|torrentproject.se|tsumino.com|tubeoffline.com|tvlivenow.com|upload.so|uplod.ws|usersfiles.com|vidlox.tv|vidshare.us|vshare.eu|watchers.to|watchfomny.tv|wholecloud.net|world4ufree.be|yahmaib3ai.com|yourbittorrent.com|yourvideohost.com
 # ||cloudfront.net^$subdocument,domain=1001tracklists.com
 # ||cloudfront.net^*/shaadi.com/$domain=deccanchronicle.com
 # ||cloudfront.net^*ad$domain=fiaformulae.com
@@ -20414,6 +20429,8 @@ msFilterList
 -d fightersonlymag.com /images/banners/
 -d fijitimes.com /images/bspxchange.gif
 # ||file-upload.net/include/down$subdocument
+-d file-upload.net /include/mitte.php
+-d file-upload.net /include/rechts.php
 -d file.org /fo/scripts/download_helpopt.js
 -d file.org /images/promo/
 -d file2hd.com /sweet.jpg
@@ -21643,7 +21660,6 @@ msFilterList
 -d newburytoday.co.uk -WillisAinsworth1.gif
 -d newipnow.com /ad-js.php
 -d newoxfordreview.org /banners/ad-
--d newpct.com /soporte/
 -d news-leader.com /banner.js
 -d news-record.com /app/deal/
 -d news.am /pic/bnr/
@@ -23853,8 +23869,8 @@ msFilterList
 # |http://$script,domain=yts.ag
 # |https://$script,domain=yts.ag
 # extratorrent.cc
-# |http://$script,subdocument,third-party,xmlhttprequest,domain=extra.to|extratorrent.cc
-# |https://$script,subdocument,third-party,xmlhttprequest,domain=extra.to|extratorrent.cc
+# |http://$script,subdocument,third-party,xmlhttprequest,domain=extra.to|extratorrent.cc|extratorrent.unblockall.xyz
+# |https://$script,subdocument,third-party,xmlhttprequest,domain=extra.to|extratorrent.cc|extratorrent.unblockall.xyz
 # downace.com
 # |http://$script,third-party,xmlhttprequest,domain=downace.com
 # |https://$script,third-party,xmlhttprequest,domain=downace.com
@@ -27311,14 +27327,14 @@ msFilterList
 # @@||g.doubleclick.net/aclk?*^adurl=http://thoughtcatalog.com/$popup,domain=thoughtcatalog.com
 +d g.doubleclick.net /crossdomain.xml
 # @@||g.doubleclick.net/gampad/ads?$object-subrequest,domain=majorleaguegaming.com|nfl.com|player.rogersradio.ca|twitch.tv|viki.com|volarvideo.com|worldstarhiphop.com
-# @@||g.doubleclick.net/gampad/ads?$script,domain=app.com|argusleader.com|autoguide.com|battlecreekenquirer.com|baxterbulletin.com|beqala.com|boatshop24.com|bodas.com.mx|bodas.net|bucyrustelegraphforum.com|burlingtonfreepress.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|chillicothegazette.com|cincinnati.com|clarionledger.com|coloradoan.com|computerworlduk.com|coshoctontribune.com|courier-journal.com|courierpostonline.com|dailyrecord.com|dailyworld.com|deadspin.com|defensenews.com|delawareonline.com|democratandchronicle.com|desmoinesregister.com|dnj.com|drupalcommerce.org|economist.com|escapegames.com|fdlreporter.com|flightcentre.co.uk|floridatoday.com|foxnews.com|freep.com|games.latimes.com|gawker.com|gizmodo.com|greatfallstribune.com|greenbaypressgazette.com|greenvilleonline.com|guampdn.com|gz.com|hattiesburgamerican.com|hometownlife.com|htrnews.com|indystar.com|investopedia.com|io9.com|ithacajournal.com|jacksonsun.com|jalopnik.com|jconline.com|jezebel.com|kbb.com|kotaku.com|lancastereaglegazette.com|lansingstatejournal.com|lifehacker.com|liverpoolfc.com|livescience.com|livingstondaily.com|lohud.com|mansfieldnewsjournal.com|mariages.net|marionstar.com|marshfieldnewsherald.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|montgomeryadvertiser.com|motorcycle.com|mycentraljersey.com|mydesert.com|mysoju.com|nauticexpo.com|nedbank.co.za|nedbankgreen.co.za|newarkadvocate.com|news-leader.com|news-press.com|newsleader.com|nonags.com|noodle.com|orbitz.com|pal-item.com|phoronix.com|podomatic.com|portclintonnewsherald.com|postcrescent.com|poughkeepsiejournal.com|press-citizen.com|pressconnects.com|qz.com|rgj.com|ripley.cl|ripley.com.pe|sctimes.com|sheboyganpress.com|shreveporttimes.com|stargazette.com|statesmanjournal.com|stevenspointjournal.com|tallahassee.com|tennessean.com|theadvertiser.com|thedailyjournal.com|theleafchronicle.com|thenews-messenger.com|thenewsstar.com|thenorthwestern.com|thesimsresource.com|thespectrum.com|thestarpress.com|thetimesherald.com|thetowntalk.com|thoughtcatalog.com|ticketek.com.ar|urbandictionary.com|virginaustralia.com|visaliatimesdelta.com|volokh.com|vroomvroomvroom.com.au|wausaudailyherald.com|weddingspot.co.uk|wired.com|wisconsinrapidstribune.com|wlj.net|wsj.com|zanesvilletimesrecorder.com|zavvi.com|zillow.com|zui.com
-# @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=s4c.cymru
+# @@||g.doubleclick.net/gampad/ads?$script,domain=app.com|argusleader.com|autoguide.com|battlecreekenquirer.com|baxterbulletin.com|beqala.com|boatshop24.com|bodas.com.mx|bodas.net|bucyrustelegraphforum.com|burlingtonfreepress.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|chillicothegazette.com|cincinnati.com|clarionledger.com|coloradoan.com|computerworlduk.com|coshoctontribune.com|courier-journal.com|courierpostonline.com|dailyrecord.com|dailyworld.com|daveramsey.com|deadspin.com|defensenews.com|delawareonline.com|democratandchronicle.com|desmoinesregister.com|dnj.com|drupalcommerce.org|economist.com|escapegames.com|fdlreporter.com|flightcentre.co.uk|floridatoday.com|foxnews.com|freep.com|games.latimes.com|gawker.com|gizmodo.com|greatfallstribune.com|greenbaypressgazette.com|greenvilleonline.com|guampdn.com|gz.com|hattiesburgamerican.com|hometownlife.com|htrnews.com|indystar.com|investopedia.com|io9.com|ithacajournal.com|jacksonsun.com|jalopnik.com|jconline.com|jezebel.com|kbb.com|kotaku.com|lancastereaglegazette.com|lansingstatejournal.com|lifehacker.com|liverpoolfc.com|livescience.com|livingstondaily.com|lohud.com|mansfieldnewsjournal.com|mariages.net|marionstar.com|marshfieldnewsherald.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|montgomeryadvertiser.com|motorcycle.com|mycentraljersey.com|mydesert.com|mysoju.com|nauticexpo.com|nedbank.co.za|nedbankgreen.co.za|newarkadvocate.com|news-leader.com|news-press.com|newsleader.com|nonags.com|noodle.com|orbitz.com|pal-item.com|phoronix.com|podomatic.com|portclintonnewsherald.com|postcrescent.com|poughkeepsiejournal.com|press-citizen.com|pressconnects.com|qz.com|rgj.com|ripley.cl|ripley.com.pe|sctimes.com|sheboyganpress.com|shreveporttimes.com|stargazette.com|statesmanjournal.com|stevenspointjournal.com|tallahassee.com|tennessean.com|theadvertiser.com|thedailyjournal.com|theleafchronicle.com|thenews-messenger.com|thenewsstar.com|thenorthwestern.com|thesimsresource.com|thespectrum.com|thestarpress.com|thetimesherald.com|thetowntalk.com|thoughtcatalog.com|ticketek.com.ar|urbandictionary.com|virginaustralia.com|visaliatimesdelta.com|volokh.com|vroomvroomvroom.com.au|wausaudailyherald.com|weddingspot.co.uk|wired.com|wisconsinrapidstribune.com|wlj.net|wsj.com|zanesvilletimesrecorder.com|zavvi.com|zillow.com|zui.com
+# @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=daveramsey.com|s4c.cymru
 # @@||g.doubleclick.net/gampad/ads?*^iu_parts=7372121%2CPTGBanner%2C$script,domain=pianobuyer.com
 # @@||g.doubleclick.net/gampad/ads?*www.forbes.com%2Ffdc%2Fwelcome_mjx.shtml$script,domain=forbes.com
 # @@||g.doubleclick.net/gampad/ads?adk$domain=rte.ie
 # @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=qz.com
 # @@||g.doubleclick.net/gampad/google_ads.js$domain=nedbank.co.za|nitrome.com|ticketek.com.ar
-# @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|allmusic.com|beqala.com|bodas.com.mx|bodas.net|canoe.com|caranddriver.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|consequenceofsound.net|cwtv.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ebaumsworld.com|economist.com|ew.com|flightcentre.co.uk|forbes.com|foxnews.com|gawker.com|gizmodo.com|goalzz.com|greyhoundbet.racingpost.com|independent.co.uk|indianexpress.com|investopedia.com|io9.com|jalopnik.com|jezebel.com|kbb.com|kotaku.com|latimes.com|lifehacker.com|liverpoolfc.com|livescience.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nydailynews.com|nytimes.com|opb.org|orbitz.com|out.com|phoronix.com|pianobuyer.com|pocketnow.com|qz.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|theatlantic.com|thesimsresource.com|thoughtcatalog.com|time.com|upi.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|wired.com|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
+# @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|allmusic.com|beqala.com|bodas.com.mx|bodas.net|canoe.com|caranddriver.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|consequenceofsound.net|cwtv.com|daveramsey.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ebaumsworld.com|economist.com|ew.com|flightcentre.co.uk|forbes.com|foxnews.com|gawker.com|gizmodo.com|goalzz.com|greyhoundbet.racingpost.com|independent.co.uk|indianexpress.com|investopedia.com|io9.com|jalopnik.com|jezebel.com|kbb.com|kotaku.com|latimes.com|lifehacker.com|liverpoolfc.com|livescience.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nydailynews.com|nytimes.com|opb.org|orbitz.com|out.com|phoronix.com|pianobuyer.com|pocketnow.com|qz.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|theatlantic.com|thesimsresource.com|thoughtcatalog.com|time.com|upi.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|wired.com|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
 # @@||g.doubleclick.net/pagead/ads?ad_type=image_text^$object-subrequest,domain=ebog.com|gameark.com
 +d g.doubleclick.net /pagead/ads?ad_type=text_dynamicimage_flash/
 # @@||g.doubleclick.net/pcs/click^$popup,domain=economist.com
@@ -27331,8 +27347,7 @@ msFilterList
 +d gamehouse.com /adiframe/preroll-ad/
 +d gameitnow.com /ads/gameadvertentie.php?
 +d gameitnow.com /ads/google_loader.swf
-+d gamer-network.net /plugins/*.js
-# @@||gamer-network.net^*/ads.js$domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
+# @@||gamer-network.net^$script,domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
 +d games.cnn.com /ad/
 +d games.washingtonpost.com /games/
 +d gamesgames.com /vda/friendly-iframe.html?videoPreroll300x250
@@ -27948,6 +27963,7 @@ msFilterList
 +d pshared.5min.com /Scripts/ThumbSeed2.js?*&adUnit=*.js
 +d ptgrey.com /_PGR_Content/Advertising/
 # @@||pubmatic.com/AdServer/js/universalpixel.js$domain=politico.com
+# @@||pubmatic.com/AdServer/Pug?$image,domain=grammarist.com
 # @@||pubmatic.com/AdServer/UPug?$script,domain=politico.com
 +d pumpkinpatchkids.com /www/delivery/ajs.php?*.js
 +d purebilling.com /pb.min.js
