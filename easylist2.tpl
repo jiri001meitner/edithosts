@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá kvě 12 17:02:16 CEST 2017 ##################
+##### Aktualizováno: So kvě 13 22:52:03 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12485,6 +12485,7 @@ msFilterList
 -d awsatstb.com
 -d awvrvqxq.com
 -d axfkfstrbacx.com
+-d ayjebauqdrys.com
 -d azbdbtsmdocl.com
 -d azditojzcdkc.com
 -d azeozrjk.com
@@ -12506,6 +12507,7 @@ msFilterList
 -d bebufuspldzh.com
 -d beghfkrygvxp.com
 -d behjgnhniasz.com
+-d behybmunweid.com
 -d bewovdhiubnk.com
 -d bfhavmgufvhn.com
 -d bfidvcsuazwy.com
@@ -12602,6 +12604,7 @@ msFilterList
 -d cortxphssdvc.com
 -d cpamnizzierk.com
 -d cphxwpicozlatvnsospudjhswfxwmykgbihjzvckxvtxzfsgtx.com
+-d cpkbdmkguggh.com
 -d crkgtnad.com
 -d croxdfrdjfnt.com
 -d csbsyukodmga.com
@@ -12610,6 +12613,7 @@ msFilterList
 -d cstdfxkxbqbc.com
 -d csyngxtkifrh.com
 -d ctimfrfrmqip.com
+-d ctzvtevpcssx.com
 -d cuguwxkasghy.com
 -d cwliihvsjckn.com
 -d cwtekghutpaq.com
@@ -12694,6 +12698,7 @@ msFilterList
 -d eaidabmuxbqy.com
 -d easnviytengk.com
 -d ebfjbrlcvjlv.com
+-d ebspiewapcta.com
 -d ebyakgowemds.com
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
 -d ectbduztanog.com
@@ -12907,6 +12912,7 @@ msFilterList
 -d higygtvnzxad.com
 -d hilkfxdqxzac.com
 -d hjukmfdbryln.com
+-d hjvdkrjmxngg.com
 -d hkacgxlpfurb.com
 -d hkdjrnkjwtqo.com
 -d hklyzmspvqjh.com
@@ -13131,6 +13137,7 @@ msFilterList
 -d kqcflzvunhew.com
 -d kqmjmrzjhmdn.com
 -d kqsipdhvcejx.com
+-d krmuxxubtkrg.com
 -d krovrhmqgupd.com
 -d krxexwfnghfu.com
 -d krxpudrzyvko.com
@@ -13139,7 +13146,9 @@ msFilterList
 -d ktcltsgjcbjdcyrcdaspmwqwscxgbqhscmkpsxarejfsfpohkk.com
 -d kthdreplfmil.com
 -d ktjqfqadgmxh.com
+-d ktrmzzrlkbet.com
 -d kuavzcushxyd.com
+-d kuaygqohsbeg.com
 -d kumekqeccmob.com
 -d kurtgcwrdakv.com
 -d kutlvuitevgw.com
@@ -13228,6 +13237,7 @@ msFilterList
 -d lzrfxzvfbkay.com
 -d lzvnaaozpqyb.com
 -d maboflgkaxqn.com
+-d magwfymjhils.com
 -d maxgirlgames.com
 -d mbajaazbqdzc.com
 -d mbfvfdkawpoi.com
@@ -13448,6 +13458,7 @@ msFilterList
 -d ozhwenyohtpb.com
 -d ozwtmmcdglos.com
 -d ozymwqsycimr.com
+-d palzblimzpdk.com
 -d pbbutsvpzqza.com
 -d pbnnsras.com
 -d pcebrrqydcox.com
@@ -13533,6 +13544,7 @@ msFilterList
 -d qinsmmxvacuh.com
 -d qiqrguvdhcux.com
 -d qiremmtynkae.com
+-d qiurgfxexsmp.com
 -d qixlpaaeaspr.com
 -d qjmearsroiyn.com
 -d qjskosdsxanp.com
@@ -13836,6 +13848,7 @@ msFilterList
 -d uvffdmlqwmha.com
 -d uvmsfffedzzw.com
 -d uvxaafcozjgh.com
+-d uwpmwpjlxblb.com
 -d uwrzafoopcyr.com
 -d uxyofgcf.com
 -d uyfsqkwhpihm.com
@@ -13853,6 +13866,7 @@ msFilterList
 -d vbupfouyymse.com
 -d vbuqjdyrsrvi.com
 -d vcwdjbbughuy.com
+-d vdhmatjdoyqt.com
 -d vdlvaqsbaiok.com
 -d vdpyueivvsuc.com
 -d vdqarbfqauec.com
@@ -13945,6 +13959,7 @@ msFilterList
 -d whinjxmkugky.com
 -d whkwbllcctfm.com
 -d whsjufifuwkw.com
+-d whuvrlmzyvzy.com
 -d whzbmdeypkrb.com
 -d wicxfvlozsqz.com
 -d wijczxvihjyu.com
@@ -14091,6 +14106,7 @@ msFilterList
 -d yktkodofnikf.com
 -d ykwdfjergthe.com
 -d ylhjsrwqtqqb.com
+-d yljrefexjymy.com
 -d ylksuifuyryt.com
 -d ylqezcnlzfsj.com
 -d ymlbuooxppzt.com
@@ -14186,6 +14202,7 @@ msFilterList
 -d zvuespzsdgdq.com
 -d zwcuvwssfydj.com
 -d zwqfnizwcvbx.com
+-d zxavxgjcjmkh.com
 -d zxbjgrxbcgrp.com
 -d zxqeycvsetkh.com
 -d zyaorkkdvcbl.com
@@ -15997,6 +16014,7 @@ msFilterList
 -d dealtoday.com.mt /banners/
 -d dealzone.co.za .js
 -d delivery-dev.thebloggernetwork.com
+-d delivery-s3.adswizz.com
 -d delivery.importantmedia.org
 -d delivery.thebloggernetwork.com
 -d dennis.co.uk /siteskins/
