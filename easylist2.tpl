@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So kvě 13 23:03:26 CEST 2017 ##################
+##### Aktualizováno: Po kvě 15 15:46:34 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8829,6 +8829,7 @@ msFilterList
 -d amp.services
 -d ampxchange.com
 -d anastasiasaffiliate.com
+-d anbkoxl.com
 -d andbeyond.media
 -d andohs.net
 -d andomedia.com
@@ -9223,6 +9224,7 @@ msFilterList
 -d cdntrip.com
 -d centralnervous.net
 -d cerotop.com
+-d cfasync.cf
 -d cfasync.ml
 -d cfasync.tk
 -d cgecwm.org
@@ -9907,6 +9909,7 @@ msFilterList
 -d freerotator.com
 -d freeskreen.com
 -d freesoftwarelive.com
+-d freestar.io
 -d fresh8.co
 -d friendlyduck.com
 -d friesmeasureretain.info
@@ -10909,6 +10912,7 @@ msFilterList
 -d onenetworkdirect.com
 -d onenetworkdirect.net
 -d oneopenclose.click
+-d onerror.cf
 -d onerror.gq
 -d onespot.com
 -d online-adnetwork.com
@@ -12377,6 +12381,7 @@ msFilterList
 -d roastedvoice.com
 -d similarsabine.com
 -d sinceresofa.com
+-d smilingsock.com
 -d snakesort.com
 -d sneakystamp.com
 -d spillvacation.com
@@ -12435,6 +12440,7 @@ msFilterList
 -d adfpkxvaqeyj.com
 -d adtbomthnsyz.com
 -d adudzlhdjgof.com
+-d afbfoxmwzlqa.com
 -d afedispdljgb.com
 -d afqwfxkjmgwv.com
 -d aggntknflhal.com
@@ -12472,6 +12478,7 @@ msFilterList
 -d aqornnfwxmua.com
 -d aqryyhyzjveh.com
 -d aragvjeosjdx.com
+-d arawegnvvufy.com
 -d aryufuxbmwnb.com
 -d asecxggulyrf.com
 -d ashwlrtiazee.com
@@ -12482,6 +12489,7 @@ msFilterList
 -d avrdpbiwvwyt.com
 -d avzkjvbaxgqk.com
 -d awfjqdhcuftd.com
+-d awgyhiupjzvu.com
 -d awsatstb.com
 -d awvrvqxq.com
 -d axfkfstrbacx.com
@@ -12538,6 +12546,7 @@ msFilterList
 -d bolgooltxygp.com
 -d bqptlqmtroto.com
 -d bqqjowpigdnx.com
+-d bqytfutmwulr.com
 -d brqrtgjklary.com
 -d bsaixnxcpaai.com
 -d bsnbfufjgxrb.com
@@ -12605,6 +12614,7 @@ msFilterList
 -d cpamnizzierk.com
 -d cphxwpicozlatvnsospudjhswfxwmykgbihjzvckxvtxzfsgtx.com
 -d cpkbdmkguggh.com
+-d cqoyvpldkmqt.com
 -d crkgtnad.com
 -d croxdfrdjfnt.com
 -d csbsyukodmga.com
@@ -12625,6 +12635,7 @@ msFilterList
 -d cymuxbcnhinm.com
 -d cywegkfcrhup.com
 -d czcbkaptwfmv.com
+-d czcyppdffuhh.com
 -d czgeitdowtlv.com
 -d czoivochvduv.com
 -d dacqmkmsjajm.com
@@ -12685,6 +12696,7 @@ msFilterList
 -d dusgihujnthv.com
 -d duvyjbofwfqh.com
 -d duxyrxhfwilv.com
+-d dvsrlrnpyxwv.com
 -d dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
 -d dxcqavshmvst.com
 -d dxfsbkmaydtt.com
@@ -12936,6 +12948,7 @@ msFilterList
 -d hrkshoveizfo.com
 -d hrvxpinmdyjx.com
 -d hsvqfvjidloc.com
+-d hszyozoawqnk.com
 -d htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
 -d htonrwegnifw.com
 -d hueenmivecmx.com
@@ -12945,6 +12958,7 @@ msFilterList
 -d hvfzacisynoq.com
 -d hvfzshrpfueb.com
 -d hvukouhckryjudrawwylpboxdsonxhacpodmxvbonqipalsprb.com
+-d hwfcdqnvovij.com
 -d hwsbehjaxebh.com
 -d hwvwuoxsosfp.com
 -d hxbvbmxv.com
@@ -13021,6 +13035,7 @@ msFilterList
 -d iwqugvxozbkd.com
 -d iwrjczthkkla.com
 -d ixlsylapsdtr.com
+-d ixsxgaegvplo.com
 -d ixzhwyuxxvxb.com
 -d iydghotpzofn.com
 -d izhvnderudte.com
@@ -13032,6 +13047,7 @@ msFilterList
 -d jahsrhlp.com
 -d jakzxxzrymhz.com
 -d jamkkydyiyhx.com
+-d janrlobmiroi.com
 -d jatkcmpxhbba.com
 -d jauftivogtho.com
 -d jbbgczjipjvb.com
@@ -13048,6 +13064,7 @@ msFilterList
 -d jffwwuyychxw.com
 -d jfribvstvcqy.com
 -d jgqkrvjtuapt.com
+-d jgrcggutsilp.com
 -d jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
 -d jijcetagjfzo.com
 -d jiyairvjgfqk.com
@@ -13105,8 +13122,10 @@ msFilterList
 -d kbsceyleonkq.com
 -d kceikbfhsnet.com
 -d kdaskxrcgxhp.com
+-d kdtictjmofbl.com
 -d kdvcvkwwtbwn.com
 -d kecldktirqzk.com
+-d keeedoleeroe.com
 -d keellcvwpzgj.com
 -d keqnebfovnhl.com
 -d kfpwayrztgjj.com
@@ -13251,6 +13270,7 @@ msFilterList
 -d mepchnbjsrik.com
 -d mflkgrgxadij.com
 -d mfmikwfdopmiusbveskwmouxvafvzurvklwyfamxlddexgrtci.com
+-d mfryftaguwuv.com
 -d mftbfgcusnzl.com
 -d mfuebmooizdr.com
 -d mgrxsztbcfeg.com
@@ -13304,6 +13324,7 @@ msFilterList
 -d msiegurhgfyl.com
 -d msrwoxdkffcl.com
 -d mszfmpseoqbu.com
+-d mtlieuvyoikf.com
 -d mttyfwtvyumc.com
 -d mueqzsdabscd.com
 -d munpprwlhric.com
@@ -13407,6 +13428,7 @@ msFilterList
 -d ofmuojegzbxo.com
 -d oguorftbvegb.com
 -d ohecnqpldvuw.com
+-d ohmvrqomsitr.com
 -d oiffrtkdgoef.com
 -d oipsyfnmrwir.com
 -d oiramtfxzqfc.com
@@ -13474,6 +13496,7 @@ msFilterList
 -d pixjqfvlsqvu.com
 -d pjffrqroudcp.com
 -d pjnrwznmzguc.com
+-d pkklpazhqqda.com
 -d pkmzxzfazpst.com
 -d pkougirndckw.com
 -d pkoyiqjjxhsy.com
@@ -13587,6 +13610,7 @@ msFilterList
 -d qzxtbsnaebfw.com
 -d rbdmtydtobai.com
 -d rbfxurlfctsz.com
+-d rbgrlqsepeds.com
 -d rbppnzuxoatx.com
 -d rbrbvedkazkr.com
 -d rbsfglbipyfs.com
@@ -13633,6 +13657,7 @@ msFilterList
 -d rpspeqqiddjm.com
 -d rpulxcwmnuxi.com
 -d rqtdnrhjktzr.com
+-d rrrdddbtofnf.com
 -d rscgfvsximqdpowcmruwitolouncrmnribnfobxzfhrpdmahqe.com
 -d rsvxipjqyvfs.com
 -d rtufxsncbegz.com
@@ -13709,6 +13734,7 @@ msFilterList
 -d suonvyzivnfy.com
 -d suwadesdshrg.com
 -d svjloaomrher.com
+-d svnhdfqvhjzn.com
 -d svrsqqtj.com
 -d swckuwtoyrklhtccjuuvcstyesxpbmycjogrqkivmmcqqdezld.com
 -d swgvpkwmojcv.com
@@ -13768,6 +13794,7 @@ msFilterList
 -d tmexywfvjoei.com
 -d tmfkuesmlpto.com
 -d tmkbpnkruped.com
+-d tmmpbkwnzilv.com
 -d tmwhazsjnhip.com
 -d tnpbbdrvwwip.com
 -d tovkhtekzrlu.com
@@ -13801,6 +13828,7 @@ msFilterList
 -d ubxtoqsqusyx.com
 -d uccgdtmmxota.com
 -d uckxjsiy.com
+-d ucptqdmerltn.com
 -d udbwpgvnalth.com
 -d udvbtgkxwnap.com
 -d uebcqdgigsid.com
@@ -13920,6 +13948,7 @@ msFilterList
 -d vulexmouotod.com
 -d vunwzlxfsogj.com
 -d vuysooqimdbt.com
+-d vwgffbknpgxe.com
 -d vwugfpktabed.com
 -d vwxskpufgwww.com
 -d vxbtrsqjnjpq.com
@@ -14208,6 +14237,7 @@ msFilterList
 -d zyaorkkdvcbl.com
 -d zycvyudt.com
 -d zyfuywrjbxyf.com
+-d zyleqnzmvupg.com
 -d zylokfmgrtzv.com
 -d zyqlfplqdgxu.com
 -d 247view.net
@@ -21435,7 +21465,11 @@ msFilterList
 +d shink.in /js/main.js
 +d shink.in /js/wow.min.js
 -d shink.in .js
++d demonoid.pw /cached/bb_f28.js*.js
++d demonoid.pw /cached/code.js*.js
 +d demonoid.pw /cached/dropdown7.js*.js
++d demonoid.pw /cached/se.js*.js
++d demonoid.pw /js/jq3.js*.js
 +d demonoid.pw /new_pm.php
 +d demonoid.pw /torrent_categories_script.php*.js
 +d imagebam.com /JS/imagebam.js*.js
@@ -23857,6 +23891,7 @@ msFilterList
 +d coincheckin.com /js/adframe.js
 +d coinracket.com
 +d coinurl.com /get.php?id=18045
++d comicbook.com
 +d compartiendofull.org
 +d computerera.co.in
 +d computerworld.co.nz
@@ -24344,6 +24379,7 @@ msFilterList
 +d perkuinternete.lt /modules/mod_jpayday/js/advertisement.js
 +d pes-patch.com
 +d photofacefun.com /adblock.js
++d picfont.com
 +d picload.org
 +d picu.pk
 +d pipocas.tv /js/advertisement.js
@@ -24660,6 +24696,8 @@ msFilterList
 +d wrestlingtalk.org
 +d writing.com .js
 +d wwe2day.tv
++d wwg.com
++d wwg.com /ads.js
 +d www.vg.no
 +d xlocker.net
 +d xmovies8.org /ads_
