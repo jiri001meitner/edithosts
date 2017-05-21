@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 18 May 2017 08:50 UTC
+# Last modified: 21 May 2017 18:30 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -1856,6 +1856,7 @@ msFilterList
 - /ad_counter_
 - /ad_creatives.
 - /ad_data/
+- /ad_data_
 - /ad_detect.
 - /ad_digital.
 - /ad_dir/
@@ -6528,6 +6529,7 @@ msFilterList
 - /stickyad.
 - /stickyad2.
 - /stickyads.
+- /stocksad.
 - /storage/ads/
 - /storage/adv/
 - /stories/ads/
@@ -8555,7 +8557,6 @@ msFilterList
 -d 1rxntv.io
 -d 1sadx.net
 -d 1web.me
--d 1wzfew7a.site
 -d 1yk851od.com
 # ||204.93.181.78^$third-party,domain=~discountmags.ip
 -d 206ads.com
@@ -8570,7 +8571,6 @@ msFilterList
 -d 2d4c3870.info
 -d 2d4c3872.info
 -d 2dpt.com
--d 2h045kx8.review
 -d 2mdn.info
 # ||2mdn.net/dot.gif$object-subrequest,third-party
 # ||2mdn.net^$object-subrequest,third-party,domain=101cargames.com|1025thebull.com|1031iheartaustin.com|1037theq.com|1041beat.com|1053kissfm.com|1057ezrock.com|1067litefm.com|10news.com|1310news.com|247comedy.com|3news.co.nz|49ers.com|610cktb.com|680news.com|700wlw.com|850koa.com|923jackfm.com|92q.com|940winz.com|94hjy.com|99kisscountry.com|abc15.com|abc2news.com|abcactionnews.com|am1300thezone.com|ap.org|atlantafalcons.com|automobilemag.com|automotive.com|azcardinals.com|baltimoreravens.com|baynews9.com|bbc.co.uk|bbc.com|belfasttelegraph.co.uk|bengals.com|bet.com|big1059.com|bigdog1009.ca|bloomberg.com|bnn.ca|boom92houston.com|boom945.com|boom973.com|boom997.com|boomphilly.com|box10.com|brisbanetimes.com.au|buccaneers.com|buffalobills.com|bullz-eye.com|calgaryherald.com|caller.com|canada.com|capitalfm.ca|cbslocal.com|cbsnews.com|cbssports.com|channel955.com|chargers.com|chez106.com|chfi.com|chicagobears.com|chicagotribune.com|cj104.com|cjad.com|cjbk.com|clevelandbrowns.com|cnet.com|coast933.com|colts.com|commercialappeal.com|country1011.com|country1043.com|country1067.com|country600.com|courierpress.com|cp24.com|cricketcountry.com|csmonitor.com|ctvnews.ca|dallascowboys.com|denverbroncos.com|detroitlions.com|drive.com.au|earthcam.com|easyrecipesite.com|edmontonjournal.com|egirlgames.net|elvisduran.com|enjoydressup.com|entrepreneur.com|eonline.com|escapegames.com|euronews.com|eurosport.com|eveningecho.ie|fm98wjlb.com|foodnetwork.ca|four.co.nz|foxradio.ca|foxsportsradio.com|gamingbolt.com|ghananation.com|giantbomb.com|giants.com|globalnews.ca|globaltoronto.com|globaltv.com|globaltvbc.com|globaltvcalgary.com|go.com|gorillanation.com|gosanangelo.com|hallelujah1051.com|hellobeautiful.com|heraldsun.com.au|hgtv.ca|hiphopnc.com|hot1041stl.com|hotair.com|hothiphopdetroit.com|hotspotatl.com|houstontexans.com|ibtimes.co.uk|ign.com|iheart.com|independent.ie|independentmail.com|indyhiphop.com|ipowerrichmond.com|jackfm.ca|jaguars.com|jwplatform.com|kase101.com|kcchiefs.com|kcci.com|kcra.com|kdvr.com|kfiam640.com|kgbx.com|khow.com|kiisfm.com|kiss925.com|kissnorthbay.com|kisssoo.com|kisstimmins.com|kitsapsun.com|kitv.com|kjrh.com|knoxnews.com|kogo.com|komonews.com|kshb.com|kwgn.com|kxan.com|kysdc.com|latimes.com|latinchat.com|leaderpost.com|livestream.com|local8now.com|magic96.com|majorleaguegaming.com|metacafe.com|miamidolphins.com|mix923fm.com|moneycontrol.com|montrealgazette.com|motorcyclistonline.com|moviemistakes.com|mtv.ca|myboom1029.com|mycolumbuspower.com|myezrock.com|naplesnews.com|nationalpost.com|nba.com|ndtv.com|neworleanssaints.com|news1130.com|newsinc.com|newsmax.com|newsmaxhealth.com|newsnet5.com|newsone.com|newstalk1010.com|newstalk1130.com|newyorkjets.com|nydailynews.com|nymag.com|oldschoolcincy.com|ottawacitizen.com|packers.com|panthers.com|patriots.com|pcworld.com|philadelphiaeagles.com|play.it|player.screenwavemedia.com|prowrestling.com|q92timmins.com|raaga.com|radio.com|radionowindy.com|raiders.com|rapbasement.com|redding.com|redskins.com|reporternews.com|reuters.com|rollingstone.com|rootsports.com|rottentomatoes.com|seahawks.com|sherdog.com|skynews.com.au|slice.ca|smh.com.au|sploder.com|sportsnet590.ca|sportsnet960.ca|springboardplatform.com|steelers.com|stlouisrams.com|streetfire.net|stuff.co.nz|tcpalm.com|telegraph.co.uk|theage.com.au|theaustralian.com.au|thebeatdfw.com|theboxhouston.com|thedenverchannel.com|thedrocks.com|theindychannel.com|theprovince.com|thestarphoenix.com|tide.com|timescolonist.com|timeslive.co.za|timesrecordnews.com|titansonline.com|totaljerkface.com|townhall.com|tripadvisor.ca|tripadvisor.co.uk|tripadvisor.co.za|tripadvisor.com|tripadvisor.com.au|tripadvisor.com.my|tripadvisor.com.sg|tripadvisor.ie|tripadvisor.in|turnto23.com|tvone.tv|twitch.tv|twitchy.com|usmagazine.com|vancouversun.com|vcstar.com|veetle.com|vice.com|videojug.com|viki.com|vikings.com|virginradio.ca|vzaar.com|wapt.com|washingtonpost.com|washingtontimes.com|wcpo.com|wdfn.com|weather.com|wescfm.com|wgci.com|wibw.com|wikihow.com|windsorstar.com|wiod.com|wiznation.com|wjdx.com|wkyt.com|wor710.com|wptv.com|wsj.com|wxyz.com|wyff4.com|yahoo.com|youtube.com|z100.com|zhiphopcleveland.com
@@ -8587,9 +8587,7 @@ msFilterList
 -d 360popads.com
 -d 360yield.com
 -d 365sbaffiliates.com
--d 39o9mcr2.party
 -d 3cnce854.com
--d 3jsbf5.xyz
 -d 3lift.com
 -d 3lr67y45.com
 -d 3omb.com
@@ -8597,7 +8595,6 @@ msFilterList
 -d 3redlightfix.com
 -d 3t7euflv.com
 -d 3wr110.net
--d 3wr110.xyz
 -d 43plc.com
 -d 46.165.197.153
 -d 46.165.197.231
@@ -8609,7 +8606,6 @@ msFilterList
 -d 4wnet.com
 -d 50.7.243.123
 -d 5362367e.info
--d 56fh8x.xyz
 -d 5advertise.com
 -d 5clickcashsoftware.com
 -d 5gl1x9qc.com
@@ -8618,7 +8614,6 @@ msFilterList
 -d 63.225.61.4
 -d 64.20.60.123
 -d 67s6gxv28kin.com
--d 69wnz64h.xyz
 -d 74.117.182.77
 -d 777seo.com
 -d 778669.com
@@ -9331,7 +9326,6 @@ msFilterList
 -d aoqneyvmaz.com
 -d aorms.com
 -d aorpum.com
--d ap76rmx3.accountant
 -d apex-ad.com
 -d apmebf.com
 -d appendad.com
@@ -9363,7 +9357,6 @@ msFilterList
 -d as5000.com
 -d asafesite.com
 -d aseadnet.com
--d asermtawlfs.xyz
 -d asklots.com
 -d asooda.com
 -d asrety.com
@@ -9418,16 +9411,13 @@ msFilterList
 -d awstaticdn.net
 -d awsurveys.com
 -d axill.com
--d ayabreya.xyz
 -d ayboll.com
 -d azads.com
 -d azjmp.com
 -d azoogleads.com
 -d azorbe.com
 -d b117f8da23446a91387efea0e428392a.pl
--d b2s1uqa6.download
 -d b4banner.in
--d b6508157d.website
 -d babbnrs.com
 -d backbeatmedia.com
 -d backlinks.com
@@ -9589,7 +9579,6 @@ msFilterList
 -d bptracking.com
 -d br.rk.com
 -d brainient.com
--d brakefluid.website
 -d branchr.com
 -d brand-display.com
 -d brand.net
@@ -9648,7 +9637,6 @@ msFilterList
 -d buyt.in
 -d buzzcity.net
 -d buzzparadise.com
--d bw94.xyz
 -d bwinpartypartners.com
 -d bwknu1lo.top
 -d byspot.com
@@ -9656,10 +9644,8 @@ msFilterList
 -d bznclicks.com
 -d c-on-text.com
 -d c-planet.net
--d c03jij5q.website
 -d c13b2beea116e.com
 -d c8.net.ua
--d c9snorwj.website
 -d callmd5map.com
 -d camleyads.info
 -d campanja.com
@@ -9698,13 +9684,11 @@ msFilterList
 -d cbn.tbn.ru
 -d cc-dt.com
 -d cd828.com
--d cd8iw9mh.cricket
 -d cdn.mobicow.com
 -d cdna.tremormedia.com
 -d cdnads.com
 -d cdnapi.net
 -d cdnload.top
--d cdnmedia.xyz
 -d cdnrl.com
 -d cdnservr.com
 -d cdntrip.com
@@ -9950,7 +9934,6 @@ msFilterList
 -d dapper.net
 -d darwarvid.com
 -d das5ku9q.com
--d dascasdw.xyz
 -d dashad.io
 -d dashbida.com
 -d dashboardad.net
@@ -10166,7 +10149,6 @@ msFilterList
 -d dreamaquarium.com
 -d dreamsearch.or.kr
 -d drnxs.com
--d dromorama.xyz
 -d dropzenad.com
 -d drowle.com
 -d dsero.net
@@ -10208,6 +10190,7 @@ msFilterList
 -d easyflirt-partners.biz
 -d easyhits4u.com
 -d easyinline.com
+-d easylist.club
 -d ebannertraffic.com
 -d ebayobjects.com.au
 -d ebayobjects.com
@@ -10332,7 +10315,6 @@ msFilterList
 -d fenixm.com
 -d feybu.work
 -d fiberpairjo.link
--d ficusoid.xyz
 -d fidel.to
 -d filadmir.site
 -d filetarget.com
@@ -10358,7 +10340,6 @@ msFilterList
 -d fisari.com
 -d fixionmedia.com
 -d fl-ads.com
--d flac2flac.xyz
 -d flagads.net
 -d flappybadger.net
 -d flappyhamster.net
@@ -10492,8 +10473,6 @@ msFilterList
 -d gitcdn.site
 -d gitload.site
 -d giu9aab.bid
--d gjol8ib0.website
--d gk25qeyc.xyz
 -d gklmedia.com
 -d glaswall.online
 -d glical.com
@@ -10527,7 +10506,6 @@ msFilterList
 -d gorgonkil.com
 -d gortags.com
 -d gotagy.com
--d gotjs.xyz
 -d gourmetads.com
 -d governmenttrainingexchange.com
 -d goviral-content.com
@@ -10575,7 +10553,6 @@ msFilterList
 -d havamedia.net
 -d havetohave.com
 -d havinates.com
--d havingo.xyz
 -d hb-247.com
 -d hd-plugin.com
 -d hdplayer-download.com
@@ -10781,7 +10758,6 @@ msFilterList
 -d invernetter.info
 -d investingchannel.com
 -d inviziads.com
--d iocawy99.science
 -d ip-adress.com
 -d ipowercdn.com
 -d ipredictive.com
@@ -10802,9 +10778,6 @@ msFilterList
 -d ixnp.com
 -d iz319xlstbsqs34623cb.com
 -d izeads.com
--d izoyshe6.review
--d j2ef76da3.website
--d j4y01i3o.win
 -d jacquarter.com
 -d jadcenter.com
 -d jango.com
@@ -10860,7 +10833,6 @@ msFilterList
 -d justrelevant.com
 -d jwaavsze.com
 -d jyvtidkx.com
--d jzeu6qlk.accountant
 -d k0z09okc.com
 -d k9anf8bc.webcam
 -d kanoodle.com
@@ -10884,13 +10856,11 @@ msFilterList
 -d kiosked.com
 -d kitnmedia.com
 -d kjgh5o.com
--d kkddlt2f.site
 -d klikadvertising.com
 -d kliksaya.com
 -d klikvip.com
 -d klipmart.com
 -d klixfeed.com
--d klnrew.site
 -d kloapers.com
 -d klonedaset.org
 -d knorex.asia
@@ -10908,13 +10878,11 @@ msFilterList
 -d kr3vinsx.com
 -d kromeleta.ru
 -d kumpulblogger.com
--d kzkjewg7.stream
 -d l3op.info
 -d ladbrokesaffiliates.com.au
 -d laim.tv
 -d lakequincy.com
 -d lakidar.net
--d lamiflor.xyz
 -d landelcut.com
 -d langosh.biz
 -d lanistaconcepts.com
@@ -11010,7 +10978,6 @@ msFilterList
 -d lose-ads.de
 -d loseads.eu
 -d losomy.com
--d lostelephants.xyz
 -d lotteryaffiliates.com
 -d love-banner.com
 -d loxtk.com
@@ -11048,7 +11015,6 @@ msFilterList
 -d makemoneymakemoney.net
 -d mallsponsor.com
 -d mangoforex.com
--d mansiontheologysoon.xyz
 -d marbil24.co.za
 -d marfeel.com
 -d marginalwoodfernrounddance.com
@@ -11077,7 +11043,6 @@ msFilterList
 -d mb104.com
 -d mb38.com
 -d mb57.com
--d mb8e17f12.website
 -d mbn.com.ua
 -d mcdomainalot.com
 -d mcdstorage.com
@@ -11225,7 +11190,6 @@ msFilterList
 -d moreplayerz.com
 -d morgdm.ru
 -d moritava.com
--d mosaicolor.website
 -d moselats.com
 -d mottnow.com
 -d movad.net
@@ -11407,7 +11371,6 @@ msFilterList
 -d oggifinogi.com
 -d ohmcasting.com
 -d ohmwrite.com
--d oilchange.website
 -d oileddaintiessunset.info
 -d oldership.com
 -d oldtiger.net
@@ -11507,7 +11470,6 @@ msFilterList
 -d paidsearchexperts.com
 -d pakbanners.com
 -d panachetech.com
--d panatran.xyz
 -d pantherads.com
 -d paperg.com
 -d paradocs.ru
@@ -11541,7 +11503,6 @@ msFilterList
 -d penuma.com
 -d pepperjamnetwork.com
 -d percularity.com
--d peremoga.xyz
 -d perfb.com
 -d perfcreatives.com
 -d perfectmarket.com
@@ -11732,7 +11693,6 @@ msFilterList
 -d pubserve.net
 -d pubted.com
 -d puhtml.com
--d pullapi.site
 -d pullcdn.top
 -d pulpyads.com
 -d pulse360.com
@@ -11750,7 +11710,6 @@ msFilterList
 -d q1media.com
 -d q1mediahydraplatform.com
 -d q1xyxm89.com
--d q45nsj9d.accountant
 -d qadserve.com
 -d qadservice.com
 -d qdmil.com
@@ -11772,12 +11731,10 @@ msFilterList
 -d quideo.men
 -d quinstreet.com
 -d qwobl.net
--d qwun46bs.review
 -d qwzmje9w.com
 -d qyh7u6wo0c8vz0szdhnvbn.com
 -d r66net.com
 -d r66net.net
--d r91c6tvs.science
 -d rabilitan.com
 -d radeant.com
 -d radiatorial.online
@@ -11881,7 +11838,6 @@ msFilterList
 -d ripplead.com
 -d riverbanksand.com
 -d rixaka.com
--d rkgnmwre.site
 -d rmxads.com
 -d rnmd.net
 -d robocat.me
@@ -11913,7 +11869,6 @@ msFilterList
 -d rvtlife.com
 -d rvttrack.com
 -d rwpads.com
--d rxlex.faith
 -d ryminos.com
 -d s.adroll.com
 -d s2d6.com
@@ -12127,7 +12082,6 @@ msFilterList
 -d sprintrade.com
 -d sproose.com
 -d sq2trk2.com
--d sqweb.com
 -d srtk.net
 -d srv.yavli.com
 -d srx.com.sg
@@ -12498,7 +12452,6 @@ msFilterList
 -d vaultwrite.com
 -d vcmedia.com
 -d vcommission.com
--d vcxzv.website
 -d vdopia.com
 -d vectorstock.com
 -d vellde.com
@@ -12574,6 +12527,7 @@ msFilterList
 -d vuiads.info
 -d vuiads.net
 -d vupulse.com
+-d w00f.net
 -d w00tads.com
 -d w00tmedia.net
 -d w3bnr.in
@@ -12661,7 +12615,6 @@ msFilterList
 -d worldwidemailer.com
 -d worthathousandwords.com
 -d worthyadvertising.com
--d wpzka4t6.site
 -d ws-gateway.com
 -d wsp.mgid.com
 -d wulium.com
@@ -12677,7 +12630,6 @@ msFilterList
 -d xad.com
 -d xadcentral.com
 -d xaxoro.com
--d xbfk51p7.review
 -d xcelltech.com
 -d xcelsiusadserver.com
 -d xchangebanners.com
@@ -12797,6 +12749,183 @@ msFilterList
 -d zxxds.net
 -d zyiis.net
 -d zypenetwork.com
+# propellerads
+-d 019f2d2d415.review
+-d 04dn8g4f.space
+-d 098c0f90ca673716316.site
+-d 107e470d2ace7d8ecc2.stream
+-d 130hc0ja.site
+-d 164f9d1bd2933.party
+-d 1788f63a9a2e67d.date
+-d 1bc169ca9feb0f6a.xyz
+-d 1j7740kd.website
+-d 1wzfew7a.site
+-d 24ad89fc2690ed9369.com
+-d 2h045kx8.review
+-d 2ujo8ayw.racing
+-d 3472ccbc21c3f567.xyz
+-d 39o9mcr2.party
+-d 3a727dbae773782eb.space
+-d 3ef0cfe35714f932c.trade
+-d 3jsbf5.xyz
+-d 3k4hppja.stream
+-d 3wr110.xyz
+-d 48a298f68e0.com
+-d 4d28ae0e559c1ba.webcam
+-d 4e9wpp17.stream
+-d 4oz2rj6t.site
+-d 4vaj4jn4.download
+-d 56fh8x.xyz
+-d 57cdb5e39630.racing
+-d 5tcgu99n.loan
+-d 6191bbf7f50444eccca.site
+-d 63bd0b6efb0ecd2.bid
+-d 647a4323fe432956c.trade
+-d 65e107c5ea9e0573.website
+-d 66cpwgln.space
+-d 69wnz64h.xyz
+-d 6a0e2d19ac28.com
+-d 6g3am6pr.website
+-d 6xfcmiy0.science
+-d 707e63f068175.party
+-d 70b008710ae8.racing
+-d 72e9488432b.review
+-d 73qbgex1.cricket
+-d 742eowte.space
+-d 79ebttm6.cricket
+-d 7t69dbtn.science
+-d 7y3bcefa.stream
+-d 80d43327c1673.win
+-d 8hykthze.cricket
+-d 946dc1edc8e5a37.bid
+-d 95g804up.download
+-d 970215366f5649.download
+-d 9icmzvn6.website
+-d 9l7y8nel.stream
+-d a2c653c4d145fa5f96a.com
+-d a80zha8c.webcam
+-d a8d2a82ca40.review
+-d aafb1cd4450aa247.website
+-d ab1eo0rx.stream
+-d ap76rmx3.accountant
+-d asermtawlfs.xyz
+-d ayabreya.xyz
+-d b2530db8a16eaa.download
+-d b2ce5ba15afd9.party
+-d b2s1uqa6.download
+-d b6508157d.website
+-d b80077a4be3ec4763.trade
+-d backlogtop.xyz
+-d bamj630h.tech
+-d brakefluid.website
+-d busyd5s0.faith
+-d bw94.xyz
+-d bwknu1lo.top
+-d c03jij5q.website
+-d c13b2beea116e.com
+-d c50ba364a21f.online
+-d c9snorwj.website
+-d cartstick.com
+-d cbcx8t95.space
+-d cd8iw9mh.cricket
+-d cdnmedia.xyz
+-d cg1bz6tf.loan
+-d ckdegfi5.faith
+-d clotraiam.website
+-d coinsicmp.com
+-d d088e52cfa9e344beb.top
+-d d0z4gwv7.webcam
+-d danmeneldur.com
+-d dascasdw.xyz
+-d dashgreen.online
+-d de56aa68299cfdb.webcam
+-d dromorama.xyz
+-d dropzenad.com
+-d duscb12r.loan
+-d e0e0e4195bb7.racing
+-d e24d38df68c1b898ea.top
+-d ep7kpqn8.online
+-d euym8eel.club
+-d f35983cb8ed.review
+-d f4906b7c15ba.com
+-d fcfd5de4b3be3.com
+-d fcve2mi2.review
+-d ficusoid.xyz
+-d fkvnjw6d.review
+-d flac2flac.xyz
+-d fnro4yu0.loan
+-d fugggk3i.accountant
+-d gctwh9xc.site
+-d gjol8ib0.website
+-d gk25qeyc.xyz
+-d gkol15n1.stream
+-d gotjs.xyz
+-d h166g9ej.download
+-d havingo.xyz
+-d hlu9tseh.men
+-d iocawy99.science
+-d is3eho4w.download
+-d itempana.site
+-d izoyshe6.review
+-d j2ef76da3.website
+-d j4y01i3o.win
+-d j7gvaliq.cricket
+-d j880iceh.party
+-d jf2mn2ms.club
+-d jfx61qca.site
+-d jnrzox5e.website
+-d jzeu6qlk.accountant
+-d k9anf8bc.webcam
+-d k9pdlefk.website
+-d kge1ru01.science
+-d kgrfw2mp.date
+-d kkddlt2f.site
+-d klnrew.site
+-d koidt1wn.bid
+-d kzkjewg7.stream
+-d lamiflor.xyz
+-d lostelephants.xyz
+-d lr48oe5c.website
+-d lslpv80k.download
+-d lxpl6t0t.cricket
+-d mansiontheologysoon.xyz
+-d mb8e17f12.website
+-d mc09j2u5.loan
+-d mlvc4zzw.space
+-d mosaicolor.website
+-d mwtpludn.review
+-d nm7xq628.click
+-d oilchange.website
+-d or3f3xmk.xyz
+-d panatran.xyz
+-d pdm8kxw7.website
+-d peremoga.xyz
+-d pullapi.site
+-d q45nsj9d.accountant
+-d qwun46bs.review
+-d r91c6tvs.science
+-d redstick.online
+-d rkgnmwre.site
+-d rxlex.faith
+-d sbsdjgk0.accountant
+-d sn5wcs89.science
+-d stickcoinad.com
+-d stirshakead.com
+-d t2y16t3g.download
+-d tde2wkyv.stream
+-d tpp1ede2.accountant
+-d txjdgm53.win
+-d ufyvdps3.webcam
+-d uonj2o6i.loan
+-d vcxzv.website
+-d verymuchad.com
+-d wbkaidsc.webcam
+-d wmrdwhv3.faith
+-d wpzka4t6.site
+-d x5qa0pxy.science
+-d xbfk51p7.review
+-d y1xjgfhp.racing
+-d yqm16b35.lol
 # /Tag adservers
 -d badtopwitch.work
 -d bandelcot.com
@@ -12886,7 +13015,6 @@ msFilterList
 -d crownclam.com
 -d delightdriving.com
 -d differentdesk.com
--d familiarfloor.com
 -d fanaticalfly.com
 -d flavordecision.com
 -d foamybox.com
@@ -13079,6 +13207,7 @@ msFilterList
 -d ajxftwwmlinv.com
 -d akoeurmzrqjg.com
 -d akrzgxzjynpi.com
+-d akviqfqbwqqj.com
 -d alasdzdnfvtj.com
 -d algkebjdgafa.com
 -d alvivigqrogq.com
@@ -13106,6 +13235,7 @@ msFilterList
 -d asecxggulyrf.com
 -d ashwlrtiazee.com
 -d asqamasz.com
+-d ataufekxogxr.com
 -d atcyboopajyp.com
 -d autkmgrbdlbj.com
 -d avdfcctzwfdk.com
@@ -13180,6 +13310,7 @@ msFilterList
 -d bsupflnjmuzn.com
 -d btbapoifsphl.com
 -d btcwkbqojiyg.com
+-d budyxjttmjkf.com
 -d bufqrxzyrecf.com
 -d buitxcrnucyi.com
 -d bujntrmh.com
@@ -13283,11 +13414,13 @@ msFilterList
 -d dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
 -d dhlnlwxspczc.com
 -d dhomixidnkas.com
+-d dhsztvyjwcmk.com
 -d disbkzufvqhk.com
 -d ditouyldfqgt.com
 -d diysqcbfyuru.com
 -d djbnmqdawodm.com
 -d djntmaplqzbi.com
+-d djxvususwvso.com
 -d djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 -d dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
 -d dmatquyckwtu.com
@@ -13356,6 +13489,7 @@ msFilterList
 -d efcnevmojvfs.com
 -d efukznkfmrck.com
 -d egkkeahdzjqy.com
+-d egtkhpkkfswf.com
 -d ehnjtmqchrub.com
 -d eidzaqzygtvq.com
 -d eifbewnmtgpi.com
@@ -13381,10 +13515,12 @@ msFilterList
 -d epesogtigole.com
 -d epgooipixbbo.com
 -d epoxtzgddiwp.com
+-d epzxtposabej.com
 -d erbsqnmglmnv.com
 -d erkwkjfompvt.com
 -d erszwzaidmlc.com
 -d ervpgpxr.com
+-d esgwceckxumg.com
 -d eslgydoqbedo.com
 -d eslydbnukkme.com
 -d esnirgskobfj.com
@@ -13400,6 +13536,7 @@ msFilterList
 -d ezbtpdjeimlv.com
 -d ezemyudhkzvx.com
 -d ezjrnbpjthir.com
+-d ezknqsblzmsl.com
 -d ezuosstmbcle.com
 -d facsowlaufzk.com
 -d faoxietqwbmu.com
@@ -13410,6 +13547,7 @@ msFilterList
 -d fdepobamndfn.com
 -d fdogfuqpgeub.com
 -d fegyacmbobil.com
+-d fembsflungod.com
 -d ffanszicnoqs.com
 -d ffhwzaenzoue.com
 -d ffpkqjyvvneg.com
@@ -13443,11 +13581,13 @@ msFilterList
 -d fqmxwckinopg.com
 -d fqovfxpsytxf.com
 -d fqpteozo.com
+-d frczfzikturw.com
 -d frddujheozns.com
 -d frdhsmerubfg.com
 -d frlvfzybstsa.com
 -d frlzxwxictmg.com
 -d fsddidfmmzvw.com
+-d fsvcrapnmmvj.com
 -d ftgfmbxqkjda.com
 -d ftjrekbpjkwe.com
 -d ftvkgkkmthed.com
@@ -13584,6 +13724,7 @@ msFilterList
 -d hszyozoawqnk.com
 -d htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
 -d htonrwegnifw.com
+-d huayucnblhgy.com
 -d hueenmivecmx.com
 -d huejizictcgd.com
 -d hutkuzwropgf.com
@@ -13609,6 +13750,7 @@ msFilterList
 -d ibqmccuuhjqc.com
 -d icafyriewzzrwxlxhtoeakmwroueywnwhmqmaxsqdntasgfvhc.com
 -d icjeqbqdzhyx.com
+-d icpfrrffsenr.com
 -d iczhhiiowapd.com
 -d idkyfrsbzesx.com
 -d idpukwmp.com
@@ -13660,6 +13802,7 @@ msFilterList
 -d isggimkjabpa.com
 -d isqgobsgtqsh.com
 -d itevcsjvtcmb.com
+-d iupqelechcmj.com
 -d iuymaolvzery.com
 -d ivkasohqerzl.com
 -d ivktdwmjhkqy.com
@@ -13705,6 +13848,7 @@ msFilterList
 -d jjdrwkistgfh.com
 -d jjipgxjf.com
 -d jjpoxurorlsb.com
+-d jjxsdkphpcwu.com
 -d jkjoxlhkwnxd.com
 -d jkkernvkrwdr.com
 -d jlarmqbypyku.com
@@ -13845,6 +13989,7 @@ msFilterList
 -d lgnjcntegeqf.com
 -d lgthvsytzwtc.com
 -d lgtnwgfqkyyf.com
+-d lhaqzqjbafcu.com
 -d lhuqalcxjmtq.com
 -d liosawitskzd.com
 -d liqbipkfbafq.com
@@ -14105,6 +14250,7 @@ msFilterList
 -d ossdqciz.com
 -d otpyldlrygga.com
 -d otrfmbluvrde.com
+-d oubibahphzsz.com
 -d oubriojtpnps.com
 -d ougfkbyllars.com
 -d oulxdvvpmfcd.com
@@ -14160,7 +14306,9 @@ msFilterList
 -d pnmkuqkonlzj.com
 -d pnunijdm.com
 -d pnuymnyhbbuf.com
+-d poazvacfzbed.com
 -d popzkvfimbox.com
+-d ppjjbzcxripw.com
 -d ppqfteducvts.com
 -d ppuuwencqopa.com
 -d ppxrlfhsouac.com
@@ -14208,6 +14356,7 @@ msFilterList
 -d qevivcixnngf.com
 -d qfhjthejwvgm.com
 -d qfmbgvgvauvt.com
+-d qfmcpclzunze.com
 -d qfrpehkvqtyj.com
 -d qgraprebabxo.com
 -d qhqofqeivtno.com
@@ -14294,6 +14443,7 @@ msFilterList
 -d rkrpvzgzdwqaynyzxkuviotbvibnpqaktcioaaukckhbvkognu.com
 -d rkvpcjiuumbk.com
 -d rllvjujeyeuy.com
+-d rlqvyqgjkxgx.com
 -d rlypbeouoxxw.com
 -d rmbilhzcytee.com
 -d rmdzbqggjskv.com
@@ -14328,6 +14478,7 @@ msFilterList
 -d sailznsgbygz.com
 -d saipuciruuja.com
 -d sajhiqlcsugy.com
+-d samlmqljptbd.com
 -d sapvummffiay.com
 -d sauispjbeisl.com
 -d sbftffngpzwt.com
@@ -14449,6 +14600,7 @@ msFilterList
 -d tmmpbkwnzilv.com
 -d tmwhazsjnhip.com
 -d tnpbbdrvwwip.com
+-d totvsaexihbe.com
 -d tovkhtekzrlu.com
 -d toyhxqjgqcjo.com
 -d tpvprtdclnym.com
@@ -14458,6 +14610,7 @@ msFilterList
 -d tskctmvpwjdb.com
 -d tsuitufixxlf.com
 -d tswhwnkcjvxf.com
+-d ttdaxwrryiou.com
 -d ttgwyqmuhfhx.com
 -d tujbidamlfrn.com
 -d tumfvfvyxusz.com
@@ -14482,6 +14635,7 @@ msFilterList
 -d uckxjsiy.com
 -d ucptqdmerltn.com
 -d udbwpgvnalth.com
+-d udrwyjpwjfeg.com
 -d udvbtgkxwnap.com
 -d uebcqdgigsid.com
 -d uebyotcdyshk.com
@@ -14517,6 +14671,7 @@ msFilterList
 -d uqhtuahgfmcx.com
 -d uqoboyvqsqpy.com
 -d uqpotqld.com
+-d uqqgyniatjtf.com
 -d urpscavikbyv.com
 -d usoqghurirvz.com
 -d usymycvrilyt.com
@@ -14539,11 +14694,13 @@ msFilterList
 -d uzesptwcwwmt.com
 -d uzqtaxiorsev.com
 -d uzreuvnlizlz.com
+-d vacnuuitxqot.com
 -d vaghwpbslvbu.com
 -d vagttuyfeuij.com
 -d vamuglchdpte.com
 -d vaoajrwmjzxp.com
 -d vbjvbjertwov.com
+-d vblunqrovanf.com
 -d vbupfouyymse.com
 -d vbuqjdyrsrvi.com
 -d vcwdjbbughuy.com
@@ -14642,6 +14799,7 @@ msFilterList
 -d whinjxmkugky.com
 -d whkwbllcctfm.com
 -d whsjufifuwkw.com
+-d whsldqctrvuk.com
 -d whuvrlmzyvzy.com
 -d whzbmdeypkrb.com
 -d wicxfvlozsqz.com
@@ -14653,6 +14811,7 @@ msFilterList
 -d wkgaqvvwvqjg.com
 -d wkggjmkrkvot.com
 -d wkhychiklhdglppaeynvntkublzecyyymosjkiofraxechigon.com
+-d wkjcdukkwcvr.com
 -d wklyhvfc.com
 -d wljuxryvolwc.com
 -d wmhksxycucxb.com
@@ -14739,6 +14898,7 @@ msFilterList
 -d xqzkpmrgcpsw.com
 -d xrgqermbslvg.com
 -d xrivpngzagpy.com
+-d xrqkzdbnybod.com
 -d xseczkcysdvc.com
 -d xswnrjbzmdof.com
 -d xswutjmmznesinsltpkefkjifvchyqiinnorwikatwbqzjelnp.com
@@ -14887,9 +15047,11 @@ msFilterList
 -d zuuwfrphdgxk.com
 -d zvqjjurhikku.com
 -d zvrwttooqgeb.com
+-d zvttlvbclihk.com
 -d zvuespzsdgdq.com
 -d zwcuvwssfydj.com
 -d zwqfnizwcvbx.com
+-d zxadziqqayup.com
 -d zxavxgjcjmkh.com
 -d zxbjgrxbcgrp.com
 -d zxqeycvsetkh.com
@@ -18719,12 +18881,16 @@ msFilterList
 # Mobile
 -d iadc.qwapi.com
 # Anti-Adblock
+-d 0mme.com /static.js*.js
+-d 2enm.com /static.js*.js
 -d chronophotographie.science
 -d croix.science
 -d d1nmk7iw7hajjn.cloudfront.net
 -d d3jgr4uve1d188.cloudfront.net
 -d d3ujids68p6xmq.cloudfront.net
 -d demande.science
+-d em0n.com /static.js*.js
+-d mn0e.com /static.js*.js
 -d onfocus.io
 -d secretmedia.com
 -d zeste.top
@@ -19894,6 +20060,7 @@ msFilterList
 -d bettyconfidential.com /media/fmads/
 # ||beyondd.co.nz/ezibuy/$third-party,domain=stuff.co.nz
 -d bibme.org /images/grammarly/
+-d bigboy.eurogamer.net
 -d bigeddieradio.com /uploads/sponsors/
 -d bigpoint.com /xml/recommender.swf?
 -d bigsports.tv /live/ado.php
@@ -21646,6 +21813,7 @@ msFilterList
 -d memory-alpha.org /__varnish_liftium/
 # ||memorygapdotorg.files.wordpress.com^*allamerican3.jpg$domain=memoryholeblog.com
 -d menafn.com /banner_
+-d mensxp.com /banner/
 -d mentalfloss.com -skin-
 -d merriam-webster.com /creative.php?
 -d merriam-webster.com /accipiter.js
@@ -21985,6 +22153,7 @@ msFilterList
 -d okccdn.com /media/img/takeovers/
 # ||okcupid.com/daisy?$subdocument
 -d oldgames.sk /images/topbar/
+-d oload.tv /logpopup/
 -d omgpop.com /dc?
 -d on.net /images/gon_nodestore.jpg
 -d oncyprus.com /banners/
@@ -22240,6 +22409,7 @@ msFilterList
 -d proxy.org /ah.html
 -d proxycape.com /blah.js
 -d ps3crunch.net /forum/images/gamers/
+-d psarips.com .js?tid=*.js
 -d psgroove.com /images/*.jpg
 -d ptf.com /fdm_frame_
 -d ptf.com /js/fdm_banner.js
@@ -23159,6 +23329,7 @@ msFilterList
 -d twentyfour7football.com /gpprint.jpg
 -d twitch.tv /ad/*=preroll
 # ||twitch.tv/widgets/live_embed_player.swf$domain=gelbooru.com
+-d twitter.com /i/cards/tfw/*?advertiser_name=
 -d twnmm.com /sponsored_logo.
 -d txfm.ie /amazon-16x16.png
 -d txfm.ie /itunes-16x16.png
@@ -24407,17 +24578,20 @@ msFilterList
 # @@||ajax.googleapis.com^$script,third-party,domain=streamcloud.eu
 # |http://$image,script,third-party,domain=streamcloud.eu
 # |https://$image,script,third-party,domain=streamcloud.eu
-# openload
-# @@/adcde.js|$script,domain=openload.co
-# @@/adlabs.js|$script,domain=openload.co
-# @@/googlead.js|$script,domain=openload.co
-# @@/popunder.js|$script,domain=openload.co
-# @@/popunder4.js|$script,domain=openload.co
-# @@/popunder5.js|$script,domain=openload.co
-# @@||ajax.googleapis.com^$script,domain=openload.co
-# @@||oloadcdn.net^$third-party,xmlhttprequest,domain=openload.co
-# |http://$script,third-party,xmlhttprequest,domain=openload.co
-# |https://$script,third-party,xmlhttprequest,domain=openload.co
+# openload/oload/streamango
++d oload.tv
++d openload.co
++d streamango.com
+# ||oload.tv/assets/js/script.$domain=oload.tv
+# ||oload.tv/log$domain=oload.tv
+# ||openload.co/assets/js/script.$domain=openload.co
+# ||openload.co/log$domain=openload.co
+# ||padsdel.com^$domain=oload.tv|openload.co|streamango.com
+# ||padstm.com^$domain=oload.tv|openload.co|streamango.com
+# ||popads.net^$domain=oload.tv|openload.co|streamango.com
+# ||streamango.com/assets/js/license.$domain=streamango.com
+# ||streamango.com/assets/js/script.$domain=streamango.com
+# ||streamango.com/log$domain=streamango.com
 # opensubtitles.org
 # @@||opensubtitles.org/cdn-cgi/nexp/dok3v=*/cloudflare/rocket.js$domain=opensubtitles.org
 # @@||static.opensubtitles.org/libs/js/$script,domain=opensubtitles.org
@@ -24666,9 +24840,11 @@ msFilterList
 # @@|https://$image,third-party,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
 # @@||957328-hb.adomik.com/ahba.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||a-nj.1rx.io/rtbdeliver/js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||a-sjo.1rx.io/rtbdeliver/js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||a.bf-ad.net/makabo/ads_fol_init.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||a.bf-ad.net/makabo/js_ng/adplayer/css/adplayer.min.css$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||a.bf-ad.net/makabo/js_ng/ae_ks.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||a.teads.tv/page/484/tag$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||a.travel-assets.com/ads/2.0/396e25d7e04dedb5a5a9e32441141b4cd50b80b8/expads-min.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||a.travel-assets.com/ads/2.0/396e25d7e04dedb5a5a9e32441141b4cd50b80b8/expadsblocked.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||a01.korrelate.net/a/e/d2i.ads$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
@@ -24683,28 +24859,35 @@ msFilterList
 # @@||ad.adtr02.com/banner.php$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ad.adtr02.com/d/ad.php$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ad.afy11.net/cdsad.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||ad.atdmt.com/i/a.js;p=11017200797909;idfa=;aaid=;idfa_lat=;aaid_lat=;cache=1950321369480217$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ad.lkqd.net/vpaid/formats.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ad.lkqd.net/vpaid/vpaid.js?fusion=1.0$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ad.turn.com/server/ads.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||ad.yieldlab.net/yp/161162$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ad.yieldlab.net/yp/519478?json=true&ts=9880781007189$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ad2.movad.net/dynamic.ad$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||adhigh.net/adserver/m.js$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
 # @@||adnxs.com/async_usersync?cbfn=AN_async_load$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
 # @@||ads-twitter.com/oct.js$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
 # @@||ads-twitter.com/uwt.js$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
+# @@||ads.adacado.com/adacadoWeb/6758.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.bluecava.com/adex.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.cabla.to/ad/235$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||ads.cabla.to/ad/238$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.contextweb.com/TagPublish/GetAd.aspx$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.creative-serving.com/pixel$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.e-webtrack.net/gdnProxy.php$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.kwanzoo.com/scripts/visibilityDetector.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||ads.mediaforge.com/phoenix/phoenix-2.26.min.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.pubmatic.com/AdServer/js/gshowad.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||ads.rd.linksynergy.com/phoenix/phoenix-2.26.min.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.rubiconproject.com/ad/7476.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.rubiconproject.com/header/11872.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.rubiconproject.com/header/7476.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.rubiconproject.com/header/7952.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.rubiconproject.com/header/8667.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.skadtec.com/adsi-j.php$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||ads.sparkflow.net/$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.spotible.com/creative/i492/tag/universal-tag.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.twitter.com/favicon.ico$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ads.yahoo.com/pixel$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
@@ -24726,6 +24909,7 @@ msFilterList
 # @@||api.circularhub.com/9436/3a6a34e6022dc464/flyertown_module.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||api.circularhub.com/9442/fbbfd11abef1e6d8/circularhub_module.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||api.circularhub.com/msn/module.loader.min.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||api.connatix.com/event/get$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||api.connatix.com/homepage/infeed$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||ardrone.swoop.com/js/spxw.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||as-sec.casalemedia.com/cygnus?$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
@@ -24806,6 +24990,7 @@ msFilterList
 +d citypaper.com
 # @@||connect.facebook.net/favicon.ico$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||content.synapsys.us/l/prebid.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||contextual.media.net/__media__/js/util/nrr.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 +d courant.com
 # @@||d.runadtag.com/impressions/ext/p=140864.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||d3avqv6zaxegeu.cloudfront.net/tie.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
@@ -24903,6 +25088,7 @@ msFilterList
 +d nationalpost.com
 # @@||native.sharethrough.com/assets/sfp.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||o.aolcdn.com/ads/adswrappermsni.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||o2.eyereturn.com/fid/$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||oo.moatads.com/ogilvyupsbs902106694995/bs.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||origin-2831.iframe.evolvemediallc.com/scripts/app.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 +d orlandosentinel.com
@@ -24929,7 +25115,9 @@ msFilterList
 # @@||pixel.sitescout.com/dmp/pixelSync?network=partner_id$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||player.videologygroup.com/admanager/sbs/vpaidjs/vg_sbs_vpaidjs_v2_01.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||playercdn.jivox.com/1488329983/unit/js/gz/jquery-2.1.0.min.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||pmpubs.com/ps$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||prebid.districtm.ca/lib.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||premium.adserverplus.com/serve/58f605b600bf34196a8b4574$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||presentation-ams1.turn.com/server/ads.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||presentation-sjc2.turn.com/server/ads2.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||prg.undertone.com/aj$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
@@ -24944,6 +25132,7 @@ msFilterList
 # @@||rfihub.net/static/img/dt_with_modernizr_min.js$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
 # @@||rfihub.net/static/js/interaction15.js$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
 # @@||roimedia.advertserve.com/js/interactive1.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
+# @@||rs.gwallet.com/r1/banner/t2p887r705129879$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||rtax.criteo.com/delivery/rta/rta.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||rtb0.doubleverify.com/verify.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||rtb0.doubleverify.com/verifyc.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
@@ -25102,9 +25291,9 @@ msFilterList
 # @@||z1.zedo.com/asw/fm/305/50197/9/fm.js$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|pcmag.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|slickdeals.net|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|torontosun.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com
 # @@||zergnet.com/zerg.js$script,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|financialpost.com|gofugyourself.com|hearthhead.com|infinitiev.com|latimes.com|leaderpost.com|lolking.net|mcall.com|montrealgazette.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|sun-sentinel.com|theprovince.com|thestarphoenix.com|timeanddate.com|tmn.today|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com
 # Yavli.com
-# /xgxfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
-# /xixefieldlite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
 # /xixfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
+# /xjxefieldlite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
+# /xjxfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
 # /xkxefieldlite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
 # /xkxencite-$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
 # /xkxfeolite/*$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|yourtango.com|youthhealthmag.com
@@ -25335,11 +25524,15 @@ msFilterList
 # Specific filters necessary for sites whitelisted with $genericblock filter option
 # Spiegel.de
 # ://ads.$domain=spiegel.de
+# @@||adition.com/banner?sid=$image,domain=spiegel.de
 # @@||adition.com/s?$script,domain=spiegel.de
 # @@||damoh.spiegel.de^$script,domain=spiegel.de
+# @@||imagesrv.adition.com/1x1.gif$image,domain=spiegel.de
 # @@||imagesrv.adition.com/banners/1337/files/00/0b/bf/a*/00000076995*.jpg$domain=spiegel.de
+# @@||imagesrv.adition.com/js/adition.js$domain=spiegel.de
 # @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 +d spiegel.de
+# @@||static.adfarm1.adition.com/ci.html$subdocument,domain=spiegel.de
 # ||a-ssl.ligatus.com^$domain=spiegel.de
 # ||ad.doubleclick.net^$domain=spiegel.de
 # ||adform.net^$domain=spiegel.de
@@ -25549,13 +25742,13 @@ msFilterList
 # |http://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # |http://$object,domain=pornhub.com|redtube.com|youporn.com
 # |http://$object-subrequest,third-party,domain=redtube.com|youporn.com
-# |http://$script,third-party,domain=duckmovies.net|have69.net|i-gay.org|openload.co|playpornx.net|t-51.com|watchxxxfree.com|whorehd.net
+# |http://$script,third-party,domain=duckmovies.net|have69.net|i-gay.org|playpornx.net|t-51.com|watchxxxfree.com|whorehd.net
 # |http://$third-party,xmlhttprequest,domain=ceporn.net|duckmovies.net
 # |http://$xmlhttprequest,domain=pornbeu.com|watchjavonline.com
 # |https://$image,media,script,third-party,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # |https://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 # |https://$object,domain=pornhub.com|redtube.com|youporn.com
-# |https://$script,third-party,domain=duckmovies.net|have69.net|i-gay.org|openload.co|playpornx.net|t-51.com|watchxxxfree.com|whorehd.net
+# |https://$script,third-party,domain=duckmovies.net|have69.net|i-gay.org|playpornx.net|t-51.com|watchxxxfree.com|whorehd.net
 # |https://$third-party,xmlhttprequest,domain=ceporn.net|duckmovies.net
 # |ws://$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 # ||109.201.146.142^$domain=xxxbunker.com
@@ -26235,6 +26428,7 @@ msFilterList
 -d puteros.com /publisecciones/
 -d pwpwpoker.com /images/*/strip_poker_
 -d pwpwpoker.com /images/banners/
+-d queerclick.com /pu-*.js
 -d queermenow.net /blog/wp-content/uploads/*-Banner
 -d queermenow.net /blog/wp-content/uploads/*/banner
 -d r.radikal.ru
@@ -27519,6 +27713,7 @@ msFilterList
 +d esquire.com /ams/page-ads.js?*.js
 # @@||euads.org^$~third-party
 +d eurogamer.net
+# @@||eurogamer.net^$script,domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
 +d evanscycles.com /ads/
 +d eventcinemas.co.nz _adhub_server_*.js
 +d eventim.de /obj/basic/ad2_obj/layout/
@@ -28083,7 +28278,6 @@ msFilterList
 # @@||once.unicornmedia.com^$object-subrequest,domain=today.com
 +d onetravel.com /desktopmodules/adsales/adsaleshandle.ashx?
 +d onionstatic.com /videoads.js
-+d openload.io /deliverad/
 # @@||openx.com/favicon.ico$domain=grammarist.com
 # @@||openx.ideastudios.ro^$script,domain=enjoydressup.com
 # @@||openx.infrontams.tv/www/$image,object,script,domain=acmilan.com
@@ -28706,7 +28900,6 @@ msFilterList
 +d zippyshare.com
 # @@||zstream.to/js/pop.js$domain=zstream.to
 # Anti-Adblock
-# @@.css^$stylesheet,domain=openload.co
 # @@.gif^$image,third-party,domain=kissanime.ru
 # @@.javascript?$script,third-party,domain=cbsnews.com|colbertlateshow.com
 # @@.javascript|$domain=cbsnews.com
@@ -28748,7 +28941,6 @@ msFilterList
 # @@|https://$xmlhttprequest,domain=gogi.in|last.fm
 # @@|https://*_ad$image,third-party,domain=socketloop.com
 # @@|https://ad$image,third-party,domain=socketloop.com
-# @@||0mme.com^$script,domain=comicbook.com|popculture.com
 +d 10-download.com /ad/adframe.js
 # @@||1rx.io^$script,domain=allmusic.com
 # @@||247realmedia.com/RealMedia/ads/Creatives/default/empty.gif$image,domain=surfline.com
@@ -29515,7 +29707,6 @@ msFilterList
 +d mma-core.com /Scripts/adscript.js
 +d mma-core.com
 +d mmatko.com /images/ad/
-# @@||mn0e.com^$script,domain=wwg.com
 # @@||moatads.com/huluvpaid$domain=cc.com
 +d mobinozer.com /advert.js
 +d mocospace.com
@@ -29702,7 +29893,6 @@ msFilterList
 # @@||protect-url.net^$script,~third-party
 +d ps4news.com /ad*.js*.js
 +d ps4news.com
-+d psarips.com .js
 +d pttrns.com
 # @@||pubads.g.doubleclick.net/|$object-subrequest,domain=itsyourtvnow.com|vaughnlive.tv
 +d pubdirecte.com /advertisement.js
@@ -29719,6 +29909,7 @@ msFilterList
 +d radioaficion.com /HamNews/*/ad
 +d radioaficion.com
 +d radioio.com /adframe.js
++d randomarchive.com
 +d rapid8.com .js
 +d rapidmoviez.com /ad
 +d rapidmoviez.com /files/php/mgid-ad
@@ -30190,16 +30381,6 @@ msFilterList
 +d ydr.com
 +d yorkdispatch.com
 +d zanesvilletimesrecorder.com
-# openload
-# @@.info^$script,third-party,domain=openload.co
-# @@.net^$script,third-party,domain=openload.co
-# @@.xyz^$script,third-party,domain=openload.co
-+d openload.co
-# @@||openload.io/assets/$script,domain=bombuj.sk
-+d openload.io
-# @@||openload.io^$image,script,stylesheet,subdocument,domain=openload.io
-# @@||openload.tv^$image,domain=openload.io
-# @@||openload.tv^$script,domain=openload.co|openload.io
 # Google "Related Searches"
 +d domains.googlesyndication.com /apps/domainpark/domainpark.cgi?*/channel=csa_use_rs/
 # @@||www.google.com/adsense/search/ads.js$domain=domains.googlesyndication.com
@@ -31359,7 +31540,6 @@ msFilterList
 +d noracam.com /js/ads.js
 # @@||notonlyporn.net^$script,~third-party
 +d ooporn.com /ads.js
-+d openload.io /Ads.png
 +d palimas.com
 +d phncdn.com /js/advertisement.js
 # @@||phncdn.com/v2/js/adblockdetect.js$domain=keezmovies.com
