@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne kvě 21 21:32:30 CEST 2017 ##################
+##### Aktualizováno: Po kvě 22 07:59:21 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12879,6 +12879,7 @@ msFilterList
 -d dacqmkmsjajm.com
 -d daxzupqivdoj.com
 -d dbjcbnlwchgu.com
+-d dbojgaxhxalh.com
 -d dbtaclpoahri.com
 -d dbwawnzkjniz.com
 -d dcdalkgtbmip.com
@@ -13104,6 +13105,7 @@ msFilterList
 -d giojhiimnvwr.com
 -d giyjhogjmfmc.com
 -d giyupoeynkfx.com
+-d gjeyqtunbnap.com
 -d gjxdibyzvczd.com
 -d gkgdqahkcbmykurmngzrrolrecfqvsjgqdyujvgdrgoezkcobq.com
 -d gkiryieltcbg.com
@@ -13160,6 +13162,7 @@ msFilterList
 -d hbrbtmjyvdsy.com
 -d hbzzkwsuaooc.com
 -d hcggkyhzxzsv.com
+-d hclccadfmkpw.com
 -d hcyxksgsxnzb.com
 -d hdwlzheftpin.com
 -d heefwozhlxgz.com
@@ -13315,12 +13318,14 @@ msFilterList
 -d jcnoeyqsdfrc.com
 -d jdlnquri.com
 -d jertwakjcaym.com
+-d jevijshpvnwm.com
 -d jeyoxmhhnofdhaalzlfbrsfmezfxqxgwqjkxthzptjdizuyojh.com
 -d jfaqiomgvajb.com
 -d jffwwuyychxw.com
 -d jfribvstvcqy.com
 -d jgqkrvjtuapt.com
 -d jgrcggutsilp.com
+-d jhrmgusalkdu.com
 -d jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
 -d jijcetagjfzo.com
 -d jiyairvjgfqk.com
@@ -13665,6 +13670,7 @@ msFilterList
 -d nushflxucofk.com
 -d nvajxoahenwe.com
 -d nvmjtxnlcdqo.com
+-d nwdufyamroaf.com
 -d nwfdrxktftep.com
 -d nwirvhxxcsft.com
 -d nxcxithvcoeh.com
@@ -13830,6 +13836,7 @@ msFilterList
 -d qbfvwovkuewm.com
 -d qclxheddcepf.com
 -d qdlhprdtwhvgxuzklovisrdbkhptpfarrbcmtrxbzlvhygqisv.com
+-d qekmxaimxkok.com
 -d qenafbvgmoci.com
 -d qerlbvqwsqtb.com
 -d qevivcixnngf.com
@@ -14013,6 +14020,7 @@ msFilterList
 -d sufzmohljbgw.com
 -d suonvyzivnfy.com
 -d suwadesdshrg.com
+-d svapqzplbwjx.com
 -d svjloaomrher.com
 -d svnhdfqvhjzn.com
 -d svrsqqtj.com
@@ -14174,6 +14182,7 @@ msFilterList
 -d uzqtaxiorsev.com
 -d uzreuvnlizlz.com
 -d vacnuuitxqot.com
+-d vafmypxwomid.com
 -d vaghwpbslvbu.com
 -d vagttuyfeuij.com
 -d vamuglchdpte.com
