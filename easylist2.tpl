@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po kvě 22 08:46:11 CEST 2017 ##################
+##### Aktualizováno: Út kvě 23 08:53:22 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8711,6 +8711,7 @@ msFilterList
 -d advrtice.com
 -d advserver.xyz
 -d advsnx.net
+-d adwebster.com
 -d adwires.com
 -d adwordsservicapi.com
 -d adworkmedia.com
@@ -12789,6 +12790,7 @@ msFilterList
 -d bsupflnjmuzn.com
 -d btbapoifsphl.com
 -d btcwkbqojiyg.com
+-d btxoeiisonxh.com
 -d budyxjttmjkf.com
 -d bufqrxzyrecf.com
 -d buitxcrnucyi.com
@@ -12852,6 +12854,7 @@ msFilterList
 -d cpamnizzierk.com
 -d cphxwpicozlatvnsospudjhswfxwmykgbihjzvckxvtxzfsgtx.com
 -d cpkbdmkguggh.com
+-d cqbabfsyfqse.com
 -d cqoyvpldkmqt.com
 -d crkgtnad.com
 -d croxdfrdjfnt.com
@@ -13528,6 +13531,7 @@ msFilterList
 -d mafndqbvdgkm.com
 -d magwfymjhils.com
 -d maxgirlgames.com
+-d maziynjxjdoe.com
 -d mbajaazbqdzc.com
 -d mbfvfdkawpoi.com
 -d mbgvhfotcqsj.com
@@ -13728,6 +13732,7 @@ msFilterList
 -d oppcgcqytazs.com
 -d opyisszzoyhc.com
 -d oqmjxcqgdghq.com
+-d orddiltnmmlu.com
 -d ormnduxoewtl.com
 -d orszajhynaqr.com
 -d osbblnlmwzcr.com
@@ -13750,6 +13755,7 @@ msFilterList
 -d owqobhxvaack.com
 -d owrqvyeyrzhy.com
 -d owwewfaxvpch.com
+-d oxanehlscsry.com
 -d oyrgxjuvsedi.com
 -d oytrrdlrovcn.com
 -d oyzsverimywg.com
@@ -14529,6 +14535,7 @@ msFilterList
 -d ztcysvupksjt.com
 -d ztfrlktqtcnl.com
 -d ztioesdyffrr.com
+-d ztmwkxvvyoao.com
 -d ztyrgxdelngf.com
 -d zualhpolssus.com
 -d zupeaoohmntp.com
