@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út kvě 23 08:53:22 CEST 2017 ##################
+##### Aktualizováno: St kvě 24 12:25:49 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1446,6 +1446,7 @@ msFilterList
 - /ad/img/
 - /ad/index.
 - /ad/index/
+- /Ad/Index?
 - /ad/index_
 - /ad/inline?
 - /ad/integral-
@@ -1465,6 +1466,7 @@ msFilterList
 - /ad/middle.
 - /ad/mpu/
 - /ad/network/
+- /Ad/Oas?
 - /ad/omakasa.
 - /ad/ongoing/
 - /ad/player
@@ -1715,6 +1717,7 @@ msFilterList
 - /ad_img.
 - /ad_img/
 - /ad_include.
+- /Ad_Index?
 - /ad_index_
 - /ad_insert.
 - /ad_jnaught/
@@ -4003,6 +4006,7 @@ msFilterList
 - /buddyw_ad.
 - /buildAdfoxBanner.
 - /buildAdriverBanner.
+- /bundles/Ad/
 - /burt/adv_
 - /butler.php?type=
 - /button_ads/
@@ -5402,6 +5406,7 @@ msFilterList
 - /nsfw/sponsors/
 - /nuggad.
 - /nuggad/
+- /Nuggad?
 - /nymag_ads.
 - /nymag_ads_
 - /nzmeads/
@@ -6236,6 +6241,7 @@ msFilterList
 - /style_ad.
 - /styleads2.
 - /styles/ad/
+- /Styles/Ad_
 - /styles/ads.
 - /styles/ads/
 - /subAd.
@@ -10007,6 +10013,7 @@ msFilterList
 -d goodadvert.ru
 -d goodadvertising.info
 -d goodluckblockingthis.com
+-d goodtag.it
 -d googleadservicepixel.com
 -d googlesyndicatiion.com
 -d googletagservices.com /tag/js/gpt_
@@ -11263,6 +11270,7 @@ msFilterList
 -d recomendedsite.com
 -d redcourtside.com
 -d redintelligence.net
+-d redirectnative.com
 -d redirectpopads.com
 -d rediskina.com
 -d redpeepers.com
@@ -12816,6 +12824,7 @@ msFilterList
 -d ccwinenmbnso.com
 -d cdbkxcnfmehf.com
 -d cdbxuzzlgfhh.com
+-d cdhzxcwuibzk.com
 -d cdicyazp.com
 -d cdqmeyhqrwinofutpcepbahedusocxqyfokvehqlqpusttfwve.com
 -d cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com
@@ -12867,6 +12876,7 @@ msFilterList
 -d ctzvtevpcssx.com
 -d cuguwxkasghy.com
 -d cwliihvsjckn.com
+-d cwofongvtbsi.com
 -d cwtekghutpaq.com
 -d cwxblalyyvbj.com
 -d cxgwwsapihlo.com
@@ -12962,6 +12972,7 @@ msFilterList
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
 -d ectbduztanog.com
 -d edgsscofljhc.com
+-d ednnpxhjsqyd.com
 -d edvbyybaviln.com
 -d edwywpsufuda.com
 -d eefbzuwvnnab.com
@@ -13038,6 +13049,7 @@ msFilterList
 -d fgkvpyrmkbap.com
 -d fgmucsiirrsq.com
 -d fgwsjwiaqtjc.com
+-d fgzaxilcgxum.com
 -d fhawywadfjlo.com
 -d fhylnqzxwsbo.com
 -d firugsivsqot.com
@@ -13261,6 +13273,7 @@ msFilterList
 -d iknctklddhoh.com
 -d ikvltjooosqh.com
 -d ilsivrexvpyv.com
+-d ilvibsabwuza.com
 -d imbbjywwahev.com
 -d imgoatxhxior.com
 -d imqkdsdgfygm.com
@@ -13286,6 +13299,7 @@ msFilterList
 -d isdlyvhegxxz.com
 -d isggimkjabpa.com
 -d isqgobsgtqsh.com
+-d itbiwlsxtigx.com
 -d itevcsjvtcmb.com
 -d iupqelechcmj.com
 -d iuymaolvzery.com
@@ -13426,6 +13440,7 @@ msFilterList
 -d kqsipdhvcejx.com
 -d krmuxxubtkrg.com
 -d krovrhmqgupd.com
+-d krsdoqvsmgld.com
 -d krxexwfnghfu.com
 -d krxpudrzyvko.com
 -d krziyrrnvjai.com
@@ -13671,6 +13686,7 @@ msFilterList
 -d nubtjnopbjup.com
 -d nucqkjkvppgs.com
 -d nunsbvlzuhyi.com
+-d nuscutsdqqcc.com
 -d nushflxucofk.com
 -d nvajxoahenwe.com
 -d nvmjtxnlcdqo.com
@@ -13960,6 +13976,7 @@ msFilterList
 -d ruzttiecdedv.com
 -d rvoxndszxwmo.com
 -d rvzudtgpvwxz.com
+-d rweqvydtzyre.com
 -d rwtvvdspsbll.com
 -d rxicrihobtkf.com
 -d rxisfwvggzot.com
@@ -14197,6 +14214,7 @@ msFilterList
 -d vblunqrovanf.com
 -d vbupfouyymse.com
 -d vbuqjdyrsrvi.com
+-d vbyefnnrswpn.com
 -d vcwdjbbughuy.com
 -d vdhmatjdoyqt.com
 -d vdlvaqsbaiok.com
@@ -14249,6 +14267,7 @@ msFilterList
 -d vtcquvxsaosz.com
 -d vtoygnkflehv.com
 -d vtqdavdjsymt.com
+-d vtqmlzprsunm.com
 -d vucanmoywief.com
 -d vulexmouotod.com
 -d vunwzlxfsogj.com
@@ -14301,6 +14320,7 @@ msFilterList
 -d wiorcewmylbe.com
 -d wipjyzwavojq.com
 -d wjdjovjrxsqx.com
+-d wjnkvhlgvixx.com
 -d wkexsfmw.com
 -d wkgaqvvwvqjg.com
 -d wkggjmkrkvot.com
@@ -16936,6 +16956,7 @@ msFilterList
 -d nwadealpiggy.com /widgets/
 -d nzpages.co.nz /banners/
 -d o2live.com
+-d oas.luxweb.com
 -d oasap.com /images/affiliate/
 -d obox-design.com /affiliate-banners/
 -d ocp.cbs.com /pacific/request.jsp?
