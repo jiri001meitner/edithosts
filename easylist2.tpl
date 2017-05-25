@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St kvě 24 14:46:56 CEST 2017 ##################
+##### Aktualizováno: Čt kvě 25 13:06:36 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -12746,6 +12746,7 @@ msFilterList
 -d bagoojzsqygg.com
 -d baiaclwdpztd.com
 -d bajofdblygev.com
+-d batigfkcbwpb.com
 -d bayvlsmaahou.com
 -d bbheuxcancwj.com
 -d bbjlsdqhpbuqaspgjyxaobmpmzunjnvqmahejnwwvaqbzzqodu.com
@@ -12897,6 +12898,7 @@ msFilterList
 -d dbwawnzkjniz.com
 -d dcdalkgtbmip.com
 -d dcgbswcvywyl.com
+-d dcmatjqifoim.com
 -d dcneohtx.com
 -d dcznhkojghrl.com
 -d ddprxzxnhzbq.com
@@ -13064,6 +13066,7 @@ msFilterList
 -d flzelfqolfnf.com
 -d fmuxugcqucuu.com
 -d fmzxzkgmpmrx.com
+-d fnaolgfubmlc.com
 -d fneheruhxqtv.com
 -d fnjcriccyuna.com
 -d fokisduu.com
@@ -13118,6 +13121,7 @@ msFilterList
 -d ggzuksudqktn.com
 -d ghtroafchzrt.com
 -d giojhiimnvwr.com
+-d givmuvbacwui.com
 -d giyjhogjmfmc.com
 -d giyupoeynkfx.com
 -d gjeyqtunbnap.com
@@ -13163,6 +13167,7 @@ msFilterList
 -d gxdyluyqciac.com
 -d gxgnvickedxpuiavkgpisnlsphrcyyvkgtordatszlrspkgppe.com
 -d gxvbogvbcivs.com
+-d gxxsqeqlepva.com
 -d gydlzimosfnz.com
 -d gyinmxpztbgf.com
 -d gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com
@@ -13189,6 +13194,7 @@ msFilterList
 -d hfjuehls.com
 -d hfmtqgiqscvg.com
 -d hgbmwkklwittcdkjapnpeikxojivfhgszbxmrjfrvajzhzhuks.com
+-d hgzopbyhidre.com
 -d hgztvnjbsrki.com
 -d hhwqfmqyqoks.com
 -d higygtvnzxad.com
@@ -13334,6 +13340,7 @@ msFilterList
 -d jcctggmdccmt.com
 -d jcnoeyqsdfrc.com
 -d jdlnquri.com
+-d jdtufqcyumvb.com
 -d jertwakjcaym.com
 -d jevijshpvnwm.com
 -d jeyoxmhhnofdhaalzlfbrsfmezfxqxgwqjkxthzptjdizuyojh.com
@@ -13388,6 +13395,7 @@ msFilterList
 -d jxvhdyguseaf.com
 -d jyauuwrrigim.com
 -d jydbctzvbqrh.com
+-d jypmcknqvnfd.com
 -d jzbarlrhbicg.com
 -d jzbskhgpivyl.com
 -d jzekquhmaxrk.com
@@ -13527,6 +13535,7 @@ msFilterList
 -d lstkfdmmxbmv.com
 -d lttsvesujmry.com
 -d luhqeqaypvmc.com
+-d luraclhaunxv.com
 -d lvlvpdztdnro.com
 -d lvrvufurxhgp.com
 -d lwasxldakmhx.com
@@ -13604,6 +13613,7 @@ msFilterList
 -d mpoboqvqhjqv.com
 -d mpytdykvcdsg.com
 -d mpzuzvqyuvbh.com
+-d mqcnrhxdsbwr.com
 -d mqphkzwlartq.com
 -d mqwkqapsrgnt.com
 -d mrfveznetjtp.com
@@ -13858,6 +13868,7 @@ msFilterList
 -d qbfvwovkuewm.com
 -d qclxheddcepf.com
 -d qdlhprdtwhvgxuzklovisrdbkhptpfarrbcmtrxbzlvhygqisv.com
+-d qeembhyfvjtq.com
 -d qekmxaimxkok.com
 -d qenafbvgmoci.com
 -d qerlbvqwsqtb.com
@@ -13878,6 +13889,7 @@ msFilterList
 -d qjmearsroiyn.com
 -d qjskosdsxanp.com
 -d qklhtphiphni.com
+-d qknuubmfneib.com
 -d qkpwdakgxynv.com
 -d qkuprxbmkeqp.com
 -d qljczwei.com
@@ -14019,6 +14031,7 @@ msFilterList
 -d smrqvdpgkbvz.com
 -d sncpizczabhhafkzeifklgonzzkpqgogmnhyeggikzloelmfmd.com
 -d snetddbbbgbp.com
+-d snfqpqyecdrb.com
 -d snjhhcnr.com
 -d snpevihwaepwxapnevcpiqxrsewuuonzuslrzrcxqwltupzbwu.com
 -d sockjgaabayf.com
@@ -14333,6 +14346,7 @@ msFilterList
 -d wmvcxgpdgdkz.com
 -d wmwkwubufart.com
 -d wnzxwgatxjuf.com
+-d wotilhqoftvl.com
 -d wpktjtwsidcz.com
 -d wpsyjttctdnt.com
 -d wpvvlwprfbtm.com
@@ -21847,6 +21861,7 @@ msFilterList
 +d thebarchive.com /foolfuuka/foolz/*/bootstrap.min.js
 +d thebarchive.com /foolfuuka/foolz/*/plugins.js
 +d thebarchive.com /foolfuuka/mathjax/mathjax/*.js
+-d rarbg.to .js
 -d kickass.cd /test.js
 +d last.fm /static/js-build/ads/zergnet.js*.js
 +d last.fm /static/js-build/charts/scrobble-chart.js*.js
