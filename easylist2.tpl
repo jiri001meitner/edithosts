@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt kvě 25 13:06:36 CEST 2017 ##################
+##### Aktualizováno: Pá kvě 26 13:30:09 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -11157,6 +11157,7 @@ msFilterList
 -d promotiontrack.mobi
 -d propellerads.com
 -d propellerpops.com
+-d propelllerads.com
 -d propelplus.com
 -d proper.io
 -d prorentisol.com
@@ -11735,6 +11736,7 @@ msFilterList
 -d thoseads.com
 -d thoughtleadr.com
 -d thoughtsondance.info
+-d ti583.com
 -d ticrite.com
 -d tidaltv.com
 -d tightexact.net
@@ -12258,6 +12260,7 @@ msFilterList
 -d 24ad89fc2690ed9369.com
 -d 2h045kx8.review
 -d 2ujo8ayw.racing
+-d 321hlnsb.webcam
 -d 3472ccbc21c3f567.xyz
 -d 39o9mcr2.party
 -d 3a727dbae773782eb.space
@@ -12402,6 +12405,7 @@ msFilterList
 -d redstick.online
 -d rkgnmwre.site
 -d rxlex.faith
+-d ry0brv6w.science
 -d sbsdjgk0.accountant
 -d sn5wcs89.science
 -d stickcoinad.com
@@ -12799,6 +12803,7 @@ msFilterList
 -d bsupflnjmuzn.com
 -d btbapoifsphl.com
 -d btcwkbqojiyg.com
+-d btkcdqrzmqca.com
 -d btxoeiisonxh.com
 -d budyxjttmjkf.com
 -d bufqrxzyrecf.com
@@ -12848,6 +12853,7 @@ msFilterList
 -d cjxdbmxtnqmy.com
 -d cjxkzkzmdomd.com
 -d ckqkwhampiyb.com
+-d ckqpusmxvilv.com
 -d ckryzlnafwyd.com
 -d ckwpsghi.com
 -d cmdjujqlfbts.com
@@ -12874,6 +12880,8 @@ msFilterList
 -d cstdfxkxbqbc.com
 -d csyngxtkifrh.com
 -d ctimfrfrmqip.com
+-d ctjwmzryhcoj.com
+-d ctplyvuuzdcv.com
 -d ctzvtevpcssx.com
 -d cuguwxkasghy.com
 -d cwliihvsjckn.com
@@ -12945,6 +12953,7 @@ msFilterList
 -d dsnjsdrbqwdu.com
 -d dswwghrlwwcm.com
 -d dtmwwpykiqng.com
+-d dubijsirwtwq.com
 -d dubzmzpdkddi.com
 -d duchmcmpmqqu.com
 -d dulcetcgvcxr.com
@@ -13006,6 +13015,7 @@ msFilterList
 -d enfhddbnariw.com
 -d enhwftpkwvnb.com
 -d eniaypwywduf.com
+-d enzyxtdcacde.com
 -d eovkzcueutgf.com
 -d epernepojkle.com
 -d epesogtigole.com
@@ -13227,6 +13237,7 @@ msFilterList
 -d hszyozoawqnk.com
 -d htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
 -d htonrwegnifw.com
+-d htrprrrtrwrc.com
 -d huayucnblhgy.com
 -d hueenmivecmx.com
 -d huejizictcgd.com
@@ -13560,6 +13571,7 @@ msFilterList
 -d mbfvfdkawpoi.com
 -d mbgvhfotcqsj.com
 -d mbvmecdlwlts.com
+-d mcagbtdcwklf.com
 -d mdeaoowvqxma.com
 -d mdrkqbsirbry.com
 -d meagjivconqt.com
@@ -14025,6 +14037,7 @@ msFilterList
 -d siwtuvvgraum.com
 -d sjgklyyyraghhrgimsepycygdqvezppyfjkqddhlzbimoabjae.com
 -d sjpexaylsfjnopulpgkbqtkzieizcdtslnofpkafsqweztufpa.com
+-d sjtevvoviqhe.com
 -d skknyxzaixws.com
 -d skzhfyqozkic.com
 -d slmmjkkvbkyp.com
@@ -14199,6 +14212,7 @@ msFilterList
 -d usoqghurirvz.com
 -d usymycvrilyt.com
 -d uszpxpcoflkl.com
+-d utfffrxmzuvy.com
 -d utzpjbrtyjuj.com
 -d uupqrsjbxrstncicwcdlzrcgoycrgurvfbuiraklyimzzyimrq.com
 -d uuproxhcbcsl.com
