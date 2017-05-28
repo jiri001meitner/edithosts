@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 26 May 2017 15:40 UTC
+# Last modified: 28 May 2017 20:40 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 25/04/2017
+# Last change: 28/05/2017
 # List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 # GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 # License: CC-BY-SA v4.0
@@ -158,6 +158,7 @@ msFilterList
 -d kaloricketabulky.cz /images/branding/
 -d kaloricketabulky.cz /styles4/bigscreen2.css
 -d kecy.roumen.cz /roumingBannerator.php
+-d kupi.cz /json
 -d kurzy.cz /e/adv?
 -d lamer.cz /images/bg*.jpg
 -d kurzy.sfinance.cz /img/front/sfinance/*banner
@@ -234,6 +235,7 @@ msFilterList
 -d superhry.cz /media/
 -d svoboda.info /assets/files/banners_2013/
 -d svoboda.info /assets/files/banners_2014/
+-d titulky.com /img/bn
 -d topkontakt.cz /banner/
 -d tryhard.cz /images/*/*fullbrand*.jpg
 -d uloz.to /bannery/
@@ -662,6 +664,7 @@ msFilterList
 # @@||i.imedia.cz/json*seznam.clanky.zpravy$script,domain=stream.cz
 -d onetv.cz /js/fuckadblock.js
 -d manmagazin.sk /wp-content/uploads/*/*.js?ver=2.0.11
+# @@||pise.cz$generichide
 #Titulky.com!
 # @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
 #poradte.cz!
@@ -737,6 +740,7 @@ msFilterList
 - &jumpstartadformat=
 - &largead=
 - &maxads=
+- &pltype=adhost/
 - &popunder=
 - &program=revshare&
 - &prvtof=*&poru=
@@ -1010,6 +1014,7 @@ msFilterList
 - -rightrailad-
 - -rollout-ad-
 - -scrollads.
+- -search-ads.
 - -seasonal-ad.
 - -show-ads.
 - -side-ad-
@@ -9267,6 +9272,7 @@ msFilterList
 -d afterdownload.com
 -d afterdownloads.com
 -d afy11.net
+-d againstein.com
 -d agcdn.com
 -d agentcenters.com
 -d aggregateknowledge.com
@@ -9385,6 +9391,7 @@ msFilterList
 -d atomex.net
 -d atomicblast.lol
 -d atrinsic.com
+-d atterlocus.com
 -d atwola.com
 -d au2m8.com
 -d auctionnudge.com
@@ -9518,6 +9525,7 @@ msFilterList
 -d bidvertiser.com
 -d biemedia.com
 -d bigadpoint.net
+-d bigchoicegroup.com
 -d bigfineads.com
 -d bigpulpit.com
 -d bijscode.com
@@ -10772,6 +10780,7 @@ msFilterList
 -d ipromote.com
 -d ipsowrite.com
 -d isapi.solutions
+-d islationa.com
 -d isohits.com
 -d isparkmedia.com
 -d isubdom.com
@@ -11180,6 +11189,7 @@ msFilterList
 -d mobtrks.com
 -d mobytrks.com
 -d modelegating.com
+-d modificans.com
 -d moffsets.com
 -d mogointeractive.com
 -d mojoaffiliates.com
@@ -11250,6 +11260,7 @@ msFilterList
 -d n2s.co.kr
 -d n388hkxg.com
 -d n4403ad.doubleclick.net
+-d n673oum.com
 -d nabbr.com
 -d naganaga.lol
 -d nagrande.com
@@ -11469,6 +11480,7 @@ msFilterList
 -d p7hwvdb4p.com
 -d paads.dk
 -d pacific-yield.com
+-d paclitor.com
 -d padsdelivery.com
 -d padstm.com
 -d pagefair.net
@@ -11481,6 +11493,7 @@ msFilterList
 -d pantherads.com
 -d paperg.com
 -d paradocs.ru
+-d pardous.com
 -d parkingcrew.net
 -d partner-ads.com
 -d partner.googleadservices.com
@@ -11559,11 +11572,13 @@ msFilterList
 -d playertraffic.com
 -d playukinternet.com
 -d pleasesavemyimages.com
+-d pleasteria.com
 -d pleeko.com
 -d plenomedia.com
 -d plexop.net
 -d pllddc.com
 -d plocap.com
+-d plopx.com
 -d plugerr.com
 -d plugs.co
 -d plusfind.net
@@ -11861,6 +11876,7 @@ msFilterList
 -d rotaban.ru
 -d rotatingad.com
 -d rotorads.com
+-d roughted.com
 -d rovion.com
 -d roxyaffiliates.com
 -d rpts.org
@@ -12096,6 +12112,7 @@ msFilterList
 -d srv.yavli.com
 -d srx.com.sg
 -d ssl-services.com
+-d ssl2anyone4.com
 -d sslboost.com
 -d sslcheckerapi.com
 -d sta-ads.com
@@ -12132,6 +12149,7 @@ msFilterList
 -d style-eyes.eu
 -d subemania.com
 -d sublimemedia.net
+-d submissing.com
 -d submitexpress.co.uk
 -d suffusefacultytsunami.info
 -d sugarlistsuggest.info
@@ -12764,6 +12782,7 @@ msFilterList
 -d 019f2d2d415.review
 -d 04dn8g4f.space
 -d 098c0f90ca673716316.site
+-d 0mzot44w.site
 -d 107e470d2ace7d8ecc2.stream
 -d 130hc0ja.site
 -d 164f9d1bd2933.party
@@ -12772,6 +12791,7 @@ msFilterList
 -d 1j7740kd.website
 -d 1wzfew7a.site
 -d 24ad89fc2690ed9369.com
+-d 2aahvjeq.website
 -d 2h045kx8.review
 -d 2ujo8ayw.racing
 -d 321hlnsb.webcam
@@ -12875,6 +12895,7 @@ msFilterList
 -d h166g9ej.download
 -d havingo.xyz
 -d hlu9tseh.men
+-d i1pnovju.site
 -d iocawy99.science
 -d is3eho4w.download
 -d itempana.site
@@ -12914,12 +12935,14 @@ msFilterList
 -d peremoga.xyz
 -d pullapi.site
 -d q45nsj9d.accountant
+-d qmvhcb9d.bid
 -d qwun46bs.review
 -d r91c6tvs.science
 -d redstick.online
 -d rkgnmwre.site
 -d rxlex.faith
 -d ry0brv6w.science
+-d s72jfisrt3ife.com
 -d sbsdjgk0.accountant
 -d sn5wcs89.science
 -d stickcoinad.com
@@ -12933,10 +12956,15 @@ msFilterList
 -d vcxzv.website
 -d verymuchad.com
 -d wbkaidsc.webcam
+-d wklvnlkwsc3.com
 -d wmrdwhv3.faith
 -d wpzka4t6.site
+-d wrhhhtoj.men
+-d wshp1rbq.website
 -d x5qa0pxy.science
 -d xbfk51p7.review
+-d xlw5e582.date
+-d xqlo792n.space
 -d y1xjgfhp.racing
 -d yqm16b35.lol
 # /Tag adservers
@@ -13032,6 +13060,7 @@ msFilterList
 -d flavordecision.com
 -d foamybox.com
 -d ga87z2o.com
+-d giddycoat.com
 -d illustriousoatmeal.com
 -d inatye.com
 -d incrediblesugar.com
@@ -13205,6 +13234,7 @@ msFilterList
 -d adtbomthnsyz.com
 -d adudzlhdjgof.com
 -d afbfoxmwzlqa.com
+-d afdyfxfrwbfy.com
 -d afedispdljgb.com
 -d afqwfxkjmgwv.com
 -d aggntknflhal.com
@@ -13332,6 +13362,7 @@ msFilterList
 -d bujntrmh.com
 -d bvezznurwekr.com
 -d bvobtmbziccr.com
+-d bvzjhnqrypiv.com
 -d bwyckpmsolzk.com
 -d bxoixzbtllwx.com
 -d byqmzodcdhhu.com
@@ -13543,6 +13574,7 @@ msFilterList
 -d epgooipixbbo.com
 -d epoxtzgddiwp.com
 -d epzxtposabej.com
+-d eqszmuwnozvx.com
 -d erbsqnmglmnv.com
 -d erkwkjfompvt.com
 -d erszwzaidmlc.com
@@ -13801,6 +13833,7 @@ msFilterList
 -d iglwibwbjxuoflrczfvpibhihwuqneyvmhzeqbmdmujmirdkae.com
 -d igupodzh.com
 -d igyzmhqbihoi.com
+-d ihdrozswbekx.com
 -d ihflwxrsptqz.com
 -d ihgkmgwfhjam.com
 -d ihqxhokndcfq.com
@@ -13939,17 +13972,20 @@ msFilterList
 -d karownxatpbd.com
 -d kayfdraimewk.com
 -d kayophjgzqdq.com
+-d kbjddmnkallz.com
 -d kbrnfzgglehh.com
 -d kbrwlgzazfnv.com
 -d kbsceyleonkq.com
 -d kceikbfhsnet.com
 -d kdaskxrcgxhp.com
 -d kdtictjmofbl.com
+-d kdtstmiptmvk.com
 -d kdvcvkwwtbwn.com
 -d kecldktirqzk.com
 -d keeedoleeroe.com
 -d keellcvwpzgj.com
 -d keqnebfovnhl.com
+-d kfdwywhuissy.com
 -d kfpwayrztgjj.com
 -d kfwpyyctzmpk.com
 -d kgkjlivo.com
@@ -14160,6 +14196,7 @@ msFilterList
 -d mtlieuvyoikf.com
 -d mttyfwtvyumc.com
 -d mueqzsdabscd.com
+-d mukxblrkoaaa.com
 -d munpprwlhric.com
 -d mvjuhdjuwqtk.com
 -d mvqinxgp.com
@@ -14245,6 +14282,7 @@ msFilterList
 -d oawleebf.com
 -d oaxwtgfhsxod.com
 -d oazojnwqtsaj.com
+-d obqtccxcfjmd.com
 -d obthqxbm.com
 -d obuuyneuhfwf.com
 -d obvbubmzdvom.com
@@ -14273,6 +14311,7 @@ msFilterList
 -d oiramtfxzqfc.com
 -d ojngisbfwwyp.com
 -d okasfshomqmg.com
+-d okbiafbcvoqo.com
 -d okgfvcourjeb.com
 -d okmuxdbq.com
 -d oknmanswftcd.com
@@ -14323,6 +14362,7 @@ msFilterList
 -d ozwtmmcdglos.com
 -d ozymwqsycimr.com
 -d palzblimzpdk.com
+-d payrfnvfofeq.com
 -d pbbutsvpzqza.com
 -d pbnnsras.com
 -d pcebrrqydcox.com
@@ -14563,6 +14603,7 @@ msFilterList
 -d skknyxzaixws.com
 -d skzhfyqozkic.com
 -d slmmjkkvbkyp.com
+-d sloaltbyucrg.com
 -d smrqvdpgkbvz.com
 -d sncpizczabhhafkzeifklgonzzkpqgogmnhyeggikzloelmfmd.com
 -d snetddbbbgbp.com
@@ -14609,6 +14650,7 @@ msFilterList
 -d szyejlnlvnmy.com
 -d szynlslqxerx.com
 -d tabeduhsdhlkalelecelxbcwvsfyspwictbszchbbratpojhlb.com
+-d taelsfdgtmka.com
 -d tailpdulprkp.com
 -d tammfmhtfhut.com
 -d tamqqjgbvbps.com
@@ -14712,6 +14754,7 @@ msFilterList
 -d ujqbxbcqtbqt.com
 -d ujtyosgemtnx.com
 -d ujyyciaedxqr.com
+-d ukbxppjxfgna.com
 -d ukffjaqtxhor.com
 -d ukjzdydnveuc.com
 -d ukxeudykhgdi.com
@@ -14821,6 +14864,7 @@ msFilterList
 -d vulexmouotod.com
 -d vunwzlxfsogj.com
 -d vuysooqimdbt.com
+-d vvgttgprssiy.com
 -d vwgffbknpgxe.com
 -d vwugfpktabed.com
 -d vwxskpufgwww.com
@@ -14887,6 +14931,7 @@ msFilterList
 -d wpsyjttctdnt.com
 -d wpvvlwprfbtm.com
 -d wqbvqmremvgp.com
+-d wqgaevqpbwgx.com
 -d wqnxcthitqpf.com
 -d wqocynupmbad.com
 -d wqpcxujvkvhr.com
@@ -15034,6 +15079,7 @@ msFilterList
 -d yqutkbvrgvar.com
 -d yrfrvrbmipzb.com
 -d yrnzxgsjokuv.com
+-d ysqdjkermxyt.com
 -d ytapgckhhvou.com
 -d ytaujxmxxxmm.com
 -d ytiyuqfxjbke.com
@@ -15076,6 +15122,7 @@ msFilterList
 -d zizmvnytmdto.com
 -d zjgygpdfudfu.com
 -d zkennongwozs.com
+-d zkzpfpoazfgq.com
 -d zlbdtqoayesloeazgxkueqhfzadqjqqduwrufqemhpbrjvwaar.com
 -d zlvbqseyjdna.com
 -d zmbrweqglexv.com
@@ -15483,6 +15530,7 @@ msFilterList
 # ||888promos.com^$popup,third-party
 # ||9newstoday.net^$popup,third-party
 # ||abbeyblog.me^$popup,third-party
+# ||ablogica.com^$popup,third-party
 # ||absoluteclickscom.com^$popup,third-party
 # ||actiondesk.com^$popup,third-party
 # ||ad-apac.doubleclick.net^$popup,third-party
@@ -18934,7 +18982,7 @@ msFilterList
 -d zazzle.com /utl/getpanel
 -d zazzle.com ?rf
 -d zemanta.com /loader.js
--d zergnet.com
+-d zergnet.com /zerg-inf.js
 -d zeus.qj.net
 -d zeusfiles.com /promo/
 -d ziffdavisenterprise.com /contextclicks/
@@ -20375,7 +20423,7 @@ msFilterList
 # ||cloudfront.net/hot/ars.dart/$domain=arstechnica.com
 # ||cloudfront.net/images/amazon/$domain=slader.com
 # ||cloudfront.net/pop?$domain=clipconverter.cc
-# ||cloudfront.net^$script,domain=300mbfilms.co|4archive.org|4chanarchives.cu.cc|786zx.com|addic7ed.com|animeflv.net|animehaven.to|auroravid.to|bdupload.info|beforeitsnews.com|beinsport-streaming.com|biology-online.org|bitvid.sx|chronos.to|cloudtime.to|coreimg.net|crackingpatching.com|dailyuploads.net|downloadming.io|downloadming.tv|extremetech.com|eztv.ag|file-upload.com|frendz4m.com|fulldowngames.biz|fullstuff.co|goodvideohost.com|hon3yhd.com|imgchili.net|kannadamovies.biz|letwatch.to|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|multiup.org|mystream.la|nachostime.net|nitroflare.com|noslocker.com|nowvideo.li|nowvideo.sx|nowvideo.to|omghype.com|onhax.me|openload.co|otorrents.com|ouo.io|psarips.com|reevown.com|sadeempc.com|scambiofile.info|sceper.ws|shink.in|sparknotes.com|streamplay.to|suprafiles.co|thecoolersoftwares.net|thevideobee.to|tinypaste.me|torlock.com|torrentfunk.com|torrentproject.se|tsumino.com|tubeoffline.com|tvlivenow.com|unblocked.cam|upload.so|uplod.ws|usersfiles.com|vidlox.tv|vidshare.us|vshare.eu|watchers.to|watchfomny.tv|wholecloud.net|world4ufree.be|yahmaib3ai.com|yourbittorrent.com|yourvideohost.com
+# ||cloudfront.net^$script,subdocument,domain=300mbfilms.co|4archive.org|4chanarchives.cu.cc|786zx.com|addic7ed.com|animeflv.net|animehaven.to|auroravid.to|bdupload.info|beforeitsnews.com|beinsport-streaming.com|biology-online.org|bitvid.sx|chronos.to|cloudtime.to|coreimg.net|crackingpatching.com|dailyuploads.net|downloadming.io|downloadming.tv|extremetech.com|eztv.ag|file-upload.com|frendz4m.com|fulldowngames.biz|fullstuff.co|goodvideohost.com|hon3yhd.com|imgchili.net|kannadamovies.biz|letwatch.to|linksprotection.com|media1fire.com|mirrorcreator.com|mp3goo.com|multiup.org|mystream.la|nachostime.net|nitroflare.com|noslocker.com|nowvideo.li|nowvideo.sx|nowvideo.to|omghype.com|onhax.me|openload.co|otorrents.com|ouo.io|pirateiro.com|psarips.com|reevown.com|sadeempc.com|scambiofile.info|sceper.ws|shink.in|sparknotes.com|streamplay.to|suprafiles.co|thecoolersoftwares.net|thevideobee.to|tinypaste.me|torlock.com|torrentfunk.com|torrentproject.se|tsumino.com|tubeoffline.com|tvlivenow.com|unblocked.cam|upload.so|uplod.ws|usersfiles.com|vidlox.tv|vidshare.us|vshare.eu|watchers.to|watchfomny.tv|wholecloud.net|world4ufree.be|yahmaib3ai.com|yourbittorrent.com|yourvideohost.com
 # ||cloudfront.net^$subdocument,domain=1001tracklists.com
 # ||cloudfront.net^*/shaadi.com/$domain=deccanchronicle.com
 # ||cloudfront.net^*/Sponsors/$domain=indycar.com
@@ -22441,6 +22489,7 @@ msFilterList
 -d prepperwebsite.com /wp-content/uploads/*_250x250.jpg
 -d prerollads.ign.com
 -d pressrepublican.com /wallpaper/
+-d prewarcar.com /images/banners/
 -d primenews.com.bd /add/
 -d primewire.ag /additional_content.php
 # ||primewire.ag/frame_header.php?$subdocument
@@ -23895,6 +23944,7 @@ msFilterList
 -d youserials.com /i/banner_pos.jpg
 -d youtube-mp3.org /acode/
 -d youtube.com /get_midroll_info?
+-d youtube.com /pagead/
 -d youwatch.org /9elawi.html
 -d youwatch.org /driba.html
 -d youwatch.org /iframe1.html
@@ -23971,6 +24021,14 @@ msFilterList
 # hothardware.com
 # |http://$script,third-party,xmlhttprequest,domain=hothardware.com
 # |https://$script,third-party,xmlhttprequest,domain=hothardware.com
+# thestranger.com (Admiral)
+# @@||ajax.googleapis.com^$script,domain=thestranger.com
+# @@||connect.facebook.net^$script,domain=thestranger.com
+# @@||maps.googleapis.com^$script,domain=thestranger.com
+# @@||maxcdn.bootstrapcdn.com^$script,domain=thestranger.com
+# @@||platform.twitter.com^$script,domain=thestranger.com
+# |http://$script,third-party,xmlhttprequest,domain=thestranger.com
+# |https://$script,third-party,xmlhttprequest,domain=thestranger.com
 # onmsft.com (Admiral)
 # @@||ajax.googleapis.com^$script,domain=onmsft.com
 # @@||disqus.com^$script,domain=onmsft.com
@@ -25647,12 +25705,13 @@ msFilterList
 # /sendspace-pop.$popup,domain=sendspace.com
 # :text^$popup,domain=zippyshare.com
 # ^utm_source=$popup,domain=exashare.com|sex.com
-# |data^$popup,domain=gorillavid.in|nowvideo.to|zippyshare.com
+# |data^$popup,domain=1337x.to|gorillavid.in|nowvideo.to|zippyshare.com
 # |http:$popup,third-party,domain=24avarii.ru|adf.ly|allmyvideos.net|daclips.in|dropapk.com|embed.nowvideo.sx|embed.videoweed.es|engtorrent.com|extreme-board.com|eztv.ag|fastspics.net|filepost.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|imagebam.com|imagefruit.com|imageporter.com|img24.org|imgbox.com|imgmade.com|imgshots.com|imgsin.com|imgspice.com|latestmoviesdl.com|load.to|mofunzone.com|mp3-torrents.net|nosteam.ro|nowvideo.li|openload.co|pic2pic.site|pixsense.net|pornparadise.org|projectfreetv.at|promptfile.com|sendvid.com|streamcloud.eu|streamin.to|thevideo.me|twer.info|uptobox.com|uptostream.com|vid.ag|vidabc.com|vidspot.net|vidzi.tv|vshare.eu|watchcartoononline.com|xtshare.com|youwatch.org|yts.ag
 # |http:*=$popup,domain=grammarist.com
 # |https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|imgbox.com|sendvid.com|thevideo.me|uptobox.com|uptostream.com|yts.ag
-# |javascript^$popup,domain=biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
+# |javascript^$popup,domain=1337x.to|biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
 # ||104.198.221.99^$popup
+# ||104.198.61.40^$popup
 # ||104.239.139.5/display/$popup
 # ||130.211.198.219^$popup
 # ||35.188.12.5^$popup
@@ -28841,6 +28900,7 @@ msFilterList
 +d veetle.com /images/common/ads/
 # @@||ventunotech.akamai-http.edgesuite.net/VtnGoogleVpaid.swf?*&ad_type=$object-subrequest,domain=cricketcountry.com
 +d vg247.com
+# @@||vg247.com^$script,domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
 # @@||vhobbies.com/admgr/*.aspx?ZoneID=$script,domain=vcoins.com
 +d vid.ag /static/js/adver*.js
 +d vidcoin.com /adserver/
@@ -30125,6 +30185,7 @@ msFilterList
 +d streamlive.to /js/ads.js
 +d streamlive.to /ad/
 +d streamplay.to /js/ads.js
++d streamplay.to
 +d studybreakmedia.com /ads.js*.js
 +d superanimes.com
 +d superfilm.pl /advertisement.js
@@ -30209,6 +30270,7 @@ msFilterList
 +d ucoz.com /ads/banner.jpg?
 +d ukclimbing.com
 +d uktv.co.uk /static/js/ads.js
++d ukvarminting.com
 +d ultimate-catch.eu
 +d ulto.ga
 +d universityherald.com /common/js/common/ads.js
@@ -30259,6 +30321,7 @@ msFilterList
 +d vencko.net
 # @@||veohb.net/js/advertisement.js$domain=veohb.net
 +d ver-flv.com
++d vercanalestv.com /adblock.js
 +d vercanalestv.com
 +d verticalscope.com /js/advert.js
 +d vgunetwork.com /public/js/*/advertisement.js
