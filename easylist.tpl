@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 29 May 2017 08:20 UTC
+# Last modified: 29 May 2017 12:00 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -2198,8 +2198,7 @@ msFilterList
 - /adcommon?
 - /adcomp.
 - /adcomponent/
-- /adconfig.js
-- /adconfig.xml?
+- /adconfig.
 - /adconfig/
 - /adcontainer?
 # /adcontent.$~object-subrequest
@@ -11953,6 +11952,7 @@ msFilterList
 -d senzapudore.net
 -d sepyw.top
 -d serialbay.com
+-d seriend.com
 -d seriousfiles.com
 -d servali.net
 -d serve-sys.com
@@ -12909,6 +12909,7 @@ msFilterList
 -d j880iceh.party
 -d jf2mn2ms.club
 -d jfx61qca.site
+-d jkfg4hfdss.com
 -d jnrzox5e.website
 -d jzeu6qlk.accountant
 -d k9anf8bc.webcam
@@ -12923,6 +12924,7 @@ msFilterList
 -d lostelephants.xyz
 -d lr48oe5c.website
 -d lslpv80k.download
+-d lwkef63hfc.com
 -d lxpl6t0t.cricket
 -d mansiontheologysoon.xyz
 -d mb8e17f12.website
@@ -13423,6 +13425,7 @@ msFilterList
 -d comwgi.com
 -d cortxphssdvc.com
 -d cpamnizzierk.com
+-d cpdoalzgwnwf.com
 -d cphxwpicozlatvnsospudjhswfxwmykgbihjzvckxvtxzfsgtx.com
 -d cpkbdmkguggh.com
 -d cqbabfsyfqse.com
@@ -13661,6 +13664,7 @@ msFilterList
 -d fvbeyduylvgy.com
 -d fvwcwbdrprdt.com
 -d fwcrhzvfxoyi.com
+-d fwlkncckwcop.com
 -d fxjgprpozntk.com
 -d fxjyultd.com
 -d fxrgikipxnlq.com
@@ -13799,6 +13803,7 @@ msFilterList
 -d hueenmivecmx.com
 -d huejizictcgd.com
 -d hutkuzwropgf.com
+-d huynrscfbulr.com
 -d huzmweoxlwanzvstlgygbrnfrmodaodqaczzibeplcezmyjnlv.com
 -d hvfzacisynoq.com
 -d hvfzshrpfueb.com
@@ -13847,6 +13852,7 @@ msFilterList
 -d ikealcmavhpk.com
 -d iknctklddhoh.com
 -d ikvltjooosqh.com
+-d ilrxikdjozlk.com
 -d ilsivrexvpyv.com
 -d ilvibsabwuza.com
 -d imbbjywwahev.com

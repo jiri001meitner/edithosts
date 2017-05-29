@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po kvě 29 10:25:48 CEST 2017 ##################
+##### Aktualizováno: Po kvě 29 14:10:16 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1994,8 +1994,7 @@ msFilterList
 - /adcommon?
 - /adcomp.
 - /adcomponent/
-- /adconfig.js
-- /adconfig.xml?
+- /adconfig.
 - /adconfig/
 - /adcontainer?
 - /adcontent/
@@ -11446,6 +11445,7 @@ msFilterList
 -d senzapudore.net
 -d sepyw.top
 -d serialbay.com
+-d seriend.com
 -d seriousfiles.com
 -d servali.net
 -d serve-sys.com
@@ -12394,6 +12394,7 @@ msFilterList
 -d j880iceh.party
 -d jf2mn2ms.club
 -d jfx61qca.site
+-d jkfg4hfdss.com
 -d jnrzox5e.website
 -d jzeu6qlk.accountant
 -d k9anf8bc.webcam
@@ -12408,6 +12409,7 @@ msFilterList
 -d lostelephants.xyz
 -d lr48oe5c.website
 -d lslpv80k.download
+-d lwkef63hfc.com
 -d lxpl6t0t.cricket
 -d mansiontheologysoon.xyz
 -d mb8e17f12.website
@@ -12901,6 +12903,7 @@ msFilterList
 -d comwgi.com
 -d cortxphssdvc.com
 -d cpamnizzierk.com
+-d cpdoalzgwnwf.com
 -d cphxwpicozlatvnsospudjhswfxwmykgbihjzvckxvtxzfsgtx.com
 -d cpkbdmkguggh.com
 -d cqbabfsyfqse.com
@@ -13139,6 +13142,7 @@ msFilterList
 -d fvbeyduylvgy.com
 -d fvwcwbdrprdt.com
 -d fwcrhzvfxoyi.com
+-d fwlkncckwcop.com
 -d fxjgprpozntk.com
 -d fxjyultd.com
 -d fxrgikipxnlq.com
@@ -13277,6 +13281,7 @@ msFilterList
 -d hueenmivecmx.com
 -d huejizictcgd.com
 -d hutkuzwropgf.com
+-d huynrscfbulr.com
 -d huzmweoxlwanzvstlgygbrnfrmodaodqaczzibeplcezmyjnlv.com
 -d hvfzacisynoq.com
 -d hvfzshrpfueb.com
@@ -13325,6 +13330,7 @@ msFilterList
 -d ikealcmavhpk.com
 -d iknctklddhoh.com
 -d ikvltjooosqh.com
+-d ilrxikdjozlk.com
 -d ilsivrexvpyv.com
 -d ilvibsabwuza.com
 -d imbbjywwahev.com
