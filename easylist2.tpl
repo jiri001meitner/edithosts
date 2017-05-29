@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne kvě 28 23:17:21 CEST 2017 ##################
+##### Aktualizováno: Po kvě 29 08:54:27 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -5038,6 +5038,7 @@ msFilterList
 - /interstitial_ad.
 - /interstitialadvert/
 - /interstitials/ad_
+- /InterYield/
 - /intextadd/
 - /intextads.
 - /introduction_ad.
@@ -11806,6 +11807,7 @@ msFilterList
 -d tpnads.com
 -d tqlkg.com
 -d tqlkg.net
+-d tr563.com
 -d traceadmanager.com
 -d trackadvertising.net
 -d trackaffpix.com
@@ -12158,6 +12160,7 @@ msFilterList
 -d xmasdom.com
 -d xmaswrite.com
 -d xmlconfig.ltassrv.com
+-d xpanama.net
 -d xs.mochiads.com
 -d xtcie.com
 -d xtendadvert.com

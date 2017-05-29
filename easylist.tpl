@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 28 May 2017 21:10 UTC
+# Last modified: 29 May 2017 06:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -5328,6 +5328,7 @@ msFilterList
 - /interstitial_ad.
 - /interstitialadvert/
 - /interstitials/ad_
+- /InterYield/
 - /intextadd/
 - /intextads.
 - /introduction_ad.
@@ -12313,6 +12314,7 @@ msFilterList
 -d tpnads.com
 -d tqlkg.com
 -d tqlkg.net
+-d tr563.com
 -d traceadmanager.com
 -d trackadvertising.net
 -d trackaffpix.com
@@ -12672,6 +12674,7 @@ msFilterList
 -d xmasdom.com
 -d xmaswrite.com
 -d xmlconfig.ltassrv.com
+-d xpanama.net
 -d xs.mochiads.com
 -d xtcie.com
 -d xtendadvert.com
@@ -24572,20 +24575,6 @@ msFilterList
 # torrenteo.com
 # |http://$script,third-party,xmlhttprequest,domain=torrenteo.com
 # |https://$script,third-party,xmlhttprequest,domain=torrenteo.com
-# geekzone.co.nz
-# @@||ajax.googleapis.com^$script,domain=geekzone.co.nz
-# @@||apis.google.com^$script,domain=geekzone.co.nz
-# @@||disqus.com^$script,domain=geekzone.co.nz
-# @@||disquscdn.com^$script,domain=geekzone.co.nz
-# @@||google.com/cse.js$domain=geekzone.co.nz
-# @@||google.com/jsapi$script,domain=geekzone.co.nz
-# @@||google.com/uds/api/$domain=geekzone.co.nz
-# @@||googleapis.com/customsearch/$domain=geekzone.co.nz
-# @@||maps.googleapis.com^$script,domain=geekzone.co.nz
-# @@||platform.twitter.com^$script,domain=geekzone.co.nz
-# @@||tinymce.com^$script,domain=geekzone.co.nz
-# |http://$script,third-party,domain=geekzone.co.nz
-# |https://$script,third-party,domain=geekzone.co.nz
 # embed.nowvideo.sx / animeflv.net
 # @@||ajax.googleapis.com^$script,domain=embed.nowvideo.sx
 # @@||zerocdn.to/dash/$third-party,xmlhttprequest,domain=nowvideo.sx
