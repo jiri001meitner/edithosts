@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út kvě 30 18:05:20 CEST 2017 ##################
+##### Aktualizováno: St kvě 31 07:45:52 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -4490,6 +4490,7 @@ msFilterList
 - /featuredadshome.
 - /feedads.
 - /fif.html?s=
+- /fifligatus.
 - /file/ad.
 - /file/ads/
 - /fileadmin/ads/
@@ -13270,6 +13271,7 @@ msFilterList
 -d hklyzmspvqjh.com
 -d hkoxlirf.com
 -d hlekbinpgsuk.com
+-d hljiofrtqenc.com
 -d hlotiwnz.com
 -d hmcjupvbxxyx.com
 -d hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com
@@ -13661,6 +13663,7 @@ msFilterList
 -d mkpdquuxcnhl.com
 -d mkyzqyfschwd.com
 -d mkzynqxqlcxk.com
+-d mlaxgqosoawc.com
 -d mlbzafthbtsl.com
 -d mlgrrqymdsyk.com
 -d mlkqusrmsfib.com
@@ -14347,6 +14350,7 @@ msFilterList
 -d vjzttumdetao.com
 -d vkarvfrrlhmv.com
 -d vkdbvgcawubn.com
+-d vkqfzlpowalv.com
 -d vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com
 -d vlrzhoueyoxw.com
 -d vlvowhlxxibn.com
@@ -22087,6 +22091,7 @@ msFilterList
 +d slickdeals.net
 +d spin.com
 +d sporcle.com
++d stereogum.com
 +d sun-sentinel.com
 +d theprovince.com
 +d thestarphoenix.com
@@ -23507,6 +23512,7 @@ msFilterList
 +d eplayerhtml5.performgroup.com /js/tsEplayerHtml5/js/Eplayer/js/modules/bannerview/bannerview.main.js?
 +d equippers.com /abm.aspx?*.js
 +d equippers.com /absolutebm.aspx?*.js
++d esi.tech.ccp.is /affiliation/
 +d espn.co.uk /ads/gamemodule_v0.2.swf
 +d espn.go.com /espn360/banner?
 +d esquire.com /ams/page-ads.js?*.js
