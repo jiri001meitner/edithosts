@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út čen 27 19:44:21 CEST 2017 ##################
+##### Aktualizováno: Čt čen 29 13:59:00 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -8362,6 +8362,7 @@ msFilterList
 -d adfrontiers.com
 -d adfunkyserver.com
 -d adfusion.com
+-d adg99.com
 -d adgalax.com
 -d adgardener.com
 -d adgatemedia.com
@@ -8885,6 +8886,7 @@ msFilterList
 - http://anet*.tradedoubler.com/
 -d angege.com
 -d angeinge.com
+-d animits.com
 -d anonymousads.com
 -d anrdoezrs.net /image-
 -d anrdoezrs.net /placeholder-
@@ -9486,6 +9488,7 @@ msFilterList
 -d cruftexcision.xyz
 -d cruiseworldinc.com
 -d csklde.space
+-d css-style-95.com
 -d ctasnet.com
 -d ctenetwork.com
 -d ctm-media.com
@@ -9889,6 +9892,7 @@ msFilterList
 -d fb-plus.com
 -d fbgdc.com
 -d fbsvu.com
+-d fdf4.com
 -d fearer.info
 -d fearfulflag.com
 -d featence.com
@@ -10183,6 +10187,7 @@ msFilterList
 -d honestlypopularvary.xyz
 -d hoomezip.biz
 -d hopfeed.com
+-d hopinionse.com
 -d horse-racing-affiliate-program.co.uk
 -d horsered.com
 -d hortestoz.com
@@ -11164,6 +11169,7 @@ msFilterList
 -d pointclicktrack.com
 -d pointroll.com
 -d points2shop.com
+-d poketraff.com
 -d polanders.com
 -d polarmobile.com
 -d polluxnetwork.com
@@ -12572,6 +12578,7 @@ msFilterList
 -d mb8e17f12.website
 -d mbbxbbtm.trade
 -d mc09j2u5.loan
+-d mixs3ml9.download
 -d mlvc4zzw.space
 -d monu.delivery
 -d mosaicolor.website
@@ -12602,6 +12609,7 @@ msFilterList
 -d redstick.online
 -d rhmed6po.party
 -d rkgnmwre.site
+-d rl771fhn.men
 -d rxlex.faith
 -d rxrfb95v.cricket
 -d ry0brv6w.science
@@ -12618,9 +12626,12 @@ msFilterList
 -d tde2wkyv.stream
 -d te2e12nd.website
 -d tpp1ede2.accountant
+-d trackoffer0192.com
+-d trackoffer0193.com
 -d trackoffer0194.com
 -d txjdgm53.win
 -d tyal449f.top
+-d u4x0ryw1.science
 -d ufyvdps3.webcam
 -d uonj2o6i.loan
 -d v2t5re6z.review
@@ -12629,6 +12640,7 @@ msFilterList
 -d wbkaidsc.webcam
 -d wefbjdsbvksdbvkv.com
 -d weuigcsch31.com
+-d wjefwuiioe123f.com
 -d wklvnlkwsc3.com
 -d wmrdwhv3.faith
 -d wpzka4t6.site
@@ -12673,6 +12685,8 @@ msFilterList
 -d new17write.com
 -d newsadst.com
 -d parwrite.com
+-d raz-raz-mataz.com
+-d razwrite.com
 -d tek-tek-trek.com
 -d tic-tic-bam.com
 -d tic-tic-toc.com
@@ -16875,6 +16889,7 @@ msFilterList
 -d d1noellhv8fksc.cloudfront.net
 -d d1pcttwib15k25.cloudfront.net
 -d d1pdpbxj733bb1.cloudfront.net
+-d d1rguclfwp7nc8.cloudfront.net
 -d d1spb7fplenrp4.cloudfront.net
 -d d1vbm0eveofcle.cloudfront.net
 -d d1wa9546y9kg0n.cloudfront.net /index.js
@@ -22589,6 +22604,7 @@ msFilterList
 +d capitalgazette.com
 +d carrollcountytimes.com
 +d chicagotribune.com
++d chroniclelive.co.uk
 +d citypaper.com
 +d cnet.com
 +d courant.com
@@ -22600,13 +22616,16 @@ msFilterList
 +d financialpost.com
 +d gofugyourself.com
 +d hearthhead.com
++d ibtimes.com
 +d infinitiev.com
 +d latimes.com
 +d leaderpost.com
 +d lifewire.com
 +d lolking.net
 +d mcall.com
++d metacritic.com
 +d montrealgazette.com
++d msn.com
 +d nasdaq.com
 +d nationalpost.com
 +d orlandosentinel.com
