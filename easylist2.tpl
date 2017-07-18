@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út čec 18 10:30:01 CEST 2017 ##################
+##### Aktualizováno: St čec 19 01:54:11 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10102,6 +10102,7 @@ msFilterList
 -d gojoingscnow.com
 -d gold-file.com
 -d gold-good4u.com
+-d gonomy.info
 -d goodadvert.ru
 -d goodadvertising.info
 -d goodluckblockingthis.com
@@ -12746,6 +12747,7 @@ msFilterList
 -d belwrite.com
 -d bip-bip-blip.com
 -d bipwrite.com
+-d bororango.com
 -d borotango.com
 -d cap-cap-pop.com
 -d catwrite.com
