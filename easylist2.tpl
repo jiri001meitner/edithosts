@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St čec 19 01:54:11 CEST 2017 ##################
+##### Aktualizováno: Ne čec 23 08:33:19 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1181,6 +1181,7 @@ msFilterList
 - /?view=ad
 - /_/ads/
 - /_30/ads/
+- /__adstop.
 - /_ads/
 - /_affiliatebanners/
 - /_global/ads/
@@ -2808,6 +2809,7 @@ msFilterList
 - /ads7/
 - /ads728.
 - /ads728adn2.
+- /ads728e.
 - /ads728x90_
 - /ads728x90a.
 - /ads790.
@@ -2984,7 +2986,6 @@ msFilterList
 - /adserve/
 - /adserve_
 - /adserver-
-- /adserver.
 - /adserver/
 - /adserver01.
 - /adserver1-
@@ -8209,6 +8210,7 @@ msFilterList
 -d abnad.net
 -d aboutads.quantcast.com
 -d abscontal.com
+-d absential.info
 -d abtracker.us
 -d accelacomm.com
 -d access-mc.com
@@ -8923,6 +8925,7 @@ msFilterList
 -d areasins.com
 -d areasnap.com
 -d arecio.work
+-d arrassley.info
 -d arti-mediagroup.com
 -d articulty.com
 -d as-farm.com
@@ -9224,6 +9227,7 @@ msFilterList
 -d c-planet.net
 -d c13b2beea116e.com
 -d c8.net.ua
+-d cabinsone.com
 -d callmd5map.com
 -d camleyads.info
 -d campanja.com
@@ -9506,6 +9510,7 @@ msFilterList
 -d curtisfrierson.com
 -d cwkuki.com
 -d cwtrackit.com
+-d cxmedia.co
 -d cybmas.com
 -d cygnus.com
 -d czasnaherbate.info
@@ -9844,6 +9849,7 @@ msFilterList
 -d especifican.com
 -d essayads.com
 -d essaycoupons.com
+-d estantiale.com
 -d estorest.com
 -d et-code.ru
 -d etah6wu.top
@@ -10502,6 +10508,7 @@ msFilterList
 -d laim.tv
 -d lakequincy.com
 -d lakidar.net
+-d lamalama.top
 -d landelcut.com
 -d langosh.biz
 -d lanistaconcepts.com
@@ -11004,6 +11011,7 @@ msFilterList
 -d onclasrv.com
 -d onclickads.net
 -d onclickmax.com
+-d onclickpulse.com
 -d onclkds.com
 -d onedmp.com
 -d onenetworkdirect.com
@@ -11061,6 +11069,7 @@ msFilterList
 -d oskale.ru
 -d ospreymedialp.com
 -d osuq4jc.com
+-d othere.info
 -d othersonline.com
 -d ourbanners.net
 -d ourunlimitedleads.com
@@ -11137,6 +11146,7 @@ msFilterList
 -d perfectmarket.com
 -d perfoormapp.info
 -d performance-based.com
+-d performanceadexchange.com
 -d performanceadvertising.mobi
 -d performancetrack.info
 -d performancingads.com
@@ -11337,6 +11347,7 @@ msFilterList
 -d puserving.com
 -d push2check.com
 -d pussl11.com
+-d pussl4.com
 -d putrr2.com
 -d putrr3.com
 -d putrr4.com
@@ -11763,6 +11774,7 @@ msFilterList
 -d statsmobi.com
 -d stealthlockers.com
 -d steepto.com
+-d stencef.com
 -d step-step-go.com
 -d stickcoinad.com
 -d stickyadstv.com
@@ -12753,6 +12765,7 @@ msFilterList
 -d catwrite.com
 -d centwrite.com
 -d cold-cold-freezing.com
+-d crickwrite.com
 -d data-data-vac.com
 -d del-del-ete.com
 -d dit-dit-dot.com
@@ -12776,12 +12789,14 @@ msFilterList
 -d parwrite.com
 -d raz-raz-mataz.com
 -d razwrite.com
+-d rick-rick-rob.com
 -d tek-tek-trek.com
 -d tic-tic-bam.com
 -d tic-tic-toc.com
 -d tin-tin-win.com
 -d tlootas.org
 -d tok-dan-host.com
+-d tororango.com
 -d totifiquo.com
 -d tur-tur-key.com
 -d unoblotto.net
@@ -16377,6 +16392,7 @@ msFilterList
 -d sweetmedia.org
 -d sweetstudents.com
 -d talk-blog.com
+-d tanil.info
 -d targetingnow.com
 -d targettrafficmarketing.net
 -d tarkita.ru
@@ -20072,7 +20088,6 @@ msFilterList
 -d hltv.org //images/csgofastsky.png
 -d hltv.org //images/retina/
 -d hltv.org /images/csLucky.swf
--d hltv.org /retina2.php
 -d hockeybuzz.com /mb/b?
 -d hollywoodbackwash.com /glam/
 -d holyfamilyradio.org /banners/
@@ -21264,7 +21279,11 @@ msFilterList
 -d radiowave.com.na /images/banners/
 -d radiowavesforum.com /rw/radioapp.gif
 -d radiozindagi.com /sponsors/
+-d ragezone.com /hfmed.png
 -d ragezone.com /output.php/
+-d ragezone.com /serve/www/
+-d ragezone.com /warlords.png
+-d ragezone.com /wp-content/uploads/*/HV-banner-300-200.jpg
 -d rainbowpages.lk /images/banners/
 -d rainiertamayo.com /js/*.js
 -d rapidfiledownload.com /btn-input-download.png
@@ -21736,6 +21755,8 @@ msFilterList
 -d technewsdaily.com /crime-stats/local_crime_stats.php
 -d technewsworld.com /images/sda/
 -d technomag.co.zw /TakeOverCampaign.
+-d techotopia.com /TechotopiaFiles/contextsky1.html
+-d techotopia.com /TechotopiaFiles/contextsky2.html
 -d techpowerup.com /images/bnnrs/
 -d techradar.com /img/*_takeover_
 -d techsupportforum.com /banners/
@@ -22741,6 +22762,7 @@ msFilterList
 +d infinitiev.com
 +d latimes.com
 +d leaderpost.com
++d legacy.com
 +d lifewire.com
 +d lolking.net
 +d mcall.com
@@ -22751,7 +22773,6 @@ msFilterList
 +d nationalpost.com
 +d orlandosentinel.com
 +d ottawacitizen.com
-+d pcmag.com
 +d ranker.com
 +d sandiegouniontribune.com
 +d saveur.com
@@ -23740,6 +23761,7 @@ msFilterList
 -d yumymilf.com /banners/
 -d yuvutu.com /banners/
 -d zazzybabes.com /misc/virtuagirl-skin.js
+- /ade/baloo.php
 +d youjizz.com /app/*.js
 +d youjizz.com /js/contentlist.js*.js
 +d youjizz.com /js/jquery.*.js
@@ -25761,6 +25783,7 @@ msFilterList
 +d universityherald.com /common/js/common/ads.js
 +d universityherald.com
 +d unlockpwd.com
++d up-4ever.com
 +d up-flow.org /advertisement.js
 +d upi.com
 +d upload.so
