@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út srp 22 16:59:42 CEST 2017 ##################
+##### Aktualizováno: St srp 23 08:01:38 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -21679,6 +21679,7 @@ msFilterList
 -d slashgear.com /static/banners/
 -d slayradio.org /images/c64audio.com.gif
 -d slyck.com /pics/*304x83_
+-d smallseotools.com /js/bioep.js
 -d smartcompany.com.au /images/stories/sponsored-posts/
 -d smartearningsecrets.com /FameThemes.png
 -d smartmoney.net -sponsor-
