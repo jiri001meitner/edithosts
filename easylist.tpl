@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 24 Aug 2017 16:00 UTC
+# Last modified: 25 Aug 2017 16:30 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -21757,7 +21757,6 @@ msFilterList
 -d file.org /fo/scripts/download_helpopt.js
 -d file.org /images/promo/
 -d file2hd.com /sweet.jpg
--d filecrypt.cc /js/license.*.js
 -d filedino.com /imagesn/downloadgif.gif
 # ||fileepic.com/download-$domain=media1fire.com
 -d filefactory.com /img/casinopilots/
@@ -24938,6 +24937,19 @@ msFilterList
 # @@||youtube.com/embed/$domain=xclusivejams.xyz
 # |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=xclusivejams.xyz
 # |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=xclusivejams.xyz
+# filecrypt.cc
++d filecrypt.cc /js/container.js*.js
++d filecrypt.cc /js/fcwindow.js*.js
++d filecrypt.cc /js/indexV2.js*.js
++d filecrypt.cc /js/indexV2_Plugin.js*.js
++d filecrypt.cc /js/prototype.js*.js
++d filecrypt.cc /js/scriptaculous/builder.js*.js
++d filecrypt.cc /js/scriptaculous/controls.js*.js
++d filecrypt.cc /js/scriptaculous/dragdrop.js*.js
++d filecrypt.cc /js/scriptaculous/effects.js*.js
++d filecrypt.cc /js/scriptaculous/scriptaculous.js*.js
++d filecrypt.cc /js/scriptaculous/slider.js*.js
+-d filecrypt.cc /js/*.js
 # auroravid.to
 # |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=auroravid.to
 # |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=auroravid.to

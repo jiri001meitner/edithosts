@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt srp 24 18:04:55 CEST 2017 ##################
+##### Aktualizováno: Pá srp 25 18:36:39 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -19853,7 +19853,6 @@ msFilterList
 -d file.org /fo/scripts/download_helpopt.js
 -d file.org /images/promo/
 -d file2hd.com /sweet.jpg
--d filecrypt.cc /js/license.*.js
 -d filedino.com /imagesn/downloadgif.gif
 -d filefactory.com /img/casinopilots/
 -d fileflyer.com /img/dap_banner_
@@ -22710,6 +22709,18 @@ msFilterList
 +d streamango.com /assets/js/video-js/*.js
 +d torrentproject.se /lazyload.js
 -d torrentproject.se .js
++d filecrypt.cc /js/container.js*.js
++d filecrypt.cc /js/fcwindow.js*.js
++d filecrypt.cc /js/indexV2.js*.js
++d filecrypt.cc /js/indexV2_Plugin.js*.js
++d filecrypt.cc /js/prototype.js*.js
++d filecrypt.cc /js/scriptaculous/builder.js*.js
++d filecrypt.cc /js/scriptaculous/controls.js*.js
++d filecrypt.cc /js/scriptaculous/dragdrop.js*.js
++d filecrypt.cc /js/scriptaculous/effects.js*.js
++d filecrypt.cc /js/scriptaculous/scriptaculous.js*.js
++d filecrypt.cc /js/scriptaculous/slider.js*.js
+-d filecrypt.cc /js/*.js
 +d imagetwist.com /bootstrap.min.js
 +d imagetwist.com /clipboard.min.js
 +d imagetwist.com /jquery-*.js
