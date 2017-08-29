@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po srp 28 10:54:41 CEST 2017 ##################
+##### Aktualizováno: Út srp 29 09:50:07 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -24441,6 +24441,7 @@ msFilterList
 +d google.com /_/apps-static/*/socialads/
 +d google.com /search?q=
 +d google.com /uds/modules/elements/newsshow/iframe.html?format=728x90/
++d googleapis.com /affiliation/*?key=
 +d gotoassist.com /images/ad/
 +d gotomeeting.com /images/ad/
 +d guardian4.com /banners/
@@ -24512,6 +24513,7 @@ msFilterList
 +d innovid.com /crossdomain.xml
 +d inserts2online.com .jsp?*&adid=
 +d inserts2online.com /images/site/viewad.gif
++d inspectrumapp.com /verified/
 +d inspire.net.nz /adverts/
 +d intellicast.com /App_Images/Ads/
 +d intellitxt.com /ast/js/nbcuni/*.js
