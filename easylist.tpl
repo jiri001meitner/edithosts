@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 29 Aug 2017 09:10 UTC
+# Last modified: 30 Aug 2017 19:50 UTC
 : Expires=4
 # Homepage: http://adblock.sk/
 #
@@ -609,7 +609,8 @@ msFilterList
 #Titulky.com!
 # @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
 #poradte.cz!
-+d poradte.cz
+# @@||poradte.cz^$elemhide
++d poradte.cz /js/ads.js
 #idnes.cz!
 # @@||bbelements.com$image,domain=idnes.cz
 # @@||bbelements.com/please/code$domain=idnes.cz

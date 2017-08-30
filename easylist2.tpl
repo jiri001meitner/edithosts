@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út srp 29 11:13:54 CEST 2017 ##################
+##### Aktualizováno: St srp 30 21:56:29 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -468,7 +468,7 @@ msFilterList
 +d i0.cz .js
 -d onetv.cz /js/fuckadblock.js
 -d manmagazin.sk /wp-content/uploads/*/*.js?ver=2.0.11
-+d poradte.cz
++d poradte.cz /js/ads.js
 - &act=ads_
 - &ad_box_
 - &ad_channel=
