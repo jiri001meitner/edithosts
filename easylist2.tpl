@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St srp 30 21:56:29 CEST 2017 ##################
+##### Aktualizováno: So zář 2 17:21:21 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -10512,6 +10512,7 @@ msFilterList
 -d jobtarget.com
 -d joytocash.com
 -d jque.net
+-d jqueryserve.com
 -d jqueryserver.com
 -d js.cdn.ac
 -d jscloud.org
@@ -18435,6 +18436,7 @@ msFilterList
 -d avatraffic.com /b/
 -d b.turbo.az
 -d babes.picrush.com
+-d bangdom.com
 -d banner.69stream.com
 -d banner.gasuki.com
 -d banner.resulthost.org
@@ -18483,7 +18485,6 @@ msFilterList
 -d camsrule.com /exports/
 -d cash.femjoy.com
 -d cdn.epom.com /940_250.gif
--d cdn13.com .js
 -d cdncache2-a.akamaihd.net
 -d cdnjke.com
 -d chaturbate.com /affiliates/
@@ -18693,6 +18694,7 @@ msFilterList
 -d rawtubelive.com /exports/
 -d realitykings.com /vbanners/
 -d red-tube.com /dynbanner.php?
+-d redzxxxtube.com
 -d resimler.randevum.com
 -d rexcams.com /misc/iframes_new/
 -d rotci.com /images/rotcibanner.png
@@ -24955,7 +24957,6 @@ msFilterList
 +d tv-kino.net /wp-content/themes/*/advertisement.js
 +d tvnz.co.nz /advertisement.js
 +d twinspires.com /php/
-+d twitch.tv
 +d twitvid.com /mediaplayer_*.swf?
 +d twofactorauth.org /img/
 +d twogag.com /comics/
@@ -25044,6 +25045,7 @@ msFilterList
 +d wrapper.teamxbox.com /a?size=headermainad
 +d www.facebook.com /ad.*/ajaxpipe/
 +d www.google.com /ads/preferences/
++d www.twitch.tv
 +d xbox.com /assets/ad/
 +d yahoo.com /combo?
 +d yahoo.net /1/adnetwork/
