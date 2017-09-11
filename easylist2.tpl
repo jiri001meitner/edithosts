@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So zář 2 17:21:21 CEST 2017 ##################
+##### Aktualizováno: Po zář 11 18:14:37 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -1283,6 +1283,7 @@ msFilterList
 - /ad-injection/
 - /ad-inserter/
 - /ad-int-
+- /ad-invalid-
 - /ad-issue.
 - /ad-label-
 - /ad-label.
@@ -2925,6 +2926,7 @@ msFilterList
 - /adsandtps/
 - /adsAPI.
 - /adsarticlescript.
+- /AdsAsync.
 - /adsatt.
 - /adsbanner-
 - /adsbanner.
@@ -3051,6 +3053,7 @@ msFilterList
 - /adsfolder/
 - /adsfooter-
 - /adsframe.
+- /adsfull/
 - /adsfuse-
 - /adsgame.
 - /adsGooglePP3.
@@ -5089,6 +5092,7 @@ msFilterList
 - /javascripts/ads/
 - /Javascripts/SBA-
 - /jcorner.php?partner=
+- /jetpack-ads/
 - /jitads.
 - /jivoxadplayer.
 - /jlist-affiliates/
@@ -8583,6 +8587,7 @@ msFilterList
 -d adprovi.de
 -d adprs.net
 -d adpushup.com
+-d adqic.com
 -d adquantix.com
 -d adquest3d.com
 -d adrcdn.com
@@ -20387,6 +20392,7 @@ msFilterList
 -d interest.co.nz _skin.
 -d interest.co.nz _skin_
 -d interfacelift.com /artistsvalley_160x90_
+-d international-property.countrylife.co.uk /js/search_widget.js
 -d international.to /600.html
 -d international.to /large.html
 -d international.to /link_unit.html
@@ -26252,6 +26258,7 @@ msFilterList
 +d marca.com
 +d megastar.fm /static/plugins/vjs/js/videojs.ads.js
 +d megatv.com /adverts.asp?
++d minhacontachevroletsf.com.br /CampaignImageProcessor.bon?*&BannerID=
 +d minuripsmed.ee /templates/*/images/advert.gif
 +d mjhobbymassan.se /r/annonser/
 +d mmgastro.pl /img/reklama/
