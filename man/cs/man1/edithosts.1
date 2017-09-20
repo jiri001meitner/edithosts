@@ -1,4 +1,4 @@
-.TH edithosts 1 "2017-03-31"
+.TH edithosts 1 "2017-09-20"
 
 .SH NAME
 edithosts\
@@ -21,34 +21,34 @@ ruční zápisy do souboru /etc/hosts:
 
 .SH DESCRIPTION
 .I edithosts
-	
+
 	je jednoduchá a účinná cesta k blokování reklamy a malware webů v operačním systému GNU/Linux.
 
 .PP
 Program se sám aktualizuje a uživatel se nemusí o nic starat.
 
 .SH EXAMPLE
-.TP 
+.TP
 .BR
 /opt/edithosts/uninstall.sh
 	slouží k odinstalaci programu a vrácení všech nastavení
 
-.TP 
+.TP
 .BR
 /opt/edithosts/autoupdate.sh
 		slouží ke kontrole aktualizací programu a k následné aktualizaci
 
-.TP 
+.TP
 .BR
 /opt/edithosts/edithosts.sh
 		slouží pro editaci uživatelské části /etc/hosts (části bez černé listiny, která je oddělená) ve vašem oblíbeném editoru.
 
-.TP 
+.TP
 .BR
 temporarilydisableblocking
 		slouží pro dočasnou deaktivaci blokování, ta je nastavena na 10 minut. Dočasnou deaktivaci můžete provést i napsáním prostého příkazu temporarilydisableblocking do terminálu. Trvalé blokování je možné také - stačí po zadání příkazu temporarilydisableblocking a potvrzením přes klávesu Enter stornovat reaktivaci blokování stisknutím Ctrlc+C (^C).
-	
-.TP	
+
+.TP
 .BR
 /opt/edithosts/refreshblocking.sh
 		slouží pro znovuaktivaci deaktivovaného blokování.

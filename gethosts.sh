@@ -38,7 +38,10 @@ cat "$temphosts3" "$temphostsipv6" | sort -u > "$temphostsipv4ipv6"
 echo -e "\n# Edithost updated this file at $(date)" | sudo cat /etc/hosts.d/hosts.conf - "$temphostsipv4ipv6" > /tmp/edithosts-hosts-block
 echo -e "\n# Blocked $(grep "0.0.0.0" /tmp/edithosts-hosts-block| wc -l) ipv4 and ipv6 domains" >> /tmp/edithosts-hosts-block
 rm "$temphosts1a" "$temphosts1b" "$temphosts2a" "$temphosts2b" "$temphosts3" "$whitelist" "$temphostsipv6" "$temphostsipv4ipv6"
-sudo cp /tmp/edithosts-hosts-block /etc/hosts
+
+grep -v '^0\.0\.0\.0$\|^::1$' < /tmp/edithosts-hosts-block > /tmp/edithosts-hosts
+
+sudo mv /tmp/edithosts-hosts /etc/hosts
 rm /tmp/edithosts-hosts-block
 
 echo "edithosts:Filters are up to date now."
