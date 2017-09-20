@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po zář 11 18:30:48 CEST 2017 ##################
+##### Aktualizováno: St zář 20 10:13:34 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -7226,6 +7226,7 @@ msFilterList
 - _assets/ads/
 - _background_ad.
 - _background_ad/
+- _banner-ad.
 - _banner_ad-
 - _banner_ad.
 - _banner_ad_
@@ -17788,6 +17789,7 @@ msFilterList
 -d news-whistleout.s3.amazonaws.com
 -d news.fark.com
 -d news.retire.ly
+-d news.smi2.ru
 -d newware.net /home/banner
 -d newware.net /home/newware-sm.png
 -d nimblecommerce.com /widget.action?
@@ -19929,6 +19931,8 @@ msFilterList
 -d foodingredientsfirst.com /content/banners/
 -d foodingredientsfirst.com /content/flash_loaders/loadlargetile.swf
 -d foodingredientsfirst.com /content/flash_loaders/loadskyscraper.swf
+-d fool.com /pitcher/
+-d fool.com /marketing/
 -d football-italia.net /imgs/moveyourmouse.gif
 -d footballshirtculture.com /images/e12b.jpg
 -d footballtradedirectory.com banner
@@ -24687,6 +24691,7 @@ msFilterList
 +d nytimes.com /ads/interstitial/skip*.gif
 +d nytimes.com /adx/images/ads/*_buynow_btn_53x18.gif
 +d nytimes.com /adx/images/ads/*_premium-crosswords_bg_600x329.gif
++d nytimes.com /ad-view-manager.js
 +d nytimes.perfectmarket.com
 +d oas.absoluteradio.co.uk /realmedia/ads/
 +d oas.absoluteradio.co.uk /www.absoluteradio.co.uk/player/
