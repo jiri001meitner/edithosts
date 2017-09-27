@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St zář 20 10:13:34 CEST 2017 ##################
+##### Aktualizováno: St zář 27 09:53:21 CEST 2017 ##################
 : Expires=4
 - .com/bannery/
 - .cz/BAN/
@@ -715,6 +715,7 @@ msFilterList
 - -advertising2-
 - -advertising_
 - -advertisment-
+- -advertorial.
 - -adverts.libs.
 - -adverts.min.
 - -affiliate-link.
@@ -2063,7 +2064,6 @@ msFilterList
 - /adflash.
 - /adflashes/
 - /adfliction-
-- /adflow.
 - /adfly/
 - /adfolder/
 - /adfootcenter.
@@ -3287,7 +3287,6 @@ msFilterList
 - /adtopmidsky.
 - /adtopright.
 - /adtopsky.
-- /adtrack.
 - /adtrack/
 - /adtracker.
 - /adtracker/
@@ -4079,6 +4078,7 @@ msFilterList
 - /channelblockads.
 - /checkm8footer_
 - /checkm8header_
+- /china-ad.
 - /chinaadclient.
 - /chitika-ad?
 - /chrome-ad.
@@ -5018,6 +5018,7 @@ msFilterList
 - /includes/ads/
 - /includes/ads_
 - /incmpuad.
+- /incotrading-ads/
 - /index-ad-
 - /index-ad.
 - /index_ad/
@@ -7202,6 +7203,7 @@ msFilterList
 - _advertising_iframe.
 - _advertisment.
 - _advertorial.
+- _advertorial/
 - _advertorial3.
 - _advertorial_
 - _advertorials/
@@ -7361,6 +7363,7 @@ msFilterList
 - _partner_ad.
 - _pcads_
 - _pchadtree.
+- _picsad_
 - _platform_ads.
 - _platform_ads_
 - _player_ads_
@@ -8281,6 +8284,7 @@ msFilterList
 -d accuserveadsystem.com
 -d acf-webmaster.net
 -d acronym.com
+-d acrossiblel.info
 -d actiondesk.com
 -d activedancer.com
 -d ad-back.net
@@ -8534,6 +8538,7 @@ msFilterList
 -d adnetworkme.com
 -d adnetworkperformance.com
 -d adnext.fr
+-d adnext.org
 -d adngin.com
 -d adnigma.com
 -d adnimation.com
@@ -8826,6 +8831,7 @@ msFilterList
 -d adxion.com
 -d adxpose.com
 -d adxpower.com
+-d adxprts.com
 -d adyoulike.com
 -d adyoz.com
 -d adz.co.zw
@@ -9959,6 +9965,7 @@ msFilterList
 -d expocrack.com
 -d expogrim.com
 -d exponential.com
+-d expresided.info
 -d expresswebtraffic.com
 -d extend.tv
 -d extra33.com
@@ -10163,6 +10170,7 @@ msFilterList
 -d giu9aab.bid
 -d gklmedia.com
 -d glaswall.online
+-d gleaminist.com
 -d glical.com
 -d global-success-club.net
 -d globaladmedia.com
@@ -10384,6 +10392,7 @@ msFilterList
 -d impressionperformance.biz
 -d impressionvalue.mobi
 -d in-appadvertising.com
+-d inadequal.com
 -d incentaclick.com
 -d incloak.com
 -d incomeliberation.com
@@ -10527,6 +10536,7 @@ msFilterList
 -d jsretra.com
 -d jssearch.net
 -d jtrakk.com
+-d jubna.com
 -d judicated.com
 -d juiceadv.com
 -d juiceadv.net
@@ -10678,6 +10688,7 @@ msFilterList
 -d localedgemedia.com
 -d localsearch24.co.uk
 -d lockerdome.com
+-d lockerdomecdn.com
 -d lockhosts.com
 -d lockscalecompare.com
 -d logo-net.co.uk
@@ -11228,6 +11239,7 @@ msFilterList
 -d peemee.com
 -d peer39.com
 -d peer39.net
+-d pejqoq4cafo3bg9yqqqtk5e6s6.com
 -d penuma.com
 -d pepperjamnetwork.com
 -d percularity.com
@@ -11443,7 +11455,9 @@ msFilterList
 -d purpleflag.net
 -d puserving.com
 -d push2check.com
+-d pussl10.com
 -d pussl11.com
+-d pussl28.com
 -d pussl4.com
 -d putrr2.com
 -d putrr3.com
@@ -11855,6 +11869,7 @@ msFilterList
 -d srx.com.sg
 -d ssl-services.com
 -d ssl2anyone4.com
+-d ssl4anyone5.com
 -d sslboost.com
 -d sslcheckerapi.com
 -d sta-ads.com
@@ -12135,6 +12150,7 @@ msFilterList
 -d truex.com
 -d trustx.org
 -d trygen.co.uk
+-d trymynewspirit.com
 -d trzi30ic.com
 -d ttzmedia.com
 -d tubberlo.com
@@ -12868,8 +12884,10 @@ msFilterList
 -d belwrite.com
 -d bip-bip-blip.com
 -d bipwrite.com
+-d bit-bork-boodle.com
 -d bob-bob-bobble.com
 -d bobblewrite.com
+-d boodlewrite.com
 -d bororango.com
 -d borotango.com
 -d cap-cap-pop.com
@@ -16803,6 +16821,7 @@ msFilterList
 -d affiliatesmedia.sbobet.com
 -d affiliation.filestube.com
 -d affiliation.fotovista.com
+-d affiliationjs.s3.amazonaws.com
 -d affutdmedia.com
 -d afimg.liveperson.com
 -d agenda.complex.com
@@ -16873,6 +16892,7 @@ msFilterList
 -d athena-ads.wikia.com
 -d atomicpopularity.com /dfpd.js
 -d augine.com /widget
+-d autodealer.co.za /inc/widget/
 -d autoprivileges.net /news/
 -d autotrader.ca /result/AutosAvailableListings.aspx?
 -d autotrader.co.za /partners/
@@ -17062,6 +17082,7 @@ msFilterList
 -d complexmedianetwork.com /js/cmnUNT.js
 -d comx-computers.co.za /banners/
 -d conduit.com //banners/
+-d connect.facebook.net /fbevents.js
 -d connect.summit.co.uk
 -d consolpub.com /weatherwindow/
 -d content.ad /GetWidget.aspx
@@ -18138,6 +18159,7 @@ msFilterList
 -d syndication.visualthesaurus.com /std/vtad.js
 -d syndication1.viraladnetwork.net
 -d tag.regieci.com
+-d tags.sprizzy.com
 -d tags2.adshell.net
 -d take2.co.za /misc/bannerscript.php?
 -d talkfusion.com /banners/
@@ -20471,6 +20493,7 @@ msFilterList
 -d johngaltfla.com /wordpress/wp-content/uploads/*/TB2K_LOGO.jpg
 -d joins.com /common/ui/ad/
 -d joomladigger.com /images/banners/
+-d jordantimes.com /accu/
 -d journal-news.net /annoyingpopup/
 -d journeychristiannews.com /images/banners/
 -d joursouvres.fr /pub_
@@ -20789,6 +20812,7 @@ msFilterList
 -d mediafire.re /popup.js
 -d mediafiretrend.com /ifx/ifx.php?
 -d mediafiretrend.com /turboflirt.gif
+-d mediamanager.co.za /img/banners/
 -d mediamgr.ugo.com
 -d mediaspanonline.com /images/buy-itunes.png
 -d mediaspanonline.com /inc.php?uri=/&bannerPositions=
@@ -22416,6 +22440,7 @@ msFilterList
 -d wantitall.co.za /images/banners/
 -d wardsauto.com /pm_doubleclick/
 -d warriorforum.com /vbppb/
+-d washingtonexaminer.com /house_creative.php
 -d washingtonpost.com /wp-srv/javascript/piggy-back-on-ads.js
 -d washpost.com /cmag_sponsor3.php?
 -d washtimes.com /js/dart.
@@ -22634,6 +22659,7 @@ msFilterList
 -d yellowpageskenya.com /images/laterals/
 -d yesbeby.whies.info
 -d yfmghana.com /images/banners/
+-d yifymovies.to /js/rx/yx.js
 -d yimg.com /cv/*/billboard/
 -d yimg.com /cv/*/config-object-html5billboardfloatexp.js
 -d yimg.com /flash/promotions/
@@ -24088,6 +24114,7 @@ msFilterList
 +d advertisingwouldbegreat.com .*.js
 +d adverts.cdn.tvcatchup.com
 +d advisory.mtanyct.info /outsideWidget/widget.html?*.adPlacement=
++d adxprts.com /ads.js*.js
 +d ae.amgdgt.com /crossdomain.xml
 +d affiliate.kickapps.com /crossdomain.xml
 +d affiliate.kickapps.com /service/
