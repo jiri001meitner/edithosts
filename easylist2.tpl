@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So led 20 15:52:29 CET 2018 ##################
+##### Aktualizováno: So led 20 23:43:13 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -11939,6 +11939,7 @@ msFilterList
 -d showyoursite.com
 -d shqads.com
 -d siamzone.com
+-d signout.website
 -d silence-ads.com
 -d silstavo.com
 -d silverads.net
@@ -14596,6 +14597,7 @@ msFilterList
 -d hhwqfmqyqoks.com
 -d higygtvnzxad.com
 -d hilkfxdqxzac.com
+-d hixuxtufzqcq.com
 -d hjeoncuvklqh.com
 -d hjukmfdbryln.com
 -d hjvdkrjmxngg.com
@@ -20940,6 +20942,7 @@ msFilterList
 -d freeappaday.com /nimgs/bb/
 -d freemediatv.com /images/inmemoryofmichael.jpg
 -d freeminecraft.me /mw3.png
+-d freemoviestream.xyz /wp-content/uploads/
 -d freenode.net /images/ack_privateinternetaccess-freenode.png
 -d freenode.net /images/freenode_osuosl.png
 -d freepornsubmits.com /ads/
