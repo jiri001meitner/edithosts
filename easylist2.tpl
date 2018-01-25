@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne led 21 01:21:41 CET 2018 ##################
+##### Aktualizováno: Čt led 25 21:39:54 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -85,6 +85,7 @@ msFilterList
 -d centrum.cz /design/akt3/o/ads/
 -d cn130.com /wp-content/uploads/an-temp/
 -d count.flashx.tv
+- http://cryweb.github.io
 -d cviceni-doma.cz /images/*banner
 -d cztorrent.net /images/bannery/
 -d d.lookit.cz /vv.js
@@ -4075,6 +4076,7 @@ msFilterList
 - /buysellads.
 - /buzz/ads/
 - /bytemark_ad.
+- /c_ad.aspx?
 - /cache/ads_
 - /cactus-ads/
 - /cads-min.js
@@ -6004,6 +6006,7 @@ msFilterList
 - /rtb/worker.php?
 - /rule34/ads/
 - /rule34v2/ads/
+- /s_ad.aspx?
 - /sadasds.js
 - /safead/
 - /sailthru.js
@@ -6661,6 +6664,7 @@ msFilterList
 - /VXLayerAd-
 - /w/ads/
 - /w/d/capu.php?z=*.js
+- /w_ad.aspx?
 - /waframedia16.
 - /wahoha.
 - /wallpaper_ads/
@@ -7547,6 +7551,7 @@ msFilterList
 - /b3.php?*=*.js
 - /backend_loader.php*.js
 - /bl.php?*=*.js
+- /exbl.php?
 - /floader.js*.js
 - /frontend_loader.js*.js
 - /scripts/sweet/*.js
@@ -9607,6 +9612,7 @@ msFilterList
 -d collection-day.com
 -d collective-media.net
 -d colliersads.com
+-d com-wkejf32ljd23409system.net
 -d combotag.com
 -d comclick.com
 -d comeadvertisewithus.com
@@ -11565,6 +11571,7 @@ msFilterList
 -d prickac.com
 -d prigmaperf.me
 -d primaryads.com
+-d prime535.com
 -d pritesol.com
 -d privilegebedroomlate.xyz
 -d prizel.com
@@ -12516,6 +12523,7 @@ msFilterList
 -d vindicosuite.com
 -d vinterrals.info
 -d vipquesting.com
+-d viralcpm.com
 -d viralmediatech.com
 -d visiads.com
 -d visiblegains.com
@@ -13981,6 +13989,7 @@ msFilterList
 -d aiiaqehoqgrj.com
 -d aiypulgy.com
 -d ajaeihzlcwvn.com
+-d ajfziqehnwvz.com
 -d ajgffcat.com
 -d ajmggjgrardn.com
 -d ajxftwwmlinv.com
@@ -14045,6 +14054,7 @@ msFilterList
 -d baiaclwdpztd.com
 -d bajofdblygev.com
 -d batigfkcbwpb.com
+-d bauffnmtou.com
 -d bayvlsmaahou.com
 -d bbheuxcancwj.com
 -d bbjlsdqhpbuqaspgjyxaobmpmzunjnvqmahejnwwvaqbzzqodu.com
@@ -14121,6 +14131,7 @@ msFilterList
 -d bvobtmbziccr.com
 -d bvyoekxfjwpa.com
 -d bvzjhnqrypiv.com
+-d bwoefrhtycp.com
 -d bwpqqofejekh.com
 -d bwyckpmsolzk.com
 -d bxoixzbtllwx.com
@@ -14354,6 +14365,7 @@ msFilterList
 -d emdbszgmxggo.com
 -d emirdzzvhviv.com
 -d emrumkgmdmdq.com
+-d emvdlnwph.com
 -d enfhddbnariw.com
 -d enfupatujiqb.com
 -d enhwftpkwvnb.com
@@ -14446,6 +14458,7 @@ msFilterList
 -d fqkcdhptlqma.com
 -d fqmxwckinopg.com
 -d fqovfxpsytxf.com
+-d fqpfvqpptch.com
 -d fqpteozo.com
 -d frczfzikturw.com
 -d frddujheozns.com
@@ -14729,6 +14742,7 @@ msFilterList
 -d isqgobsgtqsh.com
 -d itbiwlsxtigx.com
 -d itevcsjvtcmb.com
+-d iuhzosuy.club
 -d iupqelechcmj.com
 -d iuymaolvzery.com
 -d ivkasohqerzl.com
@@ -14884,6 +14898,7 @@ msFilterList
 -d klfqffhvdpkd.com
 -d klmvharqoxdq.com
 -d klrdsagmuepg.com
+-d klurrmvbqrhrwc.com
 -d kmdwifcjtbk.bid
 -d kmtubsbmwdep.com
 -d kmveerigfvyy.com
@@ -15421,6 +15436,7 @@ msFilterList
 -d qixlpaaeaspr.com
 -d qjmearsroiyn.com
 -d qjskosdsxanp.com
+-d qkarmotdhhgeuy.com
 -d qkdywnhtmpgc.com
 -d qklhtphiphni.com
 -d qknuubmfneib.com
@@ -15548,6 +15564,7 @@ msFilterList
 -d rxsazdeoypma.com
 -d rxuqpktyqixa.com
 -d rylnirfbokjd.com
+-d ryxpmonwqeg.com
 -d rzcmcqljwxyy.com
 -d rzgiiioqfpny.com
 -d sagulzuyvybu.com
@@ -15769,6 +15786,7 @@ msFilterList
 -d ukjzdydnveuc.com
 -d ukolwxqopahb.com
 -d ukxeudykhgdi.com
+-d ulbriabm.com
 -d ulffbcunqnpv.com
 -d uloywtmpqskx.com
 -d ulpxnhiugynh.com
@@ -16987,6 +17005,7 @@ msFilterList
 -d forkitz.com
 -d freakads.com
 -d free-porn-vidz.com
+-d freewebfonts.org
 -d frestacero.com
 -d frestime.com
 -d frivol-ads.com
@@ -17063,6 +17082,7 @@ msFilterList
 -d icqadvert.org
 -d ictowaz.ru
 -d ideal-sexe.com
+-d idealgasm.com
 -d idolbucks.com
 -d igiplay.net
 -d igithab.com
@@ -17417,6 +17437,7 @@ msFilterList
 -d socialsexnetwork.net
 -d solutionsadultes.com
 -d sortow.ru
+-d spankmasters.com
 -d spcwm.com
 -d spunkycash.com
 -d squeeder.com
@@ -17931,6 +17952,7 @@ msFilterList
 -d carbiz.in /affiliates-and-partners/
 -d careerjunction.co.za /widgets/
 -d careerjunction.co.za /widget?
+-d careerwebsite.com /distrib_pages/jobs.cfm?
 -d carfax.com /img_myap/
 - http://cas.*.criteo.com/
 -d cas.clickability.com
@@ -23599,6 +23621,7 @@ msFilterList
 -d wwbf.com /b/topbanner.htm
 -d wwd.com /delivery.js
 -d www2.sys-con.com .cfm
+-d wxug.com /sourcepoint/*.js
 -d x.castanet.net
 -d xbitlabs.com /cms/module_banners/
 -d xbitlabs.com /images/banners/
@@ -24100,6 +24123,8 @@ msFilterList
 -d boneprone.com /premium.html
 -d boobieblog.com /submityourbitchbanner3.jpg
 -d boobieblog.com /TilaTequilaBackdoorBanner2.jpg
+-d bos.so /icloud9.html
+-d bos.so /peddlar/
 -d bralesscelebs.com banner
 -d bralesscelebs.com /160x600hcp.gif
 -d bralesscelebs.com /160x600ps.gif
@@ -24170,6 +24195,9 @@ msFilterList
 -d eccie.net /eros/
 -d eegay.com /php/*.php*.js
 -d eegay.com /Scripts/nxpop.js
+-d efukt.com /affiliates/
+-d efukt.com /js/3rdparty.js
+-d efukt.com /menu/
 -d egoporn.com /themagic.js
 -d egoporn.com /videotop.gif
 -d empflix.com /embedding_player/600x474_
@@ -24211,6 +24239,7 @@ msFilterList
 -d freebunker.com /pops.js
 -d freebunker.com /raw.js
 -d freeimgup.com /xxx/content/system/js/iframe.html
+-d freeones.com /banners/
 -d freeporn.to /wpbanner/
 -d freeporninhd.com /images/cbside.
 -d freeporninhd.com /images/cbzide.
@@ -24368,7 +24397,6 @@ msFilterList
 -d imperia-of-hentai.net /banner/
 -d indexxx.com /banners/
 -d inhumanity.com /cdn/affiliates/
--d int.anon-ib.co
 -d intporn.com /21s.js
 -d intporn.com /asma.js
 -d intporn.org /scripts/asma.js
@@ -24405,7 +24433,9 @@ msFilterList
 -d lucidsponge.pl /pop_
 -d lukeisback.com /images/boxes/
 -d lukeisback.com /250.gif
+-d luscious.net /lamia205.
 -d luscious.net /luscious.
+-d luscious.net /revive.
 -d lw1.cdmediaworld.com
 -d madmovs.com /rec/
 -d madthumbs.com /madthumbs/sponsor/
@@ -24482,6 +24512,7 @@ msFilterList
 -d onlinestars.net /br/
 -d openjavascript.com /jtools/jads.
 -d oporn.com /js/wspop.js
+-d orgyxxxhub.com /js/advobj.js
 -d ox2.pron.tv
 -d paradisehill.cc /assets/bae8a07d/
 -d partners.keezmovies.com
@@ -24759,6 +24790,7 @@ msFilterList
 -d the-analist.info 150x150
 -d the-feeding-tube.com /Topbanner.php
 -d thefappeningblog.com /icloud9.html
+-d thefappeningblog.com /sproject/
 -d thehun.net /banners/
 -d thenewporn.com /js/adpthenewporn
 -d thenipslip.com /GGWDrunkenAd.jpg
@@ -25804,6 +25836,7 @@ msFilterList
 +d remo-xp.com /wp-content/themes/adsense-boqpod/style.css
 +d replgroup.com /banners/
 +d revit.eu /static/uploads/images/themes/banners/small-banner-
++d rewarded.club .js
 +d rmncdn.com /ads/mini-
 +d rockpapershotgun.com
 +d rosauers.com /locations/ads.html
@@ -27254,6 +27287,7 @@ msFilterList
 +d hisse.net
 +d honfoglalo.hu /aagetad.php?
 +d hry.cz /ad/adcode.js
++d il.timetoknow.com /lms/8.15.0.6/js/advertisement.js
 +d isanook.com /vi/0/js/ads-*.js
 +d izigo.pt /AdPictures/
 +d izigo.pt /adsearch?
