@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt led 25 22:14:39 CET 2018 ##################
+##### Aktualizováno: Ne led 28 01:31:14 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -3439,6 +3439,7 @@ msFilterList
 - /advcounter.
 - /advdl.
 - /advdoc/
+- /advelvet-
 - /advengine.
 - /adver-left.
 - /adver_hor.
@@ -4060,6 +4061,7 @@ msFilterList
 - /buddyw_ad.
 - /buildAdfoxBanner.
 - /buildAdriverBanner.
+- /bundle/ads.
 - /bundles/Ad/
 - /bunyad_
 - /burt/adv_
@@ -5948,6 +5950,7 @@ msFilterList
 - /retrad.
 - /retrieve-ad.
 - /revboostprocdnadsprod.
+- /revcontent.
 - /revealaads.
 - /revealaads/
 - /revealads.
@@ -9627,6 +9630,7 @@ msFilterList
 -d conduit-banners.com
 -d conduit-services.com
 -d conferentse.com
+-d conflibred.co
 -d connatix.com
 -d connectedads.net
 -d connectignite.com
@@ -12539,6 +12543,7 @@ msFilterList
 -d vogosita.com
 -d vogozaw.ru
 -d vpico.com
+-d vrtzads.com
 -d vs20060817.com
 -d vs4entertainment.com
 -d vs4family.com
@@ -12791,6 +12796,135 @@ msFilterList
 -d zxxds.net
 -d zyiis.net
 -d zypenetwork.com
+-d adglob.asia
+-d affroba.net
+-d afriflatry.co
+-d afvcugqaulh.co
+-d aggeneyer.co
+-d ationsity.com
+-d aution.pro
+-d automoc.net
+-d awakinatters.co
+-d baltchd.net
+-d bellissimome.pro
+-d blisldgsqk.com
+-d bravome.pro
+-d brazienting.co
+-d breeringarify.co
+-d broced.co
+-d buonome.pro
+-d busions.com
+-d cabirm.com
+-d categy.co
+-d chiptionics.co
+-d chness.co
+-d ckivxgxgqknk.com
+-d clifftopper.com
+-d conceau.co
+-d conflibred.co
+-d contratellaps.com
+-d coolandevencooler.com
+-d cpmgohigh.com
+-d crewita.co
+-d cruisteerses.co
+-d cwkhyupiwzcjy.com
+-d darersan.co
+-d deliverylizer.com
+-d deliverytaste.com
+-d despearingle.co
+-d dohillright.com
+-d donecooler.com
+-d exchange.automoc.net
+-d exclusivecpms.com
+-d explanse.co
+-d explater.net
+-d fabrativellic.co
+-d fcrgzqkbtgu.co
+-d fielerac.net
+-d finimbratedle.com
+-d fleconomnipuer.com
+-d foreinate.com
+-d galaxyleaders.com
+-d gohillgo.com
+-d goupandhigher.com
+-d graphli.net
+-d gxwoiiyfjiz.com
+-d happer.info
+-d hfedxxuvtjtqs.com
+-d hgjywrorlbn.com
+-d hicaptivided.com
+-d hillpl.com
+-d hilltopads.net
+-d hlfjgurbaln.com
+-d hothta.com
+-d houssimmon.co
+-d htalizer.com
+-d htamaster.com
+-d htmonster.com
+-d huccrlctmgifs.com
+-d imanisfan.com
+-d inchte.com
+-d johays.co
+-d juryintory.co
+-d lativil.co
+-d lengthi.net
+-d lightspeedtop.com
+-d methernary.com
+-d motosal.net
+-d niajmtjqexq.co
+-d nottonic.com
+-d operatedelivery.com
+-d oratess.com
+-d ormeadobess.com
+-d panection.co
+-d papectorigury.co
+-d parater.co
+-d patiland.co
+-d perfectome.pro
+-d personaleme.pro
+-d pistraving.co
+-d pitics.co
+-d plemencomp.co
+-d populatecpm.com
+-d poterrupte.co
+-d prectic.co
+-d premender.co
+-d printelly.co
+-d proccurs.com
+-d purpreine.co
+-d qpernrqxjfto.com
+-d qqatllrijx.com
+-d quilithly.co
+-d rapidyl.net
+-d recusticks.co
+-d redemotoructs.co
+-d reimburs.co
+-d replainy.co
+-d reundcwkqvctq.com
+-d saillix.com
+-d shmential.co
+-d skyligh.co
+-d solegingly.co
+-d sommons.co
+-d souncontrigh.com
+-d substerrent.co
+-d surmoss.co
+-d susection.co
+-d sworatio.co
+-d temphilltop.com
+-d temphilltop.net
+-d thogethoffic.co
+-d thomized.co
+-d trobely.co
+-d typieced.com
+-d unaiablmgsz.com
+-d vulgiatious.com
+-d wanaldster.com
+-d whitud.co
+-d wicktrown.co
+-d xleebhxalb.com
+-d ywtjdckysve.com
+-d zbwttofskjnc.com
 -d 04v70ab.com
 -d 1yme78h.com
 -d 2p9fyvx.com
@@ -13741,6 +13875,8 @@ msFilterList
 -d tororango.com
 -d totifiquo.com
 -d tur-tur-key.com
+-d uel-uel-fie.com
+-d uelllwrite.com
 -d unoblotto.net
 -d vacwrite.com
 -d vip-vip-vup.com
@@ -14208,6 +14344,7 @@ msFilterList
 -d cqbabfsyfqse.com
 -d cqbphspgvhuk.com
 -d cqoyvpldkmqt.com
+-d creyboif.bid
 -d crkgtnad.com
 -d croxdfrdjfnt.com
 -d crpiucewddag.com
@@ -14500,6 +14637,7 @@ msFilterList
 -d gbwrjyntqsvr.com
 -d gcboyhlfqxhc.com
 -d gdekvzhsqwau.com
+-d gdhlysucwzyzu.com
 -d gdixpvfqbhun.com
 -d gdpuknsngvps.com
 -d geazikjazoid.com
@@ -14579,6 +14717,7 @@ msFilterList
 -d gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com
 -d gzkoehgbpozz.com
 -d gzmofmqddajr.com
+-d gzozvhryjcf.com
 -d gzpqlbqyerpb.com
 -d gzumjmvqjkki.com
 -d hafbezbemwwd.com
@@ -15044,6 +15183,7 @@ msFilterList
 -d mbajaazbqdzc.com
 -d mbfvfdkawpoi.com
 -d mbgvhfotcqsj.com
+-d mbrxgolis.com
 -d mbvmecdlwlts.com
 -d mcagbtdcwklf.com
 -d mdeaoowvqxma.com
@@ -15092,6 +15232,7 @@ msFilterList
 -d mmknsfgqxxsg.com
 -d mmnridsrreyh.com
 -d mmojdtejhgeg.com
+-d mmshbwtpx.com
 -d mmvcmovwegkz.com
 -d mmygcnboxlam.com
 -d mnjgoxmx.com
@@ -15266,6 +15407,7 @@ msFilterList
 -d okvfijgdmqton.bid
 -d okvmsjyrremu.com
 -d olctpejrnnfh.com
+-d olkxzkbonvau.bid
 -d olthlikechgq.com
 -d olwopczjfkng.com
 -d ompzowzfwwfc.com
@@ -15382,6 +15524,7 @@ msFilterList
 -d pshcqtizgdlm.com
 -d psmlgjalddqu.com
 -d psrbrytujuxv.com
+-d ptblqwjz.com
 -d ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com
 -d ptoflpqqqkdk.com
 -d ptvjsyfayezb.com
@@ -15556,6 +15699,7 @@ msFilterList
 -d ruoypiedfpov.com
 -d ruzttiecdedv.com
 -d rvoxndszxwmo.com
+-d rvvslhmmbor.com
 -d rvzudtgpvwxz.com
 -d rweqvydtzyre.com
 -d rwtvvdspsbll.com
@@ -15571,6 +15715,7 @@ msFilterList
 -d sailznsgbygz.com
 -d saipuciruuja.com
 -d sajhiqlcsugy.com
+-d salhbbkvs.com
 -d samlmqljptbd.com
 -d sapvummffiay.com
 -d sauispjbeisl.com
@@ -15776,6 +15921,7 @@ msFilterList
 -d uilknldyynwm.com
 -d uipjeyipoumf.com
 -d ujdctbsbbimb.com
+-d ujjotriglqpkjh.com
 -d ujocmihdknwj.com
 -d ujqafhcsrhyz.com
 -d ujqbxbcqtbqt.com
@@ -16010,6 +16156,7 @@ msFilterList
 -d wtvyenir.com
 -d wtxoicsjxbsj.com
 -d wuldwvzqvqet.com
+-d wuqdebjfhjas.bid
 -d wvljugmqpfyd.com
 -d wvqqugicfuac.com
 -d wwgdpbvbrublvjfbeunqvkrnvggoeubcfxzdjrgcgbnvgcolbf.com
@@ -16018,6 +16165,7 @@ msFilterList
 -d wxdtvssnezam.com
 -d wxjqyqvagefw.com
 -d wxonmzkkldhu.com
+-d wxwxpxtoqmipif.com
 -d wxxfcyoaymug.com
 -d wydwkpjomckb.com
 -d wylnauxhkerp.com
@@ -16227,6 +16375,7 @@ msFilterList
 -d zmxcefuntbgf.com
 -d zmytwgfd.com
 -d znmrgzozlohe.com
+-d znnmzggbw.com
 -d znvctmolksaj.com
 -d zohaqnxwkvyt.com
 -d zoileyozfexv.com
@@ -25667,6 +25816,7 @@ msFilterList
 +d mlive.com /static/common/js/ads/ads.js
 +d mobilefish.com /scripts/advertisement.js
 +d mobinozer.com /gads.js
++d modaresearch.it /uk/pcss/adverts.css?
 +d mofunzone.com /ads/ima3_preloader_*.swf
 +d monster.com /awm/*/ADVERTISING-
 +d movoto.com /LeaderboardAd.aspx?adSpotName=
