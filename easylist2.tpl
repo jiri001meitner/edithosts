@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So úno 24 20:47:38 CET 2018 ##################
+##### Aktualizováno: Po úno 26 02:17:48 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -3639,6 +3639,7 @@ msFilterList
 - /adyard300.
 - /adyea.
 - /adyoulike.
+- /adzbanner/
 - /adzbotm.
 - /adzerk2_
 - /adzilla/
@@ -9367,7 +9368,6 @@ msFilterList
 -d bnserving.com
 -d bogads.com
 -d bokroet.com
--d bondinra.com
 -d bonusfapturbo.com
 -d bonzai.ad
 -d boo-box.com
@@ -11321,6 +11321,7 @@ msFilterList
 -d octagonize.com
 -d oehposan.com
 -d offeradvertising.biz
+-d offerenced.com
 -d offerforge.com
 -d offerpalads.com
 -d offerserve.com
@@ -12505,6 +12506,7 @@ msFilterList
 -d ughus.com
 -d uglyst.com
 -d uhappine.com
+-d uharded.com
 -d uiadserver.com
 -d uiqatnpooq.com
 -d ujieva.com
@@ -15124,6 +15126,7 @@ msFilterList
 -d dxiixnrumvni.com
 -d dxkhboqrrimy.bid
 -d dxokxbrfl.bid
+-d dxtveuux.com
 -d dxurtngzawwe.com
 -d dyazeqpeoykf.com
 -d dyerbegytfkj.com
@@ -15326,6 +15329,7 @@ msFilterList
 -d exnyzdboihvi.com
 -d eydiuqpdtfew.com
 -d eylyitpslpqu.com
+-d ezbbxqocxnto.com
 -d ezbtpdjeimlv.com
 -d ezemyudhkzvx.com
 -d ezhkfxskimqnqk.com
@@ -15338,6 +15342,7 @@ msFilterList
 -d faoxietqwbmu.com
 -d farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
 -d fatayvywbebgdn.com
+-d fbafbbujy.com
 -d fbbjlubvwmwd.com
 -d fcjhxlybaiab.com
 -d fcjnqpkrdglw.com
@@ -15705,6 +15710,7 @@ msFilterList
 -d ikvltjooosqh.com
 -d ikvuvztmvvro.bid
 -d ilakffljjdpwb.com
+-d illizuqkdqjobt.com
 -d ilrxikdjozlk.com
 -d ilsivrexvpyv.com
 -d ilvibsabwuza.com
@@ -15758,6 +15764,7 @@ msFilterList
 -d ixzhwyuxxvxb.com
 -d ixznwuxokydz.com
 -d iydghotpzofn.com
+-d iygdvith.com
 -d izhvnderudte.com
 -d iziwhlafxitn.com
 -d izixtxrvogaq.com
@@ -15794,6 +15801,7 @@ msFilterList
 -d jfaqiomgvajb.com
 -d jffwwuyychxw.com
 -d jfribvstvcqy.com
+-d jfxjpswhcwwq.com
 -d jgophcykrckik.com
 -d jgqkrvjtuapt.com
 -d jgrcggutsilp.com
@@ -16035,6 +16043,7 @@ msFilterList
 -d lhekiqlzatfv.com
 -d lhttyvdxvgjrdp.com
 -d lhuqalcxjmtq.com
+-d ligabklr.com
 -d liosawitskzd.com
 -d liqbipkfbafq.com
 -d lixzmpxjilqp.com
@@ -16797,6 +16806,7 @@ msFilterList
 -d psvdblzcgnjj.com
 -d pswlvlauz.bid
 -d psxnwzksttygfs.com
+-d psygnjvrd.com
 -d ptblqwjz.com
 -d ptgiweiu.com
 -d ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com
@@ -17039,6 +17049,7 @@ msFilterList
 -d qxgoedqwr.bid
 -d qxnniyuuaxhv.com
 -d qxqtejyqkypfz.bid
+-d qxvnvbkcm.com
 -d qxxyzmukttyp.com
 -d qydpcilzljej.bid
 -d qyghwcrjaw.bid
@@ -17159,6 +17170,7 @@ msFilterList
 -d rnrbvhaoqzcksxbhgqtrucinodprlsmuvwmaxqhxngkqlsiwwp.com
 -d rnyuhkbucgun.com
 -d roksnfmaydlo.com
+-d ronrmbrrhqdwh.com
 -d rpczohkv.com
 -d rpspeqqiddjm.com
 -d rpulxcwmnuxi.com
@@ -17207,6 +17219,7 @@ msFilterList
 -d salhbbkvs.com
 -d samlmqljptbd.com
 -d sapvummffiay.com
+-d satjrvwtaertn.com
 -d sauispjbeisl.com
 -d sbdedksgqu.com
 -d sbftffngpzwt.com
@@ -17780,6 +17793,7 @@ msFilterList
 -d uzbciwrwzzhs.com
 -d uzesptwcwwmt.com
 -d uzkkocgdasr.bid
+-d uzmmpskwon.com
 -d uzqtaxiorsev.com
 -d uzreuvnlizlz.com
 -d uzsywcdthqplzv.bid
@@ -18057,6 +18071,7 @@ msFilterList
 -d webwagssicx.bid
 -d weckosoew.bid
 -d weekwkbulvsy.com
+-d wegbgideb.com
 -d wehtkuhlwsxy.com
 -d welzgxwtvto.bid
 -d wembbuue.com
@@ -18085,6 +18100,7 @@ msFilterList
 -d whsjufifuwkw.com
 -d whsldqctrvuk.com
 -d whuvrlmzyvzy.com
+-d whxhegjrqlddko.com
 -d whyawcjjcoexo.bid
 -d whzbmdeypkrb.com
 -d wibvytsxrm.bid
@@ -18098,6 +18114,7 @@ msFilterList
 -d wirfpvmoblpa.com
 -d wizejdnlqwcb.com
 -d wjdjovjrxsqx.com
+-d wjkwjcmeymu.com
 -d wjnkvhlgvixx.com
 -d wkexsfmw.com
 -d wkfcadtuljnesp.bid
@@ -18724,6 +18741,7 @@ msFilterList
 -d zoowknbw.com
 -d zowhxkwzjpta.com
 -d zpctncydojjh.com
+-d zpfjfwbij.com
 -d zpkebyxabtsh.com
 -d zpkobplsfnxf.com
 -d zpmbsivi.com
@@ -18840,6 +18858,7 @@ msFilterList
 -d yaramol.info
 -d yatnozin.info
 -d zhinkichi.info
+-d acrabakasaka.com
 -d ajkelra.com
 -d akailoparzapi.com
 -d alabardak.com
@@ -18847,6 +18866,7 @@ msFilterList
 -d avalhukof.com
 -d badokal.com
 -d bahaimlo.com
+-d banomago.com
 -d bapalolo.com
 -d bapaquac.com
 -d beglorena.com
@@ -18862,7 +18882,6 @@ msFilterList
 -d chukalorqa.com
 -d ciridola.com
 -d civitik.com
--d d.mojigaga.com
 -d dagasaka.com
 -d daghashmal.com
 -d dbvault.net
@@ -18904,6 +18923,7 @@ msFilterList
 -d kulkaridoopi.com
 -d kulkerbolda.com
 -d kullalabulla.com
+-d kurlikburlik.com
 -d liktirov.com
 -d lokipodi.com
 -d maokdata.com
@@ -25159,23 +25179,6 @@ msFilterList
 -d strategypage.com _banner
 -d stream.heavenmedia.net
 -d stream1.estream.to .js
--d stream2watch.co /_frames/hd2.png
--d stream2watch.co /frames/
--d stream2watch.co /images/hd1.png
--d stream2watch.co /images/hdhd.gif
--d stream2watch.co _ad_
--d stream2watch.me /600pick.png
--d stream2watch.me /900rev.html
--d stream2watch.me /900yahoo.html
--d stream2watch.me /ad.html
--d stream2watch.me /ad10.html
--d stream2watch.me /chat1.html
--d stream2watch.me /eadb.php
--d stream2watch.me /eadt.php
--d stream2watch.me /ed
--d stream2watch.me /images/hd1.png
--d stream2watch.me /Los_Br.png
--d stream2watch.me /yield.html
 -d streamcloud.eu /deliver.php
 -d streamguys.com /amazon.png
 -d streamplay.to /images/videoplayer.png
@@ -26079,10 +26082,6 @@ msFilterList
 -d zws.avvo.com
 +d youtube.com /iframe_api
 +d youtube.com /player_api
-+d 04stream.com /weed.js
-+d stream.moe /plugins/mediaplayer/*.js
-+d stream.moe /themes/flow/*.js
-+d streamango.com /assets/js/video-js/*.js
 +d vidoza.net
 +d filecrypt.cc /js/container.js*.js
 +d filecrypt.cc /js/fcwindow.js*.js
@@ -27759,6 +27758,7 @@ msFilterList
 +d facebook.com /ads/profile/advertisers/
 +d facebook.com /ads/profile/interests/
 +d faceinhole.com /adsense.swf
++d faculty.uml.edu /ad
 +d farecompare.com /farecomp/
 +d fbcdn.net /rsrc.php/
 +d feedroom.speedera.net /static.feedroom.com/affiliate/
