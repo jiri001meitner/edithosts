@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So dub 7 14:17:42 CEST 2018 ##################
+##### Aktualizováno: Ne dub 8 10:48:22 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -8374,6 +8374,7 @@ msFilterList
 -d 2dpt.com
 -d 2leep.com
 -d 2mdn.info
+-d 2ssltome.ga
 -d 2xbpub.com
 -d 303marketplace.com
 -d 32b4oilo.com
@@ -9692,6 +9693,7 @@ msFilterList
 -d clickequations.net
 -d clickexa.com
 -d clickexperts.net
+-d clickfunnel.com
 -d clickfuse.com
 -d clickinc.com
 -d clickintext.com
@@ -10208,6 +10210,7 @@ msFilterList
 -d empiremoney.com
 -d employers-freshly.org
 -d emptyspaceads.com
+-d encruses.com
 -d engineseeker.com
 -d enlarget.com
 -d enlnks.com
@@ -11594,6 +11597,7 @@ msFilterList
 -d pakbanners.com
 -d panachetech.com
 -d pantherads.com
+-d paperclipservice.com
 -d paperg.com
 -d parabled.info
 -d paradocs.ru
@@ -12155,6 +12159,7 @@ msFilterList
 -d secureboom.net
 -d securesoft.info
 -d securewebsiteaccess.com
+-d securial.club
 -d securitain.com
 -d secursors.com
 -d sedoparking.com
@@ -12382,6 +12387,7 @@ msFilterList
 -d streamate.com
 -d streamdefence.com
 -d streamdownloadonline.com
+-d stresune.info
 -d strikead.com
 -d structos.info
 -d struq.com
@@ -12465,6 +12471,7 @@ msFilterList
 -d td553.com
 -d td563.com
 -d td583.com
+-d tdmd.us
 -d teads.tv
 -d teambetaffiliates.com
 -d teasernet.com
@@ -12653,6 +12660,7 @@ msFilterList
 -d trmit.com
 -d trombocrack.com
 -d trtrccl.com
+-d truefilen32.com
 -d truesecurejump.com
 -d truex.com
 -d trustx.org
@@ -12725,6 +12733,7 @@ msFilterList
 -d upads.info
 -d upliftsearch.com
 -d upnorma.com
+-d upstained.com
 -d uptimecdn.com
 -d urbation.net
 -d ureace.com
@@ -13074,6 +13083,7 @@ msFilterList
 -d zeads.com
 -d zedo.com
 -d zeesiti.com
+-d zemanta.com
 -d zenoviaexchange.com
 -d zenoviagroup.com
 -d zercstas.com
@@ -14749,6 +14759,7 @@ msFilterList
 -d bkuzcrcdh.bid
 -d bkvrdeiqtgan.bid
 -d bkxkodsmrnqd.com
+-d blkivkplpn.com
 -d blnxyqdnsl.bid
 -d blorgkjhbhoqr.bid
 -d blprkaomvazv.com
@@ -15571,6 +15582,7 @@ msFilterList
 -d fduyzzjazngphw.bid
 -d fdvmskmentjob.com
 -d feacamnliz.bid
+-d fefzohgedqp.com
 -d fegyacmbobil.com
 -d fembsflungod.com
 -d feqlklwaafgc.com
@@ -15905,6 +15917,7 @@ msFilterList
 -d gpnduywxhgme.com
 -d gppkhamotypq.com
 -d gppzxymr.bid
+-d gptkueuaseyut.com
 -d gptoleeekac.bid
 -d gqlqgmiahdtoyl.bid
 -d gqnmautydwky.com
@@ -16147,6 +16160,7 @@ msFilterList
 -d hrdbamvfzipe.com
 -d hrfbfuxksimzi.bid
 -d hrkshoveizfo.com
+-d hrskwmpvpgocj.com
 -d hrtgkdwjbjblb.com
 -d hrvxpinmdyjx.com
 -d hrykyhqtgcro.com
@@ -16282,6 +16296,7 @@ msFilterList
 -d ifmobkrjonnm.com
 -d ifvetqzfiawg.com
 -d ifvgsekkvcc.bid
+-d ifyngpctovtv.com
 -d igawfxfnupeb.com
 -d igdfzixkdzxe.com
 -d igfuvwscradtpu.bid
@@ -16329,6 +16344,7 @@ msFilterList
 -d ikvuvztmvvro.bid
 -d ikxdpmnznk.bid
 -d ilakffljjdpwb.com
+-d ilfsrsgmgbex.com
 -d illizuqkdqjobt.com
 -d ilrxikdjozlk.com
 -d ilsivrexvpyv.com
@@ -16747,6 +16763,7 @@ msFilterList
 -d khmbjndynx.com
 -d khpgychzfdmpm.bid
 -d khwfemkr.bid
+-d khzbeucrltin.com
 -d kihhgldtpuho.com
 -d kihmdiimzzab.bid
 -d kihxncfpkimfx.bid
@@ -17587,6 +17604,7 @@ msFilterList
 -d nsazelqlavtc.com
 -d nsbugtfudztsgq.bid
 -d nscjodfvzemwpc.bid
+-d nselnhbwlm.com
 -d nsfocddqbiilg.bid
 -d nsgwpapi.bid
 -d nsnfokcikwf.com
@@ -17965,6 +17983,7 @@ msFilterList
 -d pmgmbpuiblak.com
 -d pmiiylss.bid
 -d pminnsodv.com
+-d pmjnelusn.com
 -d pmlcuxqbngrl.com
 -d pmpdqkjio.bid
 -d pmpeylkaxooynu.bid
@@ -18302,6 +18321,7 @@ msFilterList
 -d qzadueyzyto.bid
 -d qzayyghs.bid
 -d qzcpotzdkfyn.com
+-d qzpxhebrm.com
 -d qzpzspna.bid
 -d qzxtbsnaebfw.com
 -d radbtqjfp.bid
@@ -18311,6 +18331,7 @@ msFilterList
 -d ralyqgglrbgrd.bid
 -d raossycpodtr.bid
 -d raqueocznwden.bid
+-d raspiadkwcecz.com
 -d rawybznxrp.bid
 -d rbbkqlnnmus.bid
 -d rbdmtydtobai.com
@@ -24747,6 +24768,7 @@ msFilterList
 -d files.wordpress.com -reskin.
 -d filesharingtalk.com /fst/8242/
 -d fileshut.com /etc/links.php?q=
+-d filesmonster.com /mi/twp/
 -d filespart.com /ot/fast.aspx?
 -d filespazz.com /imx/template_r2_c3.jpg
 -d filespazz.com /copyartwork_side_banner.gif
@@ -25177,8 +25199,6 @@ msFilterList
 -d iload.to /img/ul/impopi.js
 -d iloveim.com /cadv
 -d imads.rediff.com
--d imagebam.com /download_button.png
--d imagebam.com /img/coolstuffbro.jpg
 -d imagefruit.com /includes/js/bgcont.js
 -d imagefruit.com /includes/js/ex.js
 -d imagefruit.com /includes/js/layer.js
@@ -27634,6 +27654,17 @@ msFilterList
 +d demonoid.pw /new_pm.php
 +d demonoid.pw /torrent_categories_script.js*.js
 +d demonoid.pw /torrent_categories_script.php*.js
++d imagebam.com /img/clicktostart.png
++d imagebam.com /img/help.png
++d imagebam.com /img/ib_badge.gif
++d imagebam.com /img/icons/lightbulb.png
++d imagebam.com /img/icons/page_white_get.png
++d imagebam.com /img/icons/star.png
++d imagebam.com /img/imagebam.png
++d imagebam.com /img/input_bg.png
++d imagebam.com /img/tab-back.png
++d imagebam.com /img/tab-line.gif
++d imagebam.com /img/tux.png
 +d imagebam.com /JS/imagebam.js*.js
 +d imagebam.com /JS/jquery.1.5.js*.js
 +d imagebam.com /JS/plupload.full.min.new.js*.js
@@ -28834,6 +28865,8 @@ msFilterList
 +d sexgalaxy.net /wp-includes/js/masonry.min.js?*.js
 +d sexgalaxy.net /wp-includes/js/wp-embed.min.js?*.js
 +d sexgalaxy.net /wp-includes/js/wp-emoji-release.min.js?*.js
++d fritchy.com /images/icons/
++d fritchy.com /images/styles/
 +d 209.222.8.217 /crossdomain.xml
 +d 247realmedia.com /farecomp/
 +d 24ur.com /adserver/adall.
