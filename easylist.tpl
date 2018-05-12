@@ -1,12 +1,12 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 10 May 2018 06:10 UTC
+# Last modified: 12 May 2018 11:10 UTC
 : Expires=1
 # Homepage: http://adblock.sk/
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 08/05/2018
+# Last change: 11/05/2018
 # List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 # GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 # GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -1242,10 +1242,10 @@ msFilterList
 - .eu/adv/
 - .exp_ad-
 - .fm/ads/
+- .ga/ads.
 - .gg/ads/
 - .gif?ad=
 - .GoogleDfpSlot.
-- .ga/ads.
 - .gr/ads/
 - .hk/ads/
 - .homad.
@@ -7462,6 +7462,7 @@ msFilterList
 - ?canp=adv_
 - ?category=ad&
 - ?dfpadname=
+- ?exo_zones=
 - ?file=ads&
 - ?framId=ad_
 - ?g1t2h=*&t1m2k3=
@@ -11377,6 +11378,7 @@ msFilterList
 -d iasrv.com
 -d ibannerexchange.com
 -d ibatom.com
+-d ibbyu85u.com
 -d iberate.club
 -d ibryte.com
 -d icdirect.com
@@ -12342,6 +12344,7 @@ msFilterList
 -d pc-ads.com
 -d pc1ads.com
 -d pc2ads.com
+-d pcr1p2xr.com
 -d pdn-1.com
 -d pdn-2.com
 -d pe2k2dty.com
@@ -14907,6 +14910,7 @@ msFilterList
 -d 1elllwrite.com
 -d 2delllwrite.com
 -d 2el-2el-fie.com
+-d 3el-3el-fie.com
 -d 4dtrk.com
 -d badtopwitch.work
 -d bandelcot.com
@@ -14919,6 +14923,7 @@ msFilterList
 -d boodlewrite.com
 -d bororango.com
 -d borotango.com
+-d borrango.com
 -d cap-cap-pop.com
 -d cash-ca-ching.com
 -d catwrite.com
@@ -14954,6 +14959,7 @@ msFilterList
 -d qelllwrite.com
 -d raz-raz-mataz.com
 -d razwrite.com
+-d rdrtrk.com
 -d rick-rick-rob.com
 -d sel-sel-fie.com
 -d selwrite.com
@@ -15323,6 +15329,7 @@ msFilterList
 -d axjnnlrc.bid
 -d axkiznybznfa.bid
 -d axsczaklngkxx.com
+-d axzrxkkklakka.com
 -d ayhdwulehfdwn.com
 -d ayjebauqdrys.com
 -d aykosfkx.bid
@@ -15398,6 +15405,7 @@ msFilterList
 -d bfsssvkowvh.com
 -d bfzuuuuhvexxs.com
 -d bgarilrzlgez.com
+-d bgbdzfeeoko.com
 -d bgbmtqzoc.bid
 -d bgcsojmtgdrv.com
 -d bgdacrgsnt.com
@@ -15430,6 +15438,7 @@ msFilterList
 -d bjfxcvebjrcuce.bid
 -d bjgavencynifm.bid
 -d bjgaxcstxlvm.bid
+-d bjjjbwexvkotj.com
 -d bjkfmvhygpub.com
 -d bjknjsfrevt.bid
 -d bjkookfanmxx.bid
@@ -15591,6 +15600,7 @@ msFilterList
 -d cacpcaizwx.bid
 -d cadulscdfhtcb.bid
 -d cafvzpusl.com
+-d cahepysgenpb.com
 -d carsxardivaf.com
 -d cawcwpvmpcje.com
 -d cbehcazifywmro.bid
@@ -15631,9 +15641,11 @@ msFilterList
 -d ceywprmvjy.com
 -d cfdmkifknsjt.com
 -d cfsdtzggpcmr.com
+-d cfvfjsobudwrsn.com
 -d cfyvrgvopaejx.com
 -d cfzskkkmjg.com
 -d cgbemyws.bid
+-d cgbqzfjf.com
 -d cgdvsvczduzq.bid
 -d cgjyesqhxzzm.com
 -d cgmkpdqjnedb.com
@@ -15744,6 +15756,7 @@ msFilterList
 -d cqskvtpeqcp.bid
 -d cqsmswwidrn.bid
 -d cqvbvpxnqqcfwl.bid
+-d credbgvhijbcj.com
 -d creyboif.bid
 -d crijpgcer.com
 -d crkgtnad.com
@@ -15888,6 +15901,7 @@ msFilterList
 -d dhienrfamv.com
 -d dhlnlwxspczc.com
 -d dhmhdiozqbnq.com
+-d dhnxwgxszvi.com
 -d dhomixidnkas.com
 -d dhrjzwqpweidm.bid
 -d dhsztvyjwcmk.com
@@ -15907,6 +15921,7 @@ msFilterList
 -d djbnmqdawodm.com
 -d djcbhuwplfpui.bid
 -d djhqkoikovr.bid
+-d djjckavq.com
 -d djntmaplqzbi.com
 -d djqercix.com
 -d djrkauxla.bid
@@ -15921,6 +15936,7 @@ msFilterList
 -d dklvewbgjksyy.com
 -d dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
 -d dkvblgxkihtys.bid
+-d dlahijuwjsv.com
 -d dlemeyrkjy.com
 -d dlganxfc.bid
 -d dlntzbuskygwj.com
@@ -16189,6 +16205,7 @@ msFilterList
 -d epgooipixbbo.com
 -d eplsshzbotknz.bid
 -d epndtinso.com
+-d epnjahss.com
 -d epoxtzgddiwp.com
 -d epsiulpa.com
 -d eptwulil.com
@@ -16252,6 +16269,8 @@ msFilterList
 -d ewzsfpskdfuip.com
 -d ewzwkgyrpk.bid
 -d exaorwqrj.bid
+-d excqjoor.com
+-d exdcbyzgwfvwa.com
 -d exekiksakspujl.com
 -d exeroearu.bid
 -d exioptyxiyoo.com
@@ -16762,6 +16781,7 @@ msFilterList
 -d gzozvhryjcf.com
 -d gzpqlbqyerpb.com
 -d gzqccijroe.bid
+-d gzrlatbooqmt.com
 -d gzumjmvqjkki.com
 -d gzyddiyiyme.bid
 -d haezawhdumz.bid
@@ -17226,6 +17246,7 @@ msFilterList
 -d iynfhmgte.bid
 -d iytfczscguf.bid
 -d izgnfkvpiawwn.bid
+-d izhmxwivr.com
 -d izhvnderudte.com
 -d iziwhlafxitn.com
 -d izixtxrvogaq.com
@@ -17302,6 +17323,7 @@ msFilterList
 -d jfxiirxbl.bid
 -d jfxjpswhcwwq.com
 -d jgophcykrckik.com
+-d jgqcraids.com
 -d jgqkrvjtuapt.com
 -d jgrcggutsilp.com
 -d jgtnayftk.bid
@@ -17382,6 +17404,7 @@ msFilterList
 -d jogccrwnpsmliq.bid
 -d jogpsoiyngua.com
 -d jollqxplkz.bid
+-d joqnoyniblzm.com
 -d joqpatxugyug.com
 -d jorndvyzchaq.com
 -d jovepjufhmmw.com
@@ -17770,6 +17793,7 @@ msFilterList
 -d lcyxmuhxroyo.com
 -d ldaiuhkayqtu.com
 -d ldbgrugl.bid
+-d ldigvkkjquvyn.com
 -d ldkyzudgbksh.com
 -d ldlritslfej.bid
 -d ldybupeeeoq.bid
@@ -17849,6 +17873,7 @@ msFilterList
 -d llluzqrvfyrbt.com
 -d llrmbabwjlzutw.com
 -d llrxxhljtmylaa.bid
+-d llwemrshzovw.com
 -d llxyamztns.bid
 -d llxyyocfgfg.bid
 -d lmbdkdxprktt.bid
@@ -18225,6 +18250,7 @@ msFilterList
 -d mvqinxgp.com
 -d mvrmyxkw.com
 -d mvtunjij.bid
+-d mvumhltl.com
 -d mvvecbfomk.com
 -d mvyfuwczzotfe.bid
 -d mvzmmcbxssgp.com
@@ -18264,6 +18290,7 @@ msFilterList
 -d nbbljlzbbpck.com
 -d nbbvpxfxnamb.com
 -d nbclkgok.bid
+-d nbhbqvfcsds.com
 -d nbhubocsduzn.com
 -d nbkwnsonadrb.com
 -d nbmffortfyyg.com
@@ -18354,6 +18381,7 @@ msFilterList
 -d nksfmnvmngxzr.bid
 -d nkxdyorwbt.com
 -d nkyngrtleloc.com
+-d nlcfowfz.com
 -d nlduyricoemfc.bid
 -d nlfqbfwbfovt.com
 -d nlhayvlqar.bid
@@ -18574,6 +18602,7 @@ msFilterList
 -d ojsfvukuqxdx.bid
 -d ojtcgnyikbtg.bid
 -d ojvwpiqnmecd.com
+-d ojxzmlgl.com
 -d okaeetrzjyvx.com
 -d okakjbtitwh.bid
 -d okasfshomqmg.com
@@ -18705,6 +18734,7 @@ msFilterList
 -d oxanehlscsry.com
 -d oxybyiyasgu.bid
 -d oyaqzikgjw.com
+-d oyiqkjsjmmde.com
 -d oyrgxjuvsedi.com
 -d oytrrdlrovcn.com
 -d oyzsverimywg.com
@@ -18971,6 +19001,7 @@ msFilterList
 -d qcopnsmjo.bid
 -d qcpegxszbgjm.com
 -d qcpexkxxyx.bid
+-d qctltbnn.com
 -d qcxhpohiwawnmo.bid
 -d qdcoqejn.com
 -d qddgbaux.com
@@ -19183,6 +19214,7 @@ msFilterList
 -d rbdmtydtobai.com
 -d rbfxurlfctsz.com
 -d rbgrlqsepeds.com
+-d rbhhjxsomzq.com
 -d rbmjeyiyazcpe.com
 -d rbnicxyh.bid
 -d rbnpljzf.bid
@@ -19211,6 +19243,7 @@ msFilterList
 -d rdlynbosndvx.com
 -d rdmccvanlx.bid
 -d rdqyasdstllr.com
+-d rdvrxbxwxspxd.com
 -d rdwfotuyp.bid
 -d rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
 -d reebinbxhlva.com
@@ -19396,6 +19429,7 @@ msFilterList
 -d rxuqpktyqixa.com
 -d rxyeukffow.bid
 -d ryhrabmmprehm.com
+-d ryjlaaimxrq.com
 -d rylkihtmnvsh.com
 -d rylnirfbokjd.com
 -d ryxpmonwqeg.com
@@ -19716,6 +19750,7 @@ msFilterList
 -d thvdzghlvfoh.com
 -d thvrvojkkjkkpe.bid
 -d thxdbyracswy.com
+-d thzaiqqwsbpps.com
 -d thzshxisa.bid
 -d tiemuantodayus.bid
 -d tienribwjswv.com
@@ -19768,6 +19803,7 @@ msFilterList
 -d tmhwggtg.bid
 -d tmjavresvaqxly.bid
 -d tmkbpnkruped.com
+-d tmkcofbjv.com
 -d tmmpbkwnzilv.com
 -d tmrhtbbhrfbx.bid
 -d tmvwirgifkkdtn.bid
@@ -19862,6 +19898,7 @@ msFilterList
 -d twhsmftwybkfn.bid
 -d twjgylzydlhz.com
 -d twmeccosyivi.com
+-d twmvjfatla.com
 -d twnrkedqefhv.com
 -d twvmqhjjgj.com
 -d twwkliuxoidxxa.bid
@@ -19921,10 +19958,12 @@ msFilterList
 -d udbmqqkl.bid
 -d udbtmvuoncdtrg.com
 -d udbwpgvnalth.com
+-d udcufwvt.com
 -d udrwyjpwjfeg.com
 -d udvbtgkxwnap.com
 -d uebavnacbjbr.bid
 -d uebcqdgigsid.com
+-d uebkmtpsfvgvfx.com
 -d uebyotcdyshk.com
 -d uecjpplzfjur.com
 -d uehdljkrsfaa.bid
@@ -20009,6 +20048,7 @@ msFilterList
 -d umzrccpfbnuu.com
 -d uncumlzowtkn.com
 -d unewqmemh.bid
+-d unfdjwel.com
 -d unffpgtoorpz.com
 -d ungvncbnx.bid
 -d unlupxiky.bid
@@ -21240,6 +21280,7 @@ msFilterList
 -d ztioesdyffrr.com
 -d ztmwkxvvyoao.com
 -d ztorjgyxni.com
+-d zttlnqce.com
 -d ztwfeajx.bid
 -d ztyrgxdelngf.com
 -d ztzfcmbsycout.bid
@@ -22370,6 +22411,7 @@ msFilterList
 # ||letshareus.com^$popup,third-party
 # ||lettercrow.bid^$popup
 # ||letzonke.com^$popup,third-party
+# ||lie2anyone.com^$popup
 # ||ligatus.com^$popup,third-party
 # ||likingyetsnarl.com^$popup
 # ||linkmyc.com^$popup,third-party
@@ -24385,6 +24427,7 @@ msFilterList
 -d d19972r8wdpby8.cloudfront.net
 -d d1ade4ciw4bqyc.cloudfront.net
 -d d1aezk8tun0dhm.cloudfront.net
+-d d1ar5xirbydtuc.cloudfront.net
 -d d1cl1sqtf3o420.cloudfront.net
 -d d1d43ayl08oaq2.cloudfront.net
 -d d1d95giojjkirt.cloudfront.net
@@ -26184,6 +26227,7 @@ msFilterList
 # ||galleries.videosz.com^$object,third-party
 -d gallery.deskbabes.com .php?dir=*&ids=
 -d gammasites.com /pornication/pc_browsable.php?
+-d gashot.yurivideos.com
 -d gateway-banner.eravage.com
 -d geo.camazon.com
 -d geo.cliphunter.com
@@ -27713,6 +27757,7 @@ msFilterList
 -d everythingsysadmin.com _sw_banner120x600_
 -d evolutionm.net /SponsorLogos/
 -d evony.com /sevonyadvs2.
+-d ewatchseries.io /300x250
 -d eweek.com /images/stories/marketing/
 -d eweek.com /widgets/ibmtco/
 -d eweek.com /sponsored-
@@ -30931,8 +30976,10 @@ msFilterList
 +d youtube.com /iframe_api
 +d youtube.com /player_api
 #
-- /\.(watchcartoononline|9anime|memecenter).*[a-zA-Z0-9&%=]{30,}/*.js
-# /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%)]/$image,script
+- /(watchcartoononline|9anime|memecenter|animeflv).*[a-zA-Z0-9&%=\/?]{40,}/*.js
+# /(watchcartoononline|9anime|memecenter|animeflv).*\/.*[(&|=|%|\/|?)]{50,}/$image,script
++d 9anime.is /assets/min/frontend/all.js*.js
++d 9anime.is /assets/player/jwplayer-7.12.3/jwplayer.js*.js
 # xclusivejams2.com
 # @@||cbox.ws^$third-party,domain=xclusivejams2.com
 # @@||disqus.com^$script,domain=xclusivejams2.com
@@ -31757,7 +31804,8 @@ msFilterList
 # |http://$script,third-party,domain=vid.ag
 # |https://$script,third-party,domain=vid.ag
 # flashx.tv
-# $image,script,subdocument,third-party,websocket,xmlhttprequest,domain=flash-x.tv|flashsx.tv|flashx.bz|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv
+# $image,script,subdocument,third-party,xmlhttprequest,domain=flash-x.tv|flashsx.tv|flashx.bz|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv
+# $websocket,domain=flash-x.tv|flashsx.tv|flashx.bz|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv
 # @@||ajax.googleapis.com/ajax/libs/$script,domain=flash-x.tv|flashsx.tv|flashx.bz|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv
 # @@||fastcontentdelivery.com^$script,domain=flash-x.tv|flashsx.tv|flashx.bz|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv
 +d flash-x.tv /js/showad*.js
@@ -31875,7 +31923,7 @@ msFilterList
 # |http://$script,stylesheet,third-party,domain=desi-tashan.org|mp3red.cc|mp3red.me|mp3songfree.net
 # |https://$script,stylesheet,third-party,domain=desi-tashan.org|mp3red.cc|mp3red.me|mp3songfree.net
 # Yavli.com
-# /kcp*.$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenwestrepublic.com|allthingsvegas.com|americanewshub.com|americansublime.com|americasfreedomfighters.com|askmefast.com|auntyacid.com|barbwire.com|beforeitsnews.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisanreport.com|boredomtherapy.com|breaking911.com|breakingnews.ie|breathecast.com|bugout.news|bulletsfirst.net|canadafreepress.com|celebrity-gossip.net|cheapism.com|cheatsheet.com|chicksonright.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|freewarefiles.com|gamerant.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|intellectualconservative.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|knowledgedish.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|lifebuzz.com|madworldnews.com|makeagif.com|medicine.news|mentalflare.com|minutemennews.com|moneyversed.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotnewswire.com|patriotoutdoornews.com|patriottribune.com|pickthebrain.com|politicaloutcast.com|politichicks.com|practicallyviral.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|rpnewswire.com|sarahpalin.com|shark-tank.com|shedthoselbs.com|slender.news|sonsoflibertymedia.com|spectator.org|stevedeace.com|stupid.news|supercheats.com|survivalnation.com|techconsumer.com|technobuffalo.com|techtimes.com|terezowens.com|theblacksphere.net|theboredmind.com|thefreethoughtproject.com|thegatewaypundit.com|thehayride.com|thelibertarianrepublic.com|thelibertydaily.com|themattwalshblog.com|thepoke.co.uk|thepolitistick.com|therealside.com|therightscoop.com|theviralmob.com|threepercenternation.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|urbantabloid.com|usherald.com|valuewalk.com|vcpost.com|vgpie.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|winningdemocrats.com|wnd.com|xtribune.com|youthhealthmag.com
+# /bjv*.$image,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenwestrepublic.com|allthingsvegas.com|americanewshub.com|americansublime.com|americasfreedomfighters.com|askmefast.com|auntyacid.com|barbwire.com|beforeitsnews.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisanreport.com|boredomtherapy.com|breaking911.com|breakingnews.ie|breathecast.com|bugout.news|bulletsfirst.net|canadafreepress.com|celebrity-gossip.net|cheapism.com|cheatsheet.com|chicksonright.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|freewarefiles.com|gamerant.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|intellectualconservative.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|knowledgedish.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|lifebuzz.com|madworldnews.com|makeagif.com|medicine.news|mentalflare.com|minutemennews.com|moneyversed.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotnewswire.com|patriotoutdoornews.com|patriottribune.com|pickthebrain.com|politicaloutcast.com|politichicks.com|practicallyviral.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|rpnewswire.com|sarahpalin.com|shark-tank.com|shedthoselbs.com|slender.news|sonsoflibertymedia.com|spectator.org|stevedeace.com|stupid.news|supercheats.com|survivalnation.com|techconsumer.com|technobuffalo.com|techtimes.com|terezowens.com|theblacksphere.net|theboredmind.com|thefreethoughtproject.com|thegatewaypundit.com|thehayride.com|thelibertarianrepublic.com|thelibertydaily.com|themattwalshblog.com|thepoke.co.uk|thepolitistick.com|therealside.com|therightscoop.com|theviralmob.com|threepercenternation.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|urbantabloid.com|usherald.com|valuewalk.com|vcpost.com|vgpie.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|winningdemocrats.com|wnd.com|xtribune.com|youthhealthmag.com
 # Yavli Specific
 # @@/wp-content/plugins/akismet/*$script,~third-party,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 # @@||5min.com/Scripts/PlayerSeed.js?$domain=activistpost.com|addictinginfo.com|alfonzorachel.com|allenwestrepublic.com|allthingsvegas.com|askmefast.com|auntyacid.com|barbwire.com|bighealthreport.com|breaking911.com|breathecast.com|bulletsfirst.net|clashdaily.com|classicalite.com|comicallyincorrect.com|conservativebyte.com|conservativevideos.com|coviral.com|crossmap.com|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|dccrimestories.com|digitaljournal.com|enstarz.com|foreverymom.com|freedomforce.com|girlsjustwannahaveguns.com|groopspeak.com|guardianlv.com|hallels.com|hngn.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|joeforamerica.com|kdramastars.com|kpopstarz.com|lastresistance.com|latinpost.com|libertyalliance.com|libertyunyielding.com|minutemennews.com|myscienceacademy.org|naturalblaze.com|naturalnews.com|natureworldnews.com|newser.com|newsthump.com|oddee.com|patriotoutdoornews.com|patriottribune.com|pickthebrain.com|politicaloutcast.com|practicallyviral.com|quirlycues.com|rantlifestyle.com|realfarmacy.com|realtytoday.com|redhotchacha.com|redmaryland.com|rightwingnews.com|shark-tank.com|spectator.org|stevedeace.com|techtimes.com|theblacksphere.net|thefreethoughtproject.com|thegatewaypundit.com|themattwalshblog.com|thepoke.co.uk|theviralmob.comvcpost.com|victoriajackson.com|viralnova.com|viralthread.com
@@ -32315,7 +32363,7 @@ msFilterList
 # data popups
 # |data^$popup,domain=1337x.to|gorillavid.in|nowvideo.to|zippyshare.com
 # Block http and https popups
-# /http*.:\/\/.*/$popup,third-party,domain=35.188.59.75|adf.ly|daclips.in|escdn.co|estream.to|fastbay.net|fastspics.net|filepost.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|jwpcdn.com|latestmoviesdl.com|load.to|moecdn.io|mofunzone.com|monova.org|oload.info|oload.stream|oload.tv|oload.xyz|oloadcdn.net|openload.co|sendvid.com|speedvid.net|sportp2p.com|stream.moe|stream2watch.org|streamango.com|streamcloud.eu|streamin.to|thevideo.me|topclickguru.com|twer.info|uptobox.com|uptostream.com|vid.ag|vidabc.com|vidgg.to|vidspot.net|vidstreaming.io|vidto.me|vidzi.tv|vodlock.co|vshare.eu
+# /http*.:\/\/.*/$popup,third-party,domain=35.188.59.75|adf.ly|daclips.in|escdn.co|estream.to|fastbay.net|fastspics.net|filepost.com|flash-x.tv|flashx.tv|go4up.com|gorillavid.in|jwpcdn.com|latestmoviesdl.com|load.to|moecdn.io|mofunzone.com|monova.org|oload.info|oload.stream|oload.tv|oload.xyz|oloadcdn.net|openload.co|sendvid.com|speedvid.net|sportp2p.com|stream.moe|stream2watch.org|streamango.com|streamcloud.eu|streamin.to|thevideo.me|topclickguru.com|twer.info|uptobox.com|uptostream.com|vid.ag|vidabc.com|vidcpm.com|vidgg.to|vidspot.net|vidstreaming.io|vidto.me|vidzi.tv|vodlock.co|vshare.eu
 # javascript popups
 # |javascript^$popup,domain=1337x.to|biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
 # regex to pickup ip-address popups
@@ -32688,6 +32736,8 @@ msFilterList
 -d hitomi.la /hitomi-vertical.js
 -d hollyscoop.com /sites/*/skins/
 -d hollywoodoops.com /img/*banner
+-d home-made-videos.com /krijgjetoch.php
+-d home-made-videos.com /kutstelers.js
 -d homegrownfreaks.net /homegfreaks.js
 -d homeprivatevids.com /banner2.shtml
 -d homeprivatevids.com /banners.shtml
@@ -32954,6 +33004,7 @@ msFilterList
 -d porn-w.org /images/ls.gif
 -d porn-w.org /images/lsb.gif
 -d porn-w.org /images/zevera.png
+# ||porn.com/171media42b/$xmlhttprequest
 -d porn.com /assets/partner_
 -d porn.com /js/pu.js
 # ||porn.com^$subdocument,~third-party
@@ -33232,6 +33283,8 @@ msFilterList
 -d updatetube.com /js/adpupdatetube
 -d updatetube.com /js/fab.js
 -d upornia.com /contents/content_sources/
+-d upornia.com .php?z=*&sub=*.js
+-d upornia.com /vda/
 -d vibraporn.com /vg/
 -d vid2c.com /js/atxpp.js?
 -d vid2c.com /js/pp.js
@@ -33543,11 +33596,7 @@ msFilterList
 # @@||yui.yahooapis.com^$script,third-party,domain=vintage-erotica-forum.com
 # |http://$script,domain=vintage-erotica-forum.com
 # Perfectgirls
-+d perfectgirls.net /scripts/main.min.js?*.js
-+d perfectgirls.net /scripts/pg.js?*.js
-+d perfectgirls.net /scripts/pgloader.js?*.js
-+d perfectgirls.net /scripts/vendor.min.js?*.js
-# |http://$script,domain=perfectgirls.net
+# |http://$script,domain=perfectgirls.es|perfectgirls.net|perfektdamen.co
 # Sexgalaxy
 +d sexgalaxy.net /wp-content/plugins/google-captcha/js/script.js?*.js
 +d sexgalaxy.net /wp-content/themes/annina-pro/js/jquery.anninapro.js?*.js
