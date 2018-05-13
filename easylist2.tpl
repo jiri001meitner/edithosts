@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: So kvě 12 13:19:17 CEST 2018 ##################
+##### Aktualizováno: Po kvě 14 01:11:22 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -911,6 +911,7 @@ msFilterList
 - .adgearpubs.
 - .adgoitechnologie.
 - .admarvel.
+- .admicro.
 - .adnigma.
 - .adplacement=
 - .adrotate.
@@ -1299,6 +1300,7 @@ msFilterList
 - /ad-builder.
 - /ad-button1.
 - /ad-callback.
+- /ad-catalogue-
 - /ad-cdn.
 - /ad-channel-
 - /ad-choices-
@@ -2080,7 +2082,6 @@ msFilterList
 - /adcycle.
 - /adcycle/
 - /add728.
-- /addata.
 - /addatasandbox?
 - /addeals/
 - /addefend.
@@ -8479,6 +8480,7 @@ msFilterList
 -d 7u8a8i88.com
 -d 7v8rya73sj.com
 -d 82d914.se
+-d 87159d7b62fc885.com
 -d 888media.net
 -d 888medianetwork.com
 -d 888promos.com
@@ -8636,6 +8638,7 @@ msFilterList
 -d addelive.com
 -d addiply.com
 -d addkt.com
+-d addmoredynamiclinkstocontent2convert.bid
 -d addoer.com
 -d addoor.net
 -d addroid.com
@@ -9459,6 +9462,7 @@ msFilterList
 -d bestofferdirect.com
 -d bestonlinecoupons.com
 -d bestpricewala.com
+-d bestquickcontentfiles.com
 -d bet3000partners.com
 -d bet365affiliates.com
 -d betaffs.com
@@ -10770,6 +10774,7 @@ msFilterList
 -d idexoro.info
 -d idownloadgalore.com
 -d idreammedia.com
+-d ie8eamus.com
 -d ieh1ook.bid
 -d ifmnwi.club
 -d iframe.mediaplazza.com
@@ -11120,6 +11125,7 @@ msFilterList
 -d livesmarter.com
 -d liveuniversenetwork.com
 -d lkqd.net
+-d llqd75c56i.com
 -d lmsxuo.com
 -d lndjj.com
 -d loadercdn.com
@@ -11489,6 +11495,7 @@ msFilterList
 -d nextlandingads.com
 -d nextmobilecash.com
 -d nextoptim.com
+-d ngaln.com
 -d ngecity.com
 -d nglmedia.com
 -d nicheadgenerator.com
@@ -11877,6 +11884,7 @@ msFilterList
 -d prestadsng.com
 -d prexista.com
 -d prf.hn
+-d prfdesk.pro
 -d prggbqxuj.com
 -d prickac.com
 -d prigmaperf.me
@@ -12094,6 +12102,7 @@ msFilterList
 -d recomendedsite.com
 -d redcourtside.com
 -d redintelligence.net
+-d redirect18systemsg.com
 -d redirectnative.com
 -d redirectpopads.com
 -d rediskina.com
@@ -14763,6 +14772,7 @@ msFilterList
 -d bgcsojmtgdrv.com
 -d bgdacrgsnt.com
 -d bgfgaduyvocz.com
+-d bgibeluywjhgb.com
 -d bgitczbd.com
 -d bgpxrwjrbsjb.com
 -d bgtmceqoipodkv.com
@@ -16079,6 +16089,7 @@ msFilterList
 -d gtxfafvoohbc.com
 -d gtzyfaro.bid
 -d gubdadtxwqow.com
+-d gubisowidb.com
 -d gufjfwopsez.bid
 -d guhtjoqtobac.com
 -d gujyvlvoewweg.bid
@@ -16137,6 +16148,7 @@ msFilterList
 -d gzrlatbooqmt.com
 -d gzumjmvqjkki.com
 -d gzyddiyiyme.bid
+-d gzzctcekf.com
 -d haezawhdumz.bid
 -d hafbezbemwwd.com
 -d hajcehcnodio.com
@@ -16596,6 +16608,7 @@ msFilterList
 -d iygdvith.com
 -d iyivpsxzgjcarv.bid
 -d iyjukpbyzsxc.bid
+-d iylssoobxtvm.com
 -d iynfhmgte.bid
 -d iytfczscguf.bid
 -d izgnfkvpiawwn.bid
@@ -17116,6 +17129,7 @@ msFilterList
 -d kyzlzjtbgjr.bid
 -d kzawrekf.bid
 -d kzexkhstcng.com
+-d kzgzfndrvpnz.com
 -d kzqrjfulybvv.com
 -d kzujizavnlxf.com
 -d kzwcmbypauw.com
@@ -18036,6 +18050,7 @@ msFilterList
 -d osanmeijvqh.com
 -d osbblnlmwzcr.com
 -d osdijxyjdn.bid
+-d osevrgzpsu.com
 -d osewuwcdgfb.bid
 -d osfipdgo.bid
 -d osfxxqoy.com
@@ -19012,6 +19027,7 @@ msFilterList
 -d syorlvhuzgmdqbuxgiulsrusnkgkpvbwmxeqqcboeamyqmyexv.com
 -d syrnujjldljl.com
 -d sywyknkojoj.bid
+-d syxojpztar.com
 -d szjgylwamcxo.com
 -d szltiojqs.bid
 -d sznxdqqvjgam.com
@@ -20568,6 +20584,7 @@ msFilterList
 -d zlrlbfigwz.bid
 -d zltsivah.bid
 -d zlvbqseyjdna.com
+-d zlxwasugtn.com
 -d zmbrweqglexv.com
 -d zmdtxdomsoo.bid
 -d zmnpobvglair.bid
@@ -20585,6 +20602,7 @@ msFilterList
 -d zodorxfj.bid
 -d zohaqnxwkvyt.com
 -d zoileyozfexv.com
+-d zoktycom.com
 -d zoowknbw.com
 -d zowhxkwzjpta.com
 -d zpctncydojjh.com
@@ -22174,7 +22192,6 @@ msFilterList
 -d atomicpopularity.com /dfpd.js
 -d augine.com /widget
 -d autodealer.co.za /inc/widget/
--d automate-prod.s3.amazonaws.com
 -d autoprivileges.net /news/
 -d autotrader.ca /result/AutosAvailableListings.aspx?
 -d autotrader.co.za /partners/
@@ -24603,6 +24620,7 @@ msFilterList
 -d bolandrugby.com /images/sponsors.
 -d bom.gov.au /includes/marketing2.php?
 -d bontent.powvideo.net
+-d bonus.tvmaze.com
 -d botswanaguardian.co.bw /images/banners/
 -d boulderjewishnews.org /JFSatHome-3.gif
 -d boxbit.co.in /banners/
