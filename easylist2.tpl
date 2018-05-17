@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po kvě 14 01:11:22 CEST 2018 ##################
+##### Aktualizováno: Čt kvě 17 21:49:25 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -612,6 +612,7 @@ msFilterList
 - -ad-link-
 - -ad-live.
 - -ad-loading.
+- -ad-map/
 - -ad-marker.
 - -ad-mpu+
 - -ad-new_
@@ -620,6 +621,8 @@ msFilterList
 - -ad-random/
 - -ad-refresh.
 - -ad-refresh/
+- -ad-reload.
+- -ad-reload/
 - -ad-resize-
 - -ad-right.
 - -ad-rotator-
@@ -3811,6 +3814,7 @@ msFilterList
 - /alwebad_
 - /am/ads.
 - /amazon-ad-
+- /amazon-associates-link-
 - /amazon-async-
 - /amazon/iframeproxy-
 - /amazon/widget/
@@ -4735,6 +4739,7 @@ msFilterList
 - /frequencyads.
 - /friendfinder_
 - /frnads.
+- /front/ad/
 - /front/ads-
 - /frontads/
 - /frontend/ads/
@@ -5913,6 +5918,7 @@ msFilterList
 - /product-ad/
 - /product-ads/
 - /product_ad_widget/
+- /ProductAd.
 - /productAds/
 - /production/ads/
 - /prog-sponsor/
@@ -7226,6 +7232,7 @@ msFilterList
 - _ad_size.
 - _ad_sky.
 - _ad_skyscraper.
+- _ad_slot/
 - _ad_slot=
 - _ad_small.
 - _ad_sponsor/
@@ -9190,6 +9197,7 @@ msFilterList
 -d aflrm.com
 -d afovelsa.com
 -d africawin.com
+-d afrikad.com
 -d afterdownload.com
 -d afterdownloads.com
 -d afy11.net
@@ -9315,6 +9323,7 @@ msFilterList
 -d as5000.com
 -d asafesite.com
 -d aseadnet.com
+-d askhilltop.com
 -d asklots.com
 -d aso1.net
 -d asooda.com
@@ -14524,6 +14533,7 @@ msFilterList
 -d agffpcpi.bid
 -d agfwzptrqb.bid
 -d aggntknflhal.com
+-d agiuvdbcxdirh.com
 -d agiuzlmavpnlb.com
 -d aglyzutlhnbtgu.bid
 -d agospkfp.bid
@@ -14553,6 +14563,7 @@ msFilterList
 -d ajmggjgrardn.com
 -d ajmyrtdiwvg.bid
 -d ajocbplhzcvr.bid
+-d ajrwmjdbey.com
 -d ajxftwwmlinv.com
 -d ajxwyowuylhos.bid
 -d ajzxdeslpbnhp.bid
@@ -14616,6 +14627,7 @@ msFilterList
 -d apbwldhfuvnk.com
 -d apfbtiqdly.bid
 -d apgjczhgjrka.com
+-d aphjbgth.com
 -d apmgzzaej.bid
 -d apmkcdsnv.bid
 -d aprddnfuzc.bid
@@ -14683,6 +14695,7 @@ msFilterList
 -d awvrvqxq.com
 -d awxjpkxoqfwaj.bid
 -d axaggthnkquj.com
+-d axbouiklwghehw.com
 -d axbpixbcucv.bid
 -d axbsdoysiogrrc.bid
 -d axeobgnsk.com
@@ -14697,6 +14710,7 @@ msFilterList
 -d aykosfkx.bid
 -d ayloqdal.bid
 -d ayozhcgcsyun.com
+-d ayyvsbbbav.com
 -d azbdbtsmdocl.com
 -d azditojzcdkc.com
 -d azeozrjk.com
@@ -14792,6 +14806,7 @@ msFilterList
 -d bhyqllgtzjee.com
 -d bictxzszwkwghn.com
 -d biftbtajfs.bid
+-d bihzqdflxeelc.com
 -d bijfzvbtwhvf.com
 -d bircgizd.com
 -d birpidnl.com
@@ -14876,6 +14891,7 @@ msFilterList
 -d bqscwtvpvugopg.com
 -d bqyphmwr.bid
 -d bqytfutmwulr.com
+-d brhkraeknmjk.com
 -d briqumvlvzshh.com
 -d brjbzbxbcqjb.com
 -d brjycsvgpo.bid
@@ -14966,6 +14982,7 @@ msFilterList
 -d cahepysgenpb.com
 -d carsxardivaf.com
 -d cawcwpvmpcje.com
+-d cbbabemymc.com
 -d cbehcazifywmro.bid
 -d cbnrvzfvmd.com
 -d cbolsxvresvu.bid
@@ -15446,6 +15463,7 @@ msFilterList
 -d ecflhhxp.bid
 -d ecmeqhxevxgmtoxubrjstrrlyfgrrtqhvafyagettmwnwkwltn.com
 -d ectbduztanog.com
+-d ectxnsxezdg.com
 -d ecvladelayk.com
 -d ecxtuyttpfe.bid
 -d edgsscofljhc.com
@@ -15673,6 +15691,7 @@ msFilterList
 -d fbauhaozc.bid
 -d fbbjlubvwmwd.com
 -d fbkdhxkd.com
+-d fbnvqmorr.com
 -d fbtfhgydrovyxs.com
 -d fbvvuwtejcvdza.com
 -d fbwswktiaxmldz.com
@@ -15770,6 +15789,7 @@ msFilterList
 -d flooaiaubf.bid
 -d fluohbiy.com
 -d flzelfqolfnf.com
+-d fmbjxqvkjfmj.com
 -d fmcwqmwdaubb.com
 -d fmgcaqljz.bid
 -d fmpsrqsib.bid
@@ -15844,6 +15864,7 @@ msFilterList
 -d ftjrekbpjkwe.com
 -d ftodxdoolvdm.com
 -d ftqhgapqugv.bid
+-d ftuisdlnbp.com
 -d ftusprfqtu.bid
 -d ftvkgkkmthed.com
 -d ftymjfywuyv.com
@@ -15957,6 +15978,7 @@ msFilterList
 -d ggusxcee.bid
 -d ggwbgnmahqyclg.com
 -d ggzuksudqktn.com
+-d ggzvlwrf.com
 -d ghizipjlsi.bid
 -d ghtroafchzrt.com
 -d ghttzqpeyunwdr.bid
@@ -16165,6 +16187,7 @@ msFilterList
 -d hbfnmcncnasfb.bid
 -d hbguvcwi.com
 -d hbhcndcpohpwib.com
+-d hbhjamkcubtez.com
 -d hbkcelqibvx.bid
 -d hbrbtmjyvdsy.com
 -d hbrsqluft.bid
@@ -16190,6 +16213,7 @@ msFilterList
 -d heefwozhlxgz.com
 -d heikwwkqy.com
 -d henodmetgjbsas.bid
+-d heqcvweqvqf.com
 -d heracgjcuqmk.com
 -d hettwksj.bid
 -d hevdxhsfbwud.com
@@ -16329,6 +16353,7 @@ msFilterList
 -d htnzwuvgphjwqc.bid
 -d htonrwegnifw.com
 -d htpkxpgbprpklc.com
+-d htqyaipwpopyx.com
 -d htrprrrtrwrc.com
 -d httftlckaxj.com
 -d htvlulpbhtkgr.com
@@ -16441,6 +16466,7 @@ msFilterList
 -d ielqcwzwjczpx.bid
 -d ieoexdjxrwtq.com
 -d ieqprskfariw.com
+-d ieuezabolxphga.com
 -d ifaklabnhplb.com
 -d ifmobkrjonnm.com
 -d ifvetqzfiawg.com
@@ -16539,6 +16565,7 @@ msFilterList
 -d ipzjwnbhgymuw.com
 -d iqmjedevvojm.com
 -d iqpfextjfphjnn.com
+-d iqqbwhrf.com
 -d iqrqmhrfkyuu.com
 -d iqsqqyoqry.com
 -d iqwbqjnst.bid
@@ -16693,6 +16720,7 @@ msFilterList
 -d jgqkrvjtuapt.com
 -d jgrcggutsilp.com
 -d jgtnayftk.bid
+-d jguhktakkykrsb.com
 -d jgxlxsnqz.bid
 -d jheplryxvzvx.com
 -d jhewbownkjobl.bid
@@ -16800,6 +16828,7 @@ msFilterList
 -d jqtwygdajic.com
 -d jqusvvfzw.bid
 -d jrauyqdbit.bid
+-d jrcpoxuskv.com
 -d jrdxlxdnohjzs.bid
 -d jrlnmyorquny.bid
 -d jrlsithadutpm.com
@@ -17022,6 +17051,7 @@ msFilterList
 -d kqsipdhvcejx.com
 -d kqssmkxdtuc.bid
 -d kquthdppub.com
+-d kqvpjbau.com
 -d kqyckxlnll.bid
 -d krezqajxv.bid
 -d krgxtloi.bid
@@ -17032,6 +17062,7 @@ msFilterList
 -d krsdoqvsmgld.com
 -d krxexwfnghfu.com
 -d krxpudrzyvko.com
+-d krynjumnqlix.com
 -d krziyrrnvjai.com
 -d krzllasnlbpjk.bid
 -d ksavfuxjbqx.com
@@ -17147,7 +17178,9 @@ msFilterList
 -d lbfryfttoihl.com
 -d lbpndcvhuqlm.com
 -d lbtcymxcocwh.bid
+-d lbtifiprfzy.com
 -d lbypppwfvagq.com
+-d lbytagcqxefsn.com
 -d lceihiuarfqbn.bid
 -d lckpubqq.com
 -d lcmwchhybzik.bid
@@ -17345,6 +17378,7 @@ msFilterList
 -d lvayccwmhdggvi.bid
 -d lvcxvjetzvt.com
 -d lvdtftxgbsiu.com
+-d lvhxebdxz.com
 -d lvlotqtrygwi.com
 -d lvlvpdztdnro.com
 -d lvpcqndtdk.bid
@@ -17556,6 +17590,7 @@ msFilterList
 -d moxdmkdzvkgxow.bid
 -d mphqfyhswko.bid
 -d mpifsodagy.com
+-d mplxbmgukmc.com
 -d mpmfdpakljrv.bid
 -d mpnkfljjfjqd.bid
 -d mpoboqvqhjqv.com
@@ -17575,6 +17610,7 @@ msFilterList
 -d mrfveznetjtp.com
 -d mrkzgpbaapif.com
 -d mrnbzzwjkusv.com
+-d mrnrnyavzcatfv.com
 -d mrqsuedzvrrt.com
 -d mrvzisfsrvs.bid
 -d mrxvgpzath.bid
@@ -17591,6 +17627,7 @@ msFilterList
 -d mtbpqzke.bid
 -d mtbsdhzpikjt.com
 -d mtbyuuflne.com
+-d mtfopqsufagxy.com
 -d mtklywkg.com
 -d mtlieuvyoikf.com
 -d mtnysmosgmp.bid
@@ -17803,6 +17840,7 @@ msFilterList
 -d nprcpjufz.bid
 -d npuwpglke.bid
 -d npzlzsxkq.bid
+-d nqbhezlm.com
 -d nqkttgrapot.bid
 -d nqlkwyyzzgtn.com
 -d nqtxbweqb.com
@@ -17876,6 +17914,7 @@ msFilterList
 -d nyzncfurdrdxfi.com
 -d nzcpdaboaayv.com
 -d nzssjqjv.bid
+-d nzvbcznobb.com
 -d nzxmgfawlxhm.bid
 -d nzxriltfmrpl.com
 -d nzyymvidnbvz.bid
@@ -17938,6 +17977,7 @@ msFilterList
 -d ofpwdoovxs.bid
 -d ofuqmgatoli.com
 -d ofwwrgelrvx.bid
+-d ofwznbbxso.com
 -d ogbamfpcfac.bid
 -d ogegqayudrypc.bid
 -d ogkmakmofd.bid
@@ -18113,6 +18153,7 @@ msFilterList
 -d oznuyyxtqqj.bid
 -d ozoltyqcnwmu.com
 -d ozpigvtnn.bid
+-d ozssctuyet.com
 -d oztzipze.com
 -d ozvncdlo.com
 -d ozvzmgvssaou.com
@@ -18327,6 +18368,7 @@ msFilterList
 -d pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com
 -d pxgkuwybzuqz.com
 -d pxktkwmrribg.com
+-d pxlcadvpqd.com
 -d pxlijblevbp.bid
 -d pycvhwxtqhknb.com
 -d pydpcqjenhjx.com
@@ -18539,6 +18581,7 @@ msFilterList
 -d qvovzakydfvi.bid
 -d qvqqvistxqvy.bid
 -d qvsbroqoaggw.com
+-d qvsogqqd.com
 -d qvxgghoisvifyu.bid
 -d qwbnzilogwdc.com
 -d qwfwimquecfw.bid
@@ -18672,6 +18715,7 @@ msFilterList
 -d rjyihkorkewq.com
 -d rkbjbtxhdi.bid
 -d rkbldvgcjebh.com
+-d rkcemktaasoxew.com
 -d rkelvtnnhofl.com
 -d rkkneuzkd.bid
 -d rkktwxuqu.bid
@@ -18871,6 +18915,7 @@ msFilterList
 -d sfpkwhncpllt.com
 -d sfzcbcrwxhic.com
 -d sgccsauvct.bid
+-d sgeeavwmk.com
 -d sgfcsnwegazn.com
 -d sghradxea.bid
 -d sgkcijmcduuhhq.bid
@@ -19027,6 +19072,7 @@ msFilterList
 -d syorlvhuzgmdqbuxgiulsrusnkgkpvbwmxeqqcboeamyqmyexv.com
 -d syrnujjldljl.com
 -d sywyknkojoj.bid
+-d syxcbevp.com
 -d syxojpztar.com
 -d szjgylwamcxo.com
 -d szltiojqs.bid
@@ -19093,6 +19139,7 @@ msFilterList
 -d tflmiurze.bid
 -d tfmfakhermpr.bid
 -d tfnzqjjt.bid
+-d tfokrtmrwlkzv.com
 -d tfomaunqqmii.bid
 -d tfqzkesrzttj.com
 -d tftsbqbeuthh.com
@@ -19785,6 +19832,7 @@ msFilterList
 -d vyueglbpe.bid
 -d vywujhsinxfa.com
 -d vywycfxgxqlv.com
+-d vyycgqgcpes.com
 -d vyytpvzba.bid
 -d vzhbfwpo.com
 -d vzkrfuzxoh.bid
@@ -20134,6 +20182,7 @@ msFilterList
 -d xmoyoxsx.com
 -d xmsgobwy.com
 -d xmwqbnrbvghq.bid
+-d xnlxpsbs.com
 -d xnmphtmerao.bid
 -d xnqlhbddabfsy.com
 -d xnuuzwthzaol.com
@@ -20538,6 +20587,7 @@ msFilterList
 -d zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com
 -d zftgljkhrdze.com
 -d zfubrpobdf.bid
+-d zfwfrpcfvmd.com
 -d zfwzdrzcasov.com
 -d zgalejbegahc.com
 -d zgalwqht.com
@@ -24884,6 +24934,7 @@ msFilterList
 -d cricruns.com /images/hioxindia-
 -d crmbuyer.com /sda/
 -d crow.com /biggreendot.png
+-d crown.co.za /banners/
 - http://crunchyroll.*/vast?
 -d crushorflush.com /html/promoframe.html
 -d cruzine.com /banners/
@@ -28076,7 +28127,7 @@ msFilterList
 -d zws.avvo.com
 +d youtube.com /iframe_api
 +d youtube.com /player_api
-- /(watchcartoononline|9anime|memecenter|animeflv).*[a-zA-Z0-9&%=\/?]{40,}/*.js
+- /(watchcartoononline|9anime|memecenter|kimcartoon|animeflv).*[a-zA-Z0-9&%=\/?]{40,}/*.js
 +d 9anime.is /assets/min/frontend/all.js*.js
 +d 9anime.is /assets/player/jwplayer-7.12.3/jwplayer.js*.js
 +d imx.to /dropzone.js*.js
@@ -28316,6 +28367,12 @@ msFilterList
 -d techweb.com /adblocktrack
 -d vapingunderground.com /js/vapingunderground/fucking_adblock.js
 -d ytconv.net /site/adblock_detect
++d emathhelp.net /search/
++d freebeacon.com /?s=
++d healthline.com /search?
++d kiplinger.com /search/
++d pocketnow.com /?s=
++d talkwithstranger.com /custom-search/
 +d rapidvideo.com /js/jquery-ui.min.js*.js
 +d rapidvideo.com /js/jquery.limit-1.2.source.js*.js
 +d rapidvideo.com /js/jquery.tipsy.js*.js
@@ -29094,6 +29151,7 @@ msFilterList
 -d skimtube.com /kellyban.gif
 -d slinky.com.au /banners/
 -d smutmodels.com /sponsors/
+-d smutr.com /live/
 -d socaseiras.com.br /arquivos/banners/
 -d socaseiras.com.br /banner_
 -d socaseiras.com.br /banners.php?
