@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne kvě 20 15:12:24 CEST 2018 ##################
+##### Aktualizováno: Út kvě 22 23:24:37 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -881,6 +881,7 @@ msFilterList
 - -third-ad.
 - -top-ad.
 - -top-ads.
+- -tower-ad-
 - -us/ads/
 - -video-ads/
 - -web-ad-
@@ -1439,6 +1440,7 @@ msFilterList
 - /ad.valary?
 - /ad.view?
 - /ad.ytn.
+- /ad/*&ifid=
 - /ad/130-
 - /ad/402_
 - /ad/600-
@@ -1457,6 +1459,7 @@ msFilterList
 - /ad/afc_
 - /ad/article_
 - /ad/audsci.
+- /ad/b_view?
 - /ad/banner.
 - /ad/banner/
 - /ad/banner?
@@ -2172,6 +2175,7 @@ msFilterList
 - /adframe728b.
 - /adframe728b2.
 - /adframe728bot.
+- /adframe728homebh.
 - /adframe?
 - /adframe_
 - /adframebottom.
@@ -2438,6 +2442,7 @@ msFilterList
 - /adplayer-
 - /adplayer/
 - /adplugin.
+- /adplugin/
 - /adplugin_
 - /adpoint.
 - /adpolestar/
@@ -2540,6 +2545,7 @@ msFilterList
 - /ads-mopub?
 - /ads-net.
 - /ads-new.
+- /ads-no-
 - /ads-nodep.
 - /ads-pd.
 - /ads-rectangle.
@@ -4150,6 +4156,7 @@ msFilterList
 - /buildAdriverBanner.
 - /bundle/ads.
 - /bundles/Ad/
+- /bundles/ads-
 - /bunyad_
 - /burt/adv_
 - /butler.php?type=
@@ -6532,6 +6539,7 @@ msFilterList
 - /tag_sys.
 - /tagadv_
 - /talkads/
+- /targetingAd.
 - /taxonomy-ads.
 - /td-ads-
 - /td_ads/
@@ -6604,6 +6612,7 @@ msFilterList
 - /toonad.
 - /top-ad-
 - /top-ad.
+- /top-ad/
 - /top-ad_
 - /top-ads.
 - /top_ad.
@@ -7106,6 +7115,7 @@ msFilterList
 - ?phpAds_
 - ?poll=ad_
 - ?PopAd=
+- ?q=ads_
 - ?service=ad&
 - ?sid=ads
 - ?simple_ad_
@@ -7227,6 +7237,7 @@ msFilterList
 - _ad_right_
 - _ad_rolling.
 - _ad_run.
+- _ad_sense/
 - _ad_service.
 - _ad_serving.
 - _ad_show&
@@ -9797,6 +9808,7 @@ msFilterList
 -d clicknerd.com
 -d clickosmedia.com
 -d clickpartoffon.xyz
+-d clickpoint.com
 -d clickredirection.com
 -d clicks2count.com
 -d clicks4ads.com
@@ -10067,6 +10079,7 @@ msFilterList
 -d digitrevenue.com
 -d dinclinx.com
 -d directaclick.com
+-d directadvert.net
 -d directclicksonly.com
 -d directile.info
 -d directile.net
@@ -11223,6 +11236,7 @@ msFilterList
 -d marketleverage.com
 -d marketnetwork.com
 -d marketoring.com
+-d marphezis.com
 -d marsads.com
 -d martiniadnetwork.com
 -d masterads.org
@@ -14591,6 +14605,7 @@ msFilterList
 -d alajwtqyw.com
 -d alasdzdnfvtj.com
 -d algkebjdgafa.com
+-d algnnojsdr.com
 -d alidnquxirv.bid
 -d alnisdrmhs.bid
 -d alvivigqrogq.com
@@ -14903,6 +14918,7 @@ msFilterList
 -d bqyphmwr.bid
 -d bqytfutmwulr.com
 -d brhkraeknmjk.com
+-d briqsnyafmmkxr.com
 -d briqumvlvzshh.com
 -d brjbzbxbcqjb.com
 -d brjycsvgpo.bid
@@ -15024,6 +15040,7 @@ msFilterList
 -d cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com
 -d cdtojdrhoc.bid
 -d cdveeechegws.com
+-d ceidxneoogpuh.com
 -d ceseyitsikzs.com
 -d cesxssavc.com
 -d ceugjbwb.com
@@ -15352,6 +15369,7 @@ msFilterList
 -d dnoucjqzsasm.com
 -d dnqejgrbtlxe.com
 -d dnrtjavop.com
+-d dnrzajdjq.com
 -d dnsqqdordvpv.com
 -d dntlpwpjwcfu.com
 -d dnvndngbn.bid
@@ -15932,11 +15950,13 @@ msFilterList
 -d fzhwvlpnqg.bid
 -d fzpseyhkanhopd.com
 -d fzqxefkbjzwiqa.com
+-d fzrcalpbcu.com
 -d fzsiwzxnqadb.com
 -d fztrvkdqzv.bid
 -d fzxraumht.bid
 -d fzzudxglrnrr.com
 -d gaaprokoduuyyn.bid
+-d gabyuyxwcubwdp.com
 -d gahhlbxdgw.com
 -d gaxafjlxgoqfj.bid
 -d gaxmdcfkxygs.com
@@ -15963,6 +15983,7 @@ msFilterList
 -d gcwhhynufwnj.com
 -d gcxsbflncu.bid
 -d gcypxlue.bid
+-d gdbohhvoo.com
 -d gdekvzhsqwau.com
 -d gdhlysucwzyzu.com
 -d gdhtshpyz.bid
@@ -16122,6 +16143,7 @@ msFilterList
 -d gtmonytxxglu.com
 -d gtqfsxrrerzu.com
 -d gttrngwnuuvy.bid
+-d gtvnygwfzrhfti.com
 -d gtxfafvoohbc.com
 -d gtzyfaro.bid
 -d gubdadtxwqow.com
@@ -16523,6 +16545,7 @@ msFilterList
 -d ijuawecwqhwyou.bid
 -d ijvolcqtnxohl.com
 -d ijyzkjjabc.bid
+-d ikdhuhcigpoc.com
 -d ikealcmavhpk.com
 -d ikgxfzfjxmp.bid
 -d ikmmsoihdmfkbh.bid
@@ -16664,6 +16687,7 @@ msFilterList
 -d izmwtewwobxy.com
 -d iznhvszyizwd.com
 -d iztsbnkxphnj.com
+-d iztxikfgw.com
 -d izwsvyqv.com
 -d izxdpodiowdgp.bid
 -d jabcdkwmwnek.com
@@ -16716,6 +16740,7 @@ msFilterList
 -d jebuorwrqfflzl.com
 -d jeksffryglas.com
 -d jemopaqkst.com
+-d jemyvtomzyha.com
 -d jeqixokniyny.com
 -d jertwakjcaym.com
 -d jevijshpvnwm.com
@@ -16772,6 +16797,7 @@ msFilterList
 -d jkkernvkrwdr.com
 -d jkoiwpjk.bid
 -d jkpdxsqpyl.bid
+-d jkuuoecpgecwla.com
 -d jkxzawjvp.bid
 -d jlarmqbypyku.com
 -d jldnphwwu.bid
@@ -17057,6 +17083,7 @@ msFilterList
 -d kpgcyqkktm.bid
 -d kplzvizvsqrh.com
 -d kpnuqvpevotn.com
+-d kprkrbatuob.com
 -d kpsdnlprwclz.com
 -d kpucctqryjdvx.bid
 -d kpwhkeehpsp.bid
@@ -17615,6 +17642,7 @@ msFilterList
 -d mpmfdpakljrv.bid
 -d mpnkfljjfjqd.bid
 -d mpoboqvqhjqv.com
+-d mpxxjdqpru.com
 -d mpytdykvcdsg.com
 -d mpzuzvqyuvbh.com
 -d mqcnrhxdsbwr.com
@@ -18144,6 +18172,7 @@ msFilterList
 -d ovcksawwem.com
 -d ovfbwavekglf.com
 -d ovgzbnjj.com
+-d ovjlgvapqhmpy.com
 -d ovoczhahelca.com
 -d ovrdkhamiljt.com
 -d ovzmelkxgtgf.com
@@ -18302,6 +18331,7 @@ msFilterList
 -d pooxbpxm.com
 -d popadscdn.net
 -d popzkvfimbox.com
+-d poqqvnychl.com
 -d potmbbqbaqxwp.com
 -d ppjjbzcxripw.com
 -d pppjxzcu.bid
@@ -18803,6 +18833,7 @@ msFilterList
 -d rrhzlgzazz.bid
 -d rriqwzgmaazsp.com
 -d rrjkbdgwoh.bid
+-d rrptobfpqeftyg.com
 -d rrqmebej.bid
 -d rrrdddbtofnf.com
 -d rrscdnsfunoe.com
@@ -19693,6 +19724,7 @@ msFilterList
 -d vhiaxerjzbqi.com
 -d vhjgxutx.bid
 -d vhjygupbyf.bid
+-d vhlnpaaxxxz.com
 -d vhlsrzyt.bid
 -d vhpqxkhvjgwx.com
 -d vhscigqpwe.com
@@ -22309,6 +22341,7 @@ msFilterList
 -d banners.smarttweak.com
 -d banners.videosz.com
 -d banners.webmasterplan.com
+-d barnebys.com /widgets/
 -d bbcchannels.com /workspace/uploads/
 -d bc.coupons.com
 -d bc.vc /js/link-converter.js
@@ -22556,6 +22589,7 @@ msFilterList
 -d d2cxkkxhecdzsq.cloudfront.net
 -d d2d2lbvq8xirbs.cloudfront.net
 -d d2dxgm96wvaa5j.cloudfront.net
+-d d2focgxak1cn74.cloudfront.net
 -d d2ghscazvn398x.cloudfront.net
 -d d2gpgaupalra1d.cloudfront.net
 -d d2gtlljtkeiyzd.cloudfront.net
@@ -25711,6 +25745,7 @@ msFilterList
 -d hotfiletrend.com /dlp.gif
 -d hothardware.com /pgmerchanttable.aspx?
 -d hothardware.com _staticbanner_*.jpg
+-d hotpepper-gourmet.com /bnr_
 -d houseoftravel.co.nz /flash/banner/
 -d howtogeek.com /go/
 -d howtogermany.com /banner/
@@ -26578,6 +26613,7 @@ msFilterList
 -d nytimes.com -sponsor-
 -d nzbindex.nl /images/banners/
 -d nzbking.com /static/nzbdrive_banner.swf
+-d nzbstars.com /images/blb_
 -d nznewsuk.co.uk /banners/
 -d oanda.com /wandacache/wf-banner-
 -d oas.autotrader.co.uk
@@ -26760,6 +26796,7 @@ msFilterList
 -d portevergladeswebcam.com -WebCamBannerFall_
 -d portlanddailysun.me /images/banners/
 -d portmiamiwebcam.com /images/sling_
+-d ports.co.za /banners/
 -d porttechnology.org /images/partners/
 -d portugaldailyview.com /images/mrec/
 -d portugalresident.com /t/
@@ -29719,7 +29756,6 @@ msFilterList
 +d cdn77.org /static/js/advertisement*.js
 +d cellc.co.za /adserv/
 +d cerebral.s4.bizhat.com /banners/
-+d champion.gg
 +d channel4.com /media/scripts/oasconfig/siteads.js
 +d chase.com /content/*/ads/
 +d chase.com /adserving/
