@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: St kvě 23 01:24:46 CEST 2018 ##################
+##### Aktualizováno: So kvě 26 01:37:27 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -1321,6 +1321,7 @@ msFilterList
 - /ad-fix-
 - /ad-flashgame.
 - /ad-format.
+- /ad-forumhome/
 - /ad-frame.
 - /ad-frame/
 - /ad-half_
@@ -3248,6 +3249,8 @@ msFilterList
 - /adspot_
 - /adspots/
 - /adspro/
+- /adspromo-
+- /adspromo.
 - /AdsPublisher.
 - /adsq/
 - /adsquare.
@@ -11447,6 +11450,8 @@ msFilterList
 -d myadcash.com
 -d myaffiliates.com
 -d mycasinoaccounts.com
+-d mycdn.co
+-d mycdn2.co
 -d myclickbankads.com
 -d mycooliframe.net
 -d mydreamads.com
@@ -13288,14 +13293,18 @@ msFilterList
 -d awakinatters.co
 -d baltchd.net
 -d bellissimome.pro
+-d blailays.pro
 -d blisldgsqk.com
 -d bravome.pro
 -d brazienting.co
 -d breeringarify.co
+-d brigenlies.pro
 -d broced.co
 -d buonome.pro
 -d busions.com
+-d bystfied.pro
 -d cabirm.com
+-d carvarial.pro
 -d categy.co
 -d chiptionics.co
 -d chness.co
@@ -13307,18 +13316,23 @@ msFilterList
 -d coolandevencooler.com
 -d cpmgohigh.com
 -d crewita.co
+-d critariatele.pro
 -d cruisteerses.co
 -d cwkhyupiwzcjy.com
 -d darersan.co
 -d deliverylizer.com
 -d deliverytaste.com
+-d derler.pro
 -d despearingle.co
 -d dohillright.com
 -d donecooler.com
+-d dustumbs.pro
+-d elepocial.pro
 -d exchange.automoc.net
 -d exclusivecpms.com
 -d explanse.co
 -d explater.net
+-d exponderle.pro
 -d fabrativellic.co
 -d fcrgzqkbtgu.co
 -d fielerac.net
@@ -13345,13 +13359,21 @@ msFilterList
 -d huccrlctmgifs.com
 -d imanisfan.com
 -d inchte.com
+-d ininmacerad.pro
+-d jacopiler.pro
 -d johays.co
 -d juryintory.co
+-d justailley.pro
+-d justardes.pro
+-d lanchaeanly.pro
 -d lativil.co
 -d lengthi.net
 -d lightspeedtop.com
+-d meried.co
 -d methernary.com
+-d monditomasks.co
 -d motosal.net
+-d nastoverewess.pro
 -d niajmtjqexq.co
 -d nottonic.com
 -d omoukkkj.stream
@@ -13373,23 +13395,31 @@ msFilterList
 -d premender.co
 -d printelly.co
 -d proccurs.com
+-d prodwaves.pro
 -d purpreine.co
 -d qpernrqxjfto.com
 -d qqatllrijx.com
+-d queurow.pro
 -d quilithly.co
 -d rapidyl.net
+-d readvasturked.pro
 -d recusticks.co
 -d redemotoructs.co
 -d reimburs.co
+-d relity.pro
 -d replainy.co
 -d reundcwkqvctq.com
 -d saillix.com
 -d shmential.co
 -d skyligh.co
+-d slavial.pro
 -d solegingly.co
 -d sommons.co
 -d souncontrigh.com
+-d steakafka.pro
+-d stimergeners.pro
 -d substerrent.co
+-d succumbertson.pro
 -d surmoss.co
 -d susection.co
 -d sworatio.co
@@ -13397,14 +13427,18 @@ msFilterList
 -d temphilltop.net
 -d thogethoffic.co
 -d thomized.co
+-d tiveriches.pro
+-d trepit.pro
 -d trobely.co
 -d typieced.com
 -d unaiablmgsz.com
 -d vulgiatious.com
+-d vulging.pro
 -d wanaldster.com
 -d whitud.co
 -d wicktrown.co
 -d xleebhxalb.com
+-d xvika.com
 -d ywtjdckysve.com
 -d zbwttofskjnc.com
 -d 04v70ab.com
@@ -14815,6 +14849,7 @@ msFilterList
 -d bgibeluywjhgb.com
 -d bgitczbd.com
 -d bgpxrwjrbsjb.com
+-d bgrojtcdymmcdr.com
 -d bgtmceqoipodkv.com
 -d bguaeoakgmrw.com
 -d bgxjypaeyocjy.bid
@@ -16330,6 +16365,7 @@ msFilterList
 -d hnivikwwypcv.com
 -d hnkbivnten.com
 -d hnoajsaivjsg.com
+-d hnopgrab.com
 -d hnqnftzzytjl.com
 -d hntpbpeiuajc.com
 -d hnuhqaslqaqtb.bid
@@ -16590,6 +16626,7 @@ msFilterList
 -d iooxsrjgkb.bid
 -d ioryejnzvbbluh.bid
 -d ioupfmge.com
+-d ioyixcprbghm.com
 -d ipadxqhm.bid
 -d ipcouosurtdqc.bid
 -d ipdcgsdjkz.bid
@@ -16667,6 +16704,7 @@ msFilterList
 -d ixqpfqtwi.bid
 -d ixrtmzmk.bid
 -d ixsxgaegvplo.com
+-d ixtkiofaoudis.com
 -d ixvsxjiw.com
 -d ixzhwyuxxvxb.com
 -d ixznwuxokydz.com
@@ -16751,6 +16789,7 @@ msFilterList
 -d jfcofvhuqzdg.bid
 -d jffhbunkrxmyhf.bid
 -d jffwwuyychxw.com
+-d jfkfojgkrk.com
 -d jfribvstvcqy.com
 -d jfvoyuxmp.bid
 -d jfwfnxsdzhvxax.bid
@@ -16834,12 +16873,14 @@ msFilterList
 -d jnwsojzuahwbeq.com
 -d jnxqlltlnezn.com
 -d jnylpjlnjfsp.com
+-d jnyorvlxy.com
 -d jnyyqfarzgijbj.bid
 -d joaqicgtmndbc.bid
 -d jobveibsozms.com
 -d jogccrwnpsmliq.bid
 -d jogpsoiyngua.com
 -d jollqxplkz.bid
+-d jomznuefrw.com
 -d joqnoyniblzm.com
 -d joqpatxugyug.com
 -d jorndvyzchaq.com
@@ -17126,6 +17167,7 @@ msFilterList
 -d kthztsgfuygcw.com
 -d ktjqfqadgmxh.com
 -d ktrmzzrlkbet.com
+-d kttjowlrr.com
 -d ktuiyrchrhuxn.bid
 -d kuavzcushxyd.com
 -d kuaygqohsbeg.com
@@ -17528,6 +17570,7 @@ msFilterList
 -d mflkgrgxadij.com
 -d mfmikwfdopmiusbveskwmouxvafvzurvklwyfamxlddexgrtci.com
 -d mfnjkgzqhoipe.bid
+-d mfpqojya.com
 -d mfryftaguwuv.com
 -d mftbfgcusnzl.com
 -d mfuebmooizdr.com
@@ -17594,6 +17637,7 @@ msFilterList
 -d mlrocrzhrgbyi.bid
 -d mlstoxplovkj.com
 -d mmaigzevcfws.com
+-d mmauckxrzh.com
 -d mmcltttqfkbh.com
 -d mmdcibihoimt.com
 -d mmdifgneivng.com
@@ -17734,6 +17778,7 @@ msFilterList
 -d mznijqwjkqadk.com
 -d mzqxeqrmgzxv.com
 -d mzrhjbbikqm.com
+-d naaifqdqsnxtsp.com
 -d nahvyfyfpffm.com
 -d namjixxurjam.com
 -d nasfrzhbqvgq.bid
@@ -17743,6 +17788,7 @@ msFilterList
 -d nbbljlzbbpck.com
 -d nbbvpxfxnamb.com
 -d nbclkgok.bid
+-d nbfvybpkasjs.com
 -d nbhbqvfcsds.com
 -d nbhubocsduzn.com
 -d nbkwnsonadrb.com
@@ -18270,6 +18316,7 @@ msFilterList
 -d piwwplvxvqqi.com
 -d pixjqfvlsqvu.com
 -d piyzmkcxa.bid
+-d pjeledftjxfnd.com
 -d pjffrqroudcp.com
 -d pjfgugfnw.bid
 -d pjlcpzevt.bid
@@ -18448,6 +18495,7 @@ msFilterList
 -d qavqnwwlxh.bid
 -d qawaqcurthru.com
 -d qazzzxwynmot.com
+-d qbahsvxo.com
 -d qbdgnjwaknl.bid
 -d qbfvwovkuewm.com
 -d qblpxxcjusgmq.bid
@@ -18915,6 +18963,7 @@ msFilterList
 -d salhbbkvs.com
 -d samlmqljptbd.com
 -d sandzfuay.bid
+-d sanksvohixxnlf.com
 -d sapvummffiay.com
 -d saqcgojcure.bid
 -d sasieidpe.bid
@@ -19564,6 +19613,7 @@ msFilterList
 -d utlpwxdt.com
 -d utwhgyjgjw.bid
 -d utyhzjbwfyrz.bid
+-d utyynepwwnl.com
 -d utzpjbrtyjuj.com
 -d uuacjdostjloa.bid
 -d uuiqhzpvfql.com
@@ -19689,6 +19739,7 @@ msFilterList
 -d vehvkcnild.bid
 -d vejlbuixnknc.com
 -d vejrnvdsrvrbij.bid
+-d velzqrqrucvmqc.com
 -d vepcsswlpolz.com
 -d veswrzdcvcdooh.bid
 -d vevjbdxyththv.bid
@@ -19951,6 +20002,7 @@ msFilterList
 -d wfmcdmmulkwwp.bid
 -d wfnmmrtw.bid
 -d wfquqjxu.bid
+-d wfywchrzpic.com
 -d wgclurzhgrjoq.bid
 -d wgefjuno.com
 -d wggmaxxawkxu.com
@@ -20550,12 +20602,14 @@ msFilterList
 -d ywldkddqx.bid
 -d ywmbgxmtupll.bid
 -d ywpkgqasoe.bid
+-d ywrfqzdvd.com
 -d ywsugrjvusc.com
 -d ywwefdjjc.bid
 -d ywxjbwauqznf.com
 -d ywzutugurhqpvs.bid
 -d yxahzybkggol.com
 -d yxbtyzqcczra.com
+-d yxcdiyaidaakp.com
 -d yxcwyiipjsksc.bid
 -d yxghdgwi.bid
 -d yxhyxfyibqhd.com
@@ -20722,6 +20776,7 @@ msFilterList
 -d zpnbzxbiqann.com
 -d zprlpkabqlth.com
 -d zprrfpczfpnh.com
+-d zpsgqvvzcbni.com
 -d zptncsir.com
 -d zpwqekgztngd.bid
 -d zpxbdukjmcft.com
@@ -20969,7 +21024,10 @@ msFilterList
 -d acrabakasaka.com
 -d ajkelra.com
 -d akailoparzapi.com
+-d akrazappi.com
 -d alabardak.com
+-d albertonne.com
+-d arganostrella.com
 -d atarshaboor.com
 -d avalhukof.com
 -d badokal.com
@@ -20978,8 +21036,11 @@ msFilterList
 -d bapalolo.com
 -d bapaquac.com
 -d beglorena.com
+-d bidoraln.com
 -d bobarilla.com
+-d boerilav.com
 -d bokilora.com
+-d bolkazoopa.com
 -d bondinra.com
 -d bonjikoa.com
 -d botiviga.com
@@ -20993,8 +21054,11 @@ msFilterList
 -d dagasaka.com
 -d daghashmal.com
 -d dbvault.net
+-d dodatova.com
+-d dokaboka.com
 -d dontibar.com
 -d dorapodorasham.com
+-d dragolosa.com
 -d drogomet.com
 -d dulderbulder.com
 -d durazopa.com
@@ -21005,9 +21069,12 @@ msFilterList
 -d filtonay.com
 -d foditgoz.com
 -d forkitz.com
+-d forkmola.com
 -d fulhudhoo.com
+-d gamzetov.com
 -d godibarl.com
 -d golizoli.com
+-d golokavi.com
 -d haklopar.com
 -d hariqavi.com
 -d hirovivi.com
@@ -21015,6 +21082,7 @@ msFilterList
 -d humuseliyahu.com
 -d jadizayo.com
 -d jandolav.com
+-d jerotidv.com
 -d jingavot.com
 -d jojilabola.com
 -d joribobo.com
@@ -21027,19 +21095,33 @@ msFilterList
 -d kilomansa.com
 -d kilorama.com
 -d kirilaboola.com
+-d kokilopi.com
+-d kolimanq.com
+-d koltruah.com
+-d kompilukabalazooka.com
+-d korketople.com
+-d korkilazoopi.com
 -d krakeshlaja.com
 -d kuchebraska.com
 -d kulkaridoopi.com
 -d kulkerbolda.com
+-d kulkulta.com
 -d kullalabulla.com
 -d kurlikburlik.com
+-d kuzalooza.com
 -d liktirov.com
 -d lokipodi.com
+-d lokspeedarma.com
+-d majosita.com
 -d maokdata.com
 -d measurementaz.com
+-d megahrepsh.com
+-d melahorgani.com
 -d milparota.com
+-d mitotach.com
 -d mojigaga.com
 -d monijorb.com
+-d moninosa.com
 -d morbitempus.com
 -d moritava.com
 -d mozefakt.com
@@ -21047,24 +21129,35 @@ msFilterList
 -d muligov.com
 -d namitol.com
 -d nanuyalailai.com
+-d nepohita.com
+-d nidorivo.com
 -d niholaev.com
 -d niklesrov.com
 -d nimdinb.com
 -d nitigoly.com
 -d oddomane.com
+-d opaalopaa.com
 -d opjalajamak.com
+-d paholita.com
+-d perahbashmama.com
+-d pipilazipi.com
 -d pipilida.com
 -d pitatagata.com
 -d pompazilla.com
 -d poratav.com
 -d prikolizdesa.com
+-d pukrazopchatka.com
+-d pypozeqi.com
 -d qaquzakalaka.com
 -d qawiman.com
 -d quavomi.com
+-d rapigoy.com
 -d rapizoda.com
 -d ratkalol.com
 -d reqpostanza.com
 -d rezilopompa.com
+-d ripalazc.com
+-d rodirola.com
 -d rolkakuksa.com
 -d roritabo.com
 -d rotibald.com
@@ -21079,9 +21172,17 @@ msFilterList
 -d tijorari.com
 -d tikodala.com
 -d tikrailijorj.com
+-d tilosman.com
+-d tokaripupsi.com
+-d tollibolli.com
+-d totachrl.com
+-d trasholita.com
+-d trikroacha.com
 -d udorik.com
 -d ufraton.com
 -d ukatoe.com
+-d ulajilala.com
+-d unidati.com
 -d upnorma.com
 -d uralap.com
 -d utazwa.com
@@ -21092,6 +21193,7 @@ msFilterList
 -d vkafirac.com
 -d volimole.com
 -d wakapita.com
+-d wodipaca.com
 -d wodizapt.com
 -d xeozir.com
 -d yaboshadi.com
@@ -21099,14 +21201,18 @@ msFilterList
 -d yeshhaod.com
 -d yorilada.com
 -d yuituityula.com
+-d zarazazapolaza.com
 -d zepozipo.com
+-d zilzolachi.com
 -d zinovila.com
 -d zipovoma.com
 -d zirobata.com
+-d zogzogolla.com
 -d zonolali.com
 -d zorbikala.com
 -d zortinah.com
 -d zozolilla.com
+-d zukabota.com
 -d 00zasdf.pw
 -d 0llii0g6.com
 -d 100pour.com
@@ -22931,6 +23037,7 @@ msFilterList
 -d gold4rs.com /images/
 -d goldmoney.com /~/media/Images/Banners/
 -d google.com /pagead/
+-d googleadapis.l.google.com
 -d googlesyndication.com /ddm/
 -d googlesyndication.com /pagead/
 -d googlesyndication.com /sadbundle/
@@ -22954,6 +23061,7 @@ msFilterList
 -d grouponcdn.com /affiliate_widget/
 -d grscty.com /images/banner/
 -d gsniper.com /images/
+-d gstaticadssl.l.google.com
 -d guim.co.uk /guardian/thirdparty/tv-site/side.html
 -d guzzle.co.za /media/banners/
 -d halllakeland.com /banner/
@@ -25358,6 +25466,7 @@ msFilterList
 -d fhm.com _banner.png
 -d fiba.com /Content/Sponsors/
 -d fiberupload.org /300en.png
+-d fifa.com /sponsors/
 -d fightersonlymag.com /images/banners/
 -d fijitimes.com /images/bspxchange.gif
 -d file-upload.net /include/mitte.php
@@ -27101,6 +27210,7 @@ msFilterList
 -d search-torrent.com /images/videox/
 -d search.ch /acs/
 -d search.ch /htmlbanner.html
+-d search.stream.cr /core/webfonts.js
 -d search.triadcareers.news-record.com /jobs/search/results?*&isfeatured=y&
 -d search.triadcars.news-record.com /autos/widgets/featuredautos.php
 -d searchenginejournal.com -takeover-
