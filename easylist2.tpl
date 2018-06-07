@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá čen 8 01:13:19 CEST 2018 ##################
+##### Aktualizováno: Pá čen 8 01:22:20 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -12707,6 +12707,7 @@ msFilterList
 -d theodosium.com
 -d theonecdn.com
 -d thepiratereactor.net
+-d therubiqube.com
 -d thewebgemnetwork.com
 -d thewheelof.com
 -d thewhizmarketing.com
