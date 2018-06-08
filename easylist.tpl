@@ -1,7 +1,7 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
 # EasyList Czech and Slovak and EasyList combination subscription
-# Last modified: 07 Jun 2018 23:20 UTC
+# Last modified: 07 Jun 2018 23:50 UTC
 : Expires=1
 # Homepage: http://adblock.sk/
 #
@@ -2977,6 +2977,7 @@ msFilterList
 - /ads/display/
 - /ads/displaytrust.
 - /ads/dj_
+- /ads/drive.
 - /ads/elementViewability.
 - /ads/empty.
 - /ads/exit.
@@ -9254,6 +9255,7 @@ msFilterList
 # ||adap.tv^$~object-subrequest,third-party
 -d adapd.com
 -d adapex.io
+-d adatrix.com
 -d adbard.net
 -d adbasket.net
 -d adbetclickin.pink

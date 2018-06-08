@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá čen 8 01:22:20 CEST 2018 ##################
+##### Aktualizováno: Pá čen 8 02:00:54 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -2703,6 +2703,7 @@ msFilterList
 - /ads/display/
 - /ads/displaytrust.
 - /ads/dj_
+- /ads/drive.
 - /ads/elementViewability.
 - /ads/empty.
 - /ads/exit.
@@ -8645,6 +8646,7 @@ msFilterList
 -d adaos-ads.net
 -d adapd.com
 -d adapex.io
+-d adatrix.com
 -d adbard.net
 -d adbasket.net
 -d adbetclickin.pink
