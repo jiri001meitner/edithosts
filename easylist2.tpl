@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út srp 7 09:45:03 CEST 2018 ##################
+##### Aktualizováno: Út srp 7 19:33:00 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -6050,6 +6050,7 @@ msFilterList
 - /randomad728x90nsfw.
 - /randomad_
 - /randomads.
+- /rassets1/ads-
 - /rawtubelivead.
 - /rcolads1.
 - /rcolads2.
@@ -13005,6 +13006,7 @@ msFilterList
 -d undousun.com
 -d unhardward.com
 -d unicast.com
+-d unifini.de
 -d unitethecows.com
 -d universityofinternetscience.com
 -d unlockr.com
@@ -14674,6 +14676,7 @@ msFilterList
 -d bbxaumvpzqpunx.com
 -d bpnjigwalqjho.com
 -d bvcddoyb.com
+-d caucqpoeg.com
 -d crvvrxfgsvohiy.com
 -d degitlwfezpe.com
 -d dmrqnwtyttd.com
@@ -14713,6 +14716,7 @@ msFilterList
 -d vtmkgqcvzvlsdt.com
 -d vyjwsifvybc.com
 -d wduygininqbu.com
+-d widpzvyx.com
 -d wjgddzpvx.com
 -d wmqdgaptep.com
 -d wzismevwhqixlq.com
