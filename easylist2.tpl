@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne srp 5 16:10:28 CEST 2018 ##################
+##### Aktualizováno: Út srp 7 09:42:38 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -4340,6 +4340,7 @@ msFilterList
 - /cornerbig.swf
 - /cornersmall.swf
 - /country_ad.
+- /couponAd.
 - /cover_ad.
 - /coxads/
 - /cpm160.
@@ -9975,7 +9976,6 @@ msFilterList
 -d connexity.net
 -d connexplace.com
 -d connextra.com
--d consciouschairs.com
 -d consivenu.com
 -d constintptr.com
 -d construment.com
@@ -14673,6 +14673,7 @@ msFilterList
 -d ayyxveilslz.com
 -d bbxaumvpzqpunx.com
 -d bpnjigwalqjho.com
+-d bvcddoyb.com
 -d crvvrxfgsvohiy.com
 -d degitlwfezpe.com
 -d dmrqnwtyttd.com
@@ -14683,6 +14684,7 @@ msFilterList
 -d enynwkvdb.com
 -d ewopxadcn.com
 -d fxdglnldbnyq.com
+-d ghjlhnbc.com
 -d gmeomlvmqlmu.com
 -d gsjhehtqvin.com
 -d imnsmvmjrdiwwr.com
@@ -14703,6 +14705,7 @@ msFilterList
 -d tktyinaabq.com
 -d tufpmrcdc.com
 -d uclylhzwg.com
+-d uqemcyylvcdrgs.com
 -d usfmwydo.com
 -d veoujrnenng.com
 -d vsrpztnxdejo.com
@@ -31575,6 +31578,7 @@ msFilterList
 +d refline.ch /advertisement.css
 +d remo-xp.com /wp-content/themes/adsense-boqpod/style.css
 +d replgroup.com /banners/
++d reutersmedia.net /resources_
 +d revit.eu /static/uploads/images/themes/banners/small-banner-
 +d rmncdn.com /ads/mini-
 +d rockpapershotgun.com
