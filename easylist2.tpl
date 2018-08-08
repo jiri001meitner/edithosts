@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út srp 7 19:33:00 CEST 2018 ##################
+##### Aktualizováno: St srp 8 11:07:14 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -14692,6 +14692,7 @@ msFilterList
 -d gsjhehtqvin.com
 -d imnsmvmjrdiwwr.com
 -d jbcadlpdfsxsfe.com
+-d jnhjvkapqf.com
 -d jpxevzab.com
 -d ltvrdftgr.com
 -d msoiqafieh.com
@@ -31582,7 +31583,6 @@ msFilterList
 +d refline.ch /advertisement.css
 +d remo-xp.com /wp-content/themes/adsense-boqpod/style.css
 +d replgroup.com /banners/
-+d reutersmedia.net /resources_
 +d revit.eu /static/uploads/images/themes/banners/small-banner-
 +d rmncdn.com /ads/mini-
 +d rockpapershotgun.com
@@ -31765,6 +31765,7 @@ msFilterList
 +d ultimate-guitar.com /js/ug_ads.js
 +d ultrabrown.com /images/adheader.jpg
 +d undsports.com /ads2/
++d unifini.de /resources_
 +d upc-cablecom.ch .swf?clicktag=http
 +d upload.wikimedia.org /wikipedia/
 +d urbanog.com /banners/
