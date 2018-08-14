@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: http://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po srp 13 00:23:43 CEST 2018 ##################
+##### Aktualizováno: Út srp 14 20:48:39 CEST 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -14687,6 +14687,7 @@ msFilterList
 -d viuboin4.com
 -d yie4zooseif.info
 -d aayaknbn.com
+-d afzoyaquhjltdd.com
 -d alkagrkgvltzlk.com
 -d ayyxveilslz.com
 -d baphruesqm.com
@@ -14699,6 +14700,7 @@ msFilterList
 -d cttnlnsnwdokqb.com
 -d degitlwfezpe.com
 -d dmrqnwtyttd.com
+-d docqacvwhgbxv.com
 -d dwvfccxbj.com
 -d dydxtkvmktumjp.com
 -d dzztjcbt.com
@@ -14706,13 +14708,17 @@ msFilterList
 -d enynwkvdb.com
 -d ewopxadcn.com
 -d fhtlyoqzyjjof.com
+-d flbecoidmt.com
+-d ftymzxmic.com
 -d fxdglnldbnyq.com
 -d fzccvcrsbtb.com
 -d ghjlhnbc.com
 -d gmeomlvmqlmu.com
 -d gsjhehtqvin.com
 -d gvahzhgblkkyr.com
+-d hcyqwhquqjosn.com
 -d hkhotpewfxr.com
+-d hpufwccrmiwz.com
 -d hsufwxpdtddlh.com
 -d imnsmvmjrdiwwr.com
 -d ipehunxxyir.com
@@ -14720,17 +14726,24 @@ msFilterList
 -d jlmnnrwuqz.com
 -d jnhjvkapqf.com
 -d jpxevzab.com
+-d kacfofrcndc.com
 -d kfxrukfzqazrs.com
+-d klhjuuwrmxyjsn.com
 -d lbaybxwiklnfe.com
 -d llhjbwcjnuii.com
 -d ltvrdftgr.com
 -d msoiqafieh.com
 -d nbvbblmksiahf.com
 -d ngptxgpbdnutvi.com
+-d nnroeulsnslk.com
 -d ntkuokicthbxc.com
+-d pegfkacjwjca.com
+-d peyttlwbznahi.com
 -d pkxquvydrgin.com
 -d qczvjjdbaj.com
 -d qevmzohvwxesrd.com
+-d qknfsqxxm.com
+-d qnhwhedcrzeodd.com
 -d rcumwyqkv.com
 -d ropkrhilt.com
 -d runwtxeisppmt.com
@@ -14746,9 +14759,11 @@ msFilterList
 -d uclylhzwg.com
 -d uqemcyylvcdrgs.com
 -d usfmwydo.com
+-d uubxhbwnwmfqp.com
 -d uwidtpjwh.com
 -d uzylpwfamhcb.com
 -d veoujrnenng.com
+-d vlhdmywfi.com
 -d vrzparvhipmo.com
 -d vsrpztnxdejo.com
 -d vsxjjmyz.com
@@ -14759,6 +14774,7 @@ msFilterList
 -d widpzvyx.com
 -d wjgddzpvx.com
 -d wmqdgaptep.com
+-d wozltvfxtntaqk.com
 -d wzismevwhqixlq.com
 -d wznnfwhwwjkp.com
 -d xsgacudwlysw.com
@@ -33534,6 +33550,7 @@ msFilterList
 +d pornhub.com /channel/
 +d pornhub.com /chat/
 +d pornhub.com /comment/
++d pornhub.com /event/awards_vote
 +d pornhub.com /front/
 +d pornhub.com /gif/
 +d pornhub.com /insights/
