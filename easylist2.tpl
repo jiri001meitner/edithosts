@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá lis 2 02:25:53 CET 2018 ##################
+##### Aktualizováno: Út lis 6 01:50:03 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -325,6 +325,7 @@ msFilterList
 -d static.itnews.sk /branding/
 -d ta3.com /api/v1/livebox/video/
 -d techbox.sk colorbox
+- http://tinypass.com
 -d totalpozicky.sk /images/banners/
 -d tu-ke.com /ali-jewelry.jpg
 -d tu-ke.com /certovskezlavy.jpg
@@ -843,6 +844,7 @@ msFilterList
 - -popunder.
 - -popup-ad.
 - -popup-ads-
+- -prebid-
 - -pri/adv-
 - -printhousead-
 - -publicidad.
@@ -7962,6 +7964,7 @@ msFilterList
 - /disabled_adBlock.
 - /fuckadb.js
 - /fuckadblock.js
+- /fuckadblock.min.js
 - /fuckingadblockplus.
 - /ibd-block-adblocker/
 - /no-adblock/
@@ -11010,6 +11013,7 @@ msFilterList
 -d icartory.info
 -d icdirect.com
 -d icqadvnew.com
+-d idbhsgy.com
 -d idealmedia.com
 -d identads.com
 -d idexoro.info
@@ -11895,6 +11899,7 @@ msFilterList
 -d onsitemarketplace.net
 -d onti.rocks
 -d onvertise.com
+-d onvid.club
 -d onwsys.net
 -d oodode.com
 -d ooecyaauiz.com
@@ -12206,6 +12211,7 @@ msFilterList
 -d promotionoffer.mobi
 -d promotiontrack.mobi
 -d propellerads.com
+-d propellerclick.com
 -d propellerpops.com
 -d propelllerads.com
 -d propelplus.com
@@ -13584,6 +13590,7 @@ msFilterList
 -d zompmedia.com
 -d zonealta.com
 -d zonplug.com
+-d zoocauvo.net
 -d zoomdirect.com.au
 -d zorwrite.com
 -d zugo.com
@@ -15070,6 +15077,7 @@ msFilterList
 -d fpluhtibx.com
 -d fpxkjlzmkqp.com
 -d fqckdxjgle.com
+-d fqhpssdbenl.com
 -d fqldrulyjfnt.com
 -d frbhjvazapgo.com
 -d frfgfhzxtfvsp.com
@@ -15097,6 +15105,7 @@ msFilterList
 -d ggijrjktcld.com
 -d ghjlhnbc.com
 -d gifjvmfkzykp.com
+-d girrjaqgjb.com
 -d gjliurjvfnkymq.com
 -d gkaatcjxwa.com
 -d glvjbogft.com
@@ -15178,6 +15187,7 @@ msFilterList
 -d idbtfwllhogxc.com
 -d iddvmkxme.com
 -d ideprjebdvj.com
+-d ifbhceoxx.com
 -d ifdmdfqysaacqa.com
 -d ifecuwzjajkiq.com
 -d ifgnsrtjcz.com
@@ -15300,6 +15310,7 @@ msFilterList
 -d lusfrsxgxopm.com
 -d lvcrcimfmfx.com
 -d lvctzafuvn.com
+-d lvldcxnq.com
 -d lwajqohv.com
 -d lxelgoqzvjfw.com
 -d lxlisrvzz.com
@@ -23668,6 +23679,8 @@ msFilterList
 -d citysex.com
 -d clearac.com
 -d cleavageguarantyaquarius.com
+-d clicadu.com
+-d clickadu.com
 -d clickganic.com
 -d clickpapa.com
 -d clicksvenue.com
@@ -25096,6 +25109,7 @@ msFilterList
 -d djlf5xdlz7m8m.cloudfront.net
 -d djr4k68f8n55o.cloudfront.net
 -d djv99sxoqpv11.cloudfront.net
+-d djz9es32qen64.cloudfront.net
 -d dkd69bwkvrht1.cloudfront.net
 -d dkdwv3lcby5zi.cloudfront.net
 -d dl392qndlveq0.cloudfront.net
@@ -25131,6 +25145,7 @@ msFilterList
 -d droidnetwork.net /img/dt-atv160.jpg
 -d droidnetwork.net /img/vendors/
 -d dsh7ky7308k4b.cloudfront.net
+-d dsie7h4lo9wxu.cloudfront.net
 -d dtakdb1z5gq7e.cloudfront.net
 -d dtrk.slimcdn.com
 -d dttek.com /sponsors/
@@ -27202,6 +27217,7 @@ msFilterList
 -d bypassoxy.com /vectrotunnel-banner.gif
 -d c-sharpcorner.com /banners/
 -d c-ville.com /image/pool/
+-d c-ville.com _SiteWrap_
 -d c21media.net /wp-content/plugins/sam-images/
 -d c9tk.com /images/banner/
 -d caclubindia.com /campaign/
@@ -28066,6 +28082,7 @@ msFilterList
 -d gr8.cc /addons/banners/
 -d grapevine.is /media/flash/*.swf
 -d graphic.com.gh /images/banners/
+-d graphicdesignforums.co.uk /banners/
 -d greatandhra.com /images/*_ga_
 -d greaterkashmir.com /adds_
 -d greatgirlsgames.com /100x100.php
@@ -30413,6 +30430,7 @@ msFilterList
 -d web.tmearn.com
 -d webdesignerdepot.com /wp-content/plugins/md-popup/
 -d webdesignerdepot.com /wp-content/themes/wdd2/fancybox/
+-d webdevforums.com /images/inmotion_banner.gif
 -d webhostingtalk.com /images/style/lw-160x400.jpg
 -d webhostingtalk.com /images/style/lw-header.png
 -d webhostingtalk.com -160x400.
@@ -30885,7 +30903,6 @@ msFilterList
 +d onrpg.com /boards/activityrss.php?
 +d sfiles.org
 -d sfiles.org /sw.js
--d kalo.onvid.club
 +d mashable.com
 +d ajax.cloudflare.com /cdn-cgi/nexp/*.js
 +d ajax.cloudflare.com /cdn-cgi/scripts/*.js
