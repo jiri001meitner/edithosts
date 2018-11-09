@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út lis 6 02:30:37 CET 2018 ##################
+##### Aktualizováno: Pá lis 9 02:24:58 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -1299,6 +1299,7 @@ msFilterList
 - /ad-468-
 - /ad-600-
 - /AD-970x90.
+- /ad-ace/
 - /ad-amz.
 - /ad-api-
 - /ad-api/
@@ -1358,6 +1359,8 @@ msFilterList
 - /ad-label-
 - /ad-label.
 - /ad-layering-
+- /ad-layers-
+- /ad-layers.
 - /ad-leaderboard.
 - /ad-left.
 - /ad-letter.
@@ -4319,6 +4322,7 @@ msFilterList
 - /comm/AD_
 - /comment-ad-
 - /comment-ad.
+- /commercial/sponsor/
 - /commercial_horizontal.
 - /commercial_top.
 - /common-ads/
@@ -4401,6 +4405,7 @@ msFilterList
 - /crossdomainads.
 - /crossoverad-
 - /csp/ads?
+- /css/ad-
 - /css/ad.
 - /css/ads-
 - /css/ads.
@@ -5008,6 +5013,7 @@ msFilterList
 - /googleadsafc_
 - /googleadsafs_
 - /googleAdScripts.
+- /GoogleAdSense-
 - /googleadsense.
 - /googleAdTaggingSubSec.
 - /googleadunit?
@@ -6517,6 +6523,8 @@ msFilterList
 - /sponsored_ad_
 - /sponsored_ads/
 - /sponsored_by.
+- /sponsored_content-
+- /sponsored_content/
 - /sponsored_link.
 - /sponsored_links.
 - /sponsored_links1.
@@ -7613,6 +7621,7 @@ msFilterList
 - _ChatAd_
 - _commonAD.
 - _companionad.
+- _content/sponsored_
 - _content_ad.
 - _content_ad_
 - _contest_ad_
@@ -7622,6 +7631,7 @@ msFilterList
 - _dart_interstitial.
 - _dashad_
 - _dfp.php?
+- _dfp_targeting.
 - _displayad_
 - _displaytopads.
 - _doubleclick.
@@ -9718,6 +9728,7 @@ msFilterList
 -d bizrotator.com
 -d bizx.info
 -d bizzclick.com
+-d bj1110.online
 -d bjjingda.com
 -d blamads.com
 -d blamcity.com
@@ -14612,6 +14623,7 @@ msFilterList
 -d stickcoinad.com
 -d stirshakead.com
 -d superadbid.com
+-d t2lgo.com
 -d t2y16t3g.download
 -d tdcgjhfgdxfghfch.com
 -d tde2wkyv.stream
@@ -27515,6 +27527,7 @@ msFilterList
 -d darknet.org.uk /images/acunetix_
 -d darknet.org.uk -250x250.
 -d darknet.org.uk /do468.
+-d dash.tmearn.com
 -d datpiff.com /skins/misc/
 -d davesite.com /aff/
 -d dayport.com /ads/
@@ -31389,6 +31402,7 @@ msFilterList
 -d mrstiff.com /view/context/
 -d mrstiff.com /view/movie/bar/
 -d mrstiff.com /view/movie/finished/
+-d multporn.net /frunti_
 -d myashot.txxx.com
 -d mygirlfriendvids.net /js/popall1.js
 -d myhentai.tv /popsstuff.
@@ -31774,6 +31788,7 @@ msFilterList
 -d xfanz.com _banner_
 -d xhamster.com /ads/
 -d xhcdn.com /ads_
+-d xhcdn.com /xpops.
 -d xogogo.com /images/latestpt.gif
 -d xozilla.com /62ca745f.js
 -d xozilla.com /agent.php?spot=
