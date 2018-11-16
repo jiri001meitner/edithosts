@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá lis 16 17:20:21 CET 2018 ##################
+##### Aktualizováno: So lis 17 00:48:31 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -1052,6 +1052,7 @@ msFilterList
 - .eu/ads/
 - .eu/adv/
 - .exp_ad-
+- .fi/ads/
 - .fm/ads/
 - .ga/ads.
 - .gg/ads/
@@ -2107,7 +2108,6 @@ msFilterList
 - /adcontrol.
 - /adcontrol/
 - /adcontroller.
-- /adcount.
 - /adcounter.
 - /adcreative.
 - /adcreative/
@@ -11434,6 +11434,7 @@ msFilterList
 -d ltassrv.com /serve/
 -d lucidmedia.com
 -d lucklayed.info
+-d luckypushh.com
 -d lushcrush.com
 -d luxadv.com
 -d luxbetaffiliates.com.au
@@ -27250,6 +27251,7 @@ msFilterList
 -d binsearch.info /iframe.php
 -d bioinformatics.org /images/ack_banners/
 -d bit-tech.net /images/backgrounds/skin/
+-d bit-url.com /kar.js
 -d bit.no.com /assets/images/bity.png
 -d bitcoinist.net /wp-content/*/630x80-bitcoinist.gif
 -d bitcoinist.net /wp-content/uploads/*_250x250_
@@ -28415,7 +28417,6 @@ msFilterList
 -d imgburn.com /images/your3gift.gif
 -d imgcarry.com /oc.js
 -d imgking.co /poudr.js
--d imgrock.net /nb/
 -d imgshots.com /includes/js/layer.js
 -d imgur.com /include/zedoinviewstub1621.html
 -d immihelp.com /partner/banners/
@@ -32710,6 +32711,7 @@ msFilterList
 +d mp32u.net /adframe.js
 +d msi.com /js/topad/topad.css
 +d msi.com /pic/banner/
++d msn.com
 +d msnbcmedia.msn.com /sitemanagement/ads/*/blog_printbutton.png
 +d muchmusic.com /includes/js/adzone.js
 +d mudah.my /css/mudah_adview_min.css
