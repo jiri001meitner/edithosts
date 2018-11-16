@@ -1,6 +1,6 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
-# Last modified: 16 Nov 2018 12:11 UTC
+# Last modified: 16 Nov 2018 15:11 UTC
 : Expires=1
 # Homepage: http://adblock.sk/
 #
@@ -415,6 +415,8 @@ msFilterList
 -d recycle-static.zoznam.sk .html
 -d recycle-static.zoznam.sk .mp4
 -d recycle-static.zoznam.sk /*branding*.jpg
+-d rtvs.sk /bs/xml/vast.xml
+-d rtvs.sk /bs/xml/vmap.xml
 -d sktorrent.eu /torrent/images/bannery/
 -d sktorrent.eu /torrent/images/bitport/
 -d sktorrent.eu /torrent/images/lovesexshop/

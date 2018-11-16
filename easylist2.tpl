@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá lis 16 13:21:14 CET 2018 ##################
+##### Aktualizováno: Pá lis 16 16:15:44 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -316,6 +316,8 @@ msFilterList
 -d recycle-static.zoznam.sk .html
 -d recycle-static.zoznam.sk .mp4
 -d recycle-static.zoznam.sk /*branding*.jpg
+-d rtvs.sk /bs/xml/vast.xml
+-d rtvs.sk /bs/xml/vmap.xml
 -d sktorrent.eu /torrent/images/bannery/
 -d sktorrent.eu /torrent/images/bitport/
 -d sktorrent.eu /torrent/images/lovesexshop/
