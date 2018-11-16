@@ -1,6 +1,6 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
-# Last modified: 16 Nov 2018 09:01 UTC
+# Last modified: 16 Nov 2018 09:41 UTC
 : Expires=1
 # Homepage: http://adblock.sk/
 #
@@ -37118,6 +37118,7 @@ msFilterList
 +d bikeexchange.com.au /adverts/
 +d bing.com /images/async?q=
 +d bing.com /maps/Ads.ashx
+# @@||bing.com/search$popup,domain=msn.com
 +d bing.net /images/thumbnail.aspx?q=
 # @@||biz.yelp.com/ads_stats/$domain=biz.yelp.com
 # @@||blackshoppingchannel.com^*/ad_agency/$~third-party
