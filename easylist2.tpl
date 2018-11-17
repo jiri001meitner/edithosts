@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: So lis 17 01:12:11 CET 2018 ##################
+##### Aktualizováno: So lis 17 11:57:01 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -8586,6 +8586,7 @@ msFilterList
 -d 1clickdownloads.com
 -d 1e0y.xyz
 -d 1empiredirect.com
+-d 1f7wwaex9rbh.com
 -d 1fwjpdwguvqs.com
 -d 1nimo.com
 -d 1phads.com
@@ -9762,6 +9763,7 @@ msFilterList
 -d bnrdom.com
 -d bnrs.it
 -d bnserving.com
+-d bodelen.com
 -d bogads.com
 -d bokroet.com
 -d bonusfapturbo.com
@@ -9975,6 +9977,7 @@ msFilterList
 -d clcken.com
 -d cldlr.com
 -d cleafs.com
+-d clean.gg
 -d clear-request.com
 -d clearonclick.com
 -d clente.com
@@ -11256,6 +11259,7 @@ msFilterList
 -d jyvtidkx.com
 -d k0z09okc.com
 -d k9anf8bc.webcam
+-d kaishist.top
 -d kanoodle.com
 -d kantarmedia.com
 -d kavanga.ru
@@ -11291,6 +11295,7 @@ msFilterList
 -d kmnjdcrcfhu.com
 -d knorex.asia
 -d knowd.com
+-d koapsooh.click
 -d koinser.in
 -d kolition.com
 -d komego.work
@@ -11751,6 +11756,7 @@ msFilterList
 -d nativeadsfeed.com
 -d nativeleads.net
 -d nativeroll.tv
+-d nauchegy.link
 -d navaxudoru.com
 -d nbjmp.com
 -d nbstatic.com
@@ -12507,6 +12513,7 @@ msFilterList
 -d reytata.ru
 -d rfgsi.com
 -d rfihub.net
+-d rhombusads.com
 -d rhown.com
 -d rhythmcontent.com
 -d rhythmxchange.com
@@ -12871,7 +12878,6 @@ msFilterList
 -d sulidshyly.com
 -d sulvo.co
 -d sumarketing.co.uk
--d sumo.com
 -d sunmedia.net
 -d sunrisewebjo.link
 -d suparewards.com
@@ -24633,6 +24639,7 @@ msFilterList
 -d 2yu.in /banner/
 -d 360pal.com /ads/
 -d 3dots.co.il /pop/
+-d 3p.ampproject.net .js
 -d 3smedia.co.za /banner.
 -d 4getlikes.com /promo/
 -d 6theory.com /pub/
@@ -27599,6 +27606,7 @@ msFilterList
 -d d.thelocal.com
 -d d2fbkzyicji7c4.cloudfront.net
 -d d2na2p72vtqyok.cloudfront.net
+-d d3asksgk2foh5m.cloudfront.net
 -d d5e.info /1.gif
 -d d5e.info /2.png
 -d dabs.com /images/page-backgrounds/
@@ -31015,6 +31023,7 @@ msFilterList
 -d sendit.cloud /sw.js
 -d downloadpirate.com /sw.js
 -d intoupload.net /sw.js
+-d gorillavid.in /bootstrap.initial.js
 -d gorillavid.in /script.js
 -d gorillavid.in /sw.js*.js
 +d monova.org /js/main.js?v=*.js
