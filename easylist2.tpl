@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: So lis 17 12:00:37 CET 2018 ##################
+##### Aktualizováno: Ne lis 18 10:53:39 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -208,6 +208,7 @@ msFilterList
 -d romea.cz /296x186.swf
 -d romea.cz /images/servis/banner
 -d ronnie.cz /cache/bannery/
+- http://rubiconproject.com
 -d imedia.cz .js
 -d sagit.cz /inzarchiv/bannery/
 -d sapro.cz /banner/
@@ -267,6 +268,9 @@ msFilterList
 -d zive.cz /_rev2015/js/*?bn=*.js
 -d zive.cz /Client.Scripts/*please*.js
 -d zive.cz /Client.Scripts/*zive?format=js
+-d zive.cz satellite
+-d zive.cz multi-sync
+-d zive.cz 1.4.*.js
 -d zkouknito.cz /js/js.htmlad.js
 -d zvraceny.cz /data/upload/
 -d zvukarina.cz /forum/images/ostatni/
@@ -385,6 +389,7 @@ msFilterList
 -d heureka.cz
 -d hudebniraj.cz /inshop/Layout/bannery_external/
 -d i.imedia.cz
+- http://idvert.cz
 -d im9.cz /vyrobce/*background
 -d intext.billboard.cz
 -d intext.lookit.cz
@@ -10619,6 +10624,7 @@ msFilterList
 -d ezoic.net
 -d eztexas.info
 -d f-4560.com
+-d f5v1x3kgv5.com
 -d f7oddtr.com
 -d facebooker.top
 -d faggrim.com
@@ -10965,6 +10971,7 @@ msFilterList
 -d hitmarkerjobs.com
 -d hits.sys.lv
 -d hitwastedgarden.com
+-d hiug862dj0.com
 -d hlads.com
 -d hlserve.com
 -d hlu9tseh.men
@@ -14949,6 +14956,7 @@ msFilterList
 -d aultemeztokc.com
 -d auyyklnpj.com
 -d avjxftprif.com
+-d avkigyhrazah.com
 -d avpgdzdesjnt.com
 -d avrdrpwt.com
 -d awrxkucpfbsq.com
@@ -14980,6 +14988,7 @@ msFilterList
 -d bonxsqstn.com
 -d bowqoedgldc.com
 -d bpnjigwalqjho.com
+-d bpudfbrc.com
 -d bqvgpuvjwhjggp.com
 -d brfyubakyg.com
 -d brloygpasa.com
@@ -15030,6 +15039,7 @@ msFilterList
 -d ctcpwymaeuwnqd.com
 -d ctjtlrmy.com
 -d cttnlnsnwdokqb.com
+-d cukwbpne.com
 -d cvhcrbbbfaa.com
 -d cvjzauehxjsy.com
 -d cxxsegmhltakq.com
@@ -15059,10 +15069,12 @@ msFilterList
 -d djiufagozzla.com
 -d djnroblmpyxrh.com
 -d dktaqipmquo.com
+-d dlotljikswmvq.com
 -d dlwmksxohvw.com
 -d dmkadnohjoqh.com
 -d dmrqnwtyttd.com
 -d docqacvwhgbxv.com
+-d dpoffxqjlgt.com
 -d dqekudhbwprx.com
 -d dsemgngou.com
 -d dsgjefwejkc.com
@@ -15282,6 +15294,7 @@ msFilterList
 -d iogutpkrkkycq.com
 -d ipehunxxyir.com
 -d ipxdoldjsvnjvw.com
+-d irfiysdcrnleu.com
 -d isxwajatbig.com
 -d itlmnxlauah.com
 -d itsyuvrlesq.com
@@ -15341,6 +15354,7 @@ msFilterList
 -d kcarnzeaipjssg.com
 -d kcitwbcc.com
 -d kcnyhfmowc.com
+-d kdyfsgpa.com
 -d kfxrukfzqazrs.com
 -d kfyhxmycgjaqkn.com
 -d kgkkfrvujnqf.com
@@ -15357,6 +15371,7 @@ msFilterList
 -d kpoplhjnhlagy.com
 -d kqohskoysgxx.com
 -d krpdqnnb.com
+-d krtdobasy.com
 -d ksrcnyrntlyfo.com
 -d ktdthraxzxt.com
 -d kujwlsnl.com
@@ -15461,6 +15476,7 @@ msFilterList
 -d nfxzakrvymtuhs.com
 -d ngptxgpbdnutvi.com
 -d nharaeklya.com
+-d nhkhxvnhfdkn.com
 -d nidksyrrrtckzj.com
 -d nikxhdrys.com
 -d njeozjhyjb.com
@@ -15482,12 +15498,15 @@ msFilterList
 -d ntlhrttump.com
 -d ntoyqqrwrmzr.com
 -d ntwhbuqmel.com
+-d nudooapfildwbz.com
 -d numcxvlfguc.com
 -d nuxdkxknj.com
 -d nvgcmeqfn.com
 -d nvztwdkbldp.com
 -d nwwuhiukrq.com
 -d nxewruvxprbd.com
+-d nyltsyud.com
+-d nytqlenw.com
 -d nywpxugigwfzb.com
 -d nywuthdzdacoq.com
 -d oamhzvwle.com
@@ -15512,6 +15531,7 @@ msFilterList
 -d opbneuozwyuvpk.com
 -d opfrjkmmvqmm.com
 -d oseqbfjtsdz.com
+-d otuveoqm.com
 -d ovczxzkfkfbb.com
 -d ovkihcbxsbfeo.com
 -d owqhtqryzggt.com
@@ -15575,6 +15595,7 @@ msFilterList
 -d qgcliwoxgdptz.com
 -d qgdqujzzs.com
 -d qgeglsnoxk.com
+-d qgnakeddgtdw.com
 -d qgxrmkbzpm.com
 -d qhqrtjgsnu.com
 -d qirnhdcywjnd.com
@@ -15808,6 +15829,7 @@ msFilterList
 -d vhbyakilp.com
 -d vhdvllhgyrjy.com
 -d vickgdkdrwpdt.com
+-d vjzcgotoy.com
 -d vkhrnisuky.com
 -d vkrgljxqn.com
 -d vlhdmywfi.com
@@ -15932,6 +15954,7 @@ msFilterList
 -d xwavfvpzg.com
 -d xwrmlohlri.com
 -d xzcdzfkwk.com
+-d xzfswipynyuj.com
 -d xzwynraczfcq.com
 -d xzywlbgldmpi.com
 -d yaikleyabl.com
@@ -16004,6 +16027,7 @@ msFilterList
 -d zpghmretcikhzs.com
 -d zplvjgpxvh.com
 -d zpxlmtujszhixe.com
+-d zreqmcewq.com
 -d zsikmzoehqw.com
 -d ztxohhagymj.com
 -d zuiiyzgiof.com
