@@ -1,13 +1,13 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
-# Last modified: 18 Nov 2018 11:51 UTC
+# Last modified: 18 Nov 2018 18:01 UTC
 : Expires=1
 # Homepage: http://adblock.sk/
 #
 # EasyList Czech and Slovak and EasyList combination subscription
 #
 # *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
-# Last change: 10/11/2018
+# Last change: 18/11/2018
 # List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 # GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 # GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -85,19 +85,8 @@ msFilterList
 # ||10.im.cz/sos/$object,domain=novinky.cz
 # ||10.im.cz/sos/$object-subrequest,domain=play.iprima.cz
 -d a.denik.cz
--d ab-forum.info banner*.gif
--d ab-forum.info /animation.swf
--d ab-forum.info /astrasat.gif
--d ab-forum.info /bannery/
--d ab-forum.info /Ferguson_NEW.jpg
--d ab-forum.info /lx3-maly.jpg
--d ab-forum.info /odbojna.sk.jpg
--d ab-forum.info /reklamy/
--d ab-forum.info /xpeed.jpg
 -d abecedaher.cz /index_banner_
 - http://adform.net
--d adx.fotoaparat.cz /www/images/
-# ||aimatch.com$third-party,domain=aktualne.cz
 # ||aktualne.cz$subdocument,domain=aktualne.cz
 -d aktualne.cz /*&ad_slot*.js
 -d aktualne.cz /*/*=leader*.js
@@ -134,8 +123,6 @@ msFilterList
 # ||av.cncenter.cz/upload/*sec*.mp4$domain=www.mobilmania.cz|www.zive.cz
 -d avony.cz /mp3splocha.php
 -d bannery.ccb.cz
--d bbelements.com /bb/*.js
-# ||bbelements.com/please/showit/*/$script,domain=idnes.cz|moviezone.cz
 # ||adx.adform.net$domain=idnes.cz
 # ||ibillboard.com$domain=idnes.cz
 -d bcastgw.livebox.cz /TA3_VOD_COM/
@@ -154,15 +141,12 @@ msFilterList
 -d dobresenajim.cz /idnesbanner?
 -d edna.cz /static/web/img/banners/branding
 # ||eltrack.pro$popup
--d eserial.cz /liftago2.jpg
--d eserial.cz /trikator/
 -d espoluprace.cz /affiliate/
 -d extra.cz //please*.js
 -d extra.cz banner*.js
 # ||favi.cz$domain=novinky.cz
 -d fdb.cz /ad/
 -d filmporno.cz /media/banners/
--d filmy.kinotip.cz /pop.php
 -d flash.stream.cz /get_sklik/
 -d forum.w-source.net /images/*banner*.jpg
 -d fotoradce.cz /layout/inzerce/
@@ -195,13 +179,11 @@ msFilterList
 -d i0.cz /abcampaign/
 -d i0.cz /realitymix/ext-data/
 -d i0.cz /l.gif?s=admon
-# ||idnes.bbelements.com$image,domain=idnes.cz
 -d im9.cz aukro
 # ||imedia.cz$subdocument
 -d img.blesk.cz /static/data/blesk/*bg.jpg
 # ||img.blesk.cz/static/data/blesk/bannery/$image
 -d img.mimiaukce.cz /h/ac/b/
-# ||img14.imageshack.us/img14/7953/lineage2a.gif$domain=warforum.cz
 -d in-pocasi.cz /img/left*.jpg
 -d in-pocasi.cz /img/right*.jpg
 -d in-pocasi.cz /img/zahlavi*.jpg
@@ -239,9 +221,6 @@ msFilterList
 -d matematika.cz /content/files/snapbacks/
 # ||media.grunex.com/disk_1/sda/$image
 - http://mf*ad*.advantage.as
--d mluveneslovo.chaves.cz /images/banners/castor_745x150.jpg
--d mluveneslovo.chaves.cz /images/banners/palace.gif
--d mluveneslovo.chaves.cz /images/user/pokourenicko.jpg
 # ||mobilizujeme.cz/branding*.png$image
 # ||mobilmania.cz/*_-*-_$image
 # ||mobilmania.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
@@ -250,11 +229,8 @@ msFilterList
 -d mobilmania.cz /Client.Scripts/*/showit*.js
 -d mobilmania.cz /Client.Scripts/*BBID*.js
 -d mobilmania.cz /Client.Scripts/*one2n2*.js
--d mp3s.nadruhou.net /avony_square.gif
--d mp3s.nadruhou.net /js/bastard_*.js
 -d mp3stahuj.cz /images/*banner
 -d mrk.cz /images/baners/
--d mygivt.com /toolbar
 # ||novinky.cz/*&f=$subdocument
 -d novinky.cz /?bn=*.js
 # ||novinky.cz/*/json$~third-party,xmlhttprequest
@@ -278,8 +254,6 @@ msFilterList
 -d parabola.cz /img_menu/s125_01.gif
 -d partner.xprovize.cz /accounts/default*/banners/
 - http://performax.cz
--d phaeton.nadruhou.net /data/mp3s/bastard/
--d playing.flashx.tv /player_embed.js
 -d podnikovyzpravodaj.cz /homepage/banner
 -d pornuj.cz /files/ntva.php
 -d portalymest.cz /obrazky/eshop
@@ -288,21 +262,14 @@ msFilterList
 -d prvnizpravy.cz /repository/banner
 -d raketa.cz /idnesbanner?
 - http://reklama.warforum.cz
--d rocketdock.com /images/screenshots/thumbnails/8-3.png
--d romea.cz /296x186.swf
 -d romea.cz /images/servis/banner
 -d ronnie.cz /cache/bannery/
-- http://rubiconproject.com
 -d imedia.cz .js
 -d sagit.cz /inzarchiv/bannery/
 -d sapro.cz /banner/
--d sasoft.cz /files/banner.gif
--d serialycz.cz /wp-content/uploads/fbbannercz.jpg
--d serialycz.cz /wp-content/uploads/kupi.png
 -d showcase.gamepark.cz
 -d skjalovec.com /img/banners/
 -d slevy.tyden.cz /banner/
--d spoluzaci.cz /img/new-skin/bgr-main.png
 -d stobklub.cz /images/banners/maintop.jpg
 -d super.cz /static/flash/
 -d superhry.cz /design/09/banner120.gif
@@ -321,21 +288,14 @@ msFilterList
 -d uloz.to /img/bannery/
 -d uloz.to /staticadvert/branding/
 # ||uschovna.cz/branding/$subdocument
--d uschovna.cz /dt-dancer-234x60.swf
 -d videacesky.cz /img/*.swf
--d videacesky.cz /js/adbdetect.min.js*.js
 -d video.aktualne.cz /adpod.php
 # ||video.aktualne.cz/auth_videodata$xmlhttprequest
 -d videoad.cz
-- http://view.flashx.tv:81*.js
--d war-net.cz /300x200.gif
--d war-net.cz /aukcent.gif
--d war-net.cz /vyhraj.swf
 -d war4all.com /images/inzerce/
 -d warcenter.cz /banner.js
 -d warcenter.cz /banner/
 -d warcenter.cz /btw_745x100_CS.gif
--d warcenter.cz /jennys.gif
 -d warez.azbase.net /images/azbase.gif
 # ||warforum.cz/ads/$image
 -d warforum.cz /flyweb/
@@ -374,7 +334,6 @@ msFilterList
 #
 - http://adb.azet.sk
 -d autobazar.eu /__branding/
-- http://banners.spoluziaci.sk
 -d bannersector.sector.sk
 -d best4you.sk /templates/subSilverPlus/images/Viaczdravialink.swf
 -d bmwklub.sk /images/banners/
@@ -389,29 +348,23 @@ msFilterList
 -d filmy.kinotip.in /pup.js
 -d flirtkontakt.sk /previews/banner*.jpg
 -d fony.sk /content/banners/
--d fs5.mojevideo.sk /securevd/siet.mp4
 -d gamesite.sk /templates/gamesite_sk/images/background*/
 -d hnonline.sk /*-*-*-*-*&keywords=
 -d hojko.com /images/banner*.gif
 -d i.sme.sk /fst/
 -d img.teevee.sk /img/beangel*.gif
 -d img.teevee.sk /img/comm/
--d img.teevee.sk /img/TEE-Final2.gif
 -d img.zoznam.sk /adimages/
--d img5.uloz.to /ul3/images/hp_brand_tsbohemia.jpg
 -d kamzakrasou.sk /actions/
 -d media.hnonline.sk /api/v1/hn-player/stripe
 -d mediacentrum.sk /google/
 -d mhdba.eu /banerova-reklama-animacia.gif
 -d michalovskespravy.sk /files/a57xq6rhr5uuzzyf.gif
--d mojevideo.sk /ff.jpg
 -d mojevideo.sk /star.jpg
 -d onlinefilmy.tv bg*.jpg
--d onlinefilmy.tv /giga.ogv
 -d onlinovky.sk /bannery/
 -d ourphorum.com /images/banner
 - http://partner.zoznam.sk
--d player.joj.sk /age-chooser.swf
 -d pricemania.sk /pictures/banners/
 -d pricemania.sk /pictures/campaigns/
 -d priznaj.sk /images/*_banner.png
@@ -443,7 +396,6 @@ msFilterList
 -d tu-ke.com /svadobny-salon-la-fiaba-kosice.png
 -d ulozisko.sk /img/demotivacia.png
 -d vii.sk /player/adzoom.swf
--d war4u.sk /banners/
 -d warmacher.com /banner
 -d warmacher.com /bathshop.jpg
 -d warmacher.com /cash.gif
@@ -547,25 +499,19 @@ msFilterList
 # @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
 # @@||*.nova.cz/static/shared/app/videojs/plugins/ads/
 # @@||activesolutions.cz/ad/www/delivery/ajs.php?zoneid=19&$script,domain=autoroad.cz
-+d ads2.czc.cz /www/
-+d adserver.adtech.de /?advideo/3.0/
 +d alfacomp.cz /reklama/
 +d api.play-backend.iprima.cz /ad/banner/_adsense_/_adserver/
 +d autotube.cz /ui/player/ad.php
-# @@||bbelements.com/bb/bb_one$domain=hrej.cz
 +d bibloo.cz
 # @@||blesk.cz/js/*/player/videoad.swf$domain=synotliga.isport.blesk.cz
 # @@||blesk.cz/js/*adocean.js$domain=synotliga.isport.blesk.cz
 # @@||c.mfstatic.cz/js/advantage.min.js$domain=doupe.zive.cz
 # @@||cars.cz^$third-party,domain=autocartichy.cz
-# @@||cz.adocean.pl/files/js/ado.js$domain=blesk.cz
-+d doupe.zive.cz /Client.Scripts/advertisement.js
 +d fastshare.cz /banner/site_logo.jpg
 # @@||forum.mobilmania.cz/styles$script,~third-party
 # @@||h.imedia.cz^$domain=seznam.cz
 # @@||heureka.*/crossdomain.xml
 # @@||heureka.*/direct/vyvoj-cen/
-+d hry.cz /ad/ad.aspx?
 +d hry.sazka.cz /banners/new_banner*.
 +d i.imedia.cz /js/im2.js
 +d i.imedia.cz /js/im3.js
@@ -587,20 +533,14 @@ msFilterList
 +d opti.cz /wp-content/uploads/*/reklama_*.jpg
 +d optika-opti.cz /wp-content/uploads/*/reklama_*.jpg
 # @@||pise.cz$generichide
-+d play.iprima.cz /ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone
 +d poradte.cz /js/ads.js
 # @@||poradte.cz^$elemhide
 # @@||reklama-*.cz
 # @@||reklama.mironet.cz$image
 +d reklama.mironet.cz /axshown*.php*.js
-+d smartmania.cz /advertisment.js
 +d sokolov.cz /images/reklama/
 +d static.cz.prg.cmestatic.com /static/cz/shared/js/adtrack.nova.js
-+d static.flashx.tv /js/advertisement.js
 +d static.tn.nova.cz /static/cz/shared/js/banners.js
-+d stream.cz /static/js/stream/IssueDetector/advert.js
-+d stream.cz /static/swf/advert-nextEpisode.swf
-+d ta3.com /advert-async-system/load-items.html?
 +d warforum.cz /ads.js
 #
 # ---------- Czech Whitelisted hiding rules ---------- !
@@ -609,21 +549,13 @@ msFilterList
 # ---------- Slovak Whitelisted blocking rules ------------ !
 #
 # @@||bombuj.eu$generichide
-+d easylist.club
 # @@||freefilm.sk$generichide
 +d img.aaaauto.eu /thumb/
-# @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
-+d openload.co /ad.php
-+d openload.io /assets/js/advertisement.js
-+d openload.io /assets/js/pop.js
-+d openload.io /assets/js/popad.js
 +d openload.io /deliverad/2
 +d openload.io
-+d openload.tv /adblock.js
 # @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=mojevideo.sk
 # @@||pcforum.sk$elemhide
 +d pcforum.sk /styles/*/advertisement.js
-+d reklama.hiking.sk /lib/HikingMaps-3.0.2.js
 +d sledujserialy.sk
 +d spusti.net /advertisement.js
 +d spusti.net /data/advertisement.js
@@ -631,7 +563,6 @@ msFilterList
 +d topserialy.to /js/advertisements.js
 +d topserialy.to /js/googlead.js
 +d tpd.sk /ads/rotator/
-# @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 #
 # ---------- Slovak Whitelisted hiding rules ---------- !
 #
