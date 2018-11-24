@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá lis 23 04:57:00 CET 2018 ##################
+##### Aktualizováno: So lis 24 19:10:02 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -4955,7 +4955,6 @@ msFilterList
 - /googleadiframe_
 - /googleadright.
 - /googleads-
-- /googleads.
 - /googleads/
 - /googleads1.
 - /googleads2.
@@ -14884,6 +14883,7 @@ msFilterList
 -d aneqmscervl.com
 -d aonxktnn.com
 -d apddozcgdh.com
+-d apiryrkxkhil.com
 -d aplfkrppjsutf.com
 -d aqussxtpjfelp.com
 -d arcfwcxi.com
@@ -14907,6 +14907,7 @@ msFilterList
 -d axmxarqxbkc.com
 -d ayyxveilslz.com
 -d azdhfnoojvpuvr.com
+-d azfoibmukpwz.com
 -d azgmbqhlr.com
 -d azgwyeyjufdqc.com
 -d azgyimccolyyo.com
@@ -15278,8 +15279,10 @@ msFilterList
 -d jbcadlpdfsxsfe.com
 -d jcmdvfrn.com
 -d jdbovkzjtuup.com
+-d jdskyjntuhea.com
 -d jecbbkrnfn.com
 -d jeeumttalzwt.com
+-d jenaowzhtbi.com
 -d jevxjcdnrd.com
 -d jffdktcyr.com
 -d jfjuhxfllw.com
@@ -15316,6 +15319,7 @@ msFilterList
 -d kaojrivmhys.com
 -d katxkxcncwool.com
 -d kbgyxsoskilli.com
+-d kbqebfcubeiaa.com
 -d kbwortdqjbns.com
 -d kcarnzeaipjssg.com
 -d kcitwbcc.com
@@ -15540,6 +15544,7 @@ msFilterList
 -d pnwhrmyit.com
 -d pnzchguyctrsyb.com
 -d povqrvsoljy.com
+-d ppbvmesssyacij.com
 -d ppgzokht.com
 -d pqajjgjg.com
 -d pqkorfrurnn.com
@@ -15618,6 +15623,7 @@ msFilterList
 -d qxcibgzsxegxc.com
 -d qxmecqgzrgdh.com
 -d qydylxmzlnqw.com
+-d qyfunsvmtudozq.com
 -d qyiiudex.com
 -d qyrzcsoaey.com
 -d qytabshszekf.com
@@ -15702,6 +15708,7 @@ msFilterList
 -d sthtrtvkkt.com
 -d sudolljkjzxdfc.com
 -d sueolwxxosqch.com
+-d sukgtuksypr.com
 -d svbsvbwci.com
 -d swezbddhwcz.com
 -d swpopynngk.com
@@ -15774,6 +15781,7 @@ msFilterList
 -d ugzpvflxa.com
 -d uimrmuoztkoia.com
 -d uisrihozphejjt.com
+-d ujpakyfu.com
 -d ujwdwwfuqcgnv.com
 -d ukdjbubvp.com
 -d ukjsibgu.com
@@ -15782,6 +15790,7 @@ msFilterList
 -d ultjaimlrjlfl.com
 -d umvgcqaxmie.com
 -d uoccvsdh.com
+-d uohpnvpynvsz.com
 -d uqemcyylvcdrgs.com
 -d uqihbnpqtwwzdv.com
 -d uqouplgwlmeqt.com
@@ -15909,6 +15918,7 @@ msFilterList
 -d xamxwvtsxdva.com
 -d xasuekjguyub.com
 -d xcgebfplttrdg.com
+-d xcjelwzs.com
 -d xcwqzbcpberyp.com
 -d xcyptaqhl.com
 -d xdonzpjglqxi.com
@@ -15916,6 +15926,7 @@ msFilterList
 -d xeflnvycs.com
 -d xeirmdgphdl.com
 -d xfmjleuaqgnuvv.com
+-d xghretunapafes.com
 -d xgpiuhyxbevjgs.com
 -d xgwslgpad.com
 -d xgznkebnjme.com
@@ -23270,6 +23281,18 @@ msFilterList
 -d zzqnkezokbegc.bid
 -d zzvjaqnkq.bid
 -d zzwzjidz.bid
+-d addonsmash.com
+-d axeldivision.com
+-d chameleon.ad
+-d cleanbrowser.network
+-d handy-tab.com
+-d mybitsearch.com
+-d planktab.com
+-d searchdims.network
+-d securesurf.biz
+-d smashnewtab.com
+-d spiralstab.com
+-d yatab.net
 -d inter1ads.com
 -d vicegnem.click
 -d adalgo.info
