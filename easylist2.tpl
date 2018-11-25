@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: So lis 24 19:10:02 CET 2018 ##################
+##### Aktualizováno: Ne lis 25 18:43:39 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -7818,6 +7818,7 @@ msFilterList
 - /ext/prebid
 - /jppolPrebid.
 - /pb.min.
+- /pbjs-*.js
 - /prebid-
 - /prebid/
 - /prebid1.
@@ -31087,6 +31088,7 @@ msFilterList
 +d monova.org /js/main.js?v=*.js
 -d 1337x.to /sw.js
 +d watchseries.sk /check-auth
+-d swatchseries.to /bootstrap.min.js
 - http://www*.dwatchseries.to/*.js
 - http://www*.swatchseries.to/*.js
 +d flash-x.tv /js/showad*.js
