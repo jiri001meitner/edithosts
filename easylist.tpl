@@ -1,6 +1,6 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
-# Last modified: 06 Dec 2018 21:00 UTC
+# Last modified: 06 Dec 2018 23:20 UTC
 : Expires=1
 # Homepage: http://adblock.sk/
 #
@@ -12782,6 +12782,7 @@ msFilterList
 -d pontypriddcrick.com
 -d poolnoodle.tech
 -d pop-rev.com
+-d popads.media
 -d popads.net
 -d popcash.net
 -d popclck.net

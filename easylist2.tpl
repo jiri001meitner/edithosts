@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt pro 6 22:08:06 CET 2018 ##################
+##### Aktualizováno: Pá pro 7 00:29:20 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -12114,6 +12114,7 @@ msFilterList
 -d pontypriddcrick.com
 -d poolnoodle.tech
 -d pop-rev.com
+-d popads.media
 -d popads.net
 -d popcash.net
 -d popclck.net
