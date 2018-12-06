@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Čt pro 6 20:46:13 CET 2018 ##################
+##### Aktualizováno: Čt pro 6 22:08:06 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -2157,6 +2157,7 @@ msFilterList
 - /adframebottom.
 - /adframecommon.
 - /adframemiddle.
+- /adframes.
 - /adframes/
 - /adframetop.
 - /adframewrapper.
@@ -2321,6 +2322,7 @@ msFilterList
 - /admatik.
 - /admax/
 - /admaxads.
+- /admcoreext.
 - /admeasure.
 - /admedia/
 - /admega.
