@@ -1,6 +1,6 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
-# Last modified: 09 Dec 2018 11:10 UTC
+# Last modified: 09 Dec 2018 18:10 UTC
 : Expires=1
 # Homepage: http://adblock.sk/
 #
@@ -772,6 +772,7 @@ msFilterList
 - -ad_injector/
 - -ad_leaderboard/
 # -adap.$domain=~l-adap.org
+- -adbanner.
 - -adblack-
 - -adbox-
 - -adcentre.
@@ -1955,6 +1956,7 @@ msFilterList
 - /ad_head_
 - /ad_header.
 - /ad_header_
+- /ad_headerbg.
 - /ad_height/
 - /ad_holder/
 - /ad_home.
@@ -4763,6 +4765,7 @@ msFilterList
 - /defer_ads.
 - /deferads.
 - /defersds.
+- /delay-ad.
 - /delayedad.
 - /delfi-ads/
 - /deliver.jphp?
@@ -6079,6 +6082,7 @@ msFilterList
 - /old/ads-
 - /omb-ad-
 - /ome.ads.
+- /oncc-ad.
 - /onead.
 - /onead_
 - /onecam4ads.
@@ -15581,6 +15585,7 @@ msFilterList
 -d viuboin4.com
 -d yie4zooseif.info
 # popads.net
+-d aabmxezph.com
 -d aayaknbn.com
 -d abbahoxgss.com
 -d abfcfxfkzmiqht.com
@@ -15774,6 +15779,7 @@ msFilterList
 -d dmrqnwtyttd.com
 -d docqacvwhgbxv.com
 -d dpoffxqjlgt.com
+-d dpwsvrkmfxrt.com
 -d dqekudhbwprx.com
 -d drsemkuhpg.com
 -d dsemgngou.com
@@ -16472,6 +16478,7 @@ msFilterList
 -d rqbxfbls.com
 -d rqigvkwoqafpjz.com
 -d rquagrre.com
+-d rqwozrkmtwiuri.com
 -d rrvpscehvjuz.com
 -d rscqizsukecevh.com
 -d rstjainimptgn.com
@@ -26565,6 +26572,7 @@ msFilterList
 -d slendastic.com
 -d smartbn.ru
 -d smartclick.net
+-d smopy.com
 -d sms-xxx.com
 -d soadvr.com
 -d socialsexnetwork.net
@@ -27594,6 +27602,7 @@ msFilterList
 -d developermedia.com /a.min.js
 -d devil-bet.com /banner/
 -d dew9ckzjyt2gn.cloudfront.net
+-d dff2h0hbfv6w4.cloudfront.net
 -d dff7tx5c2qbxc.cloudfront.net
 # ||dhgate.com^$third-party,domain=sammyhub.com
 -d dhresource.com /banner
@@ -29216,6 +29225,7 @@ msFilterList
 -d cockfortwo.com /track/
 -d content.liveuniverse.com
 -d contentcache-a.akamaihd.net
+-d core-queerclick.netdna-ssl.com
 -d core.queerclick.com
 -d cp.intl.match.com
 -d cpm.amateurcommunity.com
@@ -31475,6 +31485,8 @@ msFilterList
 -d india.com -sponsor.
 -d indiainfoline.com /wc/ads/
 -d indianexpress.com /banner/
+-d indiansinkuwait.com /Campaign/
+-d indiansinkuwait.com /OfferDisp1.
 -d indiantelevision.com /banner/
 # ||indiatimes.com/articleshow_google_$subdocument
 # ||indiatimes.com/google$subdocument
@@ -32238,6 +32250,7 @@ msFilterList
 # ||ngohq.com/images/ad.jpg$~collapse
 -d ngrguardiannews.com /images/banners/
 -d nichepursuits.com /wp-content/uploads/*/long-tail-pro-banner.gif
+-d nicoad.nicovideo.jp
 -d nigeriafootball.com /img/affiliate_
 -d nigeriamasterweb.com /Masterweb/banners_pic/
 -d nigerianbulletin.com /Siropu/
@@ -36530,8 +36543,8 @@ msFilterList
 -d twinsporn.net /images/free-penis-pills.png
 -d twofuckers.com /brazzers
 -d txxx.com /assets/previewlib.
--d txxx.com /txxx_pass/
 -d txxx.com /sw.js
+-d txxx.com /txxx_pass/
 -d uflash.tv /affiliates/
 -d ukrainamateurs.com /images/banners/
 -d unblockedpiratebay.com /static/img/bar.gif
@@ -40015,7 +40028,6 @@ msFilterList
 +d nornar.com
 +d nosteam.ro ad*.*.js
 +d nosvideo.com /ads.js
-+d noticiasautomotivas.com.br
 +d nowvideo.li /banner.php?*.js
 +d nowvideo.sx /banner.php?*.js
 +d nowvideo.to /banner.php?*.js

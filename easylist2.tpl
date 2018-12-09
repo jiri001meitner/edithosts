@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne pro 9 12:16:44 CET 2018 ##################
+##### Aktualizováno: Ne pro 9 19:15:07 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -595,6 +595,7 @@ msFilterList
 - -ad_banner-
 - -ad_injector/
 - -ad_leaderboard/
+- -adbanner.
 - -adblack-
 - -adbox-
 - -adcentre.
@@ -1741,6 +1742,7 @@ msFilterList
 - /ad_head_
 - /ad_header.
 - /ad_header_
+- /ad_headerbg.
 - /ad_height/
 - /ad_holder/
 - /ad_home.
@@ -4432,6 +4434,7 @@ msFilterList
 - /defer_ads.
 - /deferads.
 - /defersds.
+- /delay-ad.
 - /delayedad.
 - /delfi-ads/
 - /deliver.jphp?
@@ -5725,6 +5728,7 @@ msFilterList
 - /old/ads-
 - /omb-ad-
 - /ome.ads.
+- /oncc-ad.
 - /onead.
 - /onead_
 - /onecam4ads.
@@ -14893,6 +14897,7 @@ msFilterList
 -d vipcpms.com
 -d viuboin4.com
 -d yie4zooseif.info
+-d aabmxezph.com
 -d aayaknbn.com
 -d abbahoxgss.com
 -d abfcfxfkzmiqht.com
@@ -15086,6 +15091,7 @@ msFilterList
 -d dmrqnwtyttd.com
 -d docqacvwhgbxv.com
 -d dpoffxqjlgt.com
+-d dpwsvrkmfxrt.com
 -d dqekudhbwprx.com
 -d drsemkuhpg.com
 -d dsemgngou.com
@@ -15784,6 +15790,7 @@ msFilterList
 -d rqbxfbls.com
 -d rqigvkwoqafpjz.com
 -d rquagrre.com
+-d rqwozrkmtwiuri.com
 -d rrvpscehvjuz.com
 -d rscqizsukecevh.com
 -d rstjainimptgn.com
@@ -24615,6 +24622,7 @@ msFilterList
 -d slendastic.com
 -d smartbn.ru
 -d smartclick.net
+-d smopy.com
 -d sms-xxx.com
 -d soadvr.com
 -d socialsexnetwork.net
@@ -25445,6 +25453,7 @@ msFilterList
 -d developermedia.com /a.min.js
 -d devil-bet.com /banner/
 -d dew9ckzjyt2gn.cloudfront.net
+-d dff2h0hbfv6w4.cloudfront.net
 -d dff7tx5c2qbxc.cloudfront.net
 -d dhresource.com /banner
 -d digitalmediacommunications.com /belleville/employment/
@@ -26759,6 +26768,7 @@ msFilterList
 -d cockfortwo.com /track/
 -d content.liveuniverse.com
 -d contentcache-a.akamaihd.net
+-d core-queerclick.netdna-ssl.com
 -d core.queerclick.com
 -d cp.intl.match.com
 -d cpm.amateurcommunity.com
@@ -28661,6 +28671,8 @@ msFilterList
 -d india.com -sponsor.
 -d indiainfoline.com /wc/ads/
 -d indianexpress.com /banner/
+-d indiansinkuwait.com /Campaign/
+-d indiansinkuwait.com /OfferDisp1.
 -d indiantelevision.com /banner/
 -d industryabout.com /images/banners/
 -d inewsmalta.com /SiteImages/Promo/
@@ -29367,6 +29379,7 @@ msFilterList
 -d nfl.com /page-background-image.jpg
 -d ngrguardiannews.com /images/banners/
 -d nichepursuits.com /wp-content/uploads/*/long-tail-pro-banner.gif
+-d nicoad.nicovideo.jp
 -d nigeriafootball.com /img/affiliate_
 -d nigeriamasterweb.com /Masterweb/banners_pic/
 -d nigerianbulletin.com /Siropu/
@@ -32077,8 +32090,8 @@ msFilterList
 -d twinsporn.net /images/free-penis-pills.png
 -d twofuckers.com /brazzers
 -d txxx.com /assets/previewlib.
--d txxx.com /txxx_pass/
 -d txxx.com /sw.js
+-d txxx.com /txxx_pass/
 -d uflash.tv /affiliates/
 -d ukrainamateurs.com /images/banners/
 -d unblockedpiratebay.com /static/img/bar.gif
@@ -34159,7 +34172,6 @@ msFilterList
 +d nornar.com
 +d nosteam.ro ad*.*.js
 +d nosvideo.com /ads.js
-+d noticiasautomotivas.com.br
 +d nowvideo.li /banner.php?*.js
 +d nowvideo.sx /banner.php?*.js
 +d nowvideo.to /banner.php?*.js
