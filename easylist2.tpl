@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne pro 9 19:15:07 CET 2018 ##################
+##### Aktualizováno: Út pro 11 06:51:07 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -1449,6 +1449,7 @@ msFilterList
 - /ad/commons/
 - /ad/content/
 - /ad/cpmstar/
+- /ad/cross-
 - /ad/directcall/
 - /ad/empty.
 - /ad/extra/
@@ -1829,6 +1830,7 @@ msFilterList
 - /ad_refresh.
 - /ad_refresher.
 - /ad_reloader_
+- /ad_remon_
 - /ad_render_
 - /ad_renderv4_
 - /ad_rentangle.
@@ -2368,6 +2370,7 @@ msFilterList
 - /adnew2.
 - /AdNewsclip14.
 - /AdNewsclip15.
+- /adnex.
 - /adnexus-
 - /adng.html
 - /adnl.
@@ -3034,6 +3037,7 @@ msFilterList
 - /adsby.
 - /adsbyadsn.
 - /adsbycurse.
+- /adsbyfalcon.
 - /adsbygoogle.
 - /adsbytenmax.
 - /adscale1.
@@ -5651,6 +5655,7 @@ msFilterList
 - /new_ads/
 - /new_oas.
 - /newad.
+- /newAd/
 - /newad2?
 - /newad?
 - /newadcfg/
@@ -5665,6 +5670,7 @@ msFilterList
 - /newdesign/ad/
 - /newimages/ads/
 - /newimplugs.
+- /newPS/ad/
 - /newrightcolad.
 - /news/ads/
 - /news_ad.
@@ -5821,6 +5827,7 @@ msFilterList
 - /partner_ads/
 - /partner_ads_
 - /partnerad.
+- /partnerads.
 - /partnerads/
 - /partnerads_
 - /partneradwidget.
@@ -7201,6 +7208,7 @@ msFilterList
 - ?handler=ads&
 - ?idaffiliation=
 - ?img_adv=
+- ?impr?pageid=
 - ?module=ads/
 - ?OASTagURL=
 - ?offer_id=*&aff_id=
@@ -7392,6 +7400,7 @@ msFilterList
 - _adframe_
 - _adfunction.
 - _adgebraAds_
+- _adhere.
 - _adhesion.
 - _adhoc?
 - _adhome.
@@ -23826,6 +23835,7 @@ msFilterList
 -d 7vws1j1j.com
 -d 80.77.113.200
 -d 85.17.210.202
+-d 863iw40s.com
 -d 89.248.172.46
 -d 8ipztcc1.com
 -d 9content.com
@@ -28882,6 +28892,7 @@ msFilterList
 -d koreatimes.co.kr /images/bn/
 -d koreatimes.co.kr /upload/ad/
 -d koreatimes.co.kr /www/images/bn/
+-d koreatimes.com /banner/
 -d kovideo.net .php?user_
 -d krapps.com -banner-
 -d krebsonsecurity.com /b-ga/
@@ -30578,6 +30589,7 @@ msFilterList
 -d tvguide.com /ecommerce/
 -d tvline.com /delivery.js
 -d tvsubtitles.net /banners/
+-d tvtechnology.com sponsored
 -d tweaktown.com /cms/includes/i*.php
 -d tweaktown.com /xyz?*.js
 -d twitter.com /i/cards/tfw/*?advertiser_name=
@@ -31266,6 +31278,7 @@ msFilterList
 +d exashare.com /ad.js
 +d exashare.com /js/*.js
 +d exashare.com /player*.js
++d twt-assets.washtimes.com /v4/js/twig.js
 - /\.filenuke\.com/.*[a-zA-Z0-9]{4}/*.js
 - /\.sharesix\.com/.*[a-zA-Z0-9]{4}/*.js
 +d onrpg.com /boards/activityrss.php?
@@ -32870,6 +32883,7 @@ msFilterList
 +d jobs.wa.gov.au /images/advertimages/
 +d jobsearch.careerone.com.au /bannerad.asmx/
 +d jobstreet.com /_ads/
++d jokerly.com /Okidak/adSelectorDirect.htm?id=
 +d joyhubs.com /View/*/js/pop.js
 +d jsstatic.com /_ads/
 +d justin-klein.com /banners/
