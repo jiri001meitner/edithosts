@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne pro 16 18:24:27 CET 2018 ##################
+##### Aktualizováno: Ne pro 16 19:45:55 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -822,6 +822,7 @@ msFilterList
 - -sticky-ad-
 - -strip-ads-
 - -sync2ad-
+- -tag-ad.
 - -template-ads/
 - -text-ads.
 - -theme/ads/
@@ -1159,6 +1160,7 @@ msFilterList
 - /!advert_
 - /0/ads/
 - /04/ads-
+- /1/ads_
 - /120ad.
 - /120ads/
 - /125ads/
@@ -3007,6 +3009,7 @@ msFilterList
 - /ads_start.
 - /ads_t/
 - /ads_text_
+- /ads_thumb/
 - /ads_top_
 - /ads_topbar_
 - /ads_ui.
@@ -3865,6 +3868,7 @@ msFilterList
 - /app/ads.
 - /app/ads/
 - /aptads/
+- /arcAdsJS/
 - /Article-Ad-
 - /article-advert-
 - /article_ad.

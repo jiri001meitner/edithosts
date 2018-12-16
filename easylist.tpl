@@ -1,6 +1,6 @@
 msFilterList
 # Title: EasyList Czech and Slovak+EasyList
-# Last modified: 16 Dec 2018 17:21 UTC
+# Last modified: 16 Dec 2018 18:40 UTC
 : Expires=1
 # Homepage: http://adblock.sk/
 #
@@ -1003,6 +1003,7 @@ msFilterList
 - -sticky-ad-
 - -strip-ads-
 - -sync2ad-
+- -tag-ad.
 - -template-ads/
 - -text-ads.
 - -theme/ads/
@@ -1360,6 +1361,7 @@ msFilterList
 - /0/ads/
 - /04/ads-
 # /1/ads/*$~image
+- /1/ads_
 - /120ad.
 - /120ads/
 - /125ads/
@@ -3283,6 +3285,7 @@ msFilterList
 - /ads_start.
 - /ads_t/
 - /ads_text_
+- /ads_thumb/
 - /ads_top_
 - /ads_topbar_
 - /ads_ui.
@@ -4193,6 +4196,7 @@ msFilterList
 - /app/ads.
 - /app/ads/
 - /aptads/
+- /arcAdsJS/
 - /Article-Ad-
 - /article-advert-
 - /article_ad.
