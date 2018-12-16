@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: So pro 15 13:42:14 CET 2018 ##################
+##### Aktualizováno: Ne pro 16 18:17:26 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -1364,6 +1364,7 @@ msFilterList
 - /ad-stub-
 - /ad-studio/
 - /ad-styles.
+- /ad-tag-
 - /ad-tag2.
 - /ad-tags/
 - /ad-tandem.
@@ -3374,6 +3375,7 @@ msFilterList
 - /adtechglobalsettings.js
 - /adtechHeader.
 - /adtechscript.
+- /adTemplates/
 - /adtest.
 - /adtest/
 - /adtext.
@@ -7613,6 +7615,7 @@ msFilterList
 - _dashad_
 - _dfp.php?
 - _dfp_targeting.
+- _dispad_
 - _displayad_
 - _displaytopads.
 - _doubleclick.
@@ -7825,6 +7828,7 @@ msFilterList
 - /backend_loader.php*.js
 - /ebldr.php
 - /ebloader.
+- /ex/b.php
 - /exads-
 - /exbl.js?
 - /exbl.min.js?
@@ -14935,6 +14939,7 @@ msFilterList
 -d akdzimverrss.com
 -d akmihtdbbz.com
 -d akzvxmjnubq.com
+-d alikuvxxwy.com
 -d aljsuubo.com
 -d alkagrkgvltzlk.com
 -d allnvbtrtpku.com
@@ -15303,6 +15308,7 @@ msFilterList
 -d hkhotpewfxr.com
 -d hkjxihngzlmwc.com
 -d hkoxznukwpdhxu.com
+-d hloyloppqpvnmd.com
 -d hlvvlouaeicp.com
 -d hmepgymo.com
 -d hmzwcomigpqia.com
@@ -15465,6 +15471,7 @@ msFilterList
 -d ksrcnyrntlyfo.com
 -d ksufusxqd.com
 -d ktdthraxzxt.com
+-d ktjcrhdppesdd.com
 -d kujwlsnl.com
 -d kvhxckkd.com
 -d kwajysvvjeyvs.com
@@ -15483,6 +15490,7 @@ msFilterList
 -d lbkprcoosfgk.com
 -d lcsgdwlxrlgq.com
 -d ledvqaldtf.com
+-d lesmyjzc.com
 -d lfjvaaswkxqj.com
 -d lfqocbhv.com
 -d lhuetsviudr.com
@@ -15695,6 +15703,7 @@ msFilterList
 -d povqrvsoljy.com
 -d ppbvmesssyacij.com
 -d ppgzokht.com
+-d pprcfwhlmtagay.com
 -d ppxoxkdpxtu.com
 -d pqajjgjg.com
 -d pqkorfrurnn.com
@@ -15827,10 +15836,12 @@ msFilterList
 -d ropkrhilt.com
 -d rpcncuzsmpni.com
 -d rpzcwgrpbkltp.com
+-d rqaobxvj.com
 -d rqbxfbls.com
 -d rqigvkwoqafpjz.com
 -d rquagrre.com
 -d rqwozrkmtwiuri.com
+-d rrnqzntj.com
 -d rrvpscehvjuz.com
 -d rscqizsukecevh.com
 -d rstjainimptgn.com
@@ -15873,6 +15884,7 @@ msFilterList
 -d slwclrwmruuxav.com
 -d smpbzsjpk.com
 -d snxvrnhe.com
+-d soehcsryxyd.com
 -d sosbyncpkyw.com
 -d spwssohsyqgq.com
 -d srgszwexkpehb.com
@@ -16024,6 +16036,7 @@ msFilterList
 -d vkhrnisuky.com
 -d vkrgljxqn.com
 -d vlhdmywfi.com
+-d vlkdntgqqfjusm.com
 -d vlpufjkwpmjhbn.com
 -d vlyqzdsucomih.com
 -d vmftwflt.com
@@ -16075,6 +16088,7 @@ msFilterList
 -d widpzvyx.com
 -d wiklrrrwqqf.com
 -d wiklweefcuorh.com
+-d wjavelurhgx.com
 -d wjgddzpvx.com
 -d wjmckfsdcxpj.com
 -d wjpdgueqasdgeq.com
@@ -24012,6 +24026,7 @@ msFilterList
 -d anastasia-international.com
 -d andase.com
 -d angelpastel.com
+-d animeidhentai.com
 -d antaraimedia.com
 -d antoball.com
 -d aoredi.com
@@ -24305,13 +24320,13 @@ msFilterList
 -d hqpass.com
 -d hsmclick.com
 -d hubtraffic.com
+-d icapabloidsety.club
 -d iceban.su
 -d icebns.com
 -d icetraffic.com
 -d icqadvert.org
 -d ictowaz.ru
 -d ideal-sexe.com
--d idealgasm.com
 -d idolbucks.com
 -d ifrwam.com
 -d igiplay.net
@@ -24734,6 +24749,7 @@ msFilterList
 -d therses.com
 -d thesocialsexnetwork.com
 -d thrnt.com
+-d thterras.com
 -d thumbnail-galleries.net
 -d timteen.com
 -d tingrinter.com
@@ -24758,6 +24774,7 @@ msFilterList
 -d tracelive.ru
 -d tracker2kss.eu
 -d trackerodss.eu
+-d tradineseveni.club
 -d traffbiz.ru
 -d traffic-in.com
 -d traffic.ru
@@ -25407,6 +25424,7 @@ msFilterList
 -d d2d8qsxiai9qwj.cloudfront.net
 -d d2dxgm96wvaa5j.cloudfront.net
 -d d2focgxak1cn74.cloudfront.net
+-d d2g9nmtuil60cb.cloudfront.net
 -d d2ghscazvn398x.cloudfront.net
 -d d2gpgaupalra1d.cloudfront.net
 -d d2gtlljtkeiyzd.cloudfront.net
@@ -25448,6 +25466,7 @@ msFilterList
 -d d33t3vvu2t2yu5.cloudfront.net /pub/
 -d d34obr29voew8l.cloudfront.net
 -d d34rdvn2ky3gnm.cloudfront.net
+-d d37dzu39aqhuxu.cloudfront.net
 -d d37kzqe5knnh6t.cloudfront.net
 -d d38pxm3dmrdu6d.cloudfront.net
 -d d38r21vtgndgb1.cloudfront.net
@@ -27085,6 +27104,7 @@ msFilterList
 -d swurve.com /affiliates/
 -d target.vivid.com
 -d teendaporn.com /rk.js
+-d theporndude.com /graphics/tpd-
 -d theporndude.com /img/planetsuzy.png
 -d thrixxx.com /scripts/show_banner.php?
 -d thumbs.sunporno.com
@@ -31261,6 +31281,7 @@ msFilterList
 - http://gelbooru.com*/license.*.js
 - http://gelbooru.com*/tryt.*.js
 -d gelbooru.com /halloween/
+-d gamerant.com /porpoiseant/
 +d depositfiles.com /api/
 +d depositfiles.com /get_file.php
 +d depositfiles.com /gold/
@@ -31480,6 +31501,8 @@ msFilterList
 -d amateuralbum.net /affb.html
 -d analpornpix.com /agent.php?
 -d andtube.com /ban_
+-d animeidhentai.com /cdn/
+-d animeidhentai.com /videos/
 -d anon-v.com /neverlikedcocksmuch.php
 -d anon-v.com /titswerentoiledup.php
 -d anysex.com /b/
@@ -31581,6 +31604,7 @@ msFilterList
 -d delivery.porn.com
 -d depic.me /banners/
 -d devatube.com /img/partners/
+-d devporn.net /images/TPD-
 -d diamond-tgp.com /fp.js
 -d dickbig.net /scr/
 -d dildo.tnaflix.com
@@ -31774,6 +31798,7 @@ msFilterList
 -d imghost.us.to /xxx/content/system/js/iframe.html
 -d imgwet.com /aa/
 -d imperia-of-hentai.net /banner/
+-d incesto69.com /sw.js
 -d indexxx.com /banners/
 -d inhumanity.com /cdn/affiliates/
 -d intporn.com /21s.js
@@ -31821,6 +31846,7 @@ msFilterList
 -d matureworld.ws /images/banners/
 -d maxjizztube.com /downloadfreemovies.php
 -d meendo.com /promos/
+-d megatube.xxx /ai/
 -d milkmanbook.com /dat/promo/
 -d miragepics.com /images/11361497289209202613.jpg
 -d mobilepornmovies.com /images/banners/
@@ -32201,6 +32227,7 @@ msFilterList
 -d watchindianporn.net /js/pu.js
 -d watchmygf.me /banner/
 -d watchmygf.me /contents/content_sources/
+-d waxtube.com /b/
 -d waybig.com /js/lic14.js
 -d waybig.com /js/license.*.js
 -d waybig.com /js/univ6.js
@@ -32259,6 +32286,7 @@ msFilterList
 -d xxxporntalk.com /images/
 -d xxxselected.com /cdn_files/dist/js/blockPlaces.js
 -d xxxymovies.com /js/win.js
+-d xxxymovies.com /bottom-banner.
 -d yea.xxx /img/creatives/
 -d youaresogay.com .html
 -d youjizz.com /neverblock/
