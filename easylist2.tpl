@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Po pro 17 07:02:44 CET 2018 ##################
+##### Aktualizováno: Út pro 18 06:49:57 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -102,7 +102,6 @@ msFilterList
 -d hd-forum.cz /images/banner/
 -d hd-forum.cz /images/sberbank.jpg
 -d heureka.cz /direct/bannery/
--d himym.cz /image/*banner*.gif
 -d hostareal.cz /provize/bannery/
 -d hry.cz /t/h/ad/
 -d hyperinzerce.cz /images/banner-text-
@@ -360,6 +359,7 @@ msFilterList
 -d pizzamodena.cz
 -d porno-tv.spustit.cz
 -d potenza.cz
+-d productads.cz
 -d rival.cz
 -d salesmanago.pl
 -d script.zebricek.cz
@@ -380,6 +380,7 @@ msFilterList
 -d netsuccess.sk
 -d p1.naj.sk
 -d partner.mrtns.eu
+-d productads.sk
 -d recycle-static.zoznam.sk
 -d rsz.sk
 -d uspech.sk
@@ -7858,6 +7859,7 @@ msFilterList
 - -prebid.*.js
 - -prebid/
 - /ads/prebid_
+- /anprebid/
 - /AudienceNetworkPrebid.
 - /AudienceNetworkPrebidLite.
 - /biddr-*.js
@@ -10079,6 +10081,7 @@ msFilterList
 -d commissionfactory.com.au
 -d commissionlounge.com
 -d commissionmonster.com
+-d commodates.info
 -d completecarrd.com
 -d complive.link
 -d comscore.com
@@ -25405,6 +25408,7 @@ msFilterList
 -d d1pdpbxj733bb1.cloudfront.net
 -d d1qk9ujrmkucbl.cloudfront.net
 -d d1rguclfwp7nc8.cloudfront.net
+-d d1rkf0bq85yx06.cloudfront.net
 -d d1spb7fplenrp4.cloudfront.net
 -d d1vbm0eveofcle.cloudfront.net
 -d d1wa9546y9kg0n.cloudfront.net /index.js
@@ -25506,6 +25510,7 @@ msFilterList
 -d d3tdefw8pwfkbk.cloudfront.net
 -d d3uqm14ppr8tkw.cloudfront.net
 -d d3vc1nm9xbncz5.cloudfront.net
+-d d3vpf6i51y286p.cloudfront.net
 -d d4ngwggzm3w7j.cloudfront.net
 -d d5pb47xzjz3fc.cloudfront.net
 -d d5pvnbpawsaav.cloudfront.net
