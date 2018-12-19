@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út pro 18 07:07:13 CET 2018 ##################
+##### Aktualizováno: St pro 19 07:02:19 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -1266,6 +1266,7 @@ msFilterList
 - /ad-banner.
 - /ad-bckg.
 - /ad-bin/
+- /ad-blacklist.
 - /ad-bottom.
 - /ad-box-
 - /ad-boxes-
@@ -1527,6 +1528,7 @@ msFilterList
 - /ad/skin_
 - /ad/skyscraper.
 - /ad/skyscrapper.
+- /ad/slider/
 - /ad/small-
 - /ad/spacer.
 - /ad/special.
@@ -1761,6 +1763,7 @@ msFilterList
 - /ad_icons/
 - /ad_iframe.
 - /ad_iframe_
+- /ad_ima-
 - /ad_image.
 - /ad_image2.
 - /ad_images/
@@ -3005,6 +3008,7 @@ msFilterList
 - /ads_r.
 - /ads_redirect.
 - /ads_reporting/
+- /ads_script-
 - /ads_server_
 - /ads_show_
 - /ads_sidebar.
@@ -3194,6 +3198,7 @@ msFilterList
 - /adsinclude.
 - /adsindie/
 - /adsinsert.
+- /adsinteractive-
 - /adsite/
 - /adsites/
 - /adsjs.
@@ -3721,6 +3726,7 @@ msFilterList
 - /adx/mobile/
 - /adx160.
 - /adx2.
+- /adx_blacklist.js
 - /adx_exo_
 - /adx_flash.
 - /adx_iframe_
@@ -6227,6 +6233,7 @@ msFilterList
 - /rss2/?np=*&hp=*.js
 - /rswebsiteads/
 - /rtb/worker.php?
+- /rubicon_blacklist.js
 - /rule34/ads/
 - /rule34v2/ads/
 - /s_ad.aspx?
@@ -7611,6 +7618,7 @@ msFilterList
 - _centre_ad.
 - _cgbanners.php?
 - _ChatAd_
+- _collect/ads/
 - _commonAD.
 - _companionad.
 - _content/sponsored_
@@ -8598,7 +8606,6 @@ msFilterList
 -d 2d4c3870.info
 -d 2d4c3872.info
 -d 2dpt.com
--d 2hanwriten.com
 -d 2leep.com
 -d 2mdn.info
 -d 2pxg8bcf.top
@@ -14712,11 +14719,13 @@ msFilterList
 -d z82uo22wrzqwy.com
 -d 1el-1el-fie.com
 -d 1elllwrite.com
+-d 1han-rit-ten.com
 -d 1hanritten.com
 -d 1sen-pit-fan.com
 -d 2an-hit-ren.com
 -d 2delllwrite.com
 -d 2el-2el-fie.com
+-d 2hanwriten.com
 -d 3delllwrite.com
 -d 3el-3el-fie.com
 -d 4dtrk.com
@@ -14729,14 +14738,17 @@ msFilterList
 -d bipwrite.com
 -d bit-bork-boodle.com
 -d blatungo.com
+-d blu5fdclr.com
 -d bob-bob-bobble.com
 -d bobblewrite.com
 -d boodlewrite.com
 -d bororango.com
 -d borotango.com
 -d borrango.com
+-d brtsumthree.com
 -d cap-cap-pop.com
 -d cash-ca-ching.com
+-d cashcawrite.com
 -d catwrite.com
 -d centwrite.com
 -d clickperks.info
@@ -14748,7 +14760,9 @@ msFilterList
 -d ditdotsol.com
 -d ditwrite.com
 -d dogwrite.com
+-d dubvacasept.com
 -d erniphiq.com
+-d flipy6sudy.com
 -d garo-garo-osh.com
 -d garowrite.com
 -d ge-ge-force.com
@@ -14763,12 +14777,14 @@ msFilterList
 -d la-la-moon.com
 -d la-la-sf.com
 -d livwrite.com
+-d lnkrdr.com
 -d meepwrite.com
 -d netrosol.net
 -d new-new-years.com
 -d new17write.com
 -d newsadst.com
 -d normkela.com
+-d nyacampwk.com
 -d parwrite.com
 -d qel-qel-fie.com
 -d qelllwrite.com
@@ -14781,6 +14797,7 @@ msFilterList
 -d tek-tek-trek.com
 -d tel-tel-fie.com
 -d telllwrite.com
+-d thurnflfant.com
 -d tic-tic-bam.com
 -d tic-tic-toc.com
 -d tin-tin-win.com
@@ -14959,6 +14976,7 @@ msFilterList
 -d amlcscfr.com
 -d aneqmscervl.com
 -d anpwsppugpu.com
+-d aomegwesrfbvxe.com
 -d aonxktnn.com
 -d apddozcgdh.com
 -d apiryrkxkhil.com
@@ -15163,6 +15181,7 @@ msFilterList
 -d enynwkvdb.com
 -d eofaplocyrcxhq.com
 -d eotbkgjqu.com
+-d eozbwwxniksmb.com
 -d epbathcyav.com
 -d ephtwbxuqy.com
 -d eplocjhuxsoj.com
@@ -15473,6 +15492,7 @@ msFilterList
 -d klxteeltivy.com
 -d klzvkrzluqnx.com
 -d kmkdkefa.com
+-d knqjhdkndh.com
 -d kozloiczght.com
 -d kpchywhqcrkz.com
 -d kpoplhjnhlagy.com
@@ -15517,6 +15537,7 @@ msFilterList
 -d llpdtbmowsg.com
 -d llvidwpt.com
 -d lnicyniqxdxg.com
+-d lnpqqigowz.com
 -d lnwbiuetoymifj.com
 -d logkzudhrg.com
 -d lojuxbnt.com
@@ -15975,6 +15996,7 @@ msFilterList
 -d uembrcfeuwtsjy.com
 -d uemjnvyn.com
 -d uenpibqyjvim.com
+-d uescuqejoirsh.com
 -d ufelatujvbhtbo.com
 -d ufnozeotbqsn.com
 -d ufugfbtpp.com
@@ -16299,6 +16321,7 @@ msFilterList
 -d zramisxvxmkf.com
 -d zreqmcewq.com
 -d zsikmzoehqw.com
+-d ztiqalyrbfsnl.com
 -d ztxohhagymj.com
 -d zuiiyzgiof.com
 -d zukipoayrlh.com
@@ -24997,6 +25020,7 @@ msFilterList
 -d ad.mesomorphosis.com
 -d ad.mygamesol.com
 -d ad.netcommunities.com
+-d ad.netmedia.hu
 -d ad.openmultimedia.biz
 -d ad.outsidehub.com
 -d ad.pickple.net
