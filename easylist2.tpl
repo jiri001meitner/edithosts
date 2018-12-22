@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Pá pro 21 19:09:52 CET 2018 ##################
+##### Aktualizováno: So pro 22 08:21:50 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -1938,6 +1938,7 @@ msFilterList
 - /adaptvadservervastvideo.
 - /adaptvexchangevastvideo.
 - /adarena/
+- /adasiatagmanager.
 - /adasset/
 - /adasset4/
 - /adasync.
@@ -3873,6 +3874,7 @@ msFilterList
 - /annonser/
 - /announce/adv/
 - /anyad.js
+- /api-ads.
 - /api.ad.
 - /Api/Ad.
 - /api/ad/
@@ -9475,6 +9477,7 @@ msFilterList
 -d amazon-cornerstone.com
 -d amazonily.com
 -d ambaab.com
+-d ambientplatform.vn
 -d ambra.com
 -d amd2016.com
 -d amertazy.com
@@ -11492,6 +11495,7 @@ msFilterList
 -d madsone.com
 -d magicalled.info
 -d magnetisemedia.com
+-d mahimeta.com
 -d mailmarketingmachine.com
 -d mainadv.com
 -d mainroll.com
@@ -29211,6 +29215,7 @@ msFilterList
 -d mani-admin-plugin.com /banners/
 -d maniastreaming.com /pp2/
 -d manicapost.com /banners/
+-d manilastandard.net /banner/
 -d manilatimes.net /images/banners/
 -d manutd.com /Sponsors/
 -d manxradio.com /banners_
