@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: So pro 22 08:21:50 CET 2018 ##################
+##### Aktualizováno: So pro 22 13:03:31 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
