@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: So pro 22 13:03:31 CET 2018 ##################
+##### Aktualizováno: Po pro 24 10:52:33 CET 2018 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -892,6 +892,7 @@ msFilterList
 - .ads5-
 - .ads9.
 - .ads_clickthru.
+- .adsame-
 - .adsby.
 - .adsdk.
 - .adsense.
@@ -1157,6 +1158,7 @@ msFilterList
 - .widgets.ad?
 - .win/ads/
 - .ws/ads/
+- .xinhuanetAD.
 - .xxx/ads/
 - .xyz/ads/
 - .za/ads.
@@ -2077,6 +2079,7 @@ msFilterList
 - /adcounter.
 - /adcreative.
 - /adcreative/
+- /adcreatives/
 - /adcss/
 - /adctrl/
 - /adcxtnew_
@@ -2329,6 +2332,7 @@ msFilterList
 - /admanagers/
 - /admanagerstatus/
 - /admanproxy.
+- /ADMark/
 - /admarker.
 - /admarker_
 - /admarket/
@@ -2441,6 +2445,7 @@ msFilterList
 - /adplace5_
 - /adPlaceholder.
 - /adplacement.
+- /adplan4.
 - /adplay.
 - /adplayer-
 - /adplayer/
@@ -3069,6 +3074,7 @@ msFilterList
 - /adscontent.
 - /adscontent2.
 - /adscontrol.
+- /adscot/
 - /adscpv/
 - /adscript.
 - /adscript1.
@@ -4830,6 +4836,8 @@ msFilterList
 - /gadgets/ad/
 - /gads.html
 - /gads.js
+- /gadv-right.
+- /gadv-top.
 - /gafc.js
 - /gafsads?
 - /gafv_adapter.
@@ -5506,6 +5514,7 @@ msFilterList
 - /logo/ads_
 - /logoads.
 - /logoutad.
+- /longad.
 - /lotto_ad_
 - /lrec_ad.
 - /lserver/
@@ -6282,6 +6291,7 @@ msFilterList
 - /scripts/afc/
 - /scripts/feedmeCaf.php?q=*&d=*&ron=*.js
 - /scripts/zanox-
+- /scrollAd-
 - /scrollads/
 - /scrpads.
 - /sd_ads_
@@ -15685,6 +15695,7 @@ msFilterList
 -d nvztwdkbldp.com
 -d nwwuhiukrq.com
 -d nxewruvxprbd.com
+-d nycnjewyxex.com
 -d nyltsyud.com
 -d nyskocbhfz.com
 -d nytqlenw.com
@@ -16051,6 +16062,7 @@ msFilterList
 -d utmcttmdaoqd.com
 -d utuqrzwg.com
 -d utxatnjs.com
+-d uuaajohul.com
 -d uubxhbwnwmfqp.com
 -d uvlyzxml.com
 -d uvniygdwmoojfm.com
@@ -16118,6 +16130,7 @@ msFilterList
 -d vwkyuawm.com
 -d vwpoxvufxnon.com
 -d vxkupxpf.com
+-d vxrpmslex.com
 -d vxyqsxeo.com
 -d vyjwsifvybc.com
 -d vzhlsmmboaqxlv.com
@@ -16281,6 +16294,7 @@ msFilterList
 -d ymgjtzciu.com
 -d ymhqeelitngcr.com
 -d ymvkirvjqgha.com
+-d ymzrrizntbhde.com
 -d ynhetcoypgnl.com
 -d ynhonjqahrh.com
 -d ynopkisq.com
@@ -25000,7 +25014,6 @@ msFilterList
 -d 2yu.in /banner/
 -d 360pal.com /ads/
 -d 3dots.co.il /pop/
--d 3p.ampproject.net .js
 -d 3smedia.co.za /banner.
 -d 4getlikes.com /promo/
 -d 6theory.com /pub/
@@ -28516,6 +28529,7 @@ msFilterList
 -d gaystarnews.com /SponsorsArtboard-
 -d gbatemp.net /images/ab/
 -d gbrej.com /c/
+-d gbtimes.com /Remarketing-
 -d gcnlive.com /assets/sponsors/
 -d gcnlive.com /assets/sponsorsPlayer/
 -d geckoforums.net /banners/
@@ -31105,6 +31119,7 @@ msFilterList
 -d xiaopan.co /Reaver.png
 -d ximagehost.org /myman.
 -d xing.com /xas/
+-d xinhuanet.com /s?
 -d xomreviews.com /sponsors/
 -d xoops-theme.com /images/banners/
 -d xscores.com /livescore/banners/
