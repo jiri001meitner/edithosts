@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Ne led 6 18:42:36 CET 2019 ##################
+##### Aktualizováno: Po led 7 09:04:31 CET 2019 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -2063,7 +2063,6 @@ msFilterList
 - /adclient-
 - /adclient.
 - /adclient/
-- /adclix.
 - /adclixad.
 - /adClosefeedbackUpgrade.
 - /adclutter.
@@ -15074,6 +15073,7 @@ msFilterList
 -d aikdakxoc.com
 -d aitdwhmcvlm.com
 -d aizopowmtnho.com
+-d ajmwuweeif.com
 -d ajoaorexnieym.com
 -d ajttqxeqg.com
 -d ajzdkkzv.com
@@ -15140,6 +15140,7 @@ msFilterList
 -d bgzyppwk.com
 -d bhfuoayzqqv.com
 -d bhmzjxrf.com
+-d bhpxcsmvkqgd.com
 -d bikuetrh.com
 -d bimwswreljucxa.com
 -d binullxzwnsqws.com
@@ -15211,6 +15212,7 @@ msFilterList
 -d cracwrddcb.com
 -d crgfbmzsk.com
 -d crjsrbyybipozq.com
+-d crrgnnqidpf.com
 -d crvvrxfgsvohiy.com
 -d cshzkkihjnweb.com
 -d ctcpwymaeuwnqd.com
@@ -15254,6 +15256,7 @@ msFilterList
 -d dhtqupvxujyfp.com
 -d dieohupl.com
 -d dijutbdzbv.com
+-d dipsbbygv.com
 -d djiufagozzla.com
 -d djnroblmpyxrh.com
 -d dktaqipmquo.com
@@ -15269,6 +15272,7 @@ msFilterList
 -d drsemkuhpg.com
 -d dsemgngou.com
 -d dsgjefwejkc.com
+-d dtjhwypfsayh.com
 -d dtqcjtkytuqn.com
 -d durowueoaxjhd.com
 -d duwrigndkjp.com
@@ -15317,6 +15321,7 @@ msFilterList
 -d eqhawyidkdug.com
 -d erificyggw.com
 -d ervinguewty.com
+-d esfzbdwg.com
 -d esgnyfznnihl.com
 -d etizspyjmjhxo.com
 -d etkhujhmhjix.com
@@ -15396,6 +15401,7 @@ msFilterList
 -d gdyjhclaxvqz.com
 -d gecxceztcnhkmh.com
 -d gekywqwky.com
+-d gfchcxin.com
 -d gfuhjlpnuj.com
 -d ggijrjktcld.com
 -d gguvdsglzjyca.com
@@ -15490,6 +15496,7 @@ msFilterList
 -d hqgenotbptcu.com
 -d hqqyesittgihp.com
 -d hraowdzgs.com
+-d hrarjpeqtcsge.com
 -d hrorxufknjdm.com
 -d hsqslxewsnga.com
 -d hsqvofrzwluvns.com
@@ -15498,12 +15505,14 @@ msFilterList
 -d huhrxmgiofzna.com
 -d hvgytlbdnuqunp.com
 -d hvpcxythnjl.com
+-d hwhzonbib.com
 -d hwiccseamrs.com
 -d hxhyejtblmu.com
 -d hxqetblh.com
 -d iacexhglty.com
 -d iapxxrjzc.com
 -d iatwyqgvpq.com
+-d ibfsream.com
 -d ibfueyttemsefi.com
 -d ibnuoduab.com
 -d icahllwjc.com
@@ -15600,6 +15609,7 @@ msFilterList
 -d jpxevzab.com
 -d jqanygfhqne.com
 -d jqsrfzjgn.com
+-d jrarnqfvjijaa.com
 -d jtveisrh.com
 -d juuwyyvjecnvps.com
 -d juvqtttkhz.com
@@ -15880,6 +15890,7 @@ msFilterList
 -d paecbeeavmopbl.com
 -d pagaynrbee.com
 -d paysoxemgjqp.com
+-d pbofytmakvye.com
 -d pbpdgojwzfdc.com
 -d pcdzsowmktz.com
 -d pcfobwzmlts.com
@@ -15989,6 +16000,7 @@ msFilterList
 -d qqtqicbvrwg.com
 -d qrecxvdoewmztq.com
 -d qrirkdzdxtxc.com
+-d qrwlerqenp.com
 -d qsfogpmciyl.com
 -d qsoetgedlgyhyz.com
 -d qtahsbgdqbu.com
@@ -16063,6 +16075,7 @@ msFilterList
 -d rrnqzntj.com
 -d rrvpscehvjuz.com
 -d rscqizsukecevh.com
+-d rsiyppewvonkc.com
 -d rstjainimptgn.com
 -d rtdogcdkovndho.com
 -d rubxajsomnicfy.com
@@ -16122,6 +16135,7 @@ msFilterList
 -d swezbddhwcz.com
 -d swpopynngk.com
 -d sxedqvvaxxj.com
+-d sxgmppxfts.com
 -d sxhpwsgdyhw.com
 -d sxmmgiuilt.com
 -d symydvmqjjp.com
@@ -16287,6 +16301,7 @@ msFilterList
 -d vppabbakjzxmz.com
 -d vptkyunlzfy.com
 -d vqaizaukh.com
+-d vqmcyhsi.com
 -d vqnruxpecsn.com
 -d vqqvpouifhv.com
 -d vrzparvhipmo.com
@@ -16474,6 +16489,7 @@ msFilterList
 -d ykixjehac.com
 -d ykyryixcwn.com
 -d ylbslipwhfdwr.com
+-d ylnmzwwc.com
 -d ymgjtzciu.com
 -d ymhqeelitngcr.com
 -d ymvkirvjqgha.com
@@ -16488,6 +16504,7 @@ msFilterList
 -d ypixrvxi.com
 -d ypnespepnln.com
 -d yprnopqzs.com
+-d ypummbggdjex.com
 -d yrkozodemantj.com
 -d yrtyflmurngv.com
 -d yruwnpnam.com
@@ -16560,6 +16577,7 @@ msFilterList
 -d zxeyqwgwsfv.com
 -d zxiikxeagmferu.com
 -d zxkrdvrijsp.com
+-d zxlchzyluskvj.com
 -d zxpevjccjb.com
 -d zxqudunt.com
 -d zxreyuxvrjzxa.com
@@ -31464,9 +31482,7 @@ msFilterList
 -d ymovies.tv /sw.js
 - http://megaup.net*?*.js
 -d megaup.net /sw.js*.js
-+d reuters.com /resources/images/*.gif
 +d static.reuters.com /resources/assets/
-+d static.reuters.com /resources/media/global/assets/images/*.jpg
 +d gogoanime.to /player.js*.js
 +d watchcartoononline.io /tema/images/jwplayer.jpg
 -d salon.com /main.js*.js
@@ -31795,8 +31811,6 @@ msFilterList
 -d ads.xxxbunker.com
 -d adult-sex-games.com /images/promo/
 -d adultdvdtalk.com /studios/
--d adultempire.com /bn/
--d adultempire.com /bn/
 -d adultfilmdatabase.com /graphics/banners/
 -d adultfyi.com /images/banners/
 -d adultwork.com /images/AWBanners/
