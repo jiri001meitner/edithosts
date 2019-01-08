@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: Út led 8 20:07:07 CET 2019 ##################
+##### Aktualizováno: Út led 8 22:23:06 CET 2019 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -1520,6 +1520,7 @@ msFilterList
 - /ad/omakasa.
 - /ad/ongoing/
 - /ad/play1.
+- /ad/player_
 - /ad/player
 - /ad/pong?
 - /ad/popup.
@@ -5527,6 +5528,7 @@ msFilterList
 - /log_ad?
 - /log_ad_
 - /logad?
+- /logo-ad.
 - /logo-ads.
 - /logo/ads_
 - /logoads.
@@ -10391,6 +10393,7 @@ msFilterList
 -d distilled.ie
 -d districtm.ca
 -d dj-updates.com
+-d djiboutdifficial.info
 -d dk4ywix.com
 -d dl-rms.com
 -d dltags.com
@@ -11024,6 +11027,8 @@ msFilterList
 -d havinates.com
 -d hb-247.com
 -d hd-plugin.com
+-d hdpass.info
+-d hdpass.link
 -d hdplayer-download.com
 -d hdplayer.li
 -d hdvid-codecs-dl.net
@@ -12077,6 +12082,7 @@ msFilterList
 -d othere.info
 -d otherelis.info
 -d othersonline.com
+-d ottomdisede.club
 -d ourbanners.net
 -d ourunlimitedleads.com
 -d outlookabsorb.com
@@ -12219,6 +12225,7 @@ msFilterList
 -d plannto.com
 -d platinumadvertisement.com
 -d play24.us
+-d play4k.co
 -d playertraffic.com
 -d playtem.com
 -d playukinternet.com
@@ -12316,6 +12323,7 @@ msFilterList
 -d predictivadvertising.com
 -d preditates.com
 -d preferredain.com
+-d preonesetro.com
 -d presistart.com
 -d prestadsng.com
 -d prexista.com
@@ -13469,6 +13477,7 @@ msFilterList
 -d vixnixxer.com
 -d vkoad.com
 -d vntsm.com
+-d vodexor.us
 -d vogo-vogo.ru
 -d vogosita.com
 -d vogozaw.ru
@@ -25724,6 +25733,7 @@ msFilterList
 -d d26wy0pxd3qqpv.cloudfront.net
 -d d27jt7xr4fq3e8.cloudfront.net
 -d d287x05ve9a63s.cloudfront.net
+-d d29i6o40xcgdai.cloudfront.net
 -d d29r6igjpnoykg.cloudfront.net
 -d d2anfhdgjxf8s1.cloudfront.net
 -d d2b2x1ywompm1b.cloudfront.net
@@ -34115,7 +34125,6 @@ msFilterList
 +d altoque.com
 +d amazonaws.com /atzuma/ajs.php?adserver=*.js
 +d amazonaws.com /ssbss.ss/*.js
-+d amazonaws.com /ad*.js*.js
 +d amazonaws.com /video-ad-unit.js*.js
 +d amazonaws.com /videoads.js
 +d amigosdelamili.com
@@ -34681,6 +34690,8 @@ msFilterList
 +d onlinevideoconverter.com ad*.js
 +d onrpg.com /advertisement.js
 +d onvasortir.com /advert*.js
++d openload.co /advert2.js
++d openload.co
 +d openrunner.com /js/advertisement.js
 +d openspeedtest.com
 +d openx.gamereactor.dk /multi.php?*.js
