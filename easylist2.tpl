@@ -1,7 +1,7 @@
 msFilterList
 ##### Optimalizovaný český a slovenský filtr EasyList ##############
 ##### V linuxu používejte EditHosts: https://edithosts.meitner.cz/ ##
-##### Aktualizováno: St úno 20 00:29:43 CET 2019 ##################
+##### Aktualizováno: St úno 20 02:36:47 CET 2019 ##################
 : Expires=1
 - -reklama.
 - .com/bannery/
@@ -5473,6 +5473,7 @@ msFilterList
 - /kogeePopupAd.
 - /kredit-ad.
 - /kskads.
+- /L411_Ad_
 - /landerbanners/
 - /landingads?
 - /landingadvertisements/
@@ -15571,6 +15572,7 @@ msFilterList
 -d fqckdxjgle.com
 -d fqhpssdbenl.com
 -d fqldrulyjfnt.com
+-d fqqtlkuklrd.com
 -d fqufpknrarn.com
 -d frbhjvazapgo.com
 -d frfgfhzxtfvsp.com
@@ -16019,6 +16021,7 @@ msFilterList
 -d mfxxpyhzofbsg.com
 -d mgojnezwuuxyv.com
 -d mgpejafvxxn.com
+-d mguqjbjgs.com
 -d mgxjvidt.com
 -d mgyovgqq.com
 -d mgziozplbkzv.com
@@ -16148,6 +16151,7 @@ msFilterList
 -d ogqclfvaq.com
 -d ohleiludieje.info
 -d ohrdpvkzhzbg.com
+-d oijjptnwrg.com
 -d oinqqbzs.com
 -d oixisqtlbhygp.com
 -d ojbevkqot.com
@@ -16315,6 +16319,7 @@ msFilterList
 -d qvilmdus.com
 -d qvivzreleolawc.com
 -d qwittqgogiip.com
+-d qwuxwxdr.com
 -d qwzhaqtbiygid.com
 -d qxamtnrwxjyy.com
 -d qxboqjnmxv.com
@@ -16756,6 +16761,7 @@ msFilterList
 -d wzismevwhqixlq.com
 -d wzlcpagvidi.com
 -d wznnfwhwwjkp.com
+-d xalttgptij.com
 -d xamxwvtsxdva.com
 -d xasuekjguyub.com
 -d xblcqncce.com
@@ -16902,6 +16908,7 @@ msFilterList
 -d yvlhxqxw.com
 -d yvlmcehqt.com
 -d ywegbjiv.com
+-d ywolsukpto.com
 -d ywxnjrkkrnyzc.com
 -d yxbglezas.com
 -d yyupkqqokrus.com
@@ -16932,6 +16939,7 @@ msFilterList
 -d zjnmgmidmx.com
 -d zjsbdjkdtjzoxh.com
 -d zjsbeont.com
+-d zjsnrqxltqk.com
 -d zjujxffup.com
 -d zjwcddahpz.com
 -d zkfhdpogauqb.com
@@ -25955,6 +25963,7 @@ msFilterList
 -d box.anchorfree.net
 -d bpath.com /affiliates/
 -d bplaced.net /pub/
+-d brandpa.com /widgets/
 -d bravenet.com /cserv.php
 -d break.com /partnerpublish/
 -d brettterpstra.com /wp-content/uploads/
